@@ -437,7 +437,7 @@
 
 
 ### SVG Logos
-* Number of icons: 1098
+* Number of icons: 1106
 * Author: Gil Barbara
 * URL: https://github.com/gilbarbara/logos
 * License: CC0
@@ -446,12 +446,12 @@
 
 
 ### Simple Icons
-* Number of icons: 480
+* Number of icons: 482
 * Author: Simple Icons Collaborators
 * URL: https://github.com/simple-icons/simple-icons
 * License: CC0 1.0
 * License URL: https://github.com/simple-icons/simple-icons/blob/develop/LICENSE.md
-* Version: 1.9.7
+* Version: 1.9.8
 * Category: Thematic
 
 

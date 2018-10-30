@@ -214,7 +214,7 @@
 
 
 ### Feather
-* Number of icons: 267
+* Number of icons: 268
 * Author: Cole Bemis
 * URL: https://github.com/feathericons/feather
 * License: MIT
@@ -485,12 +485,12 @@
 
 
 ### Cryptocurrency Icons
-* Number of icons: 376
+* Number of icons: 385
 * Author: Christopher Downer
 * URL: https://github.com/atomiclabs/cryptocurrency-icons
 * License: CC0 1.0
 * License URL: https://creativecommons.org/publicdomain/zero/1.0/
-* Version: 0.8.1
+* Version: 0.9.0
 * Category: Thematic
 
 

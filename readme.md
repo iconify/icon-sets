@@ -7,12 +7,7 @@ All SVG icons have been cleaned up. Content has been optimized, colors for monot
 This library is intended to be used in packages that build components, such as Iconify Tools.
 
 
-## Important
-
-This package is in beta. It is usable and stable, but until Iconify project development is complete things might change.
-
-
-## Usage
+## How to get this repository
 
 Instructions below are for Node.js and PHP projects.
 
@@ -74,7 +69,8 @@ Icons used by Iconify are in directory json, in Iconify JSON format.
 
 Why JSON instead of SVG? To load images in bulk. 
 
-If you need individual SVG images, you can generate them using Iconify Tools available here: https://github.com/iconify-design/icon-tools
+If you need individual SVG images, you can generate them using Iconify JSON Tools. See instructions for [PHP version](https://github.com/iconify-design/json-tools.php) or [Node.js version](https://github.com/iconify-design/json-tools.js).
+
 
 Format of json file is very simple:
 
@@ -115,6 +111,37 @@ Optional "aliases" object contains list of aliases for icons. Format is similar 
 
 For more information see developer documentation on [https://iconify.design/docs/json-icon-format/](https://iconify.design/docs/json-icon-format/)
 
+## Extracting individual SVG icons
+
+See JSON tools readme for instructions for [PHP](https://github.com/iconify-design/json-tools.php) or [Node.js](https://github.com/iconify-design/json-tools.js).
+
+```
+const fs = require('fs');
+const {SVG, Collection} = require('@iconify/json-tools');
+
+let collection = new Collection();
+collection.loadIconifyCollection('mdi');
+collection.listIcons(true).forEach(icon => {
+    let svg = new SVG(collection.getIconData(icon));
+    fs.writeFileSync('mdi-' + icon + '.svg', svg.getSVG({
+        height: 'auto'
+    }));
+});
+```
+
+```
+use \Iconify\JSONTools\Collection;
+use \Iconify\JSONTools\SVG;
+
+$collection = new Collection();
+$collection->loadIconifyCollection('mdi');
+foreach ($collection->listIcons(true) as $icon) {
+    $svg = new SVG($collection->getIconData($icon));
+    file_put_contents('mdi-' . $icon . '.svg', $svg->getSVG([
+        'height'    => 'auto'
+    ]));
+}
+```
 
 ## License
 

@@ -43,12 +43,12 @@
 
 
 ### Font Awesome 5 Solid
-* Number of icons: 873
+* Number of icons: 890
 * Author: Dave Gandy
 * URL: http://fontawesome.io/
 * License: CC BY 4.0
 * License URL: https://creativecommons.org/licenses/by/4.0/
-* Version: 5.4.2
+* Version: 5.5.0
 * Category: General
 
 
@@ -58,7 +58,7 @@
 * URL: http://fontawesome.io/
 * License: CC BY 4.0
 * License URL: https://creativecommons.org/licenses/by/4.0/
-* Version: 5.4.2
+* Version: 5.5.0
 * Category: General
 
 
@@ -195,7 +195,7 @@
 
 
 ### Maki
-* Number of icons: 320
+* Number of icons: 322
 * Author: Mapbox
 * URL: https://github.com/mapbox/maki
 * License: CC0
@@ -447,22 +447,22 @@
 
 
 ### Simple Icons
-* Number of icons: 494
+* Number of icons: 498
 * Author: Simple Icons Collaborators
 * URL: https://github.com/simple-icons/simple-icons
 * License: CC0 1.0
 * License URL: https://github.com/simple-icons/simple-icons/blob/develop/LICENSE.md
-* Version: 1.9.10
+* Version: 1.9.11
 * Category: Thematic
 
 
 ### Font Awesome 5 Brands
-* Number of icons: 391
+* Number of icons: 392
 * Author: Dave Gandy
 * URL: http://fontawesome.io/
 * License: CC BY 4.0
 * License URL: https://creativecommons.org/licenses/by/4.0/
-* Version: 5.4.2
+* Version: 5.5.0
 * Category: Thematic
 
 

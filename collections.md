@@ -369,6 +369,15 @@
 * Category: General
 
 
+### Fontelico
+* Number of icons: 34
+* Author: Fontello
+* URL: https://github.com/fontello/fontelico.font
+* License: CC BY
+* License URL: http://creativecommons.org/licenses/by-sa/3.0/
+* Category: General
+
+
 ### Noto Emoji
 * Number of icons: 2331
 * Author: Google Inc

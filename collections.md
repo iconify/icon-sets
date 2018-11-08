@@ -195,7 +195,7 @@
 
 
 ### Maki
-* Number of icons: 322
+* Number of icons: 352
 * Author: Mapbox
 * URL: https://github.com/mapbox/maki
 * License: CC0
@@ -456,12 +456,12 @@
 
 
 ### Simple Icons
-* Number of icons: 498
+* Number of icons: 501
 * Author: Simple Icons Collaborators
 * URL: https://github.com/simple-icons/simple-icons
 * License: CC0 1.0
 * License URL: https://github.com/simple-icons/simple-icons/blob/develop/LICENSE.md
-* Version: 1.9.12
+* Version: 1.9.13
 * Category: Thematic
 
 

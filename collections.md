@@ -200,7 +200,7 @@
 * URL: https://github.com/mapbox/maki
 * License: CC0
 * License URL: http://creativecommons.org/publicdomain/zero/1.0/
-* Version: 4.0.0
+* Version: 5.0.0
 * Category: General
 
 

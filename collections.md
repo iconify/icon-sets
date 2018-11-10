@@ -262,12 +262,12 @@
 
 
 ### Octicons
-* Number of icons: 178
+* Number of icons: 180
 * Author: GitHub
 * URL: https://github.com/primer/octicons/
 * License: Open Font License
 * License URL: https://raw.githubusercontent.com/primer/octicons/master/LICENSE
-* Version: 8.1.0
+* Version: 8.1.2
 * Category: General
 
 

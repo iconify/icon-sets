@@ -301,12 +301,12 @@
 
 
 ### Vesper Icons
-* Number of icons: 151
+* Number of icons: 152
 * Author: KK Vesper
 * URL: https://github.com/kkvesper/vesper-icons
 * License: Open Font License
 * License URL: http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL
-* Version: 5.10.3
+* Version: 5.10.4
 * Category: General
 
 

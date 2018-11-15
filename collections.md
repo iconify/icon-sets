@@ -28,7 +28,7 @@
 * URL: https://github.com/driftyco/ionicons
 * License: MIT
 * License URL: https://github.com/driftyco/ionicons/blob/master/LICENSE
-* Version: 4.4.6
+* Version: 4.4.7
 * Category: General
 
 

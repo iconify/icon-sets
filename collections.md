@@ -3,7 +3,7 @@
 
 
 ### Material Design Icons
-* Number of icons: 3323
+* Number of icons: 3330
 * Author: Austin Andrews
 * URL: https://github.com/Templarian/MaterialDesign
 * License: Apache 2.0
@@ -141,7 +141,7 @@
 
 
 ### Ant Design Icons
-* Number of icons: 553
+* Number of icons: 555
 * Author: HeskeyBaozi
 * URL: https://github.com/ant-design/ant-design-icons
 * License: MIT
@@ -544,12 +544,12 @@
 
 
 ### Cryptocurrency Icons
-* Number of icons: 390
+* Number of icons: 395
 * Author: Christopher Downer
 * URL: https://github.com/atomiclabs/cryptocurrency-icons
 * License: CC0 1.0
 * License URL: https://creativecommons.org/publicdomain/zero/1.0/
-* Version: 0.9.2
+* Version: 0.9.3
 * Palette: Colorless
 * Category: Thematic
 

@@ -6,8 +6,18 @@
 * Number of icons: 3346
 * Author: Austin Andrews
 * URL: https://github.com/Templarian/MaterialDesign
-* License: Apache 2.0
-* License URL: https://github.com/google/material-design-icons/blob/master/LICENSE
+* License: OFL-1.1
+* License URL: https://raw.githubusercontent.com/Templarian/MaterialDesign/master/LICENSE
+* Palette: Colorless
+* Category: General
+
+
+### Material Design Light
+* Number of icons: 267
+* Author: Austin Andrews
+* URL: https://github.com/Templarian/MaterialDesignLight
+* License: OFL-1.1
+* License URL: https://raw.githubusercontent.com/Templarian/MaterialDesignLight/master/LICENSE.md
 * Palette: Colorless
 * Category: General
 

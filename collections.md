@@ -98,6 +98,16 @@
 * Category: General
 
 
+### Jam Icons
+* Number of icons: 896
+* Author: Michael Amprimo
+* URL: https://github.com/michaelampr/jam
+* License: MIT
+* License URL: https://raw.githubusercontent.com/michaelampr/jam/master/LICENSE
+* Palette: Colorless
+* Category: General
+
+
 ### IcoMoon Free
 * Number of icons: 491
 * Author: Keyamoon

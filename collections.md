@@ -61,7 +61,7 @@
 * URL: http://fontawesome.io/
 * License: CC BY 4.0
 * License URL: https://creativecommons.org/licenses/by/4.0/
-* Version: 5.6.0
+* Version: 5.6.1
 * Palette: Colorless
 * Category: General
 
@@ -72,7 +72,7 @@
 * URL: http://fontawesome.io/
 * License: CC BY 4.0
 * License URL: https://creativecommons.org/licenses/by/4.0/
-* Version: 5.6.0
+* Version: 5.6.1
 * Palette: Colorless
 * Category: General
 
@@ -538,7 +538,7 @@
 * URL: http://fontawesome.io/
 * License: CC BY 4.0
 * License URL: https://creativecommons.org/licenses/by/4.0/
-* Version: 5.6.0
+* Version: 5.6.1
 * Palette: Colorless
 * Category: Thematic
 

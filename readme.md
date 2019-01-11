@@ -99,9 +99,9 @@ Each icon has following properties:
 * body - icon body
 * width - width in pixels
 * height - height in pixels
-* rotate - rotation. Default = 0. Values: 0 = 0deg, 1 = 90deg, 2 = 180deg, 3 = 270deg. Rotation should be added to svg element using css transformation rotate(0deg)
-* hFlip - horizontal flip. Boolean value, default = false. Flip should be added to svg element using css transformation scale(-1, 1)
-* vFlip - vertical flip. Boolean value, default = false. Flip should be added to svg element using css transformation scale(1, -1)
+* rotate - rotation. Default = 0. Values: 0 = 0deg, 1 = 90deg, 2 = 180deg, 3 = 270deg
+* hFlip - horizontal flip. Boolean value, default = false
+* vFlip - vertical flip. Boolean value, default = false
 * hidden - If set to true, icon is hidden. That means icon was removed from collection for some reason, but it is kept in JSON file to prevent applications that rely on old icon from breaking
 
 Width or height might be missing. If icon does not have width or height, use default width or height from root object.

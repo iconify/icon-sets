@@ -352,7 +352,7 @@
 
 ### Vesper Icons
 * Number of icons: 159
-* Author: KK Vesper
+* Author: TableCheck
 * URL: https://github.com/kkvesper/vesper-icons
 * License: Open Font License
 * License URL: http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL

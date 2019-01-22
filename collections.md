@@ -39,7 +39,7 @@
 * URL: https://github.com/driftyco/ionicons
 * License: MIT
 * License URL: https://github.com/driftyco/ionicons/blob/master/LICENSE
-* Version: 4.5.1
+* Version: 4.5.2
 * Palette: Colorless
 * Category: General
 

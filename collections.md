@@ -164,7 +164,7 @@
 * Author: Zurb
 * URL: https://github.com/zurb/foundation-icon-fonts
 * License: MIT
-* License URL:
+* License URL: 
 * Version: 3.0.0
 * Palette: Colorless
 * Category: General
@@ -196,7 +196,7 @@
 * Author: Dmitry Baranovskiy
 * URL: http://dmitrybaranovskiy.github.io/raphael/
 * License: MIT
-* License URL:
+* License URL: 
 * Palette: Colorless
 * Category: General
 
@@ -462,7 +462,7 @@
 * URL: https://github.com/twitter/twemoji
 * License: CC BY 4.0
 * License URL: https://creativecommons.org/licenses/by/4.0/
-* Version: 11.2.0
+* Version: 11.3.0
 * Palette: Colorful
 * Category: Emoji
 

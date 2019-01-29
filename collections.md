@@ -22,13 +22,12 @@
 * Category: General
 
 
-### Material Design Iconic Font
-* Number of icons: 777
-* Author: MDI Community
-* URL: https://github.com/zavoloklom/material-design-iconic-font
-* License: SIL OFL 1.1
-* License URL: http://scripts.sil.org/OFL
-* Version: 2.2.0
+### Jam Icons
+* Number of icons: 896
+* Author: Michael Amprimo
+* URL: https://github.com/michaelampr/jam
+* License: MIT
+* License URL: https://raw.githubusercontent.com/michaelampr/jam/master/LICENSE
 * Palette: Colorless
 * Category: General
 
@@ -40,17 +39,6 @@
 * License: MIT
 * License URL: https://github.com/driftyco/ionicons/blob/master/LICENSE
 * Version: 4.5.5
-* Palette: Colorless
-* Category: General
-
-
-### Font Awesome 4
-* Number of icons: 678
-* Author: Dave Gandy
-* URL: http://fontawesome.io/
-* License: Open Font License
-* License URL: http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL
-* Version: 4.7.0
 * Palette: Colorless
 * Category: General
 
@@ -88,42 +76,12 @@
 * Category: General
 
 
-### PrestaShop Icons
-* Number of icons: 479
-* Author: PrestaShop
-* URL: https://github.com/PrestaShop/prestashop-icon-font
-* License: CC BY-NC 4.0
-* License URL: http://creativecommons.org/licenses/by-nc/4.0/
-* Palette: Colorless
-* Category: General
-
-
-### Jam Icons
-* Number of icons: 896
-* Author: Michael Amprimo
-* URL: https://github.com/michaelampr/jam
-* License: MIT
-* License URL: https://raw.githubusercontent.com/michaelampr/jam/master/LICENSE
-* Palette: Colorless
-* Category: General
-
-
 ### IcoMoon Free
 * Number of icons: 491
 * Author: Keyamoon
 * URL: https://github.com/Keyamoon/IcoMoon-Free
 * License: GPL
 * License URL: http://www.gnu.org/licenses/gpl.html
-* Palette: Colorless
-* Category: General
-
-
-### WebHostingHub Glyphs
-* Number of icons: 2125
-* Author: WebHostingHub
-* URL: http://www.webhostinghub.com/glyphs/
-* License: OFL
-* License URL: http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL
 * Palette: Colorless
 * Category: General
 
@@ -169,23 +127,23 @@
 * Category: General
 
 
-### SmartIcons Glyph
-* Number of icons: 800
-* Author: SmartIcons
-* URL: http://glyph.smarticons.co
-* License: CC BY-SA 4.0
-* License URL: https://creativecommons.org/licenses/by-sa/4.0/
-* Version: 0.0.2
+### Feather
+* Number of icons: 274
+* Author: Cole Bemis
+* URL: https://github.com/feathericons/feather
+* License: MIT
+* License URL: https://github.com/feathericons/feather/blob/master/LICENSE
+* Version: 0.0.0-development
 * Palette: Colorless
 * Category: General
 
 
-### Ligature Symbols
-* Number of icons: 348
-* Author: Kazuyuki Motoyama
-* URL: https://github.com/kudakurage/LigatureSymbols
-* License: SIL Open Font
-* License URL: http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL
+### PrestaShop Icons
+* Number of icons: 479
+* Author: PrestaShop
+* URL: https://github.com/PrestaShop/prestashop-icon-font
+* License: CC BY-NC 4.0
+* License URL: http://creativecommons.org/licenses/by-nc/4.0/
 * Palette: Colorless
 * Category: General
 
@@ -206,7 +164,7 @@
 * Author: Zurb
 * URL: https://github.com/zurb/foundation-icon-fonts
 * License: MIT
-* License URL: 
+* License URL:
 * Version: 3.0.0
 * Palette: Colorless
 * Category: General
@@ -233,45 +191,12 @@
 * Category: General
 
 
-### Maki
-* Number of icons: 352
-* Author: Mapbox
-* URL: https://github.com/mapbox/maki
-* License: CC0
-* License URL: http://creativecommons.org/publicdomain/zero/1.0/
-* Version: 6.0.0
-* Palette: Colorless
-* Category: General
-
-
 ### Raphael
 * Number of icons: 266
 * Author: Dmitry Baranovskiy
 * URL: http://dmitrybaranovskiy.github.io/raphael/
 * License: MIT
-* License URL: 
-* Palette: Colorless
-* Category: General
-
-
-### Feather
-* Number of icons: 273
-* Author: Cole Bemis
-* URL: https://github.com/feathericons/feather
-* License: MIT
-* License URL: https://github.com/feathericons/feather/blob/master/LICENSE
-* Version: 0.0.0-development
-* Palette: Colorless
-* Category: General
-
-
-### Open Iconic
-* Number of icons: 223
-* Author: Iconic
-* URL: https://github.com/iconic/open-iconic
-* License: MIT
-* License URL: https://raw.githubusercontent.com/iconic/open-iconic/master/ICON-LICENSE
-* Version: 1.1.1
+* License URL:
 * Palette: Colorless
 * Category: General
 
@@ -297,12 +222,68 @@
 * Category: General
 
 
-### Simple line icons
-* Number of icons: 189
-* Author: Sabbir Ahmed
-* URL: https://github.com/thesabbir/simple-line-icons
+### Innowatio Font
+* Number of icons: 105
+* Author: Innowatio
+* URL: https://github.com/innowatio/iwwa-icons
+* License: Apache License
+* License URL: http://www.apache.org/licenses/LICENSE-2.0
+* Version: 1.1.3
+* Palette: Colorless
+* Category: General
+
+
+### TopCoat Icons
+* Number of icons: 89
+* Author: TopCoat
+* URL: https://github.com/topcoat/icons
+* License: Apache License
+* License URL: http://www.apache.org/licenses/LICENSE-2.0
+* Version: 0.2.0
+* Palette: Colorless
+* Category: General
+
+
+### Evil Icons
+* Number of icons: 70
+* Author: Alexander Madyankin and Roman Shamin
+* URL: https://github.com/outpunk/evil-icons
 * License: MIT
-* License URL: https://github.com/thesabbir/simple-line-icons/blob/master/LICENSE.md
+* License URL: https://raw.githubusercontent.com/outpunk/evil-icons/master/LICENSE.txt
+* Version: 1.10.1
+* Palette: Colorless
+* Category: General
+
+
+### Bytesize Icons
+* Number of icons: 96
+* Author: Dan Klammer
+* URL: https://github.com/danklammer/bytesize-icons
+* License: MIT
+* License URL: https://github.com/danklammer/bytesize-icons/blob/master/LICENSE.md
+* Version: 1.3.0
+* Palette: Colorless
+* Category: General
+
+
+### Maki
+* Number of icons: 352
+* Author: Mapbox
+* URL: https://github.com/mapbox/maki
+* License: CC0
+* License URL: http://creativecommons.org/publicdomain/zero/1.0/
+* Version: 6.0.0
+* Palette: Colorless
+* Category: General
+
+
+### Open Iconic
+* Number of icons: 223
+* Author: Iconic
+* URL: https://github.com/iconic/open-iconic
+* License: MIT
+* License URL: https://raw.githubusercontent.com/iconic/open-iconic/master/ICON-LICENSE
+* Version: 1.1.1
 * Palette: Colorless
 * Category: General
 
@@ -318,17 +299,6 @@
 * Category: General
 
 
-### Innowatio Font
-* Number of icons: 105
-* Author: Innowatio
-* URL: https://github.com/innowatio/iwwa-icons
-* License: Apache License
-* License URL: http://www.apache.org/licenses/LICENSE-2.0
-* Version: 1.1.3
-* Palette: Colorless
-* Category: General
-
-
 ### Elegant
 * Number of icons: 100
 * Author: Kenny Sing
@@ -336,6 +306,69 @@
 * License: GPL 3.0
 * License URL: http://www.gnu.org/licenses/gpl.html
 * Version: 1.0.1
+* Palette: Colorless
+* Category: General
+
+
+### Font Awesome 4
+* Number of icons: 678
+* Author: Dave Gandy
+* URL: http://fontawesome.io/
+* License: Open Font License
+* License URL: http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL
+* Version: 4.7.0
+* Palette: Colorless
+* Category: General
+
+
+### Material Design Iconic Font
+* Number of icons: 777
+* Author: MDI Community
+* URL: https://github.com/zavoloklom/material-design-iconic-font
+* License: SIL OFL 1.1
+* License URL: http://scripts.sil.org/OFL
+* Version: 2.2.0
+* Palette: Colorless
+* Category: General
+
+
+### WebHostingHub Glyphs
+* Number of icons: 2125
+* Author: WebHostingHub
+* URL: http://www.webhostinghub.com/glyphs/
+* License: OFL
+* License URL: http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL
+* Palette: Colorless
+* Category: General
+
+
+### SmartIcons Glyph
+* Number of icons: 800
+* Author: SmartIcons
+* URL: http://glyph.smarticons.co
+* License: CC BY-SA 4.0
+* License URL: https://creativecommons.org/licenses/by-sa/4.0/
+* Version: 0.0.2
+* Palette: Colorless
+* Category: General
+
+
+### Ligature Symbols
+* Number of icons: 348
+* Author: Kazuyuki Motoyama
+* URL: https://github.com/kudakurage/LigatureSymbols
+* License: SIL Open Font
+* License URL: http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL
+* Palette: Colorless
+* Category: General
+
+
+### Simple line icons
+* Number of icons: 189
+* Author: Sabbir Ahmed
+* URL: https://github.com/thesabbir/simple-line-icons
+* License: MIT
+* License URL: https://github.com/thesabbir/simple-line-icons/blob/master/LICENSE.md
 * Palette: Colorless
 * Category: General
 
@@ -361,17 +394,6 @@
 * Category: General
 
 
-### TopCoat Icons
-* Number of icons: 89
-* Author: TopCoat
-* URL: https://github.com/topcoat/icons
-* License: Apache License
-* License URL: http://www.apache.org/licenses/LICENSE-2.0
-* Version: 0.2.0
-* Palette: Colorless
-* Category: General
-
-
 ### Web Symbols Liga
 * Number of icons: 85
 * Author: Just Be Nice studio
@@ -393,17 +415,6 @@
 * Category: General
 
 
-### Evil Icons
-* Number of icons: 70
-* Author: Alexander Madyankin and Roman Shamin
-* URL: https://github.com/outpunk/evil-icons
-* License: MIT
-* License URL: https://raw.githubusercontent.com/outpunk/evil-icons/master/LICENSE.txt
-* Version: 1.10.1
-* Palette: Colorless
-* Category: General
-
-
 ### BPMN
 * Number of icons: 111
 * Author: BPMN
@@ -411,17 +422,6 @@
 * License: Open Font License
 * License URL: http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL
 * Version: 0.8.0
-* Palette: Colorless
-* Category: General
-
-
-### Bytesize Icons
-* Number of icons: 96
-* Author: Dan Klammer
-* URL: https://github.com/danklammer/bytesize-icons
-* License: MIT
-* License URL: https://github.com/danklammer/bytesize-icons/blob/master/LICENSE.md
-* Version: 1.3.0
 * Palette: Colorless
 * Category: General
 

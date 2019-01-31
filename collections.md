@@ -389,7 +389,7 @@
 * URL: https://github.com/kkvesper/vesper-icons
 * License: Open Font License
 * License URL: http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL
-* Version: 5.11.1
+* Version: 5.11.2
 * Palette: Colorless
 * Category: General
 

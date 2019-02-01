@@ -127,13 +127,24 @@
 * Category: General
 
 
-### Feather
+### Feather Icons
 * Number of icons: 274
 * Author: Cole Bemis
 * URL: https://github.com/feathericons/feather
 * License: MIT
 * License URL: https://github.com/feathericons/feather/blob/master/LICENSE
 * Version: 0.0.0-development
+* Palette: Colorless
+* Category: General
+
+
+### Feather Icon
+* Number of icons: 255
+* Author: Megumi Hano
+* URL: https://github.com/feathericon/feathericon
+* License: MIT
+* License URL: https://github.com/feathericon/feathericon/blob/master/LICENSE
+* Version: 1.0.2
 * Palette: Colorless
 * Category: General
 
@@ -294,7 +305,7 @@
 * URL: https://github.com/primer/octicons/
 * License: Open Font License
 * License URL: https://raw.githubusercontent.com/primer/octicons/master/LICENSE
-* Version: 8.3.0
+* Version: 0.0.0-882a0ed25
 * Palette: Colorless
 * Category: General
 

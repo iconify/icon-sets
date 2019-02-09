@@ -305,7 +305,7 @@
 * URL: https://github.com/primer/octicons/
 * License: Open Font License
 * License URL: https://raw.githubusercontent.com/primer/octicons/master/LICENSE
-* Version: 8.4.0
+* Version: 8.4.1
 * Palette: Colorless
 * Category: General
 

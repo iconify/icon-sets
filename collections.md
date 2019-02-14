@@ -9,7 +9,6 @@
 * License: OFL-1.1
 * License URL: https://raw.githubusercontent.com/Templarian/MaterialDesign/master/LICENSE
 * Palette: Colorless
-* Category: General
 
 
 ### Material Design Light
@@ -19,7 +18,6 @@
 * License: OFL-1.1
 * License URL: https://raw.githubusercontent.com/Templarian/MaterialDesignLight/master/LICENSE.md
 * Palette: Colorless
-* Category: General
 
 
 ### Unicons
@@ -30,7 +28,6 @@
 * License URL: https://raw.githubusercontent.com/Iconscout/unicons/master/LICENSE
 * Version: 0.0.2
 * Palette: Colorless
-* Category: General
 
 
 ### Jam Icons
@@ -40,7 +37,6 @@
 * License: MIT
 * License URL: https://raw.githubusercontent.com/michaelampr/jam/master/LICENSE
 * Palette: Colorless
-* Category: General
 
 
 ### IonIcons
@@ -51,7 +47,6 @@
 * License URL: https://github.com/driftyco/ionicons/blob/master/LICENSE
 * Version: 4.5.5
 * Palette: Colorless
-* Category: General
 
 
 ### Font Awesome 5 Solid
@@ -60,9 +55,8 @@
 * URL: http://fontawesome.io/
 * License: CC BY 4.0
 * License URL: https://creativecommons.org/licenses/by/4.0/
-* Version: 5.7.1
+* Version: 5.7.2
 * Palette: Colorless
-* Category: General
 
 
 ### Font Awesome 5 Regular
@@ -71,9 +65,8 @@
 * URL: http://fontawesome.io/
 * License: CC BY 4.0
 * License URL: https://creativecommons.org/licenses/by/4.0/
-* Version: 5.7.1
+* Version: 5.7.2
 * Palette: Colorless
-* Category: General
 
 
 ### Vaadin Icons
@@ -84,7 +77,6 @@
 * License URL: https://creativecommons.org/licenses/by/4.0/
 * Version: 4.2.1
 * Palette: Colorless
-* Category: General
 
 
 ### IcoMoon Free
@@ -94,7 +86,6 @@
 * License: GPL
 * License URL: http://www.gnu.org/licenses/gpl.html
 * Palette: Colorless
-* Category: General
 
 
 ### Dashicons
@@ -105,17 +96,15 @@
 * License URL: http://www.gnu.org/licenses/gpl-2.0.html
 * Version: 0.9.0
 * Palette: Colorless
-* Category: General
 
 
 ### Entypo+
 * Number of icons: 321
-* Author: Entypo
+* Author: Daniel Bruce
 * URL: http://www.entypo.com/
 * License: CC BY-SA 4.0
 * License URL: https://creativecommons.org/licenses/by-sa/4.0/
 * Palette: Colorless
-* Category: General
 
 
 ### Flat Color Icons
@@ -126,7 +115,6 @@
 * License URL: https://icons8.com/good-boy-license/
 * Version: 1.0.2
 * Palette: Colorful
-* Category: General
 
 
 ### Ant Design Icons
@@ -135,7 +123,6 @@
 * URL: https://github.com/ant-design/ant-design-icons
 * License: MIT
 * Palette: Colorless
-* Category: General
 
 
 ### Feather Icons
@@ -146,7 +133,6 @@
 * License URL: https://github.com/feathericons/feather/blob/master/LICENSE
 * Version: 0.0.0-development
 * Palette: Colorless
-* Category: General
 
 
 ### Feather Icon
@@ -157,7 +143,6 @@
 * License URL: https://github.com/feathericon/feathericon/blob/master/LICENSE
 * Version: 1.0.2
 * Palette: Colorless
-* Category: General
 
 
 ### PrestaShop Icons
@@ -167,7 +152,6 @@
 * License: CC BY-NC 4.0
 * License URL: http://creativecommons.org/licenses/by-nc/4.0/
 * Palette: Colorless
-* Category: General
 
 
 ### Elusive Icons
@@ -178,7 +162,6 @@
 * License URL: http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL
 * Version: 2.0.0
 * Palette: Colorless
-* Category: General
 
 
 ### Foundation
@@ -189,7 +172,6 @@
 * License URL: 
 * Version: 3.0.0
 * Palette: Colorless
-* Category: General
 
 
 ### Typicons
@@ -200,7 +182,6 @@
 * License URL: https://creativecommons.org/licenses/by-sa/4.0/
 * Version: 2.0.9
 * Palette: Colorless
-* Category: General
 
 
 ### Subway Icon Set
@@ -210,7 +191,6 @@
 * License: CC BY 4.0
 * License URL: https://creativecommons.org/licenses/by/4.0/
 * Palette: Colorless
-* Category: General
 
 
 ### Raphael
@@ -220,7 +200,6 @@
 * License: MIT
 * License URL: 
 * Palette: Colorless
-* Category: General
 
 
 ### Icons8 Windows 10 Icons
@@ -231,7 +210,6 @@
 * License URL: https://icons8.com/good-boy-license/
 * Version: 1.0.0
 * Palette: Colorless
-* Category: General
 
 
 ### Icons8 Windows 8 Icons
@@ -241,7 +219,6 @@
 * License: Good Boy License
 * License URL: https://icons8.com/good-boy-license/
 * Palette: Colorless
-* Category: General
 
 
 ### Innowatio Font
@@ -252,7 +229,6 @@
 * License URL: http://www.apache.org/licenses/LICENSE-2.0
 * Version: 1.1.3
 * Palette: Colorless
-* Category: General
 
 
 ### TopCoat Icons
@@ -263,7 +239,6 @@
 * License URL: http://www.apache.org/licenses/LICENSE-2.0
 * Version: 0.2.0
 * Palette: Colorless
-* Category: General
 
 
 ### Evil Icons
@@ -274,7 +249,6 @@
 * License URL: https://raw.githubusercontent.com/outpunk/evil-icons/master/LICENSE.txt
 * Version: 1.10.1
 * Palette: Colorless
-* Category: General
 
 
 ### Bytesize Icons
@@ -285,7 +259,6 @@
 * License URL: https://github.com/danklammer/bytesize-icons/blob/master/LICENSE.md
 * Version: 1.3.0
 * Palette: Colorless
-* Category: General
 
 
 ### Maki
@@ -296,7 +269,6 @@
 * License URL: http://creativecommons.org/publicdomain/zero/1.0/
 * Version: 6.0.0
 * Palette: Colorless
-* Category: General
 
 
 ### Open Iconic
@@ -307,7 +279,6 @@
 * License URL: https://raw.githubusercontent.com/iconic/open-iconic/master/ICON-LICENSE
 * Version: 1.1.1
 * Palette: Colorless
-* Category: General
 
 
 ### Octicons
@@ -318,7 +289,6 @@
 * License URL: https://raw.githubusercontent.com/primer/octicons/master/LICENSE
 * Version: 8.4.1
 * Palette: Colorless
-* Category: General
 
 
 ### Elegant
@@ -329,7 +299,6 @@
 * License URL: http://www.gnu.org/licenses/gpl.html
 * Version: 1.0.1
 * Palette: Colorless
-* Category: General
 
 
 ### Font Awesome 4
@@ -340,7 +309,6 @@
 * License URL: http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL
 * Version: 4.7.0
 * Palette: Colorless
-* Category: General
 
 
 ### Material Design Iconic Font
@@ -351,7 +319,6 @@
 * License URL: http://scripts.sil.org/OFL
 * Version: 2.2.0
 * Palette: Colorless
-* Category: General
 
 
 ### WebHostingHub Glyphs
@@ -361,7 +328,6 @@
 * License: OFL
 * License URL: http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL
 * Palette: Colorless
-* Category: General
 
 
 ### SmartIcons Glyph
@@ -372,7 +338,6 @@
 * License URL: https://creativecommons.org/licenses/by-sa/4.0/
 * Version: 0.0.2
 * Palette: Colorless
-* Category: General
 
 
 ### Ligature Symbols
@@ -382,7 +347,6 @@
 * License: SIL Open Font
 * License URL: http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL
 * Palette: Colorless
-* Category: General
 
 
 ### Simple line icons
@@ -392,7 +356,6 @@
 * License: MIT
 * License URL: https://github.com/thesabbir/simple-line-icons/blob/master/LICENSE.md
 * Palette: Colorless
-* Category: General
 
 
 ### Flat UI Icons
@@ -402,7 +365,6 @@
 * License: MIT
 * License URL: https://raw.githubusercontent.com/designmodo/Flat-UI/master/LICENSE
 * Palette: Colorful
-* Category: General
 
 
 ### Vesper Icons
@@ -413,7 +375,6 @@
 * License URL: http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL
 * Version: 5.11.2
 * Palette: Colorless
-* Category: General
 
 
 ### Web Symbols Liga
@@ -423,7 +384,6 @@
 * License: SIL
 * License URL: http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL
 * Palette: Colorless
-* Category: General
 
 
 ### Icalicons
@@ -434,7 +394,6 @@
 * License URL: https://raw.githubusercontent.com/IcaliaLabs/icalicons/master/LICENSE
 * Version: 0.0.1
 * Palette: Colorless
-* Category: General
 
 
 ### BPMN
@@ -445,7 +404,6 @@
 * License URL: http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL
 * Version: 0.8.0
 * Palette: Colorless
-* Category: General
 
 
 ### Fontelico
@@ -455,7 +413,6 @@
 * License: CC BY
 * License URL: http://creativecommons.org/licenses/by-sa/3.0/
 * Palette: Colorless
-* Category: General
 
 
 ### Noto Emoji
@@ -465,7 +422,6 @@
 * License: Apache 2.0
 * License URL: https://github.com/googlei18n/noto-emoji/blob/master/LICENSE
 * Palette: Colorful
-* Category: Emoji
 
 
 ### Noto Emoji (v1)
@@ -475,7 +431,6 @@
 * License: Apache 2.0
 * License URL: https://github.com/googlei18n/noto-emoji/blob/master/LICENSE
 * Palette: Colorful
-* Category: Emoji
 
 
 ### Twitter Emoji
@@ -486,7 +441,6 @@
 * License URL: https://creativecommons.org/licenses/by/4.0/
 * Version: 11.3.0
 * Palette: Colorful
-* Category: Emoji
 
 
 ### Emoji One (Colored)
@@ -497,7 +451,6 @@
 * License URL: https://creativecommons.org/licenses/by-sa/4.0/
 * Version: 2.2.7
 * Palette: Colorful
-* Category: Emoji
 
 
 ### Emoji One (Monotone)
@@ -508,7 +461,6 @@
 * License URL: https://creativecommons.org/licenses/by-sa/4.0/
 * Version: 2.2.7
 * Palette: Colorless
-* Category: Emoji
 
 
 ### Emoji One (v1)
@@ -519,7 +471,6 @@
 * License URL: https://creativecommons.org/licenses/by-sa/4.0/
 * Version: 1.5.2
 * Palette: Colorful
-* Category: Emoji
 
 
 ### Firefox OS Emoji
@@ -530,7 +481,6 @@
 * License URL: http://mozilla.github.io/fxemoji/LICENSE.md
 * Version: 0.0.2
 * Palette: Colorful
-* Category: Emoji
 
 
 ### SVG Logos
@@ -540,7 +490,6 @@
 * License: CC0
 * License URL: https://raw.githubusercontent.com/gilbarbara/logos/master/LICENSE.txt
 * Palette: Colorful
-* Category: Thematic
 
 
 ### Simple Icons
@@ -551,7 +500,6 @@
 * License URL: https://github.com/simple-icons/simple-icons/blob/develop/LICENSE.md
 * Version: 1.9.19
 * Palette: Colorless
-* Category: Thematic
 
 
 ### Font Awesome 5 Brands
@@ -560,9 +508,8 @@
 * URL: http://fontawesome.io/
 * License: CC BY 4.0
 * License URL: https://creativecommons.org/licenses/by/4.0/
-* Version: 5.7.1
+* Version: 5.7.2
 * Palette: Colorless
-* Category: Thematic
 
 
 ### Brandico Font
@@ -572,17 +519,15 @@
 * License: CC BY
 * License URL: http://creativecommons.org/licenses/by-sa/3.0/
 * Palette: Colorless
-* Category: Thematic
 
 
 ### Entypo+ Social
 * Number of icons: 76
-* Author: Entypo
+* Author: Daniel Bruce
 * URL: http://www.entypo.com/
 * License: CC BY-SA 4.0
 * License URL: https://creativecommons.org/licenses/by-sa/4.0/
 * Palette: Colorless
-* Category: Thematic
 
 
 ### Cryptocurrency Icons
@@ -593,7 +538,6 @@
 * License URL: https://creativecommons.org/publicdomain/zero/1.0/
 * Version: 0.10.0
 * Palette: Colorless
-* Category: Thematic
 
 
 ### Weather Icons
@@ -604,7 +548,6 @@
 * License URL: http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL
 * Version: 2.0.10
 * Palette: Colorless
-* Category: Thematic
 
 
 ### GeoGlyphs
@@ -614,7 +557,6 @@
 * License: MIT
 * Version: 0.0.10
 * Palette: Colorless
-* Category: Thematic
 
 
 ### Map Icons
@@ -625,7 +567,6 @@
 * License URL: http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL
 * Version: 3.0.2
 * Palette: Colorless
-* Category: Thematic
 
 
 ### Medical Icons
@@ -636,4 +577,3 @@
 * License URL: https://raw.githubusercontent.com/samcome/webfont-medical-icons/master/LICENSE
 * Version: 1.0.0
 * Palette: Colorless
-* Category: Thematic

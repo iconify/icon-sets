@@ -267,7 +267,7 @@
 * URL: https://github.com/mapbox/maki
 * License: CC0
 * License URL: http://creativecommons.org/publicdomain/zero/1.0/
-* Version: 6.0.0
+* Version: 6.1.0
 * Palette: Colorless
 
 
@@ -493,12 +493,12 @@
 
 
 ### Simple Icons
-* Number of icons: 529
+* Number of icons: 536
 * Author: Simple Icons Collaborators
 * URL: https://github.com/simple-icons/simple-icons
 * License: CC0 1.0
 * License URL: https://github.com/simple-icons/simple-icons/blob/develop/LICENSE.md
-* Version: 1.9.19
+* Version: 1.9.20
 * Palette: Colorless
 
 

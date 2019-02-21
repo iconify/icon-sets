@@ -3,7 +3,7 @@
 
 
 ### Material Design Icons
-* Number of icons: 3570
+* Number of icons: 3638
 * Author: Austin Andrews
 * URL: https://github.com/Templarian/MaterialDesign
 * License: OFL-1.1
@@ -287,7 +287,7 @@
 * URL: https://github.com/primer/octicons/
 * License: Open Font License
 * License URL: https://raw.githubusercontent.com/primer/octicons/master/LICENSE
-* Version: 8.4.1
+* Version: 8.4.2
 * Palette: Colorless
 
 

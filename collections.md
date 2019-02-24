@@ -99,7 +99,7 @@
 
 
 ### Dashicons
-* Number of icons: 297
+* Number of icons: 299
 * Author: WordPress
 * URL: https://github.com/WordPress/dashicons
 * License: GPL v2

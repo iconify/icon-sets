@@ -20,6 +20,16 @@
 * Palette: Colorless
 
 
+### Google MDI
+* Number of icons: 959
+* Author: Material Design Authors
+* URL: https://github.com/google/material-design-icons
+* License: Apache 2.0
+* License URL: https://github.com/google/material-design-icons/blob/master/LICENSE
+* Version: 3.0.1
+* Palette: Colorless
+
+
 ### Unicons
 * Number of icons: 1049
 * Author: Iconscout

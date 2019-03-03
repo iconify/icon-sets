@@ -503,12 +503,12 @@
 
 
 ### Simple Icons
-* Number of icons: 550
+* Number of icons: 561
 * Author: Simple Icons Collaborators
 * URL: https://github.com/simple-icons/simple-icons
 * License: CC0 1.0
 * License URL: https://github.com/simple-icons/simple-icons/blob/develop/LICENSE.md
-* Version: 1.9.21
+* Version: 1.9.22
 * Palette: Colorless
 
 
@@ -546,7 +546,7 @@
 * URL: https://github.com/atomiclabs/cryptocurrency-icons
 * License: CC0 1.0
 * License URL: https://creativecommons.org/publicdomain/zero/1.0/
-* Version: 0.10.0
+* Version: 0.10.1
 * Palette: Colorless
 
 

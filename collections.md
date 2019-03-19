@@ -26,7 +26,6 @@
 * URL: https://github.com/cyberalien/google-material-design-icons-updated
 * License: Apache 2.0
 * License URL: https://github.com/cyberalien/google-material-design-icons-updated/blob/master/LICENSE
-* Version: 3.0.1
 * Palette: Colorless
 
 

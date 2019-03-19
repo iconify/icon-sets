@@ -85,7 +85,7 @@
 * URL: https://vaadin.com/elements/vaadin-icons
 * License: CC BY 4.0
 * License URL: https://creativecommons.org/licenses/by/4.0/
-* Version: 4.2.1
+* Version: 4.3.1
 * Palette: Colorless
 
 
@@ -541,12 +541,12 @@
 
 
 ### Cryptocurrency Icons
-* Number of icons: 405
+* Number of icons: 419
 * Author: Christopher Downer
 * URL: https://github.com/atomiclabs/cryptocurrency-icons
 * License: CC0 1.0
 * License URL: https://creativecommons.org/publicdomain/zero/1.0/
-* Version: 0.10.1
+* Version: 0.11.0
 * Palette: Colorless
 
 

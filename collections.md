@@ -59,12 +59,12 @@
 
 
 ### Font Awesome 5 Solid
-* Number of icons: 935
+* Number of icons: 936
 * Author: Dave Gandy
 * URL: http://fontawesome.io/
 * License: CC BY 4.0
 * License URL: https://creativecommons.org/licenses/by/4.0/
-* Version: 5.7.2
+* Version: 5.8.0
 * Palette: Colorless
 
 
@@ -74,7 +74,7 @@
 * URL: http://fontawesome.io/
 * License: CC BY 4.0
 * License URL: https://creativecommons.org/licenses/by/4.0/
-* Version: 5.7.2
+* Version: 5.8.0
 * Palette: Colorless
 
 
@@ -512,12 +512,12 @@
 
 
 ### Font Awesome 5 Brands
-* Number of icons: 414
+* Number of icons: 426
 * Author: Dave Gandy
 * URL: http://fontawesome.io/
 * License: CC BY 4.0
 * License URL: https://creativecommons.org/licenses/by/4.0/
-* Version: 5.7.2
+* Version: 5.8.0
 * Palette: Colorless
 
 

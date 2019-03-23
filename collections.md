@@ -261,7 +261,7 @@
 
 
 ### Bytesize Icons
-* Number of icons: 96
+* Number of icons: 99
 * Author: Dan Klammer
 * URL: https://github.com/danklammer/bytesize-icons
 * License: MIT

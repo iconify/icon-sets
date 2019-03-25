@@ -4,7 +4,7 @@ This is collection of SVG icons created by various authors, released under vario
 
 All SVG icons have been cleaned up. Content has been optimized, colors for monotone icons have been replaced with currentColor, ready to be inserted in HTML. Tools used for creating this collection are available on [Iconify GitHub repository](https://github.com/iconify-design), more specifically [@iconify/tools](https://github.com/iconify-design/tools). You can use it to create your own JSON packages from custom icon sets.
 
-This library is intended to be used in packages that build components, such as [https://github.com/iconify-design/tools](Iconify Tools) and [https://github.com/iconify-design/iconify-react](Iconify React).
+This library is intended to be used in packages that build components, such as [Iconify Tools](https://github.com/iconify-design/tools) and [Iconify React](https://github.com/iconify-design/iconify-react).
 
 Repository is updated daily by fully automated script, so it always contains latest icons from various sources.
 

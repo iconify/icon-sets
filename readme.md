@@ -6,6 +6,8 @@ All SVG icons have been cleaned up. Content has been optimized, colors for monot
 
 This library is intended to be used in packages that build components, such as Iconify Tools.
 
+Repository is updated daily by fully automated script, so it always contains latest icons from various sources.
+
 
 ## How to get this repository
 
@@ -111,6 +113,7 @@ Optional "aliases" object contains list of aliases for icons. Format is similar 
 
 For more information see developer documentation on [https://iconify.design/docs/json-icon-format/](https://iconify.design/docs/json-icon-format/)
 
+
 ## Extracting individual SVG icons
 
 See JSON tools readme for instructions for [PHP](https://github.com/iconify-design/json-tools.php) or [Node.js](https://github.com/iconify-design/json-tools.js).
@@ -142,6 +145,7 @@ foreach ($collection->listIcons(true) as $icon) {
     ]));
 }
 ```
+
 
 ## License
 

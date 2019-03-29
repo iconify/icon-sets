@@ -21,7 +21,7 @@
 
 
 ### Google Material Icons
-* Number of icons: 5220
+* Number of icons: 5230
 * Author: Material Design Authors
 * URL: https://github.com/cyberalien/google-material-design-icons-updated
 * License: Apache 2.0

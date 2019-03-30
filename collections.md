@@ -135,7 +135,7 @@
 
 
 ### Feather Icons
-* Number of icons: 277
+* Number of icons: 279
 * Author: Cole Bemis
 * URL: https://github.com/feathericons/feather
 * License: MIT

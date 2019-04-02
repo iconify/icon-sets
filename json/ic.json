@@ -856,6 +856,15 @@
 		"baseline-dns": {
 			"body": "<path d=\"M20 13H4c-.55 0-1 .45-1 1v6c0 .55.45 1 1 1h16c.55 0 1-.45 1-1v-6c0-.55-.45-1-1-1zM7 19c-1.1 0-2-.9-2-2s.9-2 2-2 2 .9 2 2-.9 2-2 2zM20 3H4c-.55 0-1 .45-1 1v6c0 .55.45 1 1 1h16c.55 0 1-.45 1-1V4c0-.55-.45-1-1-1zM7 9c-1.1 0-2-.9-2-2s.9-2 2-2 2 .9 2 2-.9 2-2 2z\" fill=\"currentColor\"/>"
 		},
+		"baseline-do-not-disturb": {
+			"body": "<path d=\"M12 22C6.477 22 2 17.523 2 12S6.477 2 12 2s10 4.477 10 10-4.477 10-10 10zM7 11v2h10v-2H7z\" fill=\"currentColor\"/>"
+		},
+		"baseline-do-not-disturb-alt": {
+			"body": "<path d=\"M12 2C6.5 2 2 6.5 2 12s4.5 10 10 10 10-4.5 10-10S17.5 2 12 2zM4 12c0-4.4 3.6-8 8-8 1.8 0 3.5.6 4.9 1.7L5.7 16.9C4.6 15.5 4 13.8 4 12zm8 8c-1.8 0-3.5-.6-4.9-1.7L18.3 7.1C19.4 8.5 20 10.2 20 12c0 4.4-3.6 8-8 8z\" fill=\"currentColor\"/>"
+		},
+		"baseline-do-not-disturb-off": {
+			"body": "<path d=\"M17 11v2h-1.46l4.68 4.68A9.92 9.92 0 0 0 22 12c0-5.52-4.48-10-10-10-2.11 0-4.07.66-5.68 1.78L13.54 11H17zM2.27 2.27L1 3.54l2.78 2.78A9.92 9.92 0 0 0 2 12c0 5.52 4.48 10 10 10 2.11 0 4.07-.66 5.68-1.78L20.46 23l1.27-1.27L11 11 2.27 2.27zM7 13v-2h1.46l2 2H7z\" fill=\"currentColor\"/>"
+		},
 		"baseline-dock": {
 			"body": "<path d=\"M8 23h8v-2H8v2zm8-21.99L8 1c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h8c1.1 0 2-.9 2-2V3c0-1.1-.9-1.99-2-1.99zM16 15H8V5h8v10z\" fill=\"currentColor\"/>"
 		},
@@ -1029,6 +1038,9 @@
 		},
 		"baseline-file-copy": {
 			"body": "<path d=\"M16 1H4c-1.1 0-2 .9-2 2v14h2V3h12V1zm-1 4l6 6v10c0 1.1-.9 2-2 2H7.99C6.89 23 6 22.1 6 21l.01-14c0-1.1.89-2 1.99-2h7zm-1 7h5.5L14 6.5V12z\" fill=\"currentColor\"/>"
+		},
+		"baseline-file-upload": {
+			"body": "<path d=\"M9 16h6v-6h4l-7-7-7 7h4zm-4 2h14v2H5z\" fill=\"currentColor\"/>"
 		},
 		"baseline-filter": {
 			"body": "<path d=\"M15.96 10.29l-2.75 3.54-1.96-2.36L8.5 15h11l-3.54-4.71zM3 5H1v16c0 1.1.9 2 2 2h16v-2H3V5zm18-4H7c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2V3c0-1.1-.9-2-2-2zm0 16H7V3h14v14z\" fill=\"currentColor\"/>"
@@ -3162,18 +3174,6 @@
 			"body": "<path d=\"M9.64 7.64c.23-.5.36-1.05.36-1.64 0-2.21-1.79-4-4-4S2 3.79 2 6s1.79 4 4 4c.59 0 1.14-.13 1.64-.36L10 12l-2.36 2.36C7.14 14.13 6.59 14 6 14c-2.21 0-4 1.79-4 4s1.79 4 4 4 4-1.79 4-4c0-.59-.13-1.14-.36-1.64L12 14l7 7h3v-1L9.64 7.64zM6 8c-1.1 0-2-.89-2-2s.9-2 2-2 2 .89 2 2-.9 2-2 2zm0 12c-1.1 0-2-.89-2-2s.9-2 2-2 2 .89 2 2-.9 2-2 2zm6-7.5c-.28 0-.5-.22-.5-.5s.22-.5.5-.5.5.22.5.5-.22.5-.5.5zM19 3l-6 6 2 2 7-7V3z\" fill=\"currentColor\"/>",
 			"hidden": true
 		},
-		"do-not-disturb-alt": {
-			"body": "<path d=\"M12 2C6.5 2 2 6.5 2 12s4.5 10 10 10 10-4.5 10-10S17.5 2 12 2zM4 12c0-4.4 3.6-8 8-8 1.8 0 3.5.6 4.9 1.7L5.7 16.9C4.6 15.5 4 13.8 4 12zm8 8c-1.8 0-3.5-.6-4.9-1.7L18.3 7.1C19.4 8.5 20 10.2 20 12c0 4.4-3.6 8-8 8z\" fill=\"currentColor\"/>",
-			"hidden": true
-		},
-		"do-not-disturb-off": {
-			"body": "<path d=\"M17 11v2h-1.46l4.68 4.68A9.92 9.92 0 0 0 22 12c0-5.52-4.48-10-10-10-2.11 0-4.07.66-5.68 1.78L13.54 11H17zM2.27 2.27L1 3.54l2.78 2.78A9.92 9.92 0 0 0 2 12c0 5.52 4.48 10 10 10 2.11 0 4.07-.66 5.68-1.78L20.46 23l1.27-1.27L11 11 2.27 2.27zM7 13v-2h1.46l2 2H7z\" fill=\"currentColor\"/>",
-			"hidden": true
-		},
-		"file-upload": {
-			"body": "<path d=\"M9 16h6v-6h4l-7-7-7 7h4zm-4 2h14v2H5z\" fill=\"currentColor\"/>",
-			"hidden": true
-		},
 		"outline-360": {
 			"body": "<path d=\"M12 7C6.48 7 2 9.24 2 12c0 2.24 2.94 4.13 7 4.77V20l4-4-4-4v2.73c-3.15-.56-5-1.9-5-2.73 0-1.06 3.04-3 8-3s8 1.94 8 3c0 .73-1.46 1.89-4 2.53v2.05c3.53-.77 6-2.53 6-4.58 0-2.76-4.48-5-10-5z\" fill=\"currentColor\"/>"
 		},
@@ -4029,6 +4029,15 @@
 		"outline-dns": {
 			"body": "<path d=\"M19 15v4H5v-4h14m1-2H4c-.55 0-1 .45-1 1v6c0 .55.45 1 1 1h16c.55 0 1-.45 1-1v-6c0-.55-.45-1-1-1zM7 18.5c-.82 0-1.5-.67-1.5-1.5s.68-1.5 1.5-1.5 1.5.67 1.5 1.5-.67 1.5-1.5 1.5zM19 5v4H5V5h14m1-2H4c-.55 0-1 .45-1 1v6c0 .55.45 1 1 1h16c.55 0 1-.45 1-1V4c0-.55-.45-1-1-1zM7 8.5c-.82 0-1.5-.67-1.5-1.5S6.18 5.5 7 5.5s1.5.68 1.5 1.5S7.83 8.5 7 8.5z\" fill=\"currentColor\"/>"
 		},
+		"outline-do-not-disturb": {
+			"body": "<path d=\"M12 22C6.477 22 2 17.523 2 12S6.477 2 12 2s10 4.477 10 10-4.477 10-10 10zm0-2a8 8 0 1 0 0-16 8 8 0 0 0 0 16zm-5-9h10v2H7v-2z\" fill=\"currentColor\"/>"
+		},
+		"outline-do-not-disturb-alt": {
+			"body": "<path d=\"M12 2C6.5 2 2 6.5 2 12s4.5 10 10 10 10-4.5 10-10S17.5 2 12 2zM4 12c0-4.4 3.6-8 8-8 1.8 0 3.5.6 4.9 1.7L5.7 16.9C4.6 15.5 4 13.8 4 12zm8 8c-1.8 0-3.5-.6-4.9-1.7L18.3 7.1C19.4 8.5 20 10.2 20 12c0 4.4-3.6 8-8 8z\" fill=\"currentColor\"/>"
+		},
+		"outline-do-not-disturb-off": {
+			"body": "<path d=\"M4.929 4.929l1.414 1.414a8 8 0 1 0 11.314 11.314l1.414 1.414A9.969 9.969 0 0 1 12 22C6.477 22 2 17.523 2 12a9.969 9.969 0 0 1 2.929-7.071zm1.384-1.156A9.954 9.954 0 0 1 12 2c5.523 0 10 4.477 10 10a9.954 9.954 0 0 1-1.773 5.687l-1.444-1.444A8 8 0 0 0 7.757 5.217L6.313 3.773zM11 11l2 2H7v-2h4zm2.54 0H17v2h-1.46l-2-2z\" fill=\"currentColor\"/><path d=\"M2.27 2.27L1 3.54 20.46 23l1.27-1.27L11 11z\" fill=\"currentColor\"/>"
+		},
 		"outline-dock": {
 			"body": "<path d=\"M8 23h8v-2H8v2zm8-21.99L8 1c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h8c1.1 0 2-.9 2-2V3c0-1.1-.9-1.99-2-1.99zM16 15H8V5h8v10z\" fill=\"currentColor\"/>"
 		},
@@ -4202,6 +4211,9 @@
 		},
 		"outline-file-copy": {
 			"body": "<path d=\"M16 1H4c-1.1 0-2 .9-2 2v14h2V3h12V1zm-1 4H8c-1.1 0-1.99.9-1.99 2L6 21c0 1.1.89 2 1.99 2H19c1.1 0 2-.9 2-2V11l-6-6zM8 21V7h6v5h5v9H8z\" fill=\"currentColor\"/>"
+		},
+		"outline-file-upload": {
+			"body": "<path d=\"M9 16h6v-6h4l-7-7-7 7h4v6zm2-2V8H9.828L12 5.828 14.172 8H13v6h-2zm-6 4h14v2H5z\" fill=\"currentColor\"/>"
 		},
 		"outline-filter": {
 			"body": "<path d=\"M15.96 10.29l-2.75 3.54-1.96-2.36L8.5 15h11l-3.54-4.71zM3 5H1v16c0 1.1.9 2 2 2h16v-2H3V5zm18-4H7c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2V3c0-1.1-.9-2-2-2zm0 16H7V3h14v14z\" fill=\"currentColor\"/>"
@@ -7182,6 +7194,15 @@
 		"round-dns": {
 			"body": "<path d=\"M19 13H5c-1.1 0-2 .9-2 2v4c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2v-4c0-1.1-.9-2-2-2zM7 19c-1.1 0-2-.9-2-2s.9-2 2-2 2 .9 2 2-.9 2-2 2zM19 3H5c-1.1 0-2 .9-2 2v4c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2zM7 9c-1.1 0-2-.9-2-2s.9-2 2-2 2 .9 2 2-.9 2-2 2z\" fill=\"currentColor\"/>"
 		},
+		"round-do-not-disturb": {
+			"body": "<path d=\"M12 22C6.477 22 2 17.523 2 12S6.477 2 12 2s10 4.477 10 10-4.477 10-10 10zM8 11a1 1 0 0 0 0 2h8a1 1 0 0 0 0-2H8z\" fill=\"currentColor\"/>"
+		},
+		"round-do-not-disturb-alt": {
+			"body": "<path d=\"M12 2C6.5 2 2 6.5 2 12s4.5 10 10 10 10-4.5 10-10S17.5 2 12 2zM4 12c0-4.4 3.6-8 8-8 1.8 0 3.5.6 4.9 1.7L5.7 16.9C4.6 15.5 4 13.8 4 12zm8 8c-1.8 0-3.5-.6-4.9-1.7L18.3 7.1C19.4 8.5 20 10.2 20 12c0 4.4-3.6 8-8 8z\" fill=\"currentColor\"/>"
+		},
+		"round-do-not-disturb-off": {
+			"body": "<path d=\"M17 12a1 1 0 0 1-1 1h-.46l4.68 4.68A9.92 9.92 0 0 0 22 12c0-5.52-4.48-10-10-10-2.11 0-4.07.66-5.68 1.78L13.54 11H16a1 1 0 0 1 1 1zM1.635 2.905a.9.9 0 0 0 0 1.27L3.78 6.32A9.92 9.92 0 0 0 2 12c0 5.52 4.48 10 10 10 2.11 0 4.07-.66 5.68-1.78l2.145 2.145a.898.898 0 0 0 1.27-1.27L11 11 2.905 2.905a.898.898 0 0 0-1.27 0zM7 12a1 1 0 0 1 1-1h.46l2 2H8a1 1 0 0 1-1-1z\" fill=\"currentColor\"/>"
+		},
 		"round-dock": {
 			"body": "<path d=\"M9 23h6c.55 0 1-.45 1-1s-.45-1-1-1H9c-.55 0-1 .45-1 1s.45 1 1 1zm7-21.99L8 1c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h8c1.1 0 2-.9 2-2V3c0-1.1-.9-1.99-2-1.99zM16 15H8V5h8v10z\" fill=\"currentColor\"/>"
 		},
@@ -7355,6 +7376,9 @@
 		},
 		"round-file-copy": {
 			"body": "<path d=\"M15 1H4c-1.1 0-2 .9-2 2v13c0 .55.45 1 1 1s1-.45 1-1V4c0-.55.45-1 1-1h10c.55 0 1-.45 1-1s-.45-1-1-1zm.59 4.59l4.83 4.83c.37.37.58.88.58 1.41V21c0 1.1-.9 2-2 2H7.99C6.89 23 6 22.1 6 21l.01-14c0-1.1.89-2 1.99-2h6.17c.53 0 1.04.21 1.42.59zM15 12h4.5L14 6.5V11c0 .55.45 1 1 1z\" fill=\"currentColor\"/>"
+		},
+		"round-file-upload": {
+			"body": "<path d=\"M10 16h4a1 1 0 0 0 1-1v-5h1.586a1 1 0 0 0 .707-1.707l-4.586-4.586a1 1 0 0 0-1.414 0L6.707 8.293A1 1 0 0 0 7.414 10H9v5a1 1 0 0 0 1 1zm-4 2h12a1 1 0 0 1 0 2H6a1 1 0 0 1 0-2z\" fill=\"currentColor\"/>"
 		},
 		"round-filter": {
 			"body": "<path d=\"M15.56 10.81l-2.35 3.02-1.56-1.88a.5.5 0 0 0-.78.01l-1.74 2.23a.5.5 0 0 0 .39.81h8.98a.5.5 0 0 0 .4-.8l-2.55-3.39a.498.498 0 0 0-.79 0zM2 5c-.55 0-1 .45-1 1v15c0 1.1.9 2 2 2h15c.55 0 1-.45 1-1s-.45-1-1-1H4c-.55 0-1-.45-1-1V6c0-.55-.45-1-1-1zm19-4H7c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2V3c0-1.1-.9-2-2-2zm-1 16H8c-.55 0-1-.45-1-1V4c0-.55.45-1 1-1h12c.55 0 1 .45 1 1v12c0 .55-.45 1-1 1z\" fill=\"currentColor\"/>"
@@ -10339,6 +10363,15 @@
 		"sharp-dns": {
 			"body": "<path d=\"M21 13H3v8h18v-8zM7 19c-1.1 0-2-.9-2-2s.9-2 2-2 2 .9 2 2-.9 2-2 2zM21 3H3v8h18V3zM7 9c-1.1 0-2-.9-2-2s.9-2 2-2 2 .9 2 2-.9 2-2 2z\" fill=\"currentColor\"/>"
 		},
+		"sharp-do-not-disturb": {
+			"body": "<path d=\"M12 22C6.477 22 2 17.523 2 12S6.477 2 12 2s10 4.477 10 10-4.477 10-10 10zM7 11v2h10v-2H7z\" fill=\"currentColor\"/>"
+		},
+		"sharp-do-not-disturb-alt": {
+			"body": "<path d=\"M12 2C6.5 2 2 6.5 2 12s4.5 10 10 10 10-4.5 10-10S17.5 2 12 2zM4 12c0-4.4 3.6-8 8-8 1.8 0 3.5.6 4.9 1.7L5.7 16.9C4.6 15.5 4 13.8 4 12zm8 8c-1.8 0-3.5-.6-4.9-1.7L18.3 7.1C19.4 8.5 20 10.2 20 12c0 4.4-3.6 8-8 8z\" fill=\"currentColor\"/>"
+		},
+		"sharp-do-not-disturb-off": {
+			"body": "<path d=\"M17 11v2h-1.46l4.68 4.68A9.92 9.92 0 0 0 22 12c0-5.52-4.48-10-10-10-2.11 0-4.07.66-5.68 1.78L13.54 11H17zM2.27 2.27L1 3.54l2.78 2.78A9.92 9.92 0 0 0 2 12c0 5.52 4.48 10 10 10 2.11 0 4.07-.66 5.68-1.78L20.46 23l1.27-1.27L11 11 2.27 2.27zM7 13v-2h1.46l2 2H7z\" fill=\"currentColor\"/>"
+		},
 		"sharp-dock": {
 			"body": "<path d=\"M8 23h8v-2H8v2zM18 1.01L6 1v18h12V1.01zM16 15H8V5h8v10z\" fill=\"currentColor\"/>"
 		},
@@ -10512,6 +10545,9 @@
 		},
 		"sharp-file-copy": {
 			"body": "<path d=\"M16 1H2v16h2V3h12V1zm-1 4l6 6v12H6V5h9zm-1 7h5.5L14 6.5V12z\" fill=\"currentColor\"/>"
+		},
+		"sharp-file-upload": {
+			"body": "<path d=\"M9 16h6v-6h4l-7-7-7 7h4zm-4 2h14v2H5z\" fill=\"currentColor\"/>"
 		},
 		"sharp-filter": {
 			"body": "<path d=\"M15.96 10.29l-2.75 3.54-1.96-2.36L8.5 15h11l-3.54-4.71zM3 5H1v18h18v-2H3V5zm20-4H5v18h18V1zm-2 16H7V3h14v14z\" fill=\"currentColor\"/>"
@@ -13496,6 +13532,15 @@
 		"twotone-dns": {
 			"body": "<path opacity=\".3\" d=\"M5 9h14V5H5v4zm2-3.5c.83 0 1.5.67 1.5 1.5S7.83 8.5 7 8.5 5.5 7.83 5.5 7 6.17 5.5 7 5.5zM5 19h14v-4H5v4zm2-3.5c.83 0 1.5.67 1.5 1.5s-.67 1.5-1.5 1.5-1.5-.67-1.5-1.5.67-1.5 1.5-1.5z\" fill=\"currentColor\"/><path d=\"M20 13H4c-.55 0-1 .45-1 1v6c0 .55.45 1 1 1h16c.55 0 1-.45 1-1v-6c0-.55-.45-1-1-1zm-1 6H5v-4h14v4zm-12-.5c.83 0 1.5-.67 1.5-1.5s-.67-1.5-1.5-1.5-1.5.67-1.5 1.5.67 1.5 1.5 1.5zM20 3H4c-.55 0-1 .45-1 1v6c0 .55.45 1 1 1h16c.55 0 1-.45 1-1V4c0-.55-.45-1-1-1zm-1 6H5V5h14v4zM7 8.5c.83 0 1.5-.67 1.5-1.5S7.83 5.5 7 5.5 5.5 6.17 5.5 7 6.17 8.5 7 8.5z\" fill=\"currentColor\"/>"
 		},
+		"twotone-do-not-disturb": {
+			"body": "<path d=\"M12 20a8 8 0 1 0 0-16 8 8 0 0 0 0 16zm-5-9h10v2H7v-2z\" opacity=\".3\" fill=\"currentColor\"/><path d=\"M12 22C6.477 22 2 17.523 2 12S6.477 2 12 2s10 4.477 10 10-4.477 10-10 10zm0-2a8 8 0 1 0 0-16 8 8 0 0 0 0 16zm-5-9h10v2H7v-2z\" fill=\"currentColor\"/>"
+		},
+		"twotone-do-not-disturb-alt": {
+			"body": "<path d=\"M12 20c-1.8 0-3.5-.6-4.9-1.7L18.3 7.1C19.4 8.5 20 10.2 20 12c0 4.4-3.6 8-8 8zm-8-8c0-4.4 3.6-8 8-8 1.8 0 3.5.6 4.9 1.7L5.7 16.9C4.6 15.5 4 13.8 4 12z\" opacity=\".3\" fill=\"currentColor\"/><path d=\"M12 2C6.5 2 2 6.5 2 12s4.5 10 10 10 10-4.5 10-10S17.5 2 12 2zM4 12c0-4.4 3.6-8 8-8 1.8 0 3.5.6 4.9 1.7L5.7 16.9C4.6 15.5 4 13.8 4 12zm8 8c-1.8 0-3.5-.6-4.9-1.7L18.3 7.1C19.4 8.5 20 10.2 20 12c0 4.4-3.6 8-8 8z\" fill=\"currentColor\"/>"
+		},
+		"twotone-do-not-disturb-off": {
+			"body": "<path d=\"M6.343 6.343l11.314 11.314A8 8 0 1 1 6.343 6.343zm1.414-1.126a8 8 0 0 1 11.026 11.026L12.27 9.73 7.757 5.217zM11 11l2 2H7v-2h4zm2.54 0H17v2h-1.46l-2-2z\" opacity=\".3\" fill=\"currentColor\"/><path d=\"M4.929 4.929l1.414 1.414a8 8 0 1 0 11.314 11.314l1.414 1.414A9.969 9.969 0 0 1 12 22C6.477 22 2 17.523 2 12a9.969 9.969 0 0 1 2.929-7.071zm1.384-1.156A9.954 9.954 0 0 1 12 2c5.523 0 10 4.477 10 10a9.954 9.954 0 0 1-1.773 5.687l-1.444-1.444A8 8 0 0 0 7.757 5.217L6.313 3.773zM11 11l2 2H7v-2h4zm2.54 0H17v2h-1.46l-2-2z\" fill=\"currentColor\"/><path d=\"M2.27 2.27L1 3.54 20.46 23l1.27-1.27L11 11z\" fill=\"currentColor\"/>"
+		},
 		"twotone-dock": {
 			"body": "<path opacity=\".3\" d=\"M8 5h8v10H8z\" fill=\"currentColor\"/><path d=\"M8 21h8v2H8zm8-19.99L8 1c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h8c1.1 0 2-.9 2-2V3c0-1.1-.9-1.99-2-1.99zM16 15H8V5h8v10z\" fill=\"currentColor\"/>"
 		},
@@ -13669,6 +13714,9 @@
 		},
 		"twotone-file-copy": {
 			"body": "<path opacity=\".3\" d=\"M14 7H8v14h11v-9h-5z\" fill=\"currentColor\"/><path d=\"M16 1H4c-1.1 0-2 .9-2 2v14h2V3h12V1zm-1 4H8c-1.1 0-1.99.9-1.99 2L6 21c0 1.1.89 2 1.99 2H19c1.1 0 2-.9 2-2V11l-6-6zm4 16H8V7h6v5h5v9z\" fill=\"currentColor\"/>"
+		},
+		"twotone-file-upload": {
+			"body": "<path opacity=\".3\" d=\"M11 14V8H9.828L12 5.828 14.172 8H13v6z\" fill=\"currentColor\"/><path d=\"M9 16h6v-6h4l-7-7-7 7h4v6zm2-2V8H9.828L12 5.828 14.172 8H13v6h-2zm-6 4h14v2H5z\" fill=\"currentColor\"/>"
 		},
 		"twotone-filter": {
 			"body": "<path opacity=\".3\" d=\"M7 17h14V3H7v14zm4.25-5.53l1.96 2.36 2.75-3.54L19.5 15h-11l2.75-3.53z\" fill=\"currentColor\"/><path d=\"M1 21c0 1.1.9 2 2 2h16v-2H3V5H1v16zM21 1H7c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2V3c0-1.1-.9-2-2-2zm0 16H7V3h14v14zm-5.04-6.71l-2.75 3.54-1.96-2.36L8.5 15h11z\" fill=\"currentColor\"/>"
@@ -16549,6 +16597,12 @@
 		"do-not-disturb": {
 			"parent": "baseline-not-interested"
 		},
+		"do-not-disturb-alt": {
+			"parent": "baseline-do-not-disturb-alt"
+		},
+		"do-not-disturb-off": {
+			"parent": "baseline-do-not-disturb-off"
+		},
 		"do-not-disturb-on": {
 			"parent": "baseline-remove-circle"
 		},
@@ -16704,6 +16758,9 @@
 		},
 		"file-download": {
 			"parent": "baseline-get-app"
+		},
+		"file-upload": {
+			"parent": "baseline-file-upload"
 		},
 		"filter": {
 			"parent": "baseline-filter"
@@ -21703,6 +21760,7 @@
 			"baseline-cloud-queue",
 			"baseline-cloud-upload",
 			"baseline-create-new-folder",
+			"baseline-file-upload",
 			"baseline-folder",
 			"baseline-folder-open",
 			"baseline-folder-shared",
@@ -21715,6 +21773,7 @@
 			"outline-cloud-queue",
 			"outline-cloud-upload",
 			"outline-create-new-folder",
+			"outline-file-upload",
 			"outline-folder",
 			"outline-folder-open",
 			"outline-folder-shared",
@@ -21727,6 +21786,7 @@
 			"round-cloud-queue",
 			"round-cloud-upload",
 			"round-create-new-folder",
+			"round-file-upload",
 			"round-folder",
 			"round-folder-open",
 			"round-folder-shared",
@@ -21739,6 +21799,7 @@
 			"sharp-cloud-queue",
 			"sharp-cloud-upload",
 			"sharp-create-new-folder",
+			"sharp-file-upload",
 			"sharp-folder",
 			"sharp-folder-open",
 			"sharp-folder-shared",
@@ -21751,6 +21812,7 @@
 			"twotone-cloud-queue",
 			"twotone-cloud-upload",
 			"twotone-create-new-folder",
+			"twotone-file-upload",
 			"twotone-folder",
 			"twotone-folder-open",
 			"twotone-folder-shared"
@@ -23371,6 +23433,9 @@
 			"baseline-bluetooth-audio",
 			"baseline-confirmation-number",
 			"baseline-disc-full",
+			"baseline-do-not-disturb",
+			"baseline-do-not-disturb-alt",
+			"baseline-do-not-disturb-off",
 			"baseline-drive-eta",
 			"baseline-enhanced-encryption",
 			"baseline-event-available",
@@ -23424,6 +23489,9 @@
 			"outline-bluetooth-audio",
 			"outline-confirmation-number",
 			"outline-disc-full",
+			"outline-do-not-disturb",
+			"outline-do-not-disturb-alt",
+			"outline-do-not-disturb-off",
 			"outline-drive-eta",
 			"outline-enhanced-encryption",
 			"outline-event-available",
@@ -23477,6 +23545,9 @@
 			"round-bluetooth-audio",
 			"round-confirmation-number",
 			"round-disc-full",
+			"round-do-not-disturb",
+			"round-do-not-disturb-alt",
+			"round-do-not-disturb-off",
 			"round-drive-eta",
 			"round-enhanced-encryption",
 			"round-event-available",
@@ -23530,6 +23601,9 @@
 			"sharp-bluetooth-audio",
 			"sharp-confirmation-number",
 			"sharp-disc-full",
+			"sharp-do-not-disturb",
+			"sharp-do-not-disturb-alt",
+			"sharp-do-not-disturb-off",
 			"sharp-drive-eta",
 			"sharp-enhanced-encryption",
 			"sharp-event-available",
@@ -23583,6 +23657,9 @@
 			"twotone-bluetooth-audio",
 			"twotone-confirmation-number",
 			"twotone-disc-full",
+			"twotone-do-not-disturb",
+			"twotone-do-not-disturb-alt",
+			"twotone-do-not-disturb-off",
 			"twotone-drive-eta",
 			"twotone-enhanced-encryption",
 			"twotone-event-available",

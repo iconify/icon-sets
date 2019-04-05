@@ -21,7 +21,7 @@
 
 
 ### Google Material Icons
-* Number of icons: 5290
+* Number of icons: 5295
 * Author: Material Design Authors
 * URL: https://github.com/cyberalien/google-material-design-icons-updated
 * License: Apache 2.0
@@ -30,12 +30,12 @@
 
 
 ### Unicons
-* Number of icons: 1049
+* Number of icons: 1069
 * Author: Iconscout
 * URL: https://github.com/Iconscout/unicons
 * License: Apache-2.0
 * License URL: https://raw.githubusercontent.com/Iconscout/unicons/master/LICENSE
-* Version: 0.0.3
+* Version: 0.0.4
 * Palette: Colorless
 
 
@@ -443,12 +443,12 @@
 
 
 ### Twitter Emoji
-* Number of icons: 2829
+* Number of icons: 3059
 * Author: Twitter
 * URL: https://github.com/twitter/twemoji
 * License: CC BY 4.0
 * License URL: https://creativecommons.org/licenses/by/4.0/
-* Version: 11.3.0
+* Version: 12.0.0
 * Palette: Colorful
 
 

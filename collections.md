@@ -502,12 +502,12 @@
 
 
 ### Simple Icons
-* Number of icons: 576
+* Number of icons: 587
 * Author: Simple Icons Collaborators
 * URL: https://github.com/simple-icons/simple-icons
 * License: CC0 1.0
 * License URL: https://github.com/simple-icons/simple-icons/blob/develop/LICENSE.md
-* Version: 1.9.24
+* Version: 1.9.25
 * Palette: Colorless
 
 

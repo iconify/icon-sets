@@ -54,7 +54,7 @@
 * URL: https://github.com/driftyco/ionicons
 * License: MIT
 * License URL: https://github.com/driftyco/ionicons/blob/master/LICENSE
-* Version: 4.5.5
+* Version: 4.5.6
 * Palette: Colorless
 
 
@@ -151,6 +151,16 @@
 * License: MIT
 * License URL: https://github.com/feathericon/feathericon/blob/master/LICENSE
 * Version: 1.0.2
+* Palette: Colorless
+
+
+### Gridicons
+* Number of icons: 197
+* Author: Automattic
+* URL: https://github.com/Automattic/gridicons
+* License: GPLv2
+* License URL: https://github.com/Automattic/gridicons/blob/master/LICENSE.md
+* Version: 3.2.0
 * Palette: Colorless
 
 
@@ -545,7 +555,7 @@
 * URL: https://github.com/atomiclabs/cryptocurrency-icons
 * License: CC0 1.0
 * License URL: https://creativecommons.org/publicdomain/zero/1.0/
-* Version: 0.11.0
+* Version: 0.12.0
 * Palette: Colorless
 
 

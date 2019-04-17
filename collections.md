@@ -555,7 +555,7 @@
 * URL: https://github.com/atomiclabs/cryptocurrency-icons
 * License: CC0 1.0
 * License URL: https://creativecommons.org/publicdomain/zero/1.0/
-* Version: 0.12.0
+* Version: 0.13.0
 * Palette: Colorless
 
 

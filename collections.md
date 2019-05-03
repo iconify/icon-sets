@@ -160,7 +160,7 @@
 * URL: https://github.com/Automattic/gridicons
 * License: GPLv2
 * License URL: https://github.com/Automattic/gridicons/blob/master/LICENSE.md
-* Version: 3.2.0
+* Version: 3.3.1
 * Palette: Colorless
 
 
@@ -512,12 +512,12 @@
 
 
 ### Simple Icons
-* Number of icons: 587
+* Number of icons: 596
 * Author: Simple Icons Collaborators
 * URL: https://github.com/simple-icons/simple-icons
 * License: CC0 1.0
 * License URL: https://github.com/simple-icons/simple-icons/blob/develop/LICENSE.md
-* Version: 1.9.25
+* Version: 1.9.26
 * Palette: Colorless
 
 

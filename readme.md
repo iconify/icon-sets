@@ -2,9 +2,9 @@
 
 This is collection of SVG icons created by various authors, released under various free licenses. Some collections require attribution when used for commercial purposes. See [collections.md](./collections.md) for list of collections and their licenses.
 
-All SVG icons have been cleaned up. Content has been optimized, colors for monotone icons have been replaced with currentColor, ready to be inserted in HTML. Tools used for creating this collection are available on [Iconify GitHub repository](https://github.com/iconify-design), more specifically [@iconify/tools](https://github.com/iconify-design/tools). You can use it to create your own JSON packages from custom icon sets.
+All SVG icons have been cleaned up. Content has been optimized, colors for monotone icons have been replaced with currentColor, ready to be inserted in HTML. Tools used for creating this collection are available on [Iconify GitHub repository](https://github.com/iconify), more specifically [@iconify/tools](https://github.com/iconify/tools). You can use it to create your own JSON packages from custom icon sets.
 
-This library is intended to be used in packages that build components, such as [Iconify Tools](https://github.com/iconify-design/tools) and [Iconify React](https://github.com/iconify-design/iconify-react).
+This library is intended to be used in packages that build components, such as [Iconify Tools](https://github.com/iconify/tools) and [Iconify React](https://github.com/iconify/iconify-react).
 
 Repository is updated daily by fully automated script, so it always contains latest icons from various sources.
 
@@ -71,7 +71,7 @@ Icons used by Iconify are in directory json, in Iconify JSON format.
 
 Why JSON instead of SVG? To load images in bulk. 
 
-If you need individual SVG images, you can generate them using Iconify JSON Tools. See instructions for [PHP version](https://github.com/iconify-design/json-tools.php) or [Node.js version](https://github.com/iconify-design/json-tools.js).
+If you need individual SVG images, you can generate them using Iconify JSON Tools. See instructions for [PHP version](https://github.com/iconify/json-tools.php) or [Node.js version](https://github.com/iconify/json-tools.js).
 
 
 Format of json file is very simple:
@@ -116,7 +116,7 @@ For more information see developer documentation on [https://iconify.design/docs
 
 ## Extracting individual SVG icons
 
-See JSON tools readme for instructions for [PHP](https://github.com/iconify-design/json-tools.php) or [Node.js](https://github.com/iconify-design/json-tools.js).
+See JSON tools readme for instructions for [PHP](https://github.com/iconify/json-tools.php) or [Node.js](https://github.com/iconify/json-tools.js).
 
 ```
 const fs = require('fs');

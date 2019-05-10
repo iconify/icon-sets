@@ -416,7 +416,7 @@
 
 
 ### BPMN
-* Number of icons: 111
+* Number of icons: 112
 * Author: BPMN
 * URL: https://github.com/bpmn-io/bpmn-font
 * License: Open Font License

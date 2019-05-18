@@ -3,7 +3,7 @@
 
 
 ### Material Design Icons
-* Number of icons: 3787
+* Number of icons: 3794
 * Author: Austin Andrews
 * URL: https://github.com/Templarian/MaterialDesign
 * License: OFL-1.1
@@ -421,7 +421,7 @@
 * URL: https://github.com/bpmn-io/bpmn-font
 * License: Open Font License
 * License URL: http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL
-* Version: 0.8.0
+* Version: 0.9.0
 * Palette: Colorless
 
 

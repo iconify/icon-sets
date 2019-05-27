@@ -127,7 +127,7 @@
 
 
 ### Ant Design Icons
-* Number of icons: 721
+* Number of icons: 725
 * Author: HeskeyBaozi
 * URL: https://github.com/ant-design/ant-design-icons
 * License: MIT

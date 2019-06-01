@@ -458,7 +458,7 @@
 * URL: https://github.com/twitter/twemoji
 * License: CC BY 4.0
 * License URL: https://creativecommons.org/licenses/by/4.0/
-* Version: 12.0.1
+* Version: 12.0.4
 * Palette: Colorful
 
 
@@ -503,7 +503,7 @@
 
 
 ### SVG Logos
-* Number of icons: 1119
+* Number of icons: 1131
 * Author: Gil Barbara
 * URL: https://github.com/gilbarbara/logos
 * License: CC0

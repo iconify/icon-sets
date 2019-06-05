@@ -59,12 +59,12 @@
 
 
 ### Font Awesome 5 Solid
-* Number of icons: 936
+* Number of icons: 956
 * Author: Dave Gandy
 * URL: http://fontawesome.io/
 * License: CC BY 4.0
 * License URL: https://creativecommons.org/licenses/by/4.0/
-* Version: 5.8.2
+* Version: 5.9.0
 * Palette: Colorless
 
 
@@ -74,7 +74,7 @@
 * URL: http://fontawesome.io/
 * License: CC BY 4.0
 * License URL: https://creativecommons.org/licenses/by/4.0/
-* Version: 5.8.2
+* Version: 5.9.0
 * Palette: Colorless
 
 
@@ -527,7 +527,7 @@
 * URL: http://fontawesome.io/
 * License: CC BY 4.0
 * License URL: https://creativecommons.org/licenses/by/4.0/
-* Version: 5.8.2
+* Version: 5.9.0
 * Palette: Colorless
 
 

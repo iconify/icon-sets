@@ -135,7 +135,7 @@
 
 
 ### Feather Icons
-* Number of icons: 279
+* Number of icons: 280
 * Author: Cole Bemis
 * URL: https://github.com/feathericons/feather
 * License: MIT
@@ -421,7 +421,7 @@
 * URL: https://github.com/bpmn-io/bpmn-font
 * License: Open Font License
 * License URL: http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL
-* Version: 0.9.0
+* Version: 0.9.3
 * Palette: Colorless
 
 

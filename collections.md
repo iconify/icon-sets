@@ -54,7 +54,7 @@
 * URL: https://github.com/driftyco/ionicons
 * License: MIT
 * License URL: https://github.com/driftyco/ionicons/blob/master/LICENSE
-* Version: 4.5.8
+* Version: 4.5.9-1
 * Palette: Colorless
 
 
@@ -550,12 +550,12 @@
 
 
 ### Cryptocurrency Icons
-* Number of icons: 419
+* Number of icons: 425
 * Author: Christopher Downer
 * URL: https://github.com/atomiclabs/cryptocurrency-icons
 * License: CC0 1.0
 * License URL: https://creativecommons.org/publicdomain/zero/1.0/
-* Version: 0.13.0
+* Version: 0.14.0
 * Palette: Colorless
 
 

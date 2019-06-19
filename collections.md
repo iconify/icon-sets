@@ -30,7 +30,7 @@
 
 
 ### Unicons
-* Number of icons: 1068
+* Number of icons: 1111
 * Author: Iconscout
 * URL: https://github.com/Iconscout/unicons
 * License: Apache-2.0

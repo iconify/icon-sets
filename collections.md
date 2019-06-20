@@ -3,7 +3,7 @@
 
 
 ### Material Design Icons
-* Number of icons: 3825
+* Number of icons: 3838
 * Author: Austin Andrews
 * URL: https://github.com/Templarian/MaterialDesign
 * License: OFL-1.1
@@ -54,7 +54,7 @@
 * URL: https://github.com/driftyco/ionicons
 * License: MIT
 * License URL: https://github.com/driftyco/ionicons/blob/master/LICENSE
-* Version: 4.5.9-1
+* Version: 4.5.10-1
 * Palette: Colorless
 
 

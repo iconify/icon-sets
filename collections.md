@@ -453,12 +453,12 @@
 
 
 ### Twitter Emoji
-* Number of icons: 3063
+* Number of icons: 3065
 * Author: Twitter
 * URL: https://github.com/twitter/twemoji
 * License: CC BY 4.0
 * License URL: https://creativecommons.org/licenses/by/4.0/
-* Version: 12.0.4
+* Version: 12.1.2
 * Palette: Colorful
 
 

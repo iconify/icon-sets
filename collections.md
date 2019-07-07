@@ -30,12 +30,12 @@
 
 
 ### Unicons
-* Number of icons: 1111
+* Number of icons: 1113
 * Author: Iconscout
 * URL: https://github.com/Iconscout/unicons
 * License: Apache-2.0
 * License URL: https://raw.githubusercontent.com/Iconscout/unicons/master/LICENSE
-* Version: 0.0.4
+* Version: 1.0.0
 * Palette: Colorless
 
 

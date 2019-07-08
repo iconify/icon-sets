@@ -35,7 +35,7 @@
 * URL: https://github.com/Iconscout/unicons
 * License: Apache-2.0
 * License URL: https://raw.githubusercontent.com/Iconscout/unicons/master/LICENSE
-* Version: 1.0.0
+* Version: 1.0.1
 * Palette: Colorless
 
 
@@ -435,7 +435,7 @@
 
 
 ### Noto Emoji
-* Number of icons: 2331
+* Number of icons: 2814
 * Author: Google Inc
 * URL: https://github.com/googlei18n/noto-emoji
 * License: Apache 2.0

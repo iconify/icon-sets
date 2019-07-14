@@ -54,7 +54,7 @@
 * URL: https://github.com/driftyco/ionicons
 * License: MIT
 * License URL: https://github.com/driftyco/ionicons/blob/master/LICENSE
-* Version: 4.6.1
+* Version: 4.6.2-0
 * Palette: Colorless
 
 
@@ -512,12 +512,12 @@
 
 
 ### Simple Icons
-* Number of icons: 648
+* Number of icons: 653
 * Author: Simple Icons Collaborators
 * URL: https://github.com/simple-icons/simple-icons
 * License: CC0 1.0
 * License URL: https://github.com/simple-icons/simple-icons/blob/develop/LICENSE.md
-* Version: 1.10.0
+* Version: 1.11.0
 * Palette: Colorless
 
 

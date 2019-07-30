@@ -54,7 +54,7 @@
 * URL: https://github.com/driftyco/ionicons
 * License: MIT
 * License URL: https://github.com/driftyco/ionicons/blob/master/LICENSE
-* Version: 4.6.2-0
+* Version: 4.6.2
 * Palette: Colorless
 
 
@@ -64,7 +64,7 @@
 * URL: http://fontawesome.io/
 * License: CC BY 4.0
 * License URL: https://creativecommons.org/licenses/by/4.0/
-* Version: 5.9.0
+* Version: 5.10.0
 * Palette: Colorless
 
 
@@ -74,7 +74,7 @@
 * URL: http://fontawesome.io/
 * License: CC BY 4.0
 * License URL: https://creativecommons.org/licenses/by/4.0/
-* Version: 5.9.0
+* Version: 5.10.0
 * Palette: Colorless
 
 
@@ -522,12 +522,12 @@
 
 
 ### Font Awesome 5 Brands
-* Number of icons: 428
+* Number of icons: 429
 * Author: Dave Gandy
 * URL: http://fontawesome.io/
 * License: CC BY 4.0
 * License URL: https://creativecommons.org/licenses/by/4.0/
-* Version: 5.9.0
+* Version: 5.10.0
 * Palette: Colorless
 
 

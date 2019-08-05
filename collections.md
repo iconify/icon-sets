@@ -64,7 +64,7 @@
 * URL: http://fontawesome.io/
 * License: CC BY 4.0
 * License URL: https://creativecommons.org/licenses/by/4.0/
-* Version: 5.10.0
+* Version: 5.10.1
 * Palette: Colorless
 
 
@@ -74,7 +74,7 @@
 * URL: http://fontawesome.io/
 * License: CC BY 4.0
 * License URL: https://creativecommons.org/licenses/by/4.0/
-* Version: 5.10.0
+* Version: 5.10.1
 * Palette: Colorless
 
 
@@ -527,7 +527,7 @@
 * URL: http://fontawesome.io/
 * License: CC BY 4.0
 * License URL: https://creativecommons.org/licenses/by/4.0/
-* Version: 5.10.0
+* Version: 5.10.1
 * Palette: Colorless
 
 
@@ -550,12 +550,12 @@
 
 
 ### Cryptocurrency Icons
-* Number of icons: 425
+* Number of icons: 426
 * Author: Christopher Downer
 * URL: https://github.com/atomiclabs/cryptocurrency-icons
 * License: CC0 1.0
 * License URL: https://creativecommons.org/publicdomain/zero/1.0/
-* Version: 0.15.0
+* Version: 0.16.0
 * Palette: Colorless
 
 

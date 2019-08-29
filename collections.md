@@ -559,13 +559,13 @@
 * Palette: Colorless
 
 
-### Weather Icons
-* Number of icons: 228
-* Author: Erik Flowers
-* URL: https://github.com/erikflowers/weather-icons
+### Map Icons
+* Number of icons: 167
+* Author: Scott de Jonge
+* URL: https://github.com/scottdejonge/map-icons
 * License: Open Font License
 * License URL: http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL
-* Version: 2.0.10
+* Version: 3.0.2
 * Palette: Colorless
 
 
@@ -578,13 +578,13 @@
 * Palette: Colorless
 
 
-### Map Icons
-* Number of icons: 167
-* Author: Scott de Jonge
-* URL: https://github.com/scottdejonge/map-icons
+### Weather Icons
+* Number of icons: 228
+* Author: Erik Flowers
+* URL: https://github.com/erikflowers/weather-icons
 * License: Open Font License
 * License URL: http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL
-* Version: 3.0.2
+* Version: 2.0.10
 * Palette: Colorless
 
 

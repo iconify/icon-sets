@@ -6,7 +6,7 @@
 * Number of icons: 3948
 * Author: Austin Andrews
 * URL: https://github.com/Templarian/MaterialDesign
-* License: OFL-1.1
+* License: Open Font License
 * License URL: https://raw.githubusercontent.com/Templarian/MaterialDesign/master/LICENSE
 * Palette: Colorless
 
@@ -15,7 +15,7 @@
 * Number of icons: 267
 * Author: Austin Andrews
 * URL: https://github.com/Templarian/MaterialDesignLight
-* License: OFL-1.1
+* License: Open Font License
 * License URL: https://raw.githubusercontent.com/Templarian/MaterialDesignLight/master/LICENSE.md
 * Palette: Colorless
 
@@ -33,7 +33,7 @@
 * Number of icons: 1113
 * Author: Iconscout
 * URL: https://github.com/Iconscout/unicons
-* License: Apache-2.0
+* License: Apache 2.0
 * License URL: https://raw.githubusercontent.com/Iconscout/unicons/master/LICENSE
 * Version: 1.0.1
 * Palette: Colorless
@@ -101,7 +101,7 @@
 * Number of icons: 304
 * Author: WordPress
 * URL: https://github.com/WordPress/dashicons
-* License: GPL v2
+* License: GPL 2.0
 * License URL: http://www.gnu.org/licenses/gpl-2.0.html
 * Version: 0.9.0
 * Palette: Colorless
@@ -158,7 +158,7 @@
 * Number of icons: 197
 * Author: Automattic
 * URL: https://github.com/Automattic/gridicons
-* License: GPLv2
+* License: GPL 2.0
 * License URL: https://github.com/Automattic/gridicons/blob/master/LICENSE.md
 * Version: 3.3.1
 * Palette: Colorless
@@ -188,7 +188,6 @@
 * Author: Zurb
 * URL: https://github.com/zurb/foundation-icon-fonts
 * License: MIT
-* License URL: 
 * Version: 3.0.0
 * Palette: Colorless
 
@@ -197,7 +196,7 @@
 * Number of icons: 336
 * Author: Stephen Hutchings
 * URL: https://github.com/stephenhutchings/typicons.font
-* License: CC BY-SA 4.0
+* License: CC BY SA 4.0
 * License URL: https://creativecommons.org/licenses/by-sa/4.0/
 * Version: 2.0.9
 * Palette: Colorless
@@ -217,7 +216,6 @@
 * Author: Dmitry Baranovskiy
 * URL: http://dmitrybaranovskiy.github.io/raphael/
 * License: MIT
-* License URL: 
 * Palette: Colorless
 
 
@@ -244,7 +242,7 @@
 * Number of icons: 105
 * Author: Innowatio
 * URL: https://github.com/innowatio/iwwa-icons
-* License: Apache License
+* License: Apache 2.0
 * License URL: http://www.apache.org/licenses/LICENSE-2.0
 * Version: 1.1.3
 * Palette: Colorless
@@ -254,7 +252,7 @@
 * Number of icons: 89
 * Author: TopCoat
 * URL: https://github.com/topcoat/icons
-* License: Apache License
+* License: Apache 2.0
 * License URL: http://www.apache.org/licenses/LICENSE-2.0
 * Version: 0.2.0
 * Palette: Colorless
@@ -334,7 +332,7 @@
 * Number of icons: 777
 * Author: MDI Community
 * URL: https://github.com/zavoloklom/material-design-iconic-font
-* License: SIL OFL 1.1
+* License: Open Font License
 * License URL: http://scripts.sil.org/OFL
 * Version: 2.2.0
 * Palette: Colorless
@@ -344,7 +342,7 @@
 * Number of icons: 2125
 * Author: WebHostingHub
 * URL: http://www.webhostinghub.com/glyphs/
-* License: OFL
+* License: Open Font License
 * License URL: http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL
 * Palette: Colorless
 
@@ -353,7 +351,7 @@
 * Number of icons: 800
 * Author: SmartIcons
 * URL: http://glyph.smarticons.co
-* License: CC BY-SA 4.0
+* License: CC BY SA 4.0
 * License URL: https://creativecommons.org/licenses/by-sa/4.0/
 * Version: 0.0.2
 * Palette: Colorless
@@ -363,7 +361,7 @@
 * Number of icons: 348
 * Author: Kazuyuki Motoyama
 * URL: https://github.com/kudakurage/LigatureSymbols
-* License: SIL Open Font
+* License: Open Font License
 * License URL: http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL
 * Palette: Colorless
 
@@ -400,7 +398,7 @@
 * Number of icons: 85
 * Author: Just Be Nice studio
 * URL: http://www.justbenice.ru/studio/websymbols/
-* License: SIL
+* License: Open Font License
 * License URL: http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL
 * Palette: Colorless
 
@@ -429,7 +427,7 @@
 * Number of icons: 34
 * Author: Fontello
 * URL: https://github.com/fontello/fontelico.font
-* License: CC BY
+* License: CC BY SA
 * License URL: http://creativecommons.org/licenses/by-sa/3.0/
 * Palette: Colorless
 
@@ -535,7 +533,7 @@
 * Number of icons: 45
 * Author: Fontello
 * URL: https://github.com/fontello/brandico.font
-* License: CC BY
+* License: CC BY SA
 * License URL: http://creativecommons.org/licenses/by-sa/3.0/
 * Palette: Colorless
 
@@ -555,7 +553,7 @@
 * URL: https://github.com/atomiclabs/cryptocurrency-icons
 * License: CC0 1.0
 * License URL: https://creativecommons.org/publicdomain/zero/1.0/
-* Version: 0.16.0
+* Version: 0.16.1
 * Palette: Colorless
 
 

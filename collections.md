@@ -49,22 +49,22 @@
 
 
 ### IonIcons
-* Number of icons: 696
+* Number of icons: 1172
 * Author: Ben Sperry
 * URL: https://github.com/driftyco/ionicons
 * License: MIT
 * License URL: https://github.com/driftyco/ionicons/blob/master/LICENSE
-* Version: 4.6.3
+* Version: 5.0.0-0
 * Palette: Colorless
 
 
 ### Font Awesome 5 Solid
-* Number of icons: 956
+* Number of icons: 960
 * Author: Dave Gandy
 * URL: http://fontawesome.io/
 * License: CC BY 4.0
 * License URL: https://creativecommons.org/licenses/by/4.0/
-* Version: 5.10.2
+* Version: 5.11.0
 * Palette: Colorless
 
 
@@ -74,7 +74,7 @@
 * URL: http://fontawesome.io/
 * License: CC BY 4.0
 * License URL: https://creativecommons.org/licenses/by/4.0/
-* Version: 5.10.2
+* Version: 5.11.0
 * Palette: Colorless
 
 
@@ -520,12 +520,12 @@
 
 
 ### Font Awesome 5 Brands
-* Number of icons: 429
+* Number of icons: 434
 * Author: Dave Gandy
 * URL: http://fontawesome.io/
 * License: CC BY 4.0
 * License URL: https://creativecommons.org/licenses/by/4.0/
-* Version: 5.10.2
+* Version: 5.11.0
 * Palette: Colorless
 
 

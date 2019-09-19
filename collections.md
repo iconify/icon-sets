@@ -64,7 +64,7 @@
 * URL: http://fontawesome.io/
 * License: CC BY 4.0
 * License URL: https://creativecommons.org/licenses/by/4.0/
-* Version: 5.11.0
+* Version: 5.11.1
 * Palette: Colorless
 
 
@@ -74,7 +74,7 @@
 * URL: http://fontawesome.io/
 * License: CC BY 4.0
 * License URL: https://creativecommons.org/licenses/by/4.0/
-* Version: 5.11.0
+* Version: 5.11.1
 * Palette: Colorless
 
 
@@ -456,7 +456,7 @@
 * URL: https://github.com/twitter/twemoji
 * License: CC BY 4.0
 * License URL: https://creativecommons.org/licenses/by/4.0/
-* Version: 12.1.2
+* Version: 12.1.3
 * Palette: Colorful
 
 
@@ -525,7 +525,7 @@
 * URL: http://fontawesome.io/
 * License: CC BY 4.0
 * License URL: https://creativecommons.org/licenses/by/4.0/
-* Version: 5.11.0
+* Version: 5.11.1
 * Palette: Colorless
 
 

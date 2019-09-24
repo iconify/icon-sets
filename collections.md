@@ -49,12 +49,12 @@
 
 
 ### IonIcons
-* Number of icons: 1172
+* Number of icons: 1227
 * Author: Ben Sperry
 * URL: https://github.com/driftyco/ionicons
 * License: MIT
 * License URL: https://github.com/driftyco/ionicons/blob/master/LICENSE
-* Version: 5.0.0-1
+* Version: 5.0.0-3
 * Palette: Colorless
 
 
@@ -284,7 +284,7 @@
 * URL: https://github.com/mapbox/maki
 * License: CC0
 * License URL: http://creativecommons.org/publicdomain/zero/1.0/
-* Version: 6.1.0
+* Version: 6.1.1
 * Palette: Colorless
 
 

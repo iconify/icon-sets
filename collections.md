@@ -54,7 +54,7 @@
 * URL: https://github.com/driftyco/ionicons
 * License: MIT
 * License URL: https://github.com/driftyco/ionicons/blob/master/LICENSE
-* Version: 5.0.0-0
+* Version: 5.0.0-1
 * Palette: Colorless
 
 
@@ -64,7 +64,7 @@
 * URL: http://fontawesome.io/
 * License: CC BY 4.0
 * License URL: https://creativecommons.org/licenses/by/4.0/
-* Version: 5.11.1
+* Version: 5.11.2
 * Palette: Colorless
 
 
@@ -74,7 +74,7 @@
 * URL: http://fontawesome.io/
 * License: CC BY 4.0
 * License URL: https://creativecommons.org/licenses/by/4.0/
-* Version: 5.11.1
+* Version: 5.11.2
 * Palette: Colorless
 
 
@@ -525,7 +525,7 @@
 * URL: http://fontawesome.io/
 * License: CC BY 4.0
 * License URL: https://creativecommons.org/licenses/by/4.0/
-* Version: 5.11.1
+* Version: 5.11.2
 * Palette: Colorless
 
 

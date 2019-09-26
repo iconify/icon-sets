@@ -49,12 +49,12 @@
 
 
 ### IonIcons
-* Number of icons: 1227
+* Number of icons: 1226
 * Author: Ben Sperry
 * URL: https://github.com/driftyco/ionicons
 * License: MIT
 * License URL: https://github.com/driftyco/ionicons/blob/master/LICENSE
-* Version: 5.0.0-5
+* Version: 5.0.0-6
 * Palette: Colorless
 
 

@@ -3,7 +3,7 @@
 
 
 ### Material Design Icons
-* Number of icons: 4601
+* Number of icons: 4602
 * Author: Austin Andrews
 * URL: https://github.com/Templarian/MaterialDesign
 * License: Open Font License
@@ -501,7 +501,7 @@
 
 
 ### SVG Logos
-* Number of icons: 1131
+* Number of icons: 1148
 * Author: Gil Barbara
 * URL: https://github.com/gilbarbara/logos
 * License: CC0
@@ -510,12 +510,12 @@
 
 
 ### Simple Icons
-* Number of icons: 702
+* Number of icons: 727
 * Author: Simple Icons Collaborators
 * URL: https://github.com/simple-icons/simple-icons
 * License: CC0 1.0
 * License URL: https://github.com/simple-icons/simple-icons/blob/develop/LICENSE.md
-* Version: 1.17.1
+* Version: 1.18.0
 * Palette: Colorless
 
 

@@ -2,7 +2,7 @@
 	"prefix": "mdi",
 	"info": {
 		"name": "Material Design Icons",
-		"total": 4602,
+		"total": 4606,
 		"author": {
 			"name": "Austin Andrews",
 			"url": "https://github.com/Templarian/MaterialDesign"
@@ -171,6 +171,9 @@
 		},
 		"account-multiple-check": {
 			"body": "<path d=\"M19 17v2H7v-2s0-4 6-4s6 4 6 4m-3-9a3 3 0 1 0-3 3a3 3 0 0 0 3-3m3.2 5.06A5.6 5.6 0 0 1 21 17v2h3v-2s0-3.45-4.8-3.94M18 5a2.91 2.91 0 0 0-.89.14a5 5 0 0 1 0 5.72A2.91 2.91 0 0 0 18 11a3 3 0 0 0 0-6M7.34 8.92l1.16 1.41l-4.75 4.75l-2.75-3l1.16-1.16l1.59 1.58l3.59-3.58\" fill=\"currentColor\"/>"
+		},
+		"account-multiple-check-outline": {
+			"body": "<path d=\"M13 11a3 3 0 1 0-3-3a3 3 0 0 0 3 3m0-4a1 1 0 1 1-1 1a1 1 0 0 1 1-1m4.11 3.86a5 5 0 0 0 0-5.72A2.91 2.91 0 0 1 18 5a3 3 0 0 1 0 6a2.91 2.91 0 0 1-.89-.14M13 13c-6 0-6 4-6 4v2h12v-2s0-4-6-4m-4 4c0-.29.32-2 4-2c3.5 0 3.94 1.56 4 2m7 0v2h-3v-2a5.6 5.6 0 0 0-1.8-3.94C24 13.55 24 17 24 17M7.34 8.92l1.16 1.41l-4.75 4.75l-2.75-3l1.16-1.16l1.59 1.58l3.59-3.58\" fill=\"currentColor\"/>"
 		},
 		"account-multiple-minus": {
 			"body": "<path d=\"M19 17v2H7v-2s0-4 6-4s6 4 6 4m-3-9a3 3 0 1 0-3 3a3 3 0 0 0 3-3m3.2 5.06A5.6 5.6 0 0 1 21 17v2h3v-2s0-3.45-4.8-3.94M18 5a2.91 2.91 0 0 0-.89.14a5 5 0 0 1 0 5.72A2.91 2.91 0 0 0 18 11a3 3 0 0 0 0-6M8 10H0v2h8z\" fill=\"currentColor\"/>"
@@ -8471,9 +8474,6 @@
 		"magnet-on": {
 			"body": "<path d=\"M3 7v6a9 9 0 0 0 9 9a9 9 0 0 0 9-9V7h-4v6a5 5 0 0 1-5 5a5 5 0 0 1-5-5V7m10-2h4V2h-4M3 5h4V2H3m10-.5L9 9h2v5.5L15 7h-2V1.5z\" fill=\"currentColor\"/>"
 		},
-		"magnify": {
-			"body": "<path d=\"M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5l-1.5 1.5l-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16A6.5 6.5 0 0 1 3 9.5A6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14S14 12 14 9.5S12 5 9.5 5z\" fill=\"currentColor\"/>"
-		},
 		"magnify-close": {
 			"body": "<path d=\"M9 2a7 7 0 0 1 7 7c0 1.5-.5 3-1.39 4.19l.8.81H16l6 6l-2 2l-6-6v-.59l-.81-.8A7.07 7.07 0 0 1 9 16a7 7 0 0 1-7-7a7 7 0 0 1 7-7m2.12 3.46L9 7.59L6.88 5.46L5.46 6.88L7.59 9l-2.13 2.12l1.42 1.42L9 10.41l2.12 2.13l1.42-1.42L10.41 9l2.13-2.12l-1.42-1.42z\" fill=\"currentColor\"/>"
 		},
@@ -8485,6 +8485,9 @@
 		},
 		"magnify-minus-outline": {
 			"body": "<path d=\"M15.5 14h-.79l-.28-.27A6.471 6.471 0 0 0 16 9.5A6.5 6.5 0 0 0 9.5 3A6.5 6.5 0 0 0 3 9.5A6.5 6.5 0 0 0 9.5 16c1.61 0 3.09-.59 4.23-1.57l.27.28v.79l5 5l1.5-1.5l-5-5m-6 0C7 14 5 12 5 9.5S7 5 9.5 5S14 7 14 9.5S12 14 9.5 14M7 9h5v1H7V9z\" fill=\"currentColor\"/>"
+		},
+		"magnify-outline": {
+			"body": "<path d=\"M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5l-1.5 1.5l-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16A6.5 6.5 0 0 1 3 9.5A6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14S14 12 14 9.5S12 5 9.5 5z\" fill=\"currentColor\"/>"
 		},
 		"magnify-plus": {
 			"body": "<path d=\"M9 2a7 7 0 0 1 7 7c0 1.57-.5 3-1.39 4.19l.8.81H16l6 6l-2 2l-6-6v-.59l-.81-.8A6.916 6.916 0 0 1 9 16a7 7 0 0 1-7-7a7 7 0 0 1 7-7M8 5v3H5v2h3v3h2v-3h3V8h-3V5H8z\" fill=\"currentColor\"/>"
@@ -8934,6 +8937,9 @@
 		},
 		"minus-network-outline": {
 			"body": "<path d=\"M15 20a1 1 0 0 0-1-1h-1v-2h4a2 2 0 0 0 2-2V5a2 2 0 0 0-2-2H7a2 2 0 0 0-2 2v10a2 2 0 0 0 2 2h4v2h-1a1 1 0 0 0-1 1H2v2h7a1 1 0 0 0 1 1h4a1 1 0 0 0 1-1h7v-2h-7m-8-5V5h10v10H7m8-4V9H9v2h6\" fill=\"currentColor\"/>"
+		},
+		"mirror": {
+			"body": "<path d=\"M12 1c4.69 0 8.5 4.93 8.5 11c0 6.08-3.81 11-8.5 11c-4.69 0-8.5-4.92-8.5-11C3.5 5.93 7.31 1 12 1m0 2c-3.59 0-6.5 4.03-6.5 9s2.91 9 6.5 9s6.5-4.03 6.5-9s-2.91-9-6.5-9m-3.71 7.28l3.24-3.25l1.06 1.06l-3.24 3.25l-1.06-1.06m.41 4.33l5.66-5.66L15.42 10l-5.66 5.67l-1.06-1.06z\" fill=\"currentColor\"/>"
 		},
 		"mixcloud": {
 			"body": "<path d=\"M21.11 18.5c-.14 0-.28-.06-.4-.14a.74.74 0 0 1-.21-1.02c.68-1 1.04-2.18 1.04-3.41c0-1.22-.36-2.4-1.04-3.43a.72.72 0 0 1 .21-1c.33-.22.79-.13 1.01.2A7.545 7.545 0 0 1 23 13.93c0 1.52-.44 2.98-1.28 4.23c-.14.21-.37.34-.61.34M19 17.29c-.12 0-.26-.04-.39-.12a.734.734 0 0 1-.19-1.02c.44-.65.68-1.42.68-2.22c0-.79-.24-1.56-.68-2.22a.736.736 0 0 1 .19-1.02c.34-.22.79-.14 1.02.2a5.44 5.44 0 0 1 0 6.08c-.13.21-.38.32-.63.32m-4.1-1.56a1.8 1.8 0 0 0 .65-3.48c-.05.3-.12.6-.21.89c-.11.3-.39.5-.7.5c-.07 0-.14-.02-.23-.04a.734.734 0 0 1-.46-.93c.14-.43.22-.89.22-1.35C14.17 8.93 12.22 7 9.82 7C8.1 7 6.56 8 5.87 9.5c.67.2 1.29.54 1.79 1.04c.29.29.29.75 0 1.04c-.28.28-.75.28-1.03 0c-.46-.46-1.07-.72-1.73-.72a2.45 2.45 0 0 0-2.44 2.44c0 1.34 1.1 2.43 2.44 2.43h10m.7-4.98c1.46.32 2.57 1.62 2.57 3.18c0 1.8-1.47 3.26-3.27 3.26h-10c-2.15 0-3.9-1.74-3.9-3.89c0-1.96 1.45-3.57 3.33-3.85c.79-2.33 3-3.95 5.49-3.95c3.01 0 5.49 2.32 5.78 5.25z\" fill=\"currentColor\"/>"
@@ -12782,6 +12788,12 @@
 		},
 		"timeline-alert-outline": {
 			"body": "<path d=\"M4 2v6H2V2h2M2 22v-6h2v6H2m3-10c0 1.11-.89 2-2 2a2 2 0 1 1 2-2m19-6v12c0 1.11-.89 2-2 2H10a2 2 0 0 1-2-2v-4l-2-2l2-2V6a2 2 0 0 1 2-2h12c1.11 0 2 .89 2 2M10 6v12h12V6H10m5 1h2v6h-2V7m0 8h2v2h-2v-2z\" fill=\"currentColor\"/>"
+		},
+		"timeline-clock": {
+			"body": "<path d=\"M4 2v6H2V2h2M2 22v-6h2v6H2m3-10c0 1.11-.89 2-2 2a2 2 0 1 1 2-2m11-8c4.42 0 8 3.58 8 8s-3.58 8-8 8c-3.6 0-6.64-2.38-7.65-5.65L6 12l2.35-2.35C9.36 6.38 12.4 4 16 4m-1 9l4.53 2.79l.8-1.29l-3.83-2.3V7H15v6z\" fill=\"currentColor\"/>"
+		},
+		"timeline-clock-outline": {
+			"body": "<path d=\"M4 2v6H2V2h2M2 22v-6h2v6H2m3-10c0 1.11-.89 2-2 2a2 2 0 1 1 2-2m11-8c4.42 0 8 3.58 8 8s-3.58 8-8 8c-3.6 0-6.64-2.38-7.65-5.65L6 12l2.35-2.35C9.36 6.38 12.4 4 16 4m0 2c-3.31 0-6 2.69-6 6s2.69 6 6 6s6-2.69 6-6s-2.69-6-6-6m-1 7V8h1.5v4.2l3 1.8l-.82 1.26L15 13z\" fill=\"currentColor\"/>"
 		},
 		"timeline-help": {
 			"body": "<path d=\"M4 2v6H2V2h2M2 22v-6h2v6H2m3-10c0 1.11-.89 2-2 2a2 2 0 1 1 2-2m19-6v12c0 1.11-.89 2-2 2H10a2 2 0 0 1-2-2v-4l-2-2l2-2V6a2 2 0 0 1 2-2h12c1.11 0 2 .89 2 2m-7.5 9.5H15V17h1.5v-1.5m-2-5V10c0-.83.67-1.5 1.5-1.5s1.5.68 1.5 1.5c0 .47-.23.9-.62 1.16l-.29.19C15.6 12 15 13.11 15 14.3v.2h1.5v-.2c0-.68.34-1.3.91-1.7l.3-.19C18.5 11.88 19 10.97 19 10c0-1.66-1.34-3-3-3s-3 1.34-3 3v.5h1.5z\" fill=\"currentColor\"/>"
@@ -17453,6 +17465,9 @@
 		"football-pitch": {
 			"parent": "soccer-field"
 		},
+		"football-play": {
+			"parent": "strategy"
+		},
 		"footprints": {
 			"parent": "shoe-print"
 		},
@@ -19117,6 +19132,9 @@
 		},
 		"magic": {
 			"parent": "auto-fix"
+		},
+		"magnify": {
+			"parent": "magnify-outline"
 		},
 		"magnify-add": {
 			"parent": "magnify-plus"
@@ -21053,6 +21071,9 @@
 		"record-voice-over": {
 			"parent": "voice"
 		},
+		"recreational-vehicle": {
+			"parent": "rv-truck"
+		},
 		"redeem": {
 			"parent": "wallet-giftcard"
 		},
@@ -21288,7 +21309,7 @@
 			"parent": "certificate-outline"
 		},
 		"search": {
-			"parent": "magnify"
+			"parent": "magnify-outline"
 		},
 		"search-add": {
 			"parent": "magnify-plus"
@@ -23823,6 +23844,10 @@
 		"f0223": "fast-forward-5",
 		"f0224": "rewind-5",
 		"f0225": "shape-oval-plus",
+		"f0226": "timeline-clock",
+		"f0227": "timeline-clock-outline",
+		"f0228": "mirror",
+		"f0229": "account-multiple-check-outline",
 		"f023": "alarm-off",
 		"f024": "alarm-plus",
 		"f025": "album",
@@ -24629,7 +24654,7 @@
 		"f346": "lumx",
 		"f347": "magnet",
 		"f348": "magnet-on",
-		"f349": "magnify",
+		"f349": "magnify-outline",
 		"f34a": "magnify-minus",
 		"f34b": "magnify-plus",
 		"f34c": "mail-ru",
@@ -27854,6 +27879,7 @@
 			"account-minus-outline",
 			"account-multiple",
 			"account-multiple-check",
+			"account-multiple-check-outline",
 			"account-multiple-minus",
 			"account-multiple-minus-outline",
 			"account-multiple-outline",
@@ -30345,6 +30371,7 @@
 			"lock-outline",
 			"lock-smart",
 			"microwave",
+			"mirror",
 			"motion-sensor",
 			"outdoor-lamp",
 			"paper-roll",

@@ -3,7 +3,7 @@
 
 
 ### Material Design Icons
-* Number of icons: 4602
+* Number of icons: 4606
 * Author: Austin Andrews
 * URL: https://github.com/Templarian/MaterialDesign
 * License: Open Font License
@@ -501,7 +501,7 @@
 
 
 ### SVG Logos
-* Number of icons: 1148
+* Number of icons: 1156
 * Author: Gil Barbara
 * URL: https://github.com/gilbarbara/logos
 * License: CC0

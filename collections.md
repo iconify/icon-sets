@@ -54,7 +54,7 @@
 * URL: https://github.com/driftyco/ionicons
 * License: MIT
 * License URL: https://github.com/driftyco/ionicons/blob/master/LICENSE
-* Version: 5.0.0-7
+* Version: 5.0.0-8
 * Palette: Colorless
 
 
@@ -501,7 +501,7 @@
 
 
 ### SVG Logos
-* Number of icons: 1156
+* Number of icons: 1135
 * Author: Gil Barbara
 * URL: https://github.com/gilbarbara/logos
 * License: CC0

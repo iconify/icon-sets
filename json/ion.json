@@ -12,7 +12,7 @@
 			"spdx": "MIT",
 			"url": "https://github.com/driftyco/ionicons/blob/master/LICENSE"
 		},
-		"version": "5.0.0-8",
+		"version": "5.0.0-9",
 		"samples": [
 			"ios-add-circle-outline",
 			"ios-bicycle",
@@ -7298,15 +7298,6 @@
 		"swap-vertical-sharp": {
 			"body": "<path fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"square\" stroke-miterlimit=\"10\" stroke-width=\"32\" d=\"M464 208L352 96L240 208\"/><path fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"square\" stroke-miterlimit=\"10\" stroke-width=\"32\" d=\"M352 113.13V416\"/><path fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"square\" stroke-miterlimit=\"10\" stroke-width=\"32\" d=\"M48 304l112 112l112-112\"/><path fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"square\" stroke-miterlimit=\"10\" stroke-width=\"32\" d=\"M160 398V96\"/>"
 		},
-		"switch": {
-			"body": "<path d=\"M368 112H144C64.6 112 0 176.6 0 256s64.6 144 144 144h224c79.4 0 144-64.6 144-144s-64.6-144-144-144zm0 256a112 112 0 1 1 112-112a112.12 112.12 0 0 1-112 112z\" fill=\"currentColor\"/>"
-		},
-		"switch-outline": {
-			"body": "<circle cx=\"368\" cy=\"256\" r=\"128\" fill=\"none\" stroke=\"currentColor\" stroke-linejoin=\"round\" stroke-width=\"32\"/><rect x=\"16\" y=\"128\" width=\"480\" height=\"256\" rx=\"128\" ry=\"128\" fill=\"none\" stroke=\"currentColor\" stroke-linejoin=\"round\" stroke-width=\"32\"/>"
-		},
-		"switch-sharp": {
-			"body": "<path d=\"M368 112H144a144 144 0 0 0 0 288h224a144 144 0 0 0 0-288zm0 230a86 86 0 1 1 86-86a85.88 85.88 0 0 1-86 86z\" fill=\"currentColor\"/>"
-		},
 		"sync": {
 			"body": "<path d=\"M434.67 285.59v-29.8c0-98.73-80.24-178.79-179.2-178.79a179 179 0 0 0-140.14 67.36m-38.53 82v29.8C76.8 355 157 435 256 435a180.45 180.45 0 0 0 140-66.92\" fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"32\"/><path fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"32\" d=\"M32 256l44-44l46 44\"/><path fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"32\" d=\"M480 256l-44 44l-46-44\"/>"
 		},
@@ -7441,9 +7432,18 @@
 		"today-sharp": {
 			"body": "<rect x=\"112\" y=\"208\" width=\"128\" height=\"128\" rx=\"9.14\" ry=\"9.14\" fill=\"currentColor\"/><path d=\"M448 64h-48V32h-40v32H152V32h-40v32H64a32 32 0 0 0-32 32v352a32 32 0 0 0 32 32h384a32 32 0 0 0 32-32V96a32 32 0 0 0-32-32zm-12 372H76V176h360z\" fill=\"currentColor\"/>"
 		},
+		"toggle": {
+			"body": "<path d=\"M368 112H144C64.6 112 0 176.6 0 256s64.6 144 144 144h224c79.4 0 144-64.6 144-144s-64.6-144-144-144zm0 256a112 112 0 1 1 112-112a112.12 112.12 0 0 1-112 112z\" fill=\"currentColor\"/>"
+		},
 		"toggle-filled": {
 			"body": "<path d=\"M352 208c-26.467 0-48 21.533-48 48s21.533 48 48 48 48-21.533 48-48-21.533-48-48-48z\" fill=\"currentColor\"/><path d=\"M352 128H160c-70.692 0-128 57.308-128 128s57.308 128 128 128h192c70.692 0 128-57.308 128-128s-57.308-128-128-128zm0 208c-44.183 0-80-35.817-80-80s35.817-80 80-80 80 35.817 80 80-35.817 80-80 80z\" fill=\"currentColor\"/>",
 			"hidden": true
+		},
+		"toggle-outline": {
+			"body": "<circle cx=\"368\" cy=\"256\" r=\"128\" fill=\"none\" stroke=\"currentColor\" stroke-linejoin=\"round\" stroke-width=\"32\"/><rect x=\"16\" y=\"128\" width=\"480\" height=\"256\" rx=\"128\" ry=\"128\" fill=\"none\" stroke=\"currentColor\" stroke-linejoin=\"round\" stroke-width=\"32\"/>"
+		},
+		"toggle-sharp": {
+			"body": "<path d=\"M368 112H144a144 144 0 0 0 0 288h224a144 144 0 0 0 0-288zm0 230a86 86 0 1 1 86-86a85.88 85.88 0 0 1-86 86z\" fill=\"currentColor\"/>"
 		},
 		"trail-sign": {
 			"body": "<path d=\"M491.31 324.69L432 265.37a31.8 31.8 0 0 0-22.63-9.37H272v-32h144a32 32 0 0 0 32-32V96a32 32 0 0 0-32-32H272V48a16 16 0 0 0-32 0v16H102.63A31.8 31.8 0 0 0 80 73.37l-59.31 59.32a16 16 0 0 0 0 22.62L80 214.63a31.8 31.8 0 0 0 22.63 9.37H240v32H96a32 32 0 0 0-32 32v96a32 32 0 0 0 32 32h144v48a16 16 0 0 0 32 0v-48h137.37a31.8 31.8 0 0 0 22.63-9.37l59.31-59.32a16 16 0 0 0 0-22.62z\" fill=\"currentColor\"/>"
@@ -8430,28 +8430,14 @@
 		"social-youtube": {
 			"parent": "logo-youtube"
 		},
-		"toggle": {
-			"parent": "switch"
+		"switch": {
+			"parent": "toggle"
 		},
-		"toggle-outline": {
-			"parent": "switch-outline"
+		"switch-outline": {
+			"parent": "toggle-outline"
 		},
-		"toggle-sharp": {
-			"parent": "switch-sharp"
-		}
-	},
-	"themes": {
-		"md": {
-			"title": "Android",
-			"prefix": "md-"
-		},
-		"ios": {
-			"title": "iOS",
-			"prefix": "ios-"
-		},
-		"logo": {
-			"title": "Logos",
-			"prefix": "logo-"
+		"switch-sharp": {
+			"parent": "toggle-sharp"
 		}
 	},
 	"width": 512,

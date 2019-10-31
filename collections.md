@@ -501,7 +501,7 @@
 
 
 ### SVG Logos
-* Number of icons: 1149
+* Number of icons: 1162
 * Author: Gil Barbara
 * URL: https://github.com/gilbarbara/logos
 * License: CC0

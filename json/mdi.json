@@ -2,7 +2,7 @@
 	"prefix": "mdi",
 	"info": {
 		"name": "Material Design Icons",
-		"total": 4687,
+		"total": 4695,
 		"author": {
 			"name": "Austin Andrews",
 			"url": "https://github.com/Templarian/MaterialDesign"
@@ -939,6 +939,9 @@
 		},
 		"api": {
 			"body": "<path d=\"M7 7H5a2 2 0 0 0-2 2v8h2v-4h2v4h2V9a2 2 0 0 0-2-2m0 4H5V9h2m7-2h-4v10h2v-4h2a2 2 0 0 0 2-2V9a2 2 0 0 0-2-2m0 4h-2V9h2m6 0v6h1v2h-4v-2h1V9h-1V7h4v2z\" fill=\"currentColor\"/>"
+		},
+		"api-off": {
+			"body": "<path d=\"M7 11H5V9h2m7-2h-2.62l1.91 2H14v.75l1.87 1.96c.08-.21.13-.46.13-.71V9a2 2 0 0 0-2-2M4.45 2.62L3 4l2.86 3H5c-1.1 0-2 .9-2 2v8h2v-4h2v4h2v-6.7l1 1.04V17h2v-3.55l7.55 7.93L21 20m-.1-3h.1v-2h-1V9h1V7h-4v2h1v4.95z\" fill=\"currentColor\"/>"
 		},
 		"apple": {
 			"body": "<path d=\"M18.71 19.5c-.83 1.24-1.71 2.45-3.05 2.47c-1.34.03-1.77-.79-3.29-.79c-1.53 0-2 .77-3.27.82c-1.31.05-2.3-1.32-3.14-2.53C4.25 17 2.94 12.45 4.7 9.39c.87-1.52 2.43-2.48 4.12-2.51c1.28-.02 2.5.87 3.29.87c.78 0 2.26-1.07 3.81-.91c.65.03 2.47.26 3.64 1.98c-.09.06-2.17 1.28-2.15 3.81c.03 3.02 2.65 4.03 2.68 4.04c-.03.07-.42 1.44-1.38 2.83M13 3.5c.73-.83 1.94-1.46 2.94-1.5c.13 1.17-.34 2.35-1.04 3.19c-.69.85-1.83 1.51-2.95 1.42c-.15-1.15.41-2.35 1.05-3.11z\" fill=\"currentColor\"/>"
@@ -5093,6 +5096,9 @@
 		"edge": {
 			"body": "<path d=\"M22 10.25c0 2.81-2.09 5.08-4.67 5.08c-1.83 0-2.9-.33-3.36-.7c-.47-.37-.36-.63-.16-.85a2.5 2.5 0 0 0 .69-1.74c0-1.38-1.11-2.51-2.5-2.51s-2.5 1.13-2.5 2.51c0 2.72 2.75 5.76 6.9 5.76c2.06 0 2.97-.62 3.75-.94c.29-.04.41.37.29.55A10.044 10.044 0 0 1 12 21.96C6.5 21.96 2 17.5 2 12c0-5.5 4.5-9.96 10-9.96c6.88 0 10 5.19 10 8.21z\" fill=\"currentColor\"/>"
 		},
+		"edge-legacy": {
+			"body": "<path d=\"M2.737 10.808c1.092-12.17 19.779-12.17 18.46 2.75H8.614c0 4.295 5.802 5.651 10.925 2.75v4.22c-6.291 3.353-14.542.904-14.542-6.443c0-5.5 4.973-7.27 4.973-7.27s-1.394 1.77-1.431 3.24h7.158c0-7.121-9.796-4.484-12.96.753z\" fill=\"currentColor\"/>"
+		},
 		"egg": {
 			"body": "<path d=\"M19.5 14.5A7.5 7.5 0 0 1 12 22a7.5 7.5 0 0 1-7.5-7.5C4.5 10.36 7.86 2 12 2c4.14 0 7.5 8.36 7.5 12.5z\" fill=\"currentColor\"/>"
 		},
@@ -5418,7 +5424,7 @@
 			"body": "<path d=\"M2 7v1.5h1V17h1.5V7H2m4 0v9h1v1h7v-1h8V7H6m11.5 2a2.5 2.5 0 0 1 2.5 2.5a2.5 2.5 0 0 1-2.5 2.5a2.5 2.5 0 0 1-2.5-2.5A2.5 2.5 0 0 1 17.5 9z\" fill=\"currentColor\"/>"
 		},
 		"expansion-card-variant": {
-			"body": "<path d=\"M2 8h2.5v10H3V9.5H2M22 8v9h-8v1H7v-1H6V8m4 2H8v3h2m3-3h-2v3h2m7-3h-5v5h5z\" fill=\"currentColor\"/>"
+			"body": "<path d=\"M2 7h2.5v10H3V8.5H2M22 7v9h-8v1H7v-1H6V7m4 2H8v3h2m3-3h-2v3h2m7-3h-5v5h5V9z\" fill=\"currentColor\"/>"
 		},
 		"exponent": {
 			"body": "<path d=\"M15.38 3l2.39 5.75c-.22.93-.5 1.57-.77 1.95c-.33.48-.56.55-.81.55v1.5c.75 0 1.55-.4 2.05-1.19C19.87 8.94 22 3 22 3h-1.62l-1.69 4.05L17 3h-1.62M3.42 8.59L2 10l4.79 4.79L2 19.59L3.41 21l4.8-4.79L13 21l1.41-1.41l-4.79-4.8L14.41 10L13 8.59l-4.79 4.79l-4.8-4.79h.01z\" fill=\"currentColor\"/>"
@@ -7732,6 +7738,12 @@
 		"home-import-outline": {
 			"body": "<path d=\"M15 13l-4-4v3H2v2h9v3m10.9-5H20v9H4v-5h2v3h12v-8.1l-6-6L6.9 10H4.1L12 2.1l9.9 9.9z\" fill=\"currentColor\"/>"
 		},
+		"home-lightbulb": {
+			"body": "<path d=\"M12 3L2 12h3v8h14v-8h3m-9 6h-2v-1h2m.5-2.42V16h-3v-1.42a3 3 0 1 1 3 0z\" fill=\"currentColor\"/>"
+		},
+		"home-lightbulb-outline": {
+			"body": "<path d=\"M12 2L2 12h2v8.91h16V12h2M12 4.82l6 6v8.09H6v-8.09m7.5 3.76V16h-3v-1.42a3 3 0 1 1 3 0M13 17h-2v1h2z\" fill=\"currentColor\"/>"
+		},
 		"home-lock": {
 			"body": "<path d=\"M12 3L2 12h3v8h14v-8h3L12 3m0 6a3 3 0 0 1 3 3v1h1v4H8v-4h1v-1a3 3 0 0 1 3-3m0 2a1 1 0 0 0-1 1v1h2v-1c0-.5-.4-1-1-1z\" fill=\"currentColor\"/>"
 		},
@@ -8484,6 +8496,18 @@
 		},
 		"lightbulb-cfl-off": {
 			"body": "<path d=\"M14 4.47c0-.91-.37-1.77-1-2.42c.17-.05.33-.05.5-.05A2.5 2.5 0 0 1 16 4.5V14h1v1.18l-3-3V4.47m-4 .03c0-.28.22-.5.5-.5s.5.22.5.5v4.68l2 2V4.5a2.5 2.5 0 0 0-5 0v1.68l2 2V4.5M9 21c0 .55.45 1 1 1h4c.55 0 1-.45 1-1v-1H9v1m11-.28L18.73 22l-4-4H8c-.55 0-1-.45-1-1v-3h1v-2.73l-6-6L3.28 4L20 20.72z\" fill=\"currentColor\"/>"
+		},
+		"lightbulb-group": {
+			"body": "<path d=\"M15 14v2a1 1 0 0 1-1 1h-4a1 1 0 0 1-1-1v-2a5 5 0 1 1 6 0m-1 4h-4v1a1 1 0 0 0 1 1h2a1 1 0 0 0 1-1m-7 0v-1H5v1a1 1 0 0 0 1 1h1.17A2.93 2.93 0 0 1 7 19m-2-9a6.79 6.79 0 0 1 .68-3A4 4 0 0 0 4 14.45V16a1 1 0 0 0 1 1h2v-2.12A6.92 6.92 0 0 1 5 10m12 8v1a2.93 2.93 0 0 1-.17 1H18a1 1 0 0 0 1-1v-1m-.68-11a6.79 6.79 0 0 1 .68 3a6.92 6.92 0 0 1-2 4.88V17h2a1 1 0 0 0 1-1v-1.55A4 4 0 0 0 18.32 7z\" fill=\"currentColor\"/>"
+		},
+		"lightbulb-group-outline": {
+			"body": "<path d=\"M7 19a2.93 2.93 0 0 0 .17 1H6a1 1 0 0 1-1-1v-1h2m3 1a1 1 0 0 0 1 1h2a1 1 0 0 0 1-1v-1h-4m-6-2a1 1 0 0 0 1 1h2v-2.12A6.92 6.92 0 0 1 5 10a6.79 6.79 0 0 1 .68-3A4 4 0 0 0 4 14.45M17 19a2.93 2.93 0 0 1-.17 1H18a1 1 0 0 0 1-1v-1h-2m0-8a5 5 0 0 1-2 4v2a1 1 0 0 1-1 1h-4a1 1 0 0 1-1-1v-2a5 5 0 1 1 8-4m-2 0a3 3 0 1 0-4 2.82V15h2v-2.18A3 3 0 0 0 15 10m3.32-3a6.79 6.79 0 0 1 .68 3a6.92 6.92 0 0 1-2 4.88V17h2a1 1 0 0 0 1-1v-1.55A4 4 0 0 0 18.32 7z\" fill=\"currentColor\"/>"
+		},
+		"lightbulb-multiple": {
+			"body": "<path d=\"M16 16v2a1 1 0 0 1-1 1h-4a1 1 0 0 1-1-1v-2a5 5 0 1 1 6 0m-1 4h-4v1a1 1 0 0 0 1 1h2a1 1 0 0 0 1-1m-8.32-6H6v1a1 1 0 0 0 1 1h1v-.12A7 7 0 0 1 6.68 15M12.6 5A5 5 0 1 0 5 11v2a1 1 0 0 0 1 1h.3a6.68 6.68 0 0 1-.3-2a7 7 0 0 1 6.6-7z\" fill=\"currentColor\"/>"
+		},
+		"lightbulb-multiple-outline": {
+			"body": "<path d=\"M11 21a1 1 0 0 0 1 1h2a1 1 0 0 0 1-1v-1h-4m2-13a5 5 0 0 0-3 9v2a1 1 0 0 0 1 1h4a1 1 0 0 0 1-1v-2a5 5 0 0 0-3-9m1 7.82V17h-2v-2.18a3 3 0 1 1 2 0M6.68 15H6v1a1 1 0 0 0 1 1h1v-.12A7 7 0 0 1 6.68 15M12.6 5A5 5 0 1 0 5 11v2a1 1 0 0 0 1 1h.3a6.68 6.68 0 0 1-.3-2a7 7 0 0 1 6.6-7z\" fill=\"currentColor\"/>"
 		},
 		"lightbulb-off": {
 			"body": "<path d=\"M12 2C9.76 2 7.78 3.05 6.5 4.68l9.81 9.82C17.94 13.21 19 11.24 19 9a7 7 0 0 0-7-7M3.28 4L2 5.27L5.04 8.3C5 8.53 5 8.76 5 9c0 2.38 1.19 4.47 3 5.74V17a1 1 0 0 0 1 1h5.73l4 4L20 20.72L3.28 4M9 20v1a1 1 0 0 0 1 1h4a1 1 0 0 0 1-1v-1H9z\" fill=\"currentColor\"/>"
@@ -18549,7 +18573,7 @@
 			"parent": "receipt"
 		},
 		"irrigation": {
-			"parent": "sprinkler-variant"
+			"parent": "sprinkler"
 		},
 		"jack-o-lantern": {
 			"parent": "halloween"
@@ -24198,7 +24222,15 @@
 		"f0278": "flask-round-bottom-empty-outline",
 		"f0279": "flask-round-bottom-outline",
 		"f027a": "gold",
+		"f027b": "edge-legacy",
+		"f027c": "home-lightbulb",
+		"f027d": "home-lightbulb-outline",
+		"f027e": "lightbulb-group",
+		"f027f": "lightbulb-group-outline",
 		"f028": "alert-circle",
+		"f0280": "lightbulb-multiple",
+		"f0281": "lightbulb-multiple-outline",
+		"f0282": "api-off",
 		"f029": "alert-octagon",
 		"f02a": "alert-outline",
 		"f02b": "alpha",

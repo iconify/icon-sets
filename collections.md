@@ -520,7 +520,7 @@
 
 
 ### Font Awesome 5 Brands
-* Number of icons: 434
+* Number of icons: 433
 * Author: Dave Gandy
 * URL: http://fontawesome.io/
 * License: CC BY 4.0

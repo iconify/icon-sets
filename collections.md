@@ -433,7 +433,7 @@
 
 
 ### Noto Emoji
-* Number of icons: 2816
+* Number of icons: 2807
 * Author: Google Inc
 * URL: https://github.com/googlei18n/noto-emoji
 * License: Apache 2.0
@@ -442,7 +442,7 @@
 
 
 ### Noto Emoji (v1)
-* Number of icons: 2162
+* Number of icons: 2157
 * Author: Google Inc
 * URL: https://github.com/googlei18n/noto-emoji
 * License: Apache 2.0

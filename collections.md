@@ -39,6 +39,14 @@
 * Palette: Colorless
 
 
+### BoxIcons
+* Number of icons: 1253
+* Author: Atisa
+* URL: https://github.com/atisawd/boxicons
+* License: CC 4.0
+* Palette: Colorless
+
+
 ### Jam Icons
 * Number of icons: 896
 * Author: Michael Amprimo
@@ -457,6 +465,16 @@
 * License: CC BY 4.0
 * License URL: https://creativecommons.org/licenses/by/4.0/
 * Version: 12.1.4
+* Palette: Colorful
+
+
+### OpenMoji
+* Number of icons: 1887
+* Author: OpenMoji
+* URL: https://github.com/hfg-gmuend/openmoji
+* License: CC BY-SA 4.0
+* License URL: https://creativecommons.org/licenses/by-sa/4.0/
+* Version: 12.0.0
 * Palette: Colorful
 
 

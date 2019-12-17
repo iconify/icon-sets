@@ -15907,7 +15907,7 @@
 			"parent": "bank-plus"
 		},
 		"bar": {
-			"parent": "glass-wine"
+			"parent": "glass-tulip"
 		},
 		"bar-chart": {
 			"parent": "poll"
@@ -17231,6 +17231,12 @@
 		},
 		"departure-board": {
 			"parent": "bus-clock"
+		},
+		"dependencies": {
+			"parent": "graph"
+		},
+		"dependency": {
+			"parent": "graph"
 		},
 		"desktop-windows": {
 			"parent": "monitor"

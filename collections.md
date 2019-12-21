@@ -35,7 +35,7 @@
 * URL: https://github.com/Iconscout/unicons
 * License: Apache 2.0
 * License URL: https://raw.githubusercontent.com/Iconscout/unicons/master/LICENSE
-* Version: 2.0.0
+* Version: 2.0.4
 * Palette: Colorless
 
 
@@ -163,7 +163,7 @@
 
 
 ### Gridicons
-* Number of icons: 197
+* Number of icons: 198
 * Author: Automattic
 * URL: https://github.com/Automattic/gridicons
 * License: GPL 2.0
@@ -469,7 +469,7 @@
 
 
 ### OpenMoji
-* Number of icons: 1889
+* Number of icons: 1891
 * Author: OpenMoji
 * URL: https://github.com/hfg-gmuend/openmoji
 * License: CC BY-SA 4.0

@@ -135,7 +135,7 @@
 
 
 ### Ant Design Icons
-* Number of icons: 729
+* Number of icons: 604
 * Author: HeskeyBaozi
 * URL: https://github.com/ant-design/ant-design-icons
 * License: MIT
@@ -474,7 +474,7 @@
 * URL: https://github.com/hfg-gmuend/openmoji
 * License: CC BY-SA 4.0
 * License URL: https://creativecommons.org/licenses/by-sa/4.0/
-* Version: 12.0.0
+* Version: 12.1.0
 * Palette: Colorful
 
 
@@ -528,12 +528,12 @@
 
 
 ### Simple Icons
-* Number of icons: 887
+* Number of icons: 936
 * Author: Simple Icons Collaborators
 * URL: https://github.com/simple-icons/simple-icons
 * License: CC0 1.0
 * License URL: https://github.com/simple-icons/simple-icons/blob/develop/LICENSE.md
-* Version: 2.0.0
+* Version: 2.1.0
 * Palette: Colorless
 
 

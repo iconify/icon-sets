@@ -2,7 +2,7 @@
 	"prefix": "mdi",
 	"info": {
 		"name": "Material Design Icons",
-		"total": 4830,
+		"total": 4837,
 		"author": {
 			"name": "Austin Andrews",
 			"url": "https://github.com/Templarian/MaterialDesign"
@@ -84,6 +84,12 @@
 		},
 		"account-box-outline": {
 			"body": "<path d=\"M19 19H5V5h14m0-2H5a2 2 0 0 0-2 2v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2V5a2 2 0 0 0-2-2m-2.5 13.25c0-1.5-3-2.25-4.5-2.25s-4.5.75-4.5 2.25V17h9M12 12.25A2.25 2.25 0 0 0 14.25 10A2.25 2.25 0 0 0 12 7.75A2.25 2.25 0 0 0 9.75 10A2.25 2.25 0 0 0 12 12.25z\" fill=\"currentColor\"/>"
+		},
+		"account-cancel": {
+			"body": "<path d=\"M10 4a4 4 0 0 0-4 4a4 4 0 0 0 4 4a4 4 0 0 0 4-4a4 4 0 0 0-4-4m7.5 9C15 13 13 15 13 17.5s2 4.5 4.5 4.5s4.5-2 4.5-4.5s-2-4.5-4.5-4.5M10 14c-4.42 0-8 1.79-8 4v2h9.5a6.5 6.5 0 0 1-.5-2.5a6.5 6.5 0 0 1 .95-3.36c-.63-.08-1.27-.14-1.95-.14m7.5.5c1.66 0 3 1.34 3 3c0 .56-.15 1.08-.42 1.5L16 14.92c.42-.27.94-.42 1.5-.42M14.92 16L19 20.08c-.42.27-.94.42-1.5.42c-1.66 0-3-1.34-3-3c0-.56.15-1.08.42-1.5z\" fill=\"currentColor\"/>"
+		},
+		"account-cancel-outline": {
+			"body": "<path d=\"M10 4a4 4 0 0 0-4 4a4 4 0 0 0 4 4a4 4 0 0 0 4-4a4 4 0 0 0-4-4m0 2a2 2 0 0 1 2 2a2 2 0 0 1-2 2a2 2 0 0 1-2-2a2 2 0 0 1 2-2m0 7c-2.67 0-8 1.33-8 4v3h9.5a6.5 6.5 0 0 1-.47-1.9H3.9V17c0-.64 3.13-2.1 6.1-2.1c.5 0 1 .05 1.5.13a6.5 6.5 0 0 1 1.05-1.74C11.61 13.1 10.71 13 10 13m7.5 0C15 13 13 15 13 17.5s2 4.5 4.5 4.5s4.5-2 4.5-4.5s-2-4.5-4.5-4.5m0 1.5c1.66 0 3 1.34 3 3c0 .56-.15 1.08-.42 1.5L16 14.92c.42-.27.94-.42 1.5-.42M14.92 16L19 20.08c-.42.27-.94.42-1.5.42c-1.66 0-3-1.34-3-3c0-.56.15-1.08.42-1.5z\" fill=\"currentColor\"/>"
 		},
 		"account-card-details": {
 			"body": "<path d=\"M2 3h20c1.05 0 2 .95 2 2v14c0 1.05-.95 2-2 2H2c-1.05 0-2-.95-2-2V5c0-1.05.95-2 2-2m12 3v1h8V6h-8m0 2v1h8V8h-8m0 2v1h7v-1h-7m-6 3.91C6 13.91 2 15 2 17v1h12v-1c0-2-4-3.09-6-3.09M8 6a3 3 0 0 0-3 3a3 3 0 0 0 3 3a3 3 0 0 0 3-3a3 3 0 0 0-3-3z\" fill=\"currentColor\"/>"
@@ -5741,6 +5747,12 @@
 		"file-check-outline": {
 			"body": "<path d=\"M14 2l6 6v12a2 2 0 0 1-2 2H6a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h8m4 18V9h-5V4H6v16h12m-6.8-1.54l-2.75-3l1.16-1.16l1.59 1.58l3.58-3.58l1.17 1.41l-4.75 4.75z\" fill=\"currentColor\"/>"
 		},
+		"file-clock": {
+			"body": "<path d=\"M4 2c-1.11 0-2 .89-2 2v16a2 2 0 0 0 2 2h8.41A7 7 0 0 0 16 23a7 7 0 0 0 7-7a7 7 0 0 0-5-6.7V8l-6-6H4m7 1.5L16.5 9H11V3.5m5 7.5a5 5 0 0 1 5 5a5 5 0 0 1-5 5a5 5 0 0 1-5-5a5 5 0 0 1 5-5m-1 1v5l3.61 2.16l.75-1.22l-2.86-1.69V12H15z\" fill=\"currentColor\"/>"
+		},
+		"file-clock-outline": {
+			"body": "<path d=\"M4 2a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h8.41A7 7 0 0 0 16 23a7 7 0 0 0 7-7a7 7 0 0 0-5-6.7V8l-6-6H4m0 2h7v5h5a7 7 0 0 0-7 7a7 7 0 0 0 1.26 4H4V4m12 7a5 5 0 0 1 5 5a5 5 0 0 1-5 5a5 5 0 0 1-5-5a5 5 0 0 1 5-5m-1 1v5l3.61 2.16l.75-1.22l-2.86-1.69V12H15z\" fill=\"currentColor\"/>"
+		},
 		"file-cloud": {
 			"body": "<path d=\"M13 9h5.5L13 3.5V9M6 2h8l6 6v12a2 2 0 0 1-2 2H6a2 2 0 0 1-2-2V4c0-1.11.89-2 2-2m9.68 13a3.758 3.758 0 0 0-7-1A3.028 3.028 0 0 0 6 17a3 3 0 0 0 3 3h6.5a2.5 2.5 0 0 0 2.5-2.5c0-1.32-1.03-2.39-2.32-2.5z\" fill=\"currentColor\"/>"
 		},
@@ -6601,6 +6613,12 @@
 		},
 		"folder-sync-outline": {
 			"body": "<path d=\"M10 4l2 2h8a2 2 0 0 1 2 2v3.5a6.99 6.99 0 0 0-2-.5V8H4v10h9c.07.7.24 1.38.5 2H4a2 2 0 0 1-2-2V6c0-1.11.89-2 2-2h6m9 8v1.5a4 4 0 0 1 4 4c0 .82-.25 1.58-.67 2.21l-1.09-1.09c.17-.34.26-.72.26-1.12A2.5 2.5 0 0 0 19 15v1.5l-2.25-2.25l-.03-.03c.06-.05.13-.09 2.28-2.22m0 11v-1.5a4 4 0 0 1-4-4c0-.82.25-1.58.67-2.21l1.09 1.09c-.17.34-.26.72-.26 1.12A2.5 2.5 0 0 0 19 20v-1.5l2.25 2.25l.03.03c-.06.05-.13.09-2.28 2.22z\" fill=\"currentColor\"/>"
+		},
+		"folder-table": {
+			"body": "<path d=\"M4 4c-1.11 0-2 .89-2 2v12a2 2 0 0 0 2 2h16a2 2 0 0 0 2-2V8a2 2 0 0 0-2-2h-8l-2-2H4m8 5h3v2h-3V9m4 0h3v2h-3V9m-4 3h3v2h-3v-2m4 0h3v2h-3v-2m-4 3h3v2h-3v-2m4 0h3v2h-3v-2z\" fill=\"currentColor\"/>"
+		},
+		"folder-table-outline": {
+			"body": "<path d=\"M4 4c-1.11 0-2 .89-2 2v12a2 2 0 0 0 2 2h16a2 2 0 0 0 2-2V8a2 2 0 0 0-2-2h-8l-2-2H4m0 4h16v10H4V8m8 1v2h3V9h-3m4 0v2h3V9h-3m-4 3v2h3v-2h-3m4 0v2h3v-2h-3m-4 3v2h3v-2h-3m4 0v2h3v-2h-3z\" fill=\"currentColor\"/>"
 		},
 		"folder-text": {
 			"body": "<path d=\"M20 6h-8l-2-2H4a2 2 0 0 0-2 2v12a2 2 0 0 0 2 2h16a2 2 0 0 0 2-2V8a2 2 0 0 0-2-2m-5 10H6v-2h9v2m3-4H6v-2h12v2z\" fill=\"currentColor\"/>"
@@ -8047,6 +8065,9 @@
 		"hurricane": {
 			"body": "<path d=\"M15 6.79A6 6 0 0 1 18 12C18 22 6 22 6 22a17.7 17.7 0 0 0 3.34-3.29a1 1 0 0 0-.34-1.5A6 6 0 0 1 6 12C6 2 18 2 18 2a17.699 17.699 0 0 0-3.34 3.29a1.002 1.002 0 0 0 .34 1.5zM12 14a2 2 0 1 0 0-4a2 2 0 0 0 0 4z\" fill=\"currentColor\"/>",
 			"hidden": true
+		},
+		"hydro-power": {
+			"body": "<path d=\"M17.12 3.55a2 2 0 0 0-1.92 1.4l-.8 2.55a3 3 0 0 0-1.07.24L11.5 5.77l-1.33-1.48a2 2 0 0 0-.12 2.83l1.81 1.97a3 3 0 0 0-.22.51a3 3 0 0 0-.11.53l-2.61.58l-1.96.44a2 2 0 0 0 2.39 1.52l2.61-.59a3 3 0 0 0 .74.81l-.8 2.55l-.6 1.91a2 2 0 0 0 2.5-1.31l.81-2.54a3 3 0 0 0 1.07-.24l1.82 1.97l1.33 1.47a2 2 0 0 0 .13-2.82l-1.81-1.97a3 3 0 0 0 .21-.51a3 3 0 0 0 .14-.54l2.59-.58l1.95-.43a2 2 0 0 0-2.38-1.52l-2.61.58a3 3 0 0 0-.74-.8l.8-2.56l.6-1.9a2 2 0 0 0-.59-.1M14.56 9a1.5 1.5 0 0 1 .39.07a1.5 1.5 0 0 1 .98 1.88a1.5 1.5 0 0 1-1.88.98a1.5 1.5 0 0 1-.98-1.88A1.5 1.5 0 0 1 14.55 9M8 13.67C6.78 14.53 5.39 15 4 15H2v2h2c1.37 0 2.74-.35 4-1c.77.4 1.58.66 2.41.81l.53-1.67l.09-.26c-1.06-.15-2.1-.56-3.03-1.21M20.45 15c.05.7-.12 1.41-.54 2H22v-2h-1.55M8 17.67C6.78 18.53 5.39 19 4 19H2v2h2c1.37 0 2.74-.35 4-1c2.5 1.3 5.5 1.3 8 0c1.26.65 2.62 1 4 1h2v-2h-2c-1.39 0-2.78-.47-4-1.33c-2.44 1.71-5.56 1.71-8 0z\" fill=\"currentColor\"/>"
 		},
 		"ice-cream": {
 			"body": "<path d=\"M12 2c2.21 0 4 1.79 4 4.05a2.5 2.5 0 0 1 2 2.45a2.5 2.5 0 0 1-2.5 2.5h-7A2.5 2.5 0 0 1 6 8.5c0-1.21.86-2.22 2-2.5a4 4 0 0 1 4-4M9 12h6l-2 10h-2L9 12z\" fill=\"currentColor\"/>"
@@ -14946,6 +14967,9 @@
 		"account-multiple-tick": {
 			"parent": "account-multiple-check"
 		},
+		"account-multiple-tick-outline": {
+			"parent": "account-multiple-check-outline"
+		},
 		"account-pending": {
 			"parent": "account-clock"
 		},
@@ -14994,6 +15018,9 @@
 		"accounts-check": {
 			"parent": "account-multiple-check"
 		},
+		"accounts-check-outline": {
+			"parent": "account-multiple-check-outline"
+		},
 		"accounts-group": {
 			"parent": "account-group"
 		},
@@ -15020,6 +15047,9 @@
 		},
 		"accounts-tick": {
 			"parent": "account-multiple-check"
+		},
+		"accounts-tick-outline": {
+			"parent": "account-multiple-check-outline"
 		},
 		"achievement": {
 			"parent": "trophy"
@@ -15685,7 +15715,7 @@
 			"parent": "boom-gate-up-outline"
 		},
 		"arrow": {
-			"parent": "undo"
+			"parent": "undo-variant"
 		},
 		"arrow-back": {
 			"parent": "arrow-left"
@@ -17839,7 +17869,7 @@
 			"parent": "map-marker-circle"
 		},
 		"extension": {
-			"parent": "toy-brick-search"
+			"parent": "toy-brick"
 		},
 		"extension-outline": {
 			"parent": "puzzle-outline"
@@ -18915,6 +18945,9 @@
 		"humidity": {
 			"parent": "water-percent"
 		},
+		"hydraulic-turbine": {
+			"parent": "hydro-power"
+		},
 		"ice-skate": {
 			"parent": "skate"
 		},
@@ -19186,7 +19219,7 @@
 			"parent": "teach"
 		},
 		"lego": {
-			"parent": "toy-brick-search"
+			"parent": "toy-brick"
 		},
 		"lens": {
 			"parent": "circle"
@@ -21126,6 +21159,9 @@
 		"people-check": {
 			"parent": "account-multiple-check"
 		},
+		"people-check-outline": {
+			"parent": "account-multiple-check-outline"
+		},
 		"people-group": {
 			"parent": "account-group"
 		},
@@ -21152,6 +21188,9 @@
 		},
 		"people-tick": {
 			"parent": "account-multiple-check"
+		},
+		"people-tick-outline": {
+			"parent": "account-multiple-check-outline"
 		},
 		"pepper": {
 			"parent": "shaker"
@@ -21210,6 +21249,12 @@
 		"person-badge-warning-outline": {
 			"parent": "account-badge-alert-outline"
 		},
+		"person-block": {
+			"parent": "account-cancel"
+		},
+		"person-block-outline": {
+			"parent": "account-cancel-outline"
+		},
 		"person-box": {
 			"parent": "account-box"
 		},
@@ -21221,6 +21266,12 @@
 		},
 		"person-boxes": {
 			"parent": "account-box-multiple"
+		},
+		"person-cancel": {
+			"parent": "account-cancel"
+		},
+		"person-cancel-outline": {
+			"parent": "account-cancel-outline"
 		},
 		"person-card-details": {
 			"parent": "account-card-details"
@@ -21285,6 +21336,12 @@
 		"person-key-outline": {
 			"parent": "account-key-outline"
 		},
+		"person-lock": {
+			"parent": "account-lock"
+		},
+		"person-lock-outline": {
+			"parent": "account-lock-outline"
+		},
 		"person-minus": {
 			"parent": "account-minus"
 		},
@@ -21303,6 +21360,9 @@
 		"person-multiple-check": {
 			"parent": "account-multiple-check"
 		},
+		"person-multiple-check-outline": {
+			"parent": "account-multiple-check-outline"
+		},
 		"person-multiple-minus": {
 			"parent": "account-multiple-minus"
 		},
@@ -21315,8 +21375,17 @@
 		"person-multiple-plus-outline": {
 			"parent": "account-multiple-plus-outline"
 		},
+		"person-multiple-remove": {
+			"parent": "account-multiple-remove"
+		},
+		"person-multiple-remove-outline": {
+			"parent": "account-multiple-remove-outline"
+		},
 		"person-multiple-tick": {
 			"parent": "account-multiple-check"
+		},
+		"person-multiple-tick-outline": {
+			"parent": "account-multiple-check-outline"
 		},
 		"person-network": {
 			"parent": "account-network"
@@ -21541,7 +21610,7 @@
 			"parent": "power-socket-us"
 		},
 		"plugin": {
-			"parent": "toy-brick-search"
+			"parent": "toy-brick"
 		},
 		"plus-circles-outline": {
 			"parent": "plus-circle-multiple-outline"
@@ -22675,7 +22744,7 @@
 			"parent": "radius-outline"
 		},
 		"spicy": {
-			"parent": "chili-mild"
+			"parent": "chili-medium"
 		},
 		"sql-foreign-key": {
 			"parent": "key-link"
@@ -23373,6 +23442,12 @@
 		"user-badge-warning-outline": {
 			"parent": "account-badge-alert-outline"
 		},
+		"user-block": {
+			"parent": "account-cancel"
+		},
+		"user-block-outline": {
+			"parent": "account-cancel-outline"
+		},
 		"user-box": {
 			"parent": "account-box"
 		},
@@ -23384,6 +23459,12 @@
 		},
 		"user-boxes": {
 			"parent": "account-box-multiple"
+		},
+		"user-cancel": {
+			"parent": "account-cancel"
+		},
+		"user-cancel-outline": {
+			"parent": "account-cancel-outline"
 		},
 		"user-card-details": {
 			"parent": "account-card-details"
@@ -23448,6 +23529,12 @@
 		"user-key-outline": {
 			"parent": "account-key-outline"
 		},
+		"user-lock": {
+			"parent": "account-lock"
+		},
+		"user-lock-outline": {
+			"parent": "account-lock-outline"
+		},
 		"user-minus": {
 			"parent": "account-minus"
 		},
@@ -23466,6 +23553,9 @@
 		"user-multiple-check": {
 			"parent": "account-multiple-check"
 		},
+		"user-multiple-check-outline": {
+			"parent": "account-multiple-check-outline"
+		},
 		"user-multiple-minus": {
 			"parent": "account-multiple-minus"
 		},
@@ -23481,8 +23571,17 @@
 		"user-multiple-plus-outline": {
 			"parent": "account-multiple-plus-outline"
 		},
+		"user-multiple-remove": {
+			"parent": "account-multiple-remove"
+		},
+		"user-multiple-remove-outline": {
+			"parent": "account-multiple-remove-outline"
+		},
 		"user-multiple-tick": {
 			"parent": "account-multiple-check"
+		},
+		"user-multiple-tick-outline": {
+			"parent": "account-multiple-check-outline"
 		},
 		"user-network": {
 			"parent": "account-network"
@@ -23571,6 +23670,9 @@
 		"users-check": {
 			"parent": "account-multiple-check"
 		},
+		"users-check-outline": {
+			"parent": "account-multiple-check-outline"
+		},
 		"users-group": {
 			"parent": "account-group"
 		},
@@ -23597,6 +23699,9 @@
 		},
 		"users-tick": {
 			"parent": "account-multiple-check"
+		},
+		"users-tick-outline": {
+			"parent": "account-multiple-check-outline"
 		},
 		"van-candy": {
 			"parent": "van-utility"
@@ -23828,6 +23933,12 @@
 		},
 		"water-truck": {
 			"parent": "tanker-truck"
+		},
+		"water-turbine": {
+			"parent": "hydro-power"
+		},
+		"watermill": {
+			"parent": "hydro-power"
 		},
 		"wb-auto": {
 			"parent": "white-balance-auto"
@@ -24885,7 +24996,14 @@
 		"f0307": "map-marker-right",
 		"f0308": "map-marker-left-outline",
 		"f0309": "map-marker-right-outline",
+		"f030a": "account-cancel",
+		"f030b": "account-cancel-outline",
+		"f030c": "file-clock",
+		"f030d": "file-clock-outline",
+		"f030e": "folder-table",
+		"f030f": "folder-table-outline",
 		"f031": "anchor",
+		"f0310": "hydro-power",
 		"f032": "android",
 		"f033": "android-debug-bridge",
 		"f034": "android-studio",
@@ -28873,6 +28991,8 @@
 			"account-box-multiple",
 			"account-box-multiple-outline",
 			"account-box-outline",
+			"account-cancel",
+			"account-cancel-outline",
 			"account-card-details",
 			"account-card-details-outline",
 			"account-cash",
@@ -30537,6 +30657,7 @@
 			"headphones-off",
 			"headset",
 			"headset-off",
+			"hydro-power",
 			"laptop",
 			"laptop-chromebook",
 			"laptop-mac",
@@ -30709,6 +30830,8 @@
 			"file-chart-outline",
 			"file-check",
 			"file-check-outline",
+			"file-clock",
+			"file-clock-outline",
 			"file-cloud",
 			"file-cloud-outline",
 			"file-code",
@@ -30870,6 +30993,8 @@
 			"folder-swap-outline",
 			"folder-sync",
 			"folder-sync-outline",
+			"folder-table",
+			"folder-table-outline",
 			"folder-text",
 			"folder-text-outline",
 			"folder-upload",

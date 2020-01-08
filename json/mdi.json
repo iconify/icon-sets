@@ -2,7 +2,7 @@
 	"prefix": "mdi",
 	"info": {
 		"name": "Material Design Icons",
-		"total": 4837,
+		"total": 4853,
 		"author": {
 			"name": "Austin Andrews",
 			"url": "https://github.com/Templarian/MaterialDesign"
@@ -2570,6 +2570,9 @@
 		"bullseye-arrow": {
 			"body": "<path d=\"M12 2A10 10 0 0 0 2 12a10 10 0 0 0 10 10a10 10 0 0 0 10-10c0-1.16-.21-2.31-.61-3.39l-1.6 1.6c.14.59.21 1.19.21 1.79a8 8 0 0 1-8 8a8 8 0 0 1-8-8a8 8 0 0 1 8-8c.6 0 1.2.07 1.79.21L15.4 2.6C14.31 2.21 13.16 2 12 2m7 0l-4 4v1.5l-2.55 2.55C12.3 10 12.15 10 12 10a2 2 0 0 0-2 2a2 2 0 0 0 2 2a2 2 0 0 0 2-2c0-.15 0-.3-.05-.45L16.5 9H18l4-4h-3V2m-7 4a6 6 0 0 0-6 6a6 6 0 0 0 6 6a6 6 0 0 0 6-6h-2a4 4 0 0 1-4 4a4 4 0 0 1-4-4a4 4 0 0 1 4-4V6z\" fill=\"currentColor\"/>"
 		},
+		"bulma": {
+			"body": "<path d=\"M11.38 2l-5 5l-1.25 8.75L11.38 22l7.5-5l-5-5l3.75-3.75L11.38 2z\" fill=\"currentColor\"/>"
+		},
 		"bus": {
 			"body": "<path d=\"M18 11H6V6h12m-1.5 11a1.5 1.5 0 0 1-1.5-1.5a1.5 1.5 0 0 1 1.5-1.5a1.5 1.5 0 0 1 1.5 1.5a1.5 1.5 0 0 1-1.5 1.5m-9 0A1.5 1.5 0 0 1 6 15.5A1.5 1.5 0 0 1 7.5 14A1.5 1.5 0 0 1 9 15.5A1.5 1.5 0 0 1 7.5 17M4 16c0 .88.39 1.67 1 2.22V20a1 1 0 0 0 1 1h1a1 1 0 0 0 1-1v-1h8v1a1 1 0 0 0 1 1h1a1 1 0 0 0 1-1v-1.78c.61-.55 1-1.34 1-2.22V6c0-3.5-3.58-4-8-4s-8 .5-8 4v10z\" fill=\"currentColor\"/>"
 		},
@@ -3451,6 +3454,12 @@
 		"checkbox-blank-circle-outline": {
 			"body": "<path d=\"M12 20a8 8 0 0 1-8-8a8 8 0 0 1 8-8a8 8 0 0 1 8 8a8 8 0 0 1-8 8m0-18A10 10 0 0 0 2 12a10 10 0 0 0 10 10a10 10 0 0 0 10-10A10 10 0 0 0 12 2z\" fill=\"currentColor\"/>"
 		},
+		"checkbox-blank-off": {
+			"body": "<path d=\"M20.84 22.73L19.1 21H5a2 2 0 0 1-2-2V5v-.1L1.11 3l1.28-1.27l19.72 19.73l-1.27 1.27M21 5a2 2 0 0 0-2-2H6.2L21 17.8V5z\" fill=\"currentColor\"/>"
+		},
+		"checkbox-blank-off-outline": {
+			"body": "<path d=\"M22.11 21.46L2.39 1.73L1.11 3L3 4.9V19a2 2 0 0 0 2 2h14.1l1.74 1.73l1.27-1.27M5 19V6.89L17.11 19H5M8.2 5l-2-2H19a2 2 0 0 1 2 2v12.8l-2-2V5H8.2z\" fill=\"currentColor\"/>"
+		},
 		"checkbox-blank-outline": {
 			"body": "<path d=\"M19 3H5c-1.11 0-2 .89-2 2v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2V5a2 2 0 0 0-2-2m0 2v14H5V5h14z\" fill=\"currentColor\"/>"
 		},
@@ -4113,16 +4122,16 @@
 			"body": "<path d=\"M9 22a1 1 0 0 1-1-1v-3H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h16a2 2 0 0 1 2 2v12a2 2 0 0 1-2 2h-6.1l-3.7 3.71c-.2.19-.45.29-.7.29H9m1-6v3.08L13.08 16H20V4H4v12h6m3-6h-2V6h2v4m0 4h-2v-2h2v2z\" fill=\"currentColor\"/>"
 		},
 		"comment-arrow-left": {
-			"body": "<path d=\"M9 22a1 1 0 0 1-1-1v-3H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h16a2 2 0 0 1 2 2v12c0 1.11-.89 2-2 2h-6.1l-3.7 3.71c-.2.19-.45.29-.7.29H9m7.17-10.88V9.05h-4.64l1.8-1.8L12.09 6L8 10.09l4.09 4.08l1.24-1.25l-1.8-1.8h4.64z\" fill=\"currentColor\"/>"
+			"body": "<path d=\"M20 2H4c-1.1 0-2 .9-2 2v12c0 1.1.9 2 2 2h4v3c0 .6.4 1 1 1h.5c.2 0 .5-.1.7-.3l3.7-3.7H20c1.1 0 2-.9 2-2V4c0-1.1-.9-2-2-2m-4 9h-4.5l1.8 1.8L12 14l-4-4l4-4l1.2 1.2L11.5 9H16v2z\" fill=\"currentColor\"/>"
 		},
 		"comment-arrow-left-outline": {
-			"body": "<path d=\"M4 2a2 2 0 0 0-2 2v12a2 2 0 0 0 2 2h4v3a1 1 0 0 0 1 1h.5c.25 0 .5-.1.7-.29L13.9 18H20c1.11 0 2-.89 2-2V4a2 2 0 0 0-2-2H4m0 2h16v12h-6.92L10 19.08V16H4V4m12.17 7.12V9.05h-4.64l1.8-1.8L12.09 6L8 10.09l4.09 4.08l1.24-1.25l-1.8-1.8h4.64z\" fill=\"currentColor\"/>"
+			"body": "<path d=\"M20 2H4c-1.1 0-2 .9-2 2v12c0 1.1.9 2 2 2h4v3c0 .6.4 1 1 1h.5c.2 0 .5-.1.7-.3l3.7-3.7H20c1.1 0 2-.9 2-2V4c0-1.1-.9-2-2-2m0 14h-6.9L10 19.1V16H4V4h16v12m-4-5V9h-4.5l1.8-1.8L12 6l-4 4l4 4l1.2-1.2l-1.7-1.8H16z\" fill=\"currentColor\"/>"
 		},
 		"comment-arrow-right": {
-			"body": "<path d=\"M9 22a1 1 0 0 1-1-1v-3H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h16a2 2 0 0 1 2 2v12c0 1.11-.89 2-2 2h-6.1l-3.7 3.71c-.2.19-.45.29-.7.29H9M8 9.05v2.07h4.64l-1.8 1.8l1.25 1.25l4.08-4.09L12.09 6l-1.25 1.25l1.8 1.8H8z\" fill=\"currentColor\"/>"
+			"body": "<path d=\"M20 2H4c-1.1 0-2 .9-2 2v12c0 1.1.9 2 2 2h4v3c0 .6.4 1 1 1h.5c.2 0 .5-.1.7-.3l3.7-3.7H20c1.1 0 2-.9 2-2V4c0-1.1-.9-2-2-2m-8 12l-1.2-1.2l1.8-1.8H8V9h4.5l-1.8-1.8L12 6l4 4l-4 4z\" fill=\"currentColor\"/>"
 		},
 		"comment-arrow-right-outline": {
-			"body": "<path d=\"M4 2a2 2 0 0 0-2 2v12a2 2 0 0 0 2 2h4v3a1 1 0 0 0 1 1h.5c.25 0 .5-.1.7-.29L13.9 18H20c1.11 0 2-.89 2-2V4a2 2 0 0 0-2-2H4m0 2h16v12h-6.92L10 19.08V16H4V4m4 5.05v2.07h4.64l-1.8 1.8l1.25 1.25l4.08-4.09L12.09 6l-1.25 1.25l1.8 1.8H8z\" fill=\"currentColor\"/>"
+			"body": "<path d=\"M20 2H4c-1.1 0-2 .9-2 2v12c0 1.1.9 2 2 2h4v3c0 .6.4 1 1 1h.5c.2 0 .5-.1.7-.3l3.7-3.7H20c1.1 0 2-.9 2-2V4c0-1.1-.9-2-2-2m0 14h-6.9L10 19.1V16H4V4h16v12M8 9v2h4.5l-1.8 1.8L12 14l4-4l-4-4l-1.2 1.2L12.5 9H8z\" fill=\"currentColor\"/>"
 		},
 		"comment-check": {
 			"body": "<path d=\"M9 22a1 1 0 0 1-1-1v-3H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h16a2 2 0 0 1 2 2v12a2 2 0 0 1-2 2h-6.1l-3.7 3.71c-.2.19-.45.29-.7.29H9m1-7l8-8l-1.41-1.42L10 12.17L7.41 9.59L6 11l4 4z\" fill=\"currentColor\"/>"
@@ -5083,8 +5092,11 @@
 		"door-open": {
 			"body": "<path d=\"M12 3c-1.11 0-2 .89-2 2H3v14H2v2h20v-2h-1V5c0-1.11-.89-2-2-2h-7m0 2h7v14h-7V5m-7 6h2v2H5v-2z\" fill=\"currentColor\"/>"
 		},
+		"doorbell": {
+			"body": "<path d=\"M12 10c-1.1 0-2 .9-2 2s.9 2 2 2s2-.9 2-2s-.9-2-2-2m4-8H8c-1.1 0-2 .9-2 2v16c0 1.1.9 2 2 2h8c1.1 0 2-.9 2-2V4c0-1.1-.9-2-2-2m0 18H8V4h8v16z\" fill=\"currentColor\"/>"
+		},
 		"doorbell-video": {
-			"body": "<path d=\"M7.97 2C6.86 2 6 2.88 6 4v15.92c0 1.11.86 1.99 1.97 1.99h7.97c1.1 0 1.99-.88 1.99-1.99V4c0-1.12-.89-2-1.99-2H7.97m3.98 3.5c.83 0 1.5.65 1.5 1.47a1.496 1.496 0 1 1-2.99 0c0-.82.67-1.47 1.49-1.47M7.97 9.96h7.97v9.96H7.97V9.96M12 13c-1.1 0-2 .87-2 1.97s.9 2 2 2s2-.9 2-2S13.1 13 12 13z\" fill=\"currentColor\"/>"
+			"body": "<path d=\"M14 15c0 1.11-.89 2-2 2s-2-.89-2-2s.9-2 2-2s2 .9 2 2m4-11v16a2 2 0 0 1-2 2H8a2 2 0 0 1-2-2V4c0-1.1.9-2 2-2h8a2 2 0 0 1 2 2m-7.5 3c0 .83.67 1.5 1.5 1.5s1.5-.67 1.5-1.5s-.67-1.5-1.5-1.5s-1.5.67-1.5 1.5m5.5 3H8v10h8V10z\" fill=\"currentColor\"/>"
 		},
 		"dot-net": {
 			"body": "<path d=\"M2 15a1 1 0 0 1 1 1a1 1 0 0 1-1 1a1 1 0 0 1-1-1a1 1 0 0 1 1-1m19 2h-2V9h-2V7h6v2h-2v8M16 7v2h-2v2h2v2h-2v2h2v2h-4V7h4m-5 0v10H9l-3-6v6H4V7h2l3 6V7h2z\" fill=\"currentColor\"/>"
@@ -5137,11 +5149,17 @@
 		"drag-horizontal": {
 			"body": "<path d=\"M3 15v-2h2v2H3m0-4V9h2v2H3m4 4v-2h2v2H7m0-4V9h2v2H7m4 4v-2h2v2h-2m0-4V9h2v2h-2m4 4v-2h2v2h-2m0-4V9h2v2h-2m4 4v-2h2v2h-2m0-4V9h2v2h-2z\" fill=\"currentColor\"/>"
 		},
+		"drag-horizontal-variant": {
+			"body": "<path d=\"M21 11H3V9h18v2m0 2H3v2h18v-2z\" fill=\"currentColor\"/>"
+		},
 		"drag-variant": {
 			"body": "<path d=\"M22.67 12l-4.49 4.5l-2.51-2.5l1.98-2l-1.98-1.96l2.51-2.51L22.67 12M12 1.33l4.47 4.49l-2.51 2.51L12 6.35l-2 1.98l-2.5-2.51L12 1.33m0 21.34l-4.47-4.49l2.51-2.51L12 17.65l2-1.98l2.5 2.51l-4.5 4.49M1.33 12l4.49-4.5L8.33 10l-1.98 2l1.98 1.96l-2.51 2.51L1.33 12M12 10a2 2 0 0 1 2 2a2 2 0 0 1-2 2a2 2 0 0 1-2-2a2 2 0 0 1 2-2z\" fill=\"currentColor\"/>"
 		},
 		"drag-vertical": {
 			"body": "<path d=\"M9 3h2v2H9V3m4 0h2v2h-2V3M9 7h2v2H9V7m4 0h2v2h-2V7m-4 4h2v2H9v-2m4 0h2v2h-2v-2m-4 4h2v2H9v-2m4 0h2v2h-2v-2m-4 4h2v2H9v-2m4 0h2v2h-2v-2z\" fill=\"currentColor\"/>"
+		},
+		"drag-vertical-variant": {
+			"body": "<path d=\"M11 21H9V3h2v18m4-18h-2v18h2V3z\" fill=\"currentColor\"/>"
 		},
 		"drama-masks": {
 			"body": "<path d=\"M8.11 19.45a6.948 6.948 0 0 1-4.4-5.1L2.05 6.54c-.24-1.08.45-2.14 1.53-2.37l9.77-2.07l.03-.01c1.07-.21 2.12.48 2.34 1.54l.35 1.67l4.35.93h.03c1.05.24 1.73 1.3 1.51 2.36l-1.66 7.82a6.993 6.993 0 0 1-8.3 5.38a6.888 6.888 0 0 1-3.89-2.34M20 8.18L10.23 6.1l-1.66 7.82v.03c-.57 2.68 1.16 5.32 3.85 5.89c2.69.57 5.35-1.15 5.92-3.84L20 8.18m-4 8.32a2.962 2.962 0 0 1-3.17 1.39a2.974 2.974 0 0 1-2.33-2.55L16 16.5M8.47 5.17L4 6.13l1.66 7.81l.01.03c.15.71.45 1.35.86 1.9c-.1-.77-.08-1.57.09-2.37l.43-2c-.45-.08-.84-.33-1.05-.69c.06-.61.56-1.15 1.25-1.31h.25l.78-3.81c.04-.19.1-.36.19-.52m6.56 7.06c.32-.53 1-.81 1.69-.66c.69.14 1.19.67 1.28 1.29c-.33.52-1 .8-1.7.64c-.69-.13-1.19-.66-1.27-1.27m-4.88-1.04c.32-.53.99-.81 1.68-.66c.67.14 1.2.68 1.28 1.29c-.33.52-1 .81-1.69.68c-.69-.17-1.19-.7-1.27-1.31m1.82-6.76l1.96.42l-.16-.8l-1.8.38z\" fill=\"currentColor\"/>"
@@ -8280,6 +8298,9 @@
 		"invert-colors-off": {
 			"body": "<path d=\"M20.65 20.87L18.3 18.5L12 12.23L8.44 8.66L7 7.25L4.27 4.5L3 5.77l2.78 2.78a8.005 8.005 0 0 0 .56 10.69A7.98 7.98 0 0 0 12 21.58c1.79 0 3.57-.58 5.03-1.78l2.7 2.7L21 21.23l-.35-.36M12 19.59c-1.6 0-3.11-.62-4.24-1.76A5.945 5.945 0 0 1 6 13.59C6 12.27 6.43 11 7.21 10L12 14.77v4.82M12 5.1v4.58l7.25 7.26a7.99 7.99 0 0 0-1.6-9.01L12 2.27l-3.7 3.7l1.41 1.41L12 5.1z\" fill=\"currentColor\"/>"
 		},
+		"iobroker": {
+			"body": "<path d=\"M12 2c-.5 0-1 .04-1.5.11v2.74a7.631 7.631 0 0 1 3 0V2.12C13 2.04 12.5 2 12 2m-2.18.25C5.4 3.25 2.11 7.24 2.11 12c0 5.5 4.42 10 9.89 10c5.47 0 9.89-4.5 9.89-10c0-4.76-3.29-8.75-7.7-9.75v2.78c2.98.93 5.15 3.7 5.15 6.97c0 4-3.29 7.3-7.34 7.3c-4.04 0-7.33-3.3-7.33-7.3c0-3.27 2.17-6.04 5.15-6.97m2.18.42c-.5 0-1 .05-1.5.17v12.65c.5.11 1 .17 1.5.17s1-.05 1.5-.17V5.62c-.5-.12-1-.17-1.5-.17z\" fill=\"currentColor\"/>"
+		},
 		"ip": {
 			"body": "<path d=\"M16 11h-2V9h2v2M3 5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2v14a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V5m7 2H8v10h2V7m2 10h2v-4h2a2 2 0 0 0 2-2V9a2 2 0 0 0-2-2h-4v10z\" fill=\"currentColor\"/>"
 		},
@@ -8486,6 +8507,12 @@
 		},
 		"label-outline": {
 			"body": "<path d=\"M16 17H5V7h11l3.55 5m-1.92-6.16C17.27 5.33 16.67 5 16 5H5a2 2 0 0 0-2 2v10a2 2 0 0 0 2 2h11c.67 0 1.27-.34 1.63-.85L22 12l-4.37-6.16z\" fill=\"currentColor\"/>"
+		},
+		"label-percent": {
+			"body": "<path d=\"M17.63 5.84C17.27 5.33 16.67 5 16 5H5c-1.1 0-2 .9-2 2v10a2 2 0 0 0 2 2h11c.67 0 1.27-.34 1.63-.85L22 12l-4.37-6.16M8.45 8.03c.78 0 1.42.64 1.42 1.42s-.64 1.42-1.42 1.42s-1.42-.64-1.42-1.42s.64-1.42 1.42-1.42m5.1 7.94c-.78 0-1.42-.64-1.42-1.42s.64-1.42 1.42-1.42s1.42.64 1.42 1.42s-.64 1.42-1.42 1.42M8.2 16L7 14.8L13.8 8L15 9.2L8.2 16z\" fill=\"currentColor\"/>"
+		},
+		"label-percent-outline": {
+			"body": "<path d=\"M16 17H5V7h11l3.55 5m-1.92-6.16C17.27 5.33 16.67 5 16 5H5c-1.1 0-2 .9-2 2v10a2 2 0 0 0 2 2h11c.67 0 1.27-.34 1.63-.85L22 12l-4.37-6.16M13.8 8L15 9.2L8.2 16L7 14.8m1.45-6.77c.78 0 1.42.64 1.42 1.42s-.64 1.42-1.42 1.42s-1.42-.64-1.42-1.42s.64-1.42 1.42-1.42m5.1 5.1c.78 0 1.42.64 1.42 1.42c0 .78-.64 1.42-1.42 1.42c-.78 0-1.42-.64-1.42-1.42c0-.78.64-1.42 1.42-1.42z\" fill=\"currentColor\"/>"
 		},
 		"label-variant": {
 			"body": "<path d=\"M3.5 19l4.84-7L3.5 5h11c.67 0 1.22.3 1.63.86L20.5 12l-4.37 6.14c-.41.56-.96.86-1.63.86h-11z\" fill=\"currentColor\"/>"
@@ -9240,6 +9267,18 @@
 		},
 		"message-alert-outline": {
 			"body": "<path d=\"M13 10h-2V6h2v4m0 2h-2v2h2v-2m9-8v12a2 2 0 0 1-2 2H6l-4 4V4a2 2 0 0 1 2-2h16a2 2 0 0 1 2 2m-2 0H4v13.2L5.2 16H20V4z\" fill=\"currentColor\"/>"
+		},
+		"message-arrow-left": {
+			"body": "<path d=\"M20 2H4c-1.1 0-2 .9-2 2v18l4-4h14c1.1 0 2-.9 2-2V4c0-1.1-.9-2-2-2m-4 9h-4.5l1.8 1.8L12 14l-4-4l4-4l1.2 1.2L11.5 9H16v2z\" fill=\"currentColor\"/>"
+		},
+		"message-arrow-left-outline": {
+			"body": "<path d=\"M20 2H4c-1.1 0-2 .9-2 2v18l4-4h14c1.1 0 2-.9 2-2V4c0-1.1-.9-2-2-2m0 14H6l-2 2V4h16m-4 7V9h-4.5l1.8-1.8L12 6l-4 4l4 4l1.2-1.2l-1.7-1.8H16z\" fill=\"currentColor\"/>"
+		},
+		"message-arrow-right": {
+			"body": "<path d=\"M20 2H4c-1.1 0-2 .9-2 2v18l4-4h14c1.1 0 2-.9 2-2V4c0-1.1-.9-2-2-2m-8 12l-1.2-1.2l1.8-1.8H8V9h4.5l-1.8-1.8L12 6l4 4l-4 4z\" fill=\"currentColor\"/>"
+		},
+		"message-arrow-right-outline": {
+			"body": "<path d=\"M20 2H4c-1.1 0-2 .9-2 2v18l4-4h14c1.1 0 2-.9 2-2V4c0-1.1-.9-2-2-2m0 14H6l-2 2V4h16M8 9v2h4.5l-1.8 1.8L12 14l4-4l-4-4l-1.2 1.2L12.5 9H8z\" fill=\"currentColor\"/>"
 		},
 		"message-bulleted": {
 			"body": "<path d=\"M20 2H4a2 2 0 0 0-2 2v18l4-4h14a2 2 0 0 0 2-2V4a2 2 0 0 0-2-2M8 14H6v-2h2v2m0-3H6V9h2v2m0-3H6V6h2v2m7 6h-5v-2h5v2m3-3h-8V9h8v2m0-3h-8V6h8v2z\" fill=\"currentColor\"/>"
@@ -10178,6 +10217,9 @@
 		},
 		"ocarina": {
 			"body": "<path d=\"M20 12c-3.2-1.6-6.6-2.3-9.2-2.7L9.7 5.9c-.4-1.1-2-1.1-2.4 0L6.3 9C3.9 9.4 2 11.5 2 14c0 2.8 2.2 5 5 5c0 0 7 0 13-3c0 0 2-1 2-2s-2-2-2-2M5 14c-.6 0-1-.4-1-1s.4-1 1-1s1 .4 1 1c0 .5-.4 1-1 1m2 3c-.6 0-1-.4-1-1s.4-1 1-1s1 .4 1 1c0 .5-.4 1-1 1m2-3c-.6 0-1-.4-1-1s.4-1 1-1s1 .4 1 1c0 .5-.4 1-1 1m2 3c-.6 0-1-.4-1-1s.4-1 1-1s1 .4 1 1c0 .5-.4 1-1 1m5-3c-.6 0-1-.4-1-1s.4-1 1-1s1 .4 1 1c0 .5-.4 1-1 1m3 1c-.6 0-1-.4-1-1s.4-1 1-1s1 .4 1 1c0 .5-.4 1-1 1z\" fill=\"currentColor\"/>"
+		},
+		"oci": {
+			"body": "<path d=\"M2 2v20h20V2m-2.88 17.03H4.87V5h14.26v14.03m-4.3-8.32h2.86v6.88h-2.86m0-11.18h2.86v2.86h-2.86M6.3 6.41v11.18h7.1v-2.87H9.17V9.28h4.23V6.41z\" fill=\"currentColor\"/>"
 		},
 		"ocr": {
 			"body": "<path d=\"M2 5v14h12v-2h-2c-1.11 0-2-.89-2-2V9c0-1.11.89-2 2-2h2V5m0 2v2h2V7m-2 2h-2v6h2m0 0v2h2v-2M5 7h2c1.11 0 2 .89 2 2v6c0 1.11-.89 2-2 2H5c-1.11 0-2-.89-2-2V9c0-1.11.89-2 2-2m12 0v10h2v-4h1v1h1v3h2v-3h-1v-2h1V8h-1V7M5 9v6h2V9m12 0h2v2h-2z\" fill=\"currentColor\"/>"
@@ -12713,6 +12755,12 @@
 		},
 		"square-medium-outline": {
 			"body": "<path d=\"M14 10v4h-4v-4h4m2-2H8v8h8V8z\" fill=\"currentColor\"/>"
+		},
+		"square-off": {
+			"body": "<path d=\"M20.84 22.73L19.11 21H3V4.89L1.11 3l1.28-1.27l19.72 19.73l-1.27 1.27M21 3H6.2L21 17.8V3z\" fill=\"currentColor\"/>"
+		},
+		"square-off-outline": {
+			"body": "<path d=\"M22.11 21.46L2.39 1.73L1.11 3L3 4.89V21h16.11l1.73 1.73l1.27-1.27M5 19V6.89L17.11 19H5M8.2 5l-2-2H21v14.8l-2-2V5H8.2z\" fill=\"currentColor\"/>"
 		},
 		"square-outline": {
 			"body": "<path d=\"M3 3h18v18H3V3m2 2v14h14V5H5z\" fill=\"currentColor\"/>"
@@ -15715,7 +15763,7 @@
 			"parent": "boom-gate-up-outline"
 		},
 		"arrow": {
-			"parent": "undo-variant"
+			"parent": "undo"
 		},
 		"arrow-back": {
 			"parent": "arrow-left"
@@ -17453,6 +17501,9 @@
 		},
 		"dining": {
 			"parent": "table-chair"
+		},
+		"dinner-bell": {
+			"parent": "instrument-triangle"
 		},
 		"diploma": {
 			"parent": "certificate"
@@ -21021,6 +21072,9 @@
 		"one-two-three": {
 			"parent": "numeric"
 		},
+		"open-container-initiative": {
+			"parent": "oci"
+		},
 		"open-in-browser": {
 			"parent": "open-in-app"
 		},
@@ -22744,7 +22798,7 @@
 			"parent": "radius-outline"
 		},
 		"spicy": {
-			"parent": "chili-medium"
+			"parent": "chili-mild"
 		},
 		"sql-foreign-key": {
 			"parent": "key-link"
@@ -25004,7 +25058,23 @@
 		"f030f": "folder-table-outline",
 		"f031": "anchor",
 		"f0310": "hydro-power",
+		"f0311": "doorbell",
+		"f0312": "bulma",
+		"f0313": "iobroker",
+		"f0314": "oci",
+		"f0315": "label-percent",
+		"f0316": "label-percent-outline",
+		"f0317": "checkbox-blank-off",
+		"f0318": "checkbox-blank-off-outline",
+		"f0319": "square-off",
+		"f031a": "square-off-outline",
+		"f031b": "drag-horizontal-variant",
+		"f031c": "drag-vertical-variant",
+		"f031d": "message-arrow-left",
+		"f031e": "message-arrow-left-outline",
+		"f031f": "message-arrow-right",
 		"f032": "android",
+		"f0320": "message-arrow-right-outline",
 		"f033": "android-debug-bridge",
 		"f034": "android-studio",
 		"f035": "apple",
@@ -30039,6 +30109,7 @@
 			"bootstrap",
 			"box",
 			"buffer",
+			"bulma",
 			"cisco-webex",
 			"codepen",
 			"concourse-ci",
@@ -30120,6 +30191,7 @@
 			"instagram",
 			"instapaper",
 			"internet-explorer",
+			"iobroker",
 			"itunes",
 			"jabber",
 			"jira",
@@ -30161,6 +30233,7 @@
 			"npm-variant",
 			"npm-variant-outline",
 			"nuxt",
+			"oci",
 			"odnoklassniki",
 			"office",
 			"onedrive",
@@ -30549,6 +30622,7 @@
 			"api",
 			"bash",
 			"bootstrap",
+			"bulma",
 			"code-array",
 			"code-braces",
 			"code-braces-box",
@@ -30612,6 +30686,7 @@
 			"math-norm-box",
 			"nix",
 			"nuxt",
+			"oci",
 			"polymer",
 			"react",
 			"rollupjs",
@@ -31544,6 +31619,7 @@
 			"door-closed",
 			"door-closed-lock",
 			"door-open",
+			"doorbell",
 			"doorbell-video",
 			"dresser",
 			"dresser-outline",

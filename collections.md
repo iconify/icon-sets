@@ -3,7 +3,7 @@
 
 
 ### Material Design Icons
-* Number of icons: 4837
+* Number of icons: 4853
 * Author: Austin Andrews
 * URL: https://github.com/Templarian/MaterialDesign
 * License: Open Font License
@@ -528,12 +528,12 @@
 
 
 ### Simple Icons
-* Number of icons: 936
+* Number of icons: 978
 * Author: Simple Icons Collaborators
 * URL: https://github.com/simple-icons/simple-icons
 * License: CC0 1.0
 * License URL: https://github.com/simple-icons/simple-icons/blob/develop/LICENSE.md
-* Version: 2.1.0
+* Version: 2.2.0
 * Palette: Colorless
 
 

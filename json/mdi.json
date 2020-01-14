@@ -2,7 +2,7 @@
 	"prefix": "mdi",
 	"info": {
 		"name": "Material Design Icons",
-		"total": 4882,
+		"total": 4892,
 		"author": {
 			"name": "Austin Andrews",
 			"url": "https://github.com/Templarian/MaterialDesign"
@@ -4579,6 +4579,9 @@
 		"currency-eur": {
 			"body": "<path d=\"M7.07 11L7 12l.07 1h10.28l-.85 2H7.67c1.13 2.36 3.54 4 6.33 4c2.23 0 4.22-1.04 5.5-2.67v2.79A8.897 8.897 0 0 1 14 21c-3.92 0-7.25-2.5-8.5-6H2l1-2h2.05L5 12l.05-1H2l1-2h2.5c1.25-3.5 4.58-6 8.5-6c2.5 0 4.8 1.04 6.43 2.71l-.86 2.04A7.006 7.006 0 0 0 14 5c-2.79 0-5.2 1.64-6.33 4h11.37l-.85 2H7.07z\" fill=\"currentColor\"/>"
 		},
+		"currency-eur-off": {
+			"body": "<path d=\"M22.11 21.46L2.39 1.73L1.11 3L6 7.89c-.19.36-.36.73-.5 1.11H3l-1 2h3.05L5 12l.05 1H3l-1 2h3.5c1.25 3.5 4.58 6 8.5 6c1.5 0 2.89-.35 4.12-1l2.72 2.73l1.27-1.27M7 12l.07-1h2.05l2 2H7.07L7 12m7 7c-2.79 0-5.2-1.63-6.33-4h5.45l3.48 3.5c-.81.31-1.68.5-2.6.5m3-5.19l-.79-.81h1.14l-.35.81M18.19 11h-3.98l-2-2h6.83l-.85 2M9.7 6.5L8.27 5.07A8.954 8.954 0 0 1 14 3c2.5 0 4.8 1.05 6.43 2.72l-.86 2.04A7.015 7.015 0 0 0 14 5c-1.62 0-3.11.58-4.3 1.5z\" fill=\"currentColor\"/>"
+		},
 		"currency-gbp": {
 			"body": "<path d=\"M6 21v-2c4-2 3.5-6 3.5-6H7v-2h2.5c-1-4.5.5-8 4.5-8c2 0 3 .5 3 .5v2c-6-2-6 2.5-5.5 5.5H16v2h-4.5s.5 4-2 6H18v2H6z\" fill=\"currentColor\"/>"
 		},
@@ -6781,6 +6784,9 @@
 		"format-color-highlight": {
 			"body": "<path d=\"M4 17l2.75-2.75l-.03-.02c-.58-.59-.58-1.54 0-2.12l4.74-4.74l4.24 4.24l-4.74 4.74c-.57.58-1.5.58-2.09.02l-.63.63H4M15.91 2.91c.59-.58 1.54-.58 2.12 0l2.13 2.12c.58.59.58 1.54 0 2.13l-3.3 3.29l-4.24-4.24l3.29-3.3z\" fill=\"currentColor\"/>"
 		},
+		"format-color-marker-cancel": {
+			"body": "<path d=\"M16.5 8C14 8 12 10 12 12.5s2 4.5 4.5 4.5s4.5-2 4.5-4.5S19 8 16.5 8m0 7.5c-1.7 0-3-1.3-3-3c0-.6.2-1.1.4-1.5l4.1 4.1c-.4.2-.9.4-1.5.4m2.6-1.5L15 9.9c.4-.3.9-.4 1.5-.4c1.7 0 3 1.3 3 3c0 .6-.2 1.1-.4 1.5m-7-6.3l-1.5-1.5l3.3-3.3c.6-.6 1.5-.6 2.1 0L18.2 5c.4.4.5.8.4 1.3c-.6-.2-1.3-.3-2-.3c-1.8 0-3.3.7-4.5 1.7m-1.6 7.2L9 16.3c-.6.6-1.5.6-2.1 0l-.7.7H2l2.8-2.8c-.6-.6-.6-1.5 0-2.1l4.7-4.7L11.1 9c-.7 1-1.1 2.2-1.1 3.5c0 .8.2 1.6.5 2.4z\" fill=\"currentColor\"/>"
+		},
 		"format-color-text": {
 			"body": "<path d=\"M9.62 12L12 5.67L14.37 12M11 3L5.5 17h2.25l1.12-3h6.25l1.13 3h2.25L13 3h-2z\" fill=\"currentColor\"/>"
 		},
@@ -8409,8 +8415,26 @@
 		"kettle": {
 			"body": "<path d=\"M12.5 3C7.81 3 4 5.69 4 9c0 1.19.5 2.34 1.44 3.33A6.797 6.797 0 0 0 4 16.5V20c0 1.11.89 2 2 2h13c1.11 0 2-.89 2-2v-3.5c0-1.22-.34-2.43-1-3.5l2-2l-3-3l-2.1 2.1A9.231 9.231 0 0 0 12.5 9c-1.85 0-3.55.53-4.95 1.41C7.19 9.97 7 9.5 7 9c0-1.79 2.46-3.25 5.5-3.25c1.43 0 2.8.33 3.83.92l2.02-2.02C16.77 3.59 14.68 3 12.5 3m0 8c.34 0 .67.04 1 .09c-3.11.48-5.5 3.16-5.5 6.41V20H6v-2.5a6.5 6.5 0 0 1 6.5-6.5z\" fill=\"currentColor\"/>"
 		},
+		"kettle-alert": {
+			"body": "<path d=\"M9.5 3C4.81 3 1 5.69 1 9c0 1.19.5 2.34 1.44 3.33A6.797 6.797 0 0 0 1 16.5V20c0 1.11.89 2 2 2h13c1.11 0 2-.89 2-2v-3.5c0-1.22-.34-2.43-1-3.5l2-2l-3-3l-2.1 2.1A9.231 9.231 0 0 0 9.5 9c-1.85 0-3.55.53-4.95 1.41C4.19 9.97 4 9.5 4 9c0-1.79 2.46-3.25 5.5-3.25c1.43 0 2.8.33 3.83.92l2.02-2.02C13.77 3.59 11.68 3 9.5 3m0 8c.34 0 .67.04 1 .09c-3.11.48-5.5 3.16-5.5 6.41V20H3v-2.5A6.5 6.5 0 0 1 9.5 11M21 12V7h2v5h-2m0 4v-2h2v2h-2z\" fill=\"currentColor\"/>"
+		},
+		"kettle-alert-outline": {
+			"body": "<path d=\"M9.5 3C4.8 3 1 5.7 1 9c0 1.2.5 2.3 1.4 3.3C1.5 13.5.985 15 1 16.5V20c0 1.1.9 2 2 2h13c1.11 0 2-.89 2-2v-3.5c0-1.2-.3-2.4-1-3.5l2-2l-3-3l-2.1 2.1a9.191 9.191 0 0 0-9.3.3C4.22 10.03 4 9.53 4 9c0-1.8 2.5-3.3 5.5-3.3c1.4 0 2.8.4 3.8 1l2-2A10.05 10.05 0 0 0 9.5 3m0 8c3.5 0 6.5 3 6.5 5.5V20H3v-3.5C3 14 6 11 9.5 11m.5 1.5c-3 0-5 1.5-5 4.5v1h2v-1c0-1 0-3.5 3-4.5m11-.5V7h2v5h-2m0 4v-2h2v2h-2z\" fill=\"currentColor\"/>"
+		},
+		"kettle-off": {
+			"body": "<path d=\"M22.1 21.5L2.4 1.7L1.1 3l3.6 3.6C4.3 7.3 4 8.1 4 9c0 1.2.5 2.3 1.4 3.3C4.5 13.5 4 15 4 16.5V20c0 1.1.9 2 2 2h13c.3 0 .6-.1.9-.2l.9.9l1.3-1.2M8.2 10.1l-.6.3C7.2 10 7 9.5 7 9v-.1l1.2 1.2M8 17.5V20H6v-2.5c0-2.6 1.5-4.8 3.7-5.9l.8.8C9 13.6 8 15.4 8 17.5m8.9-7.4L19 8l3 3l-2 2c.7 1.1 1 2.3 1 3.5v1.3L12.2 9h.3c1.5 0 3.1.4 4.4 1.1M9.5 6.3L7.4 4.2C8.8 3.5 10.6 3 12.5 3c2.2 0 4.3.6 5.8 1.7l-2 2c-1-.6-2.4-.9-3.8-.9c-1.1 0-2.1.1-3 .5z\" fill=\"currentColor\"/>"
+		},
+		"kettle-off-outline": {
+			"body": "<path d=\"M22.1 21.5L2.4 1.7L1.1 3l3.6 3.6C4.3 7.3 4 8.1 4 9c0 1.2.5 2.3 1.4 3.3C4.5 13.5 4 15 4 16.5V20c0 1.1.9 2 2 2h13c.3 0 .6-.1.9-.2l.9.9l1.3-1.2M8.2 10.1l-.6.3C7.2 10 7 9.5 7 9v-.1l1.2 1.2M6 20v-3.5c0-1.8 1.6-3.9 3.7-4.9l1.2 1.2c-1.8.6-2.9 2-2.9 4.2v1h2v-1c0-.8 0-2.5 1.4-3.7l6.7 6.7H6m10.9-9.9L19 8l3 3l-2 2c.7 1.1 1 2.3 1 3.5v1.3l-2.1-2.1c-.4-1.8-2.1-3.6-4.3-4.3L12.2 9c1.6-.1 3.2.3 4.7 1.1M9.5 6.3L7.4 4.2C8.8 3.5 10.6 3 12.5 3c2.1 0 4.1.5 5.8 1.7l-2 2c-1-.6-2.4-1-3.8-1c-1.1 0-2.2.2-3 .6z\" fill=\"currentColor\"/>"
+		},
 		"kettle-outline": {
 			"body": "<path d=\"M12.5 3C7.8 3 4 5.7 4 9c0 1.2.5 2.3 1.4 3.3A6.8 6.8 0 0 0 4 16.5V20c0 1.1.9 2 2 2h13a2 2 0 0 0 2-2v-3.5c0-1.2-.3-2.4-1-3.5l2-2l-3-3l-2.1 2.1a9.2 9.2 0 0 0-9.3.3A2 2 0 0 1 7 9c0-1.8 2.5-3.3 5.5-3.3c1.4 0 2.8.4 3.8 1l2-2A10 10 0 0 0 12.5 3m0 8c3.5 0 6.5 3 6.5 5.5V20H6v-3.5C6 14 9 11 12.5 11m.5 1.5c-3 0-5 1.5-5 4.5v1h2v-1c0-1 0-3.5 3-4.5z\" fill=\"currentColor\"/>"
+		},
+		"kettle-steam": {
+			"body": "<path d=\"M19 11l-3-3l-2.1 2.1A9.231 9.231 0 0 0 9.5 9c-1.85 0-3.55.53-4.95 1.41C4.19 9.97 4 9.5 4 9c0-1.79 2.46-3.25 5.5-3.25c1.43 0 2.8.33 3.83.92l2.02-2.02C13.77 3.59 11.68 3 9.5 3C4.81 3 1 5.69 1 9c0 1.19.5 2.34 1.44 3.33A6.797 6.797 0 0 0 1 16.5V20c0 1.11.89 2 2 2h13c1.11 0 2-.89 2-2v-3.5c0-1.22-.34-2.43-1-3.5l2-2M5 17.5V20H3v-2.5A6.5 6.5 0 0 1 9.5 11c.34 0 .67.04 1 .09c-3.11.48-5.5 3.16-5.5 6.41M23 7.3c0 1.63-1.09 3.3-2.62 3.67l-.67-.68L19 9.6h.75c1 0 1.75-1.38 1.75-2.4s-.85-2.06-1.85-2.06v-1.5C21.5 3.64 23 5.45 23 7.3m-5.35-.57c-.62-.61-1-1.45-1-2.38C16.65 2.5 18.15 1 20 1v1.5c-1 0-1.85.83-1.85 1.85S19 6.2 20 6.2v1.5c-.82 0-1.58.25-2.21.68l-1.07-1.07c.28-.22.6-.42.93-.58z\" fill=\"currentColor\"/>"
+		},
+		"kettle-steam-outline": {
+			"body": "<path d=\"M9.5 3C4.8 3 1 5.7 1 9c0 1.2.5 2.3 1.4 3.3C1.5 13.5.985 15 1 16.5V20c0 1.1.9 2 2 2h13c1.11 0 2-.89 2-2v-3.5c0-1.2-.3-2.4-1-3.5l2-2l-3-3l-2.1 2.1a9.191 9.191 0 0 0-9.3.3C4.22 10.03 4 9.53 4 9c0-1.8 2.5-3.3 5.5-3.3c1.4 0 2.8.4 3.8 1l2-2A10.05 10.05 0 0 0 9.5 3m0 8c3.5 0 6.5 3 6.5 5.5V20H3v-3.5C3 14 6 11 9.5 11m.5 1.5c-3 0-5 1.5-5 4.5v1h2v-1c0-1 0-3.5 3-4.5m13-5.2c0 1.63-1.09 3.3-2.62 3.67l-.67-.68L19 9.6h.75c1 0 1.75-1.38 1.75-2.4s-.85-2.06-1.85-2.06v-1.5C21.5 3.64 23 5.45 23 7.3m-5.35-.57c-.62-.61-1-1.45-1-2.38C16.65 2.5 18.15 1 20 1v1.5c-1 0-1.85.83-1.85 1.85S19 6.2 20 6.2v1.5c-.82 0-1.58.25-2.21.68l-1.07-1.07c.28-.22.6-.42.93-.58z\" fill=\"currentColor\"/>"
 		},
 		"kettlebell": {
 			"body": "<path d=\"M16.2 10.7l.6-2.4c.1-.3.5-1.7-.3-2.9C15.9 4.5 14.7 4 13 4h-2c-1.7 0-2.9.5-3.5 1.4c-.8 1.2-.4 2.5-.3 2.9l.6 2.4C6.7 11.8 6 13.3 6 15c0 2.1 1.1 3.9 2.7 5h6.6c1.6-1.1 2.7-2.9 2.7-5c0-1.7-.7-3.2-1.8-4.3M9.6 9.5l-.5-1.7v-.1s-.2-.7.1-1.1c.2-.4.8-.6 1.8-.6h2c.9 0 1.6.2 1.9.5c.3.4.1 1.1.1 1.1l-.5 1.9c-.8-.3-1.6-.5-2.5-.5c-.9 0-1.7.2-2.4.5z\" fill=\"currentColor\"/>"
@@ -9619,6 +9643,9 @@
 		},
 		"more": {
 			"body": "<path d=\"M19 13.5a1.5 1.5 0 0 1-1.5-1.5a1.5 1.5 0 0 1 1.5-1.5a1.5 1.5 0 0 1 1.5 1.5a1.5 1.5 0 0 1-1.5 1.5m-5 0a1.5 1.5 0 0 1-1.5-1.5a1.5 1.5 0 0 1 1.5-1.5a1.5 1.5 0 0 1 1.5 1.5a1.5 1.5 0 0 1-1.5 1.5m-5 0A1.5 1.5 0 0 1 7.5 12A1.5 1.5 0 0 1 9 10.5a1.5 1.5 0 0 1 1.5 1.5A1.5 1.5 0 0 1 9 13.5M22 3H7c-.69 0-1.23.35-1.59.88L0 12l5.41 8.11c.36.53.96.89 1.65.89H22a2 2 0 0 0 2-2V5a2 2 0 0 0-2-2z\" fill=\"currentColor\"/>"
+		},
+		"mother-heart": {
+			"body": "<path d=\"M12 2c1.66 0 3 1.34 3 3s-1.34 3-3 3s-3-1.34-3-3s1.34-3 3-3m8 16l-2-5.44c-.35-.99-.66-1.85-2-2.56c-1.37-.7-2.37-1-4-1c-1.61 0-2.61.3-4 1c-1.32.71-1.63 1.57-2 2.56L4 18c-.23 1.13 2.38 2.44 4.13 3.19c1.21.53 2.51.81 3.87.81c1.38 0 2.67-.28 3.89-.81c1.75-.75 4.36-2.06 4.11-3.19m-4.58-.5L12 21l-3.42-3.5c-.36-.38-.58-.89-.58-1.45c0-1.13.9-2.05 2-2.05c.55 0 1.06.23 1.42.61l.58.59l.58-.6c.36-.37.87-.6 1.42-.6c1.11 0 2 .92 2 2.05c0 .56-.22 1.08-.58 1.45z\" fill=\"currentColor\"/>"
 		},
 		"mother-nurse": {
 			"body": "<path d=\"M12 2a3 3 0 0 1 3 3a3 3 0 0 1-3 3a3 3 0 0 1-3-3a3 3 0 0 1 3-3m8 16l-2-5.44c-.35-.99-.66-1.85-2-2.56c-1.38-.7-2.38-1-4-1c-1.63 0-2.62.3-4 1c-1.34.71-1.65 1.57-2 2.56L4 18c-.32 1.35 2.36 2.44 4.11 3.19V19c0-.95.86-1.62 2.58-2.03c.16-.04.31-.06.43-.08c-.54-.82-.76-1.55-.78-1.61l1.77-.6c.01.02.52 1.59 1.73 2.38c.21.07.42.15.62.24c.77.34 1.23.78 1.38 1.31c-1.34.53-2.62.8-3.84.8l-1-.1v2.63l1 .06c1.37 0 2.67-.28 3.89-.81c1.75-.75 4.36-2.06 4.11-3.19m-4.5-1a1.5 1.5 0 0 1-1.5-1.5a1.5 1.5 0 0 1 1.5-1.5a1.5 1.5 0 0 1 1.5 1.5a1.5 1.5 0 0 1-1.5 1.5z\" fill=\"currentColor\"/>"
@@ -12048,6 +12075,9 @@
 		"selection-search": {
 			"body": "<path d=\"M19.27 18.9c.43-.69.68-1.52.68-2.4c0-2.5-2-4.5-4.49-4.5s-4.5 2-4.5 4.5s2 4.5 4.5 4.5c.87 0 1.69-.25 2.38-.68l3.12 3.07L22.35 22l-3.08-3.1m-3.81.1c-1.39 0-2.5-1.12-2.5-2.5s1.11-2.5 2.5-2.5s2.49 1.12 2.49 2.5s-1.11 2.5-2.49 2.5M22 14h-.55c-.33-.81-.83-1.53-1.45-2.14V10h2v4M20 4h-3V2h3a2 2 0 0 1 2 2v3h-2V4m-6 0h-4V2h4v2M4 2h3v2H4v3H2V4a2 2 0 0 1 2-2m8 20h-2v-2c.5.82 1.2 1.5 2 2m-8-2h3v2H4a2 2 0 0 1-2-2v-3h2v3m0-6H2v-4h2v4z\" fill=\"currentColor\"/>"
 		},
+		"semantic-web": {
+			"body": "<path d=\"M12.9 4.22C18.73 6.84 20 2 20 2s-1.11 6.07-6.21 8.55c-1.04.51-1.69.78-1.69.78L3.73 7.25l8.37-3.43s-.2-.06.8.4M11.12 22l-7.79-4.22V9.07l7.79 3.97V22m1.76 0l7.8-4.22V9.07l-7.8 3.97V22z\" fill=\"currentColor\"/>"
+		},
 		"send": {
 			"body": "<path d=\"M2 21l21-9L2 3v7l15 2l-15 2v7z\" fill=\"currentColor\"/>"
 		},
@@ -13844,22 +13874,22 @@
 			"body": "<path d=\"M1.5 21L12 3.5L22.5 21h-21M12 21l5-9H7l5 9z\" fill=\"currentColor\"/>"
 		},
 		"trophy": {
-			"body": "<path d=\"M20.2 2H18c-.9 0-2 1-2 2H8c0-1-1.1-2-2-2H2v9c0 1 1 2 2 2h2.2c.4 2 1.7 3.7 4.8 4v2.1c-2.2.2-3 1.3-3 2.6v.3h8v-.3c0-1.3-.8-2.4-3-2.6V17c3.1-.3 4.4-2 4.8-4H20c1 0 2-1 2-2V2h-1.8M4 11V4h2v7H4m16 0h-2V4h2v7z\" fill=\"currentColor\"/>"
+			"body": "<path d=\"M18 2c-.9 0-2 1-2 2H8c0-1-1.1-2-2-2H2v9c0 1 1 2 2 2h2.2c.4 2 1.7 3.7 4.8 4v2.08C8 19.54 8 22 8 22h8s0-2.46-3-2.92V17c3.1-.3 4.4-2 4.8-4H20c1 0 2-1 2-2V2h-4M6 11H4V4h2v7m14 0h-2V4h2v7z\" fill=\"currentColor\"/>"
 		},
 		"trophy-award": {
-			"body": "<path d=\"M15.2 10.7l1.4 5.3l-4.6-3.8L7.4 16l1.4-5.2l-4.2-3.5L10 7l2-5l2 5l5.4.3l-4.2 3.4M14 19.1h-1V16l-1-1l-1 1v3.1h-1a2 2 0 0 0-2 2v1h8v-1a2 2 0 0 0-2-2z\" fill=\"currentColor\"/>"
+			"body": "<path d=\"M15.2 10.7l1.4 5.3l-4.6-3.8L7.4 16l1.4-5.2l-4.2-3.5L10 7l2-5l2 5l5.4.3l-4.2 3.4M14 19h-1v-3l-1-1l-1 1v3h-1c-1.1 0-2 .9-2 2v1h8v-1a2 2 0 0 0-2-2z\" fill=\"currentColor\"/>"
 		},
 		"trophy-broken": {
-			"body": "<path d=\"M2 2v9c0 1 1 2 2 2h2.2c.4 1.8 1.4 3.3 3.8 3.8v2.4c-1.4.4-2 1.3-2 2.4v.4h5.2l-3-7l4-5l-3.5-6H8v-.3C7.8 2.8 6.8 2 6 2H2m11.2 20H16v-.3c0-.6-.2-1.2-.6-1.6c-.3-.3-.8-.6-1.4-.8v-2.4c2.4-.5 3.5-2.1 3.8-3.8H20c1 0 2-1 2-2V2h-4c-.8 0-1.7.7-1.9 1.5c-.1.2-.1.3-.1.5h-2.1l2.8 6l-4.5 5l1 7M4 4h2v7H4V4m14 0h2v7h-2V4z\" fill=\"currentColor\"/>"
+			"body": "<path d=\"M6.2 13c.4 1.8 1.4 3.3 3.8 3.8v2.54C8 20.12 8 22 8 22h5.2l-3-7l4-5l-3.5-6H8c0-1-1.1-2-2-2H2v9c0 1 1 2 2 2h2.2M6 11H4V4h2v7m11.8 2H20c1 0 2-1 2-2V2h-4c-.9 0-2 1-2 2h-2.1l2.8 6l-4.5 5l1 7H16s0-1.88-2-2.66v-2.49c2.39-.5 3.5-2.15 3.8-3.85m2.2-2h-2V4h2v7z\" fill=\"currentColor\"/>"
 		},
 		"trophy-outline": {
-			"body": "<path d=\"M2 2v9c0 1 1 2 2 2h2.2c.4 2 1.7 3.7 4.8 4v2.1c-2.2.2-3 1.3-3 2.6v.3h8v-.3c0-1.3-.8-2.4-3-2.6V17c3.1-.3 4.4-2 4.8-4H20c1 0 2-1 2-2V2h-4c-.9 0-2 1-2 2H8c0-1-1.1-2-2-2H2m2 2h2v7H4V4m14 0h2v7h-2V4M8 6h8v5.5c0 1.93-.58 3.5-4 3.5c-3.41 0-4-1.57-4-3.5V6z\" fill=\"currentColor\"/>"
+			"body": "<path d=\"M18 2c-.9 0-2 1-2 2H8c0-1-1.1-2-2-2H2v9c0 1 1 2 2 2h2.2c.4 2 1.7 3.7 4.8 4v2.08C8 19.54 8 22 8 22h8s0-2.46-3-2.92V17c3.1-.3 4.4-2 4.8-4H20c1 0 2-1 2-2V2h-4M6 11H4V4h2v7m10 .5c0 1.93-.58 3.5-4 3.5c-3.41 0-4-1.57-4-3.5V6h8v5.5m4-.5h-2V4h2v7z\" fill=\"currentColor\"/>"
 		},
 		"trophy-variant": {
-			"body": "<path d=\"M20.2 4H17V2H7v2H2v7c0 1 1 2 2 2h3.2c.4 1.9 1.4 3.6 3.8 3.9V19c-3 .2-3 1.3-3 2.6v.4h8v-.3c0-1.3 0-2.4-3-2.6V17c2.5-.3 3.5-2 3.8-3.9H20c1 0 2-1 2-2V4h-1.8M4 11V6h3v5H4m16 0h-3V6h3v5z\" fill=\"currentColor\"/>"
+			"body": "<path d=\"M17 4V2H7v2H2v7c0 1.1.9 2 2 2h3.1a5.01 5.01 0 0 0 3.9 3.9v2.18C8 19.54 8 22 8 22h8s0-2.46-3-2.92V16.9a5.01 5.01 0 0 0 3.9-3.9H20c1.1 0 2-.9 2-2V4h-5M4 11V6h3v5H4m16 0h-3V6h3v5z\" fill=\"currentColor\"/>"
 		},
 		"trophy-variant-outline": {
-			"body": "<path d=\"M7 2v2H2v7c0 1 1 2 2 2h3.2c.4 1.9 1.4 3.6 3.8 3.9V19c-3 .2-3 1.3-3 2.6v.4h8v-.3c0-1.3 0-2.4-3-2.6V17c2.5-.3 3.5-2 3.8-3.9H20c1 0 2-1 2-2V4h-5V2H7m2 2h6v8a3 3 0 0 1-3 3c-2 0-3-1.34-3-3V4M4 6h3v5H4V6m13 0h3v5h-3V6z\" fill=\"currentColor\"/>"
+			"body": "<path d=\"M17 4V2H7v2H2v7c0 1.1.9 2 2 2h3.1a5.01 5.01 0 0 0 3.9 3.9v2.18C8 19.54 8 22 8 22h8s0-2.46-3-2.92V16.9a5.01 5.01 0 0 0 3.9-3.9H20c1.1 0 2-.9 2-2V4h-5M4 11V6h3v5H4m11 1c0 1.65-1.35 3-3 3s-3-1.35-3-3V4h6v8m5-1h-3V6h3v5z\" fill=\"currentColor\"/>"
 		},
 		"truck": {
 			"body": "<path d=\"M18 18.5a1.5 1.5 0 0 1-1.5-1.5a1.5 1.5 0 0 1 1.5-1.5a1.5 1.5 0 0 1 1.5 1.5a1.5 1.5 0 0 1-1.5 1.5m1.5-9l1.96 2.5H17V9.5m-11 9A1.5 1.5 0 0 1 4.5 17A1.5 1.5 0 0 1 6 15.5A1.5 1.5 0 0 1 7.5 17A1.5 1.5 0 0 1 6 18.5M20 8h-3V4H3c-1.11 0-2 .89-2 2v11h2a3 3 0 0 0 3 3a3 3 0 0 0 3-3h6a3 3 0 0 0 3 3a3 3 0 0 0 3-3h2v-5l-3-4z\" fill=\"currentColor\"/>"
@@ -16177,7 +16207,7 @@
 			"parent": "bank-plus"
 		},
 		"bar": {
-			"parent": "glass-wine"
+			"parent": "glass-tulip"
 		},
 		"bar-chart": {
 			"parent": "poll"
@@ -16646,6 +16676,9 @@
 		},
 		"business-card-outline": {
 			"parent": "account-card-details-outline"
+		},
+		"cab": {
+			"parent": "taxi"
 		},
 		"cable-car": {
 			"parent": "gondola"
@@ -17119,7 +17152,7 @@
 			"parent": "update"
 		},
 		"clock-warning": {
-			"parent": "clock-alert-outline"
+			"parent": "clock-alert"
 		},
 		"clockwise": {
 			"parent": "update"
@@ -18396,6 +18429,9 @@
 		"format-annotation-add": {
 			"parent": "format-annotation-plus"
 		},
+		"format-color-redact": {
+			"parent": "format-color-marker-cancel"
+		},
 		"format-color-reset": {
 			"parent": "water-off"
 		},
@@ -18683,6 +18719,12 @@
 		},
 		"gyro": {
 			"parent": "rotate-orbit"
+		},
+		"hail-cab": {
+			"parent": "hail"
+		},
+		"hail-taxi": {
+			"parent": "hail"
 		},
 		"hamburger-menu": {
 			"parent": "menu"
@@ -19269,8 +19311,26 @@
 		"kettle-empty": {
 			"parent": "kettle-outline"
 		},
+		"kettle-empty-alert": {
+			"parent": "kettle-alert-outline"
+		},
+		"kettle-empty-off": {
+			"parent": "kettle-off-outline"
+		},
+		"kettle-empty-steam": {
+			"parent": "kettle-steam-outline"
+		},
 		"kettle-full": {
 			"parent": "kettle"
+		},
+		"kettle-full-alert": {
+			"parent": "kettle-alert"
+		},
+		"kettle-full-off": {
+			"parent": "kettle-off"
+		},
+		"kettle-full-steam": {
+			"parent": "kettle-steam"
 		},
 		"key-add": {
 			"parent": "key-plus"
@@ -22050,6 +22110,9 @@
 		"rca": {
 			"parent": "video-input-component"
 		},
+		"rdf": {
+			"parent": "semantic-web"
+		},
 		"read-more": {
 			"parent": "page-next"
 		},
@@ -22169,6 +22232,9 @@
 		},
 		"resize-vertical": {
 			"parent": "arrow-split-horizontal"
+		},
+		"resource-description-framework": {
+			"parent": "semantic-web"
 		},
 		"restaurant": {
 			"parent": "table-chair"
@@ -23154,14 +23220,50 @@
 		"tea-kettle": {
 			"parent": "kettle"
 		},
+		"tea-kettle-alert": {
+			"parent": "kettle-alert"
+		},
+		"tea-kettle-alert-outline": {
+			"parent": "kettle-alert-outline"
+		},
 		"tea-kettle-empty": {
 			"parent": "kettle-outline"
+		},
+		"tea-kettle-empty-alert": {
+			"parent": "kettle-alert-outline"
+		},
+		"tea-kettle-empty-off": {
+			"parent": "kettle-off-outline"
+		},
+		"tea-kettle-empty-steam": {
+			"parent": "kettle-steam-outline"
 		},
 		"tea-kettle-full": {
 			"parent": "kettle"
 		},
+		"tea-kettle-full-alert": {
+			"parent": "kettle-alert"
+		},
+		"tea-kettle-full-off": {
+			"parent": "kettle-off"
+		},
+		"tea-kettle-full-steam": {
+			"parent": "kettle-steam"
+		},
+		"tea-kettle-off": {
+			"parent": "kettle-off"
+		},
+		"tea-kettle-off-outline": {
+			"parent": "kettle-off-outline"
+		},
 		"tea-kettle-outline": {
 			"parent": "kettle-outline"
+		},
+		"tea-kettle-steam": {
+			"parent": "kettle-steam"
+		},
+		"tea-kettle-steam-outline": {
+			"parent": "kettle-steam-outline"
 		},
 		"teacher": {
 			"parent": "teach"
@@ -23997,6 +24099,9 @@
 		"vue-js": {
 			"parent": "vuejs"
 		},
+		"w3c": {
+			"parent": "semantic-web"
+		},
 		"walker": {
 			"parent": "walk"
 		},
@@ -24134,6 +24239,9 @@
 		},
 		"web-camera": {
 			"parent": "webcam"
+		},
+		"web-ontology-language": {
+			"parent": "semantic-web"
 		},
 		"weight-kg": {
 			"parent": "weight-kilogram"
@@ -25192,7 +25300,17 @@
 		"f033b": "bottle-wine-outline",
 		"f033c": "earth-arrow-right",
 		"f033d": "key-arrow-right",
+		"f033e": "format-color-marker-cancel",
+		"f033f": "mother-heart",
 		"f034": "android-studio",
+		"f0340": "currency-eur-off",
+		"f0341": "semantic-web",
+		"f0342": "kettle-alert",
+		"f0343": "kettle-alert-outline",
+		"f0344": "kettle-steam",
+		"f0345": "kettle-steam-outline",
+		"f0346": "kettle-off",
+		"f0347": "kettle-off-outline",
 		"f035": "apple",
 		"f036": "apple-finder",
 		"f037": "apple-ios",
@@ -29350,7 +29468,10 @@
 			"fridge-alert",
 			"fridge-alert-outline",
 			"garage-alert",
+			"garage-alert-variant",
 			"home-alert",
+			"kettle-alert",
+			"kettle-alert-outline",
 			"lock-alert",
 			"map-marker-alert",
 			"map-marker-alert-outline",
@@ -30381,6 +30502,7 @@
 			"rollupjs",
 			"salesforce",
 			"sass",
+			"semantic-web",
 			"shopify",
 			"sina-weibo",
 			"skype",
@@ -30649,6 +30771,7 @@
 			"currency-cny",
 			"currency-eth",
 			"currency-eur",
+			"currency-eur-off",
 			"currency-gbp",
 			"currency-ils",
 			"currency-inr",
@@ -30812,6 +30935,7 @@
 			"react",
 			"rollupjs",
 			"sass",
+			"semantic-web",
 			"variable",
 			"vuejs",
 			"webpack",
@@ -31833,7 +31957,13 @@
 			"home-variant-outline",
 			"hotel",
 			"kettle",
+			"kettle-alert",
+			"kettle-alert-outline",
+			"kettle-off",
+			"kettle-off-outline",
 			"kettle-outline",
+			"kettle-steam",
+			"kettle-steam-outline",
 			"lamp",
 			"laptop",
 			"laptop-chromebook",
@@ -32323,6 +32453,7 @@
 			"crosshairs-question",
 			"ferry",
 			"google-maps",
+			"hail",
 			"home-map-marker",
 			"latitude",
 			"longitude",
@@ -32368,6 +32499,7 @@
 			"map-search",
 			"map-search-outline",
 			"navigation",
+			"taxi",
 			"train",
 			"tram",
 			"transit-connection",
@@ -32423,6 +32555,7 @@
 			"human-male-girl",
 			"human-male-male",
 			"human-pregnant",
+			"mother-heart",
 			"mother-nurse"
 		],
 		"Photography": [
@@ -32833,6 +32966,7 @@
 			"format-clear",
 			"format-color-fill",
 			"format-color-highlight",
+			"format-color-marker-cancel",
 			"format-color-text",
 			"format-columns",
 			"format-float-center",
@@ -33051,6 +33185,7 @@
 			"dump-truck",
 			"fire-truck",
 			"forklift",
+			"hail",
 			"highway",
 			"jeepney",
 			"minus-circle",

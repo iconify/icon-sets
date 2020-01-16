@@ -57,7 +57,7 @@
 
 
 ### IonIcons
-* Number of icons: 1226
+* Number of icons: 1227
 * Author: Ben Sperry
 * URL: https://github.com/ionic-team/ionicons
 * License: MIT
@@ -469,7 +469,7 @@
 
 
 ### OpenMoji
-* Number of icons: 1892
+* Number of icons: 1915
 * Author: OpenMoji
 * URL: https://github.com/hfg-gmuend/openmoji
 * License: CC BY-SA 4.0

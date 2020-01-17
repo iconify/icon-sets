@@ -66,6 +66,16 @@
 * Palette: Colorless
 
 
+### CoreUI Free
+* Number of icons: 502
+* Author: creativeLabs Łukasz Holeczek
+* URL: https://github.com/coreui/coreui-icons
+* License: CC BY 4.0
+* License URL: https://creativecommons.org/licenses/by/4.0/
+* Version: 1.0.0
+* Palette: Colorless
+
+
 ### Font Awesome 5 Solid
 * Number of icons: 964
 * Author: Dave Gandy
@@ -527,6 +537,16 @@
 * Palette: Colorful
 
 
+### CoreUI Brands
+* Number of icons: 829
+* Author: creativeLabs Łukasz Holeczek
+* URL: https://github.com/coreui/coreui-icons
+* License: CC BY 4.0
+* License URL: https://creativecommons.org/licenses/by/4.0/
+* Version: 1.0.0
+* Palette: Colorless
+
+
 ### Simple Icons
 * Number of icons: 978
 * Author: Simple Icons Collaborators
@@ -592,6 +612,16 @@
 * License: MIT
 * Version: 0.0.10
 * Palette: Colorless
+
+
+### CoreUI Flags
+* Number of icons: 197
+* Author: creativeLabs Łukasz Holeczek
+* URL: https://github.com/coreui/coreui-icons
+* License: CC BY 4.0
+* License URL: https://creativecommons.org/licenses/by/4.0/
+* Version: 1.0.0
+* Palette: Colorful
 
 
 ### Weather Icons

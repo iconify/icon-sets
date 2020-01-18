@@ -3,7 +3,7 @@
 
 
 ### Material Design Icons
-* Number of icons: 4948
+* Number of icons: 4952
 * Author: Austin Andrews
 * URL: https://github.com/Templarian/MaterialDesign
 * License: Open Font License

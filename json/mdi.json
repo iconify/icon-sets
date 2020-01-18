@@ -2,7 +2,7 @@
 	"prefix": "mdi",
 	"info": {
 		"name": "Material Design Icons",
-		"total": 4948,
+		"total": 4952,
 		"author": {
 			"name": "Austin Andrews",
 			"url": "https://github.com/Templarian/MaterialDesign"
@@ -11458,6 +11458,12 @@
 		"projector-screen": {
 			"body": "<path d=\"M4 2a1 1 0 0 0-1 1v1a1 1 0 0 0 1 1h1v9h6v2.59l-4.21 4.2l1.42 1.42l2.79-2.8V22h2v-2.59l2.79 2.8l1.42-1.42l-4.21-4.2V14h6V5h1a1 1 0 0 0 1-1V3a1 1 0 0 0-1-1H4z\" fill=\"currentColor\"/>"
 		},
+		"propane-tank": {
+			"body": "<path d=\"M16 6V4a2 2 0 0 0-2-2h-4c-1.1 0-2 .9-2 2v2c-2.21 0-4 1.79-4 4v7c0 1.86 1.28 3.41 3 3.86V22h10v-1.14c1.72-.44 3-2 3-3.86v-7c0-2.21-1.79-4-4-4m-6-2h4v2h-4V4z\" fill=\"currentColor\"/>"
+		},
+		"propane-tank-outline": {
+			"body": "<path d=\"M16 6V4a2 2 0 0 0-2-2h-4c-1.1 0-2 .9-2 2v2c-2.21 0-4 1.79-4 4v7c0 1.86 1.28 3.41 3 3.86V22h10v-1.14c1.72-.44 3-2 3-3.86v-7c0-2.21-1.79-4-4-4m-6-2h4v2h-4V4m8 13c0 1.1-.9 2-2 2H8c-1.1 0-2-.9-2-2v-7c0-1.1.9-2 2-2h8c1.1 0 2 .9 2 2v7z\" fill=\"currentColor\"/>"
+		},
 		"protocol": {
 			"body": "<path d=\"M18 20h-4l4-16h4m-6 0h-4L8 20h4M2 16.5A2.5 2.5 0 0 0 4.5 19A2.5 2.5 0 0 0 7 16.5A2.5 2.5 0 0 0 4.5 14A2.5 2.5 0 0 0 2 16.5m0-7A2.5 2.5 0 0 0 4.5 12A2.5 2.5 0 0 0 7 9.5A2.5 2.5 0 0 0 4.5 7A2.5 2.5 0 0 0 2 9.5z\" fill=\"currentColor\"/>"
 		},
@@ -13528,6 +13534,9 @@
 		"television": {
 			"body": "<path d=\"M21 17H3V5h18m0-2H3a2 2 0 0 0-2 2v12a2 2 0 0 0 2 2h5v2h8v-2h5a2 2 0 0 0 2-2V5a2 2 0 0 0-2-2z\" fill=\"currentColor\"/>"
 		},
+		"television-ambient-light": {
+			"body": "<path d=\"M3 11H0V9h3v2m0 3H0v2h3v-2m2-8.88L2.88 3L1.46 4.41l2.13 2.13L5 5.12M10 5V2H8v3h2m14 4h-3v2h3V9m-8-4V2h-2v3h2m4.41 1.54l2.13-2.12L21.12 3L19 5.12l1.41 1.42M24 14h-3v2h3v-2m-5-5v7c0 1.1-.9 2-2 2h-2v2H9v-2H7c-1.1 0-2-.9-2-2V9c0-1.1.9-2 2-2h10c1.1 0 2 .9 2 2m-2 0H7v7h10V9m2 10.88L21.12 22l1.42-1.41l-2.13-2.12L19 19.88M3.59 18.46l-2.12 2.13L2.88 22L5 19.88l-1.41-1.42z\" fill=\"currentColor\"/>"
+		},
 		"television-box": {
 			"body": "<path d=\"M5 3h14a2 2 0 0 1 2 2v14a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2m11 13l3-8h-2.5L15 12.5L13.5 8H5v2h3v6h2v-6h1.77L14 16h2z\" fill=\"currentColor\"/>"
 		},
@@ -14902,6 +14911,9 @@
 		"widgets": {
 			"body": "<path d=\"M3 3h8v4.34l5.66-5.65l5.65 5.65L16.66 13H21v8h-8v-8h3.66L11 7.34V11H3V3m0 10h8v8H3v-8z\" fill=\"currentColor\"/>"
 		},
+		"widgets-outline": {
+			"body": "<path d=\"M16.7 4.5l2.8 2.8l-2.8 2.8l-2.8-2.8l2.8-2.8M9 5v4H5V5h4m10 10v4h-4v-4h4M16.7 1.7L11 7.3l5.7 5.7H13v8h8v-8h-4.3l5.6-5.7l-5.6-5.6M11 3H3v8h8V3M9 15v4H5v-4h4m2-2H3v8h8v-8z\" fill=\"currentColor\"/>"
+		},
 		"wifi": {
 			"body": "<path d=\"M12 21l3.6-4.8c-1-.75-2.25-1.2-3.6-1.2s-2.6.45-3.6 1.2L12 21m0-18C7.95 3 4.21 4.34 1.2 6.6L3 9c2.5-1.88 5.62-3 9-3s6.5 1.12 9 3l1.8-2.4C19.79 4.34 16.05 3 12 3m0 6c-2.7 0-5.19.89-7.2 2.4l1.8 2.4C8.1 12.67 9.97 12 12 12c2.03 0 3.9.67 5.4 1.8l1.8-2.4C17.19 9.89 14.7 9 12 9z\" fill=\"currentColor\"/>"
 		},
@@ -16051,7 +16063,7 @@
 			"parent": "boom-gate-up-outline"
 		},
 		"arrow": {
-			"parent": "undo"
+			"parent": "undo-variant"
 		},
 		"arrow-back": {
 			"parent": "arrow-left"
@@ -16489,7 +16501,7 @@
 			"parent": "grill-outline"
 		},
 		"beacon": {
-			"parent": "lighthouse-on"
+			"parent": "lighthouse"
 		},
 		"beats-per-minute": {
 			"parent": "metronome"
@@ -25662,6 +25674,10 @@
 		"f037e": "pencil-ruler",
 		"f037f": "pipe-wrench",
 		"f038": "apple-icloud",
+		"f0380": "widgets-outline",
+		"f0381": "television-ambient-light",
+		"f0382": "propane-tank",
+		"f0383": "propane-tank-outline",
 		"f039": "apple-safari",
 		"f03a": "font-awesome",
 		"f03b": "apps",
@@ -32442,6 +32458,7 @@
 			"string-lights-off",
 			"table-chair",
 			"television",
+			"television-ambient-light",
 			"television-classic",
 			"television-classic-off",
 			"television-guide",

@@ -30,12 +30,12 @@
 
 
 ### Unicons
-* Number of icons: 1114
+* Number of icons: 1115
 * Author: Iconscout
 * URL: https://github.com/Iconscout/unicons
 * License: Apache 2.0
 * License URL: https://raw.githubusercontent.com/Iconscout/unicons/master/LICENSE
-* Version: 2.0.4
+* Version: 2.0.8
 * Palette: Colorless
 
 
@@ -548,12 +548,12 @@
 
 
 ### Simple Icons
-* Number of icons: 978
+* Number of icons: 1032
 * Author: Simple Icons Collaborators
 * URL: https://github.com/simple-icons/simple-icons
 * License: CC0 1.0
 * License URL: https://github.com/simple-icons/simple-icons/blob/develop/LICENSE.md
-* Version: 2.2.0
+* Version: 2.3.0
 * Palette: Colorless
 
 

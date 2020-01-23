@@ -3,7 +3,7 @@
 
 
 ### Material Design Icons
-* Number of icons: 4960
+* Number of icons: 4961
 * Author: Austin Andrews
 * URL: https://github.com/Templarian/MaterialDesign
 * License: Open Font License
@@ -297,7 +297,7 @@
 
 
 ### Maki
-* Number of icons: 352
+* Number of icons: 374
 * Author: Mapbox
 * URL: https://github.com/mapbox/maki
 * License: CC0

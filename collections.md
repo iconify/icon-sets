@@ -469,12 +469,12 @@
 
 
 ### Twitter Emoji
-* Number of icons: 3098
+* Number of icons: 3236
 * Author: Twitter
 * URL: https://github.com/twitter/twemoji
 * License: CC BY 4.0
 * License URL: https://creativecommons.org/licenses/by/4.0/
-* Version: 12.1.4
+* Version: 12.1.5
 * Palette: Colorful
 
 

@@ -302,7 +302,7 @@
 * URL: https://github.com/mapbox/maki
 * License: CC0
 * License URL: http://creativecommons.org/publicdomain/zero/1.0/
-* Version: 6.1.1
+* Version: 6.2.0
 * Palette: Colorless
 
 

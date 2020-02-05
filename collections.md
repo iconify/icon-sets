@@ -3,7 +3,7 @@
 
 
 ### Material Design Icons
-* Number of icons: 4994
+* Number of icons: 5004
 * Author: Austin Andrews
 * URL: https://github.com/Templarian/MaterialDesign
 * License: Open Font License
@@ -72,7 +72,7 @@
 * URL: https://github.com/coreui/coreui-icons
 * License: CC BY 4.0
 * License URL: https://creativecommons.org/licenses/by/4.0/
-* Version: 1.0.0
+* Version: 1.0.1
 * Palette: Colorless
 
 
@@ -543,7 +543,7 @@
 * URL: https://github.com/coreui/coreui-icons
 * License: CC BY 4.0
 * License URL: https://creativecommons.org/licenses/by/4.0/
-* Version: 1.0.0
+* Version: 1.0.1
 * Palette: Colorless
 
 
@@ -620,7 +620,7 @@
 * URL: https://github.com/coreui/coreui-icons
 * License: CC BY 4.0
 * License URL: https://creativecommons.org/licenses/by/4.0/
-* Version: 1.0.0
+* Version: 1.0.1
 * Palette: Colorful
 
 

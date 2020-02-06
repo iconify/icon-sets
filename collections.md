@@ -3,7 +3,7 @@
 
 
 ### Material Design Icons
-* Number of icons: 5004
+* Number of icons: 5010
 * Author: Austin Andrews
 * URL: https://github.com/Templarian/MaterialDesign
 * License: Open Font License
@@ -82,7 +82,7 @@
 * URL: http://fontawesome.io/
 * License: CC BY 4.0
 * License URL: https://creativecommons.org/licenses/by/4.0/
-* Version: 5.12.0
+* Version: 5.12.1
 * Palette: Colorless
 
 
@@ -92,7 +92,7 @@
 * URL: http://fontawesome.io/
 * License: CC BY 4.0
 * License URL: https://creativecommons.org/licenses/by/4.0/
-* Version: 5.12.0
+* Version: 5.12.1
 * Palette: Colorless
 
 
@@ -548,22 +548,22 @@
 
 
 ### Simple Icons
-* Number of icons: 1032
+* Number of icons: 1090
 * Author: Simple Icons Collaborators
 * URL: https://github.com/simple-icons/simple-icons
 * License: CC0 1.0
 * License URL: https://github.com/simple-icons/simple-icons/blob/develop/LICENSE.md
-* Version: 2.3.0
+* Version: 2.4.0
 * Palette: Colorless
 
 
 ### Font Awesome 5 Brands
-* Number of icons: 438
+* Number of icons: 442
 * Author: Dave Gandy
 * URL: http://fontawesome.io/
 * License: CC BY 4.0
 * License URL: https://creativecommons.org/licenses/by/4.0/
-* Version: 5.12.0
+* Version: 5.12.1
 * Palette: Colorless
 
 

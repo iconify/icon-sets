@@ -40,7 +40,7 @@
 
 
 ### BoxIcons
-* Number of icons: 1253
+* Number of icons: 1462
 * Author: Atisa
 * URL: https://github.com/atisawd/boxicons
 * License: CC 4.0

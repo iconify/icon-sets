@@ -3,7 +3,7 @@
 
 
 ### Material Design Icons
-* Number of icons: 5080
+* Number of icons: 5100
 * Author: Austin Andrews
 * URL: https://github.com/Templarian/MaterialDesign
 * License: Open Font License
@@ -479,7 +479,7 @@
 
 
 ### OpenMoji
-* Number of icons: 3425
+* Number of icons: 3426
 * Author: OpenMoji
 * URL: https://github.com/hfg-gmuend/openmoji
 * License: CC BY-SA 4.0

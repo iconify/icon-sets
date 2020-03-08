@@ -17046,7 +17046,7 @@
 			"parent": "paperclip"
 		},
 		"audio": {
-			"parent": "volume-medium"
+			"parent": "volume-high"
 		},
 		"audio-book": {
 			"parent": "book-music"
@@ -17347,6 +17347,9 @@
 		},
 		"blood": {
 			"parent": "water"
+		},
+		"blood-off": {
+			"parent": "water-off"
 		},
 		"blood-outline": {
 			"parent": "water-outline"
@@ -18624,10 +18627,10 @@
 			"parent": "bus-clock"
 		},
 		"dependencies": {
-			"parent": "graph"
+			"parent": "graph-outline"
 		},
 		"dependency": {
-			"parent": "graph"
+			"parent": "graph-outline"
 		},
 		"design": {
 			"parent": "pencil-ruler"
@@ -19134,7 +19137,7 @@
 			"parent": "map-marker-circle"
 		},
 		"extension": {
-			"parent": "toy-brick"
+			"parent": "toy-brick-search"
 		},
 		"extension-outline": {
 			"parent": "puzzle-outline"
@@ -19805,6 +19808,9 @@
 		"glove": {
 			"parent": "mixed-martial-arts"
 		},
+		"gluten": {
+			"parent": "barley"
+		},
 		"gluten-free": {
 			"parent": "barley-off"
 		},
@@ -19827,7 +19833,7 @@
 			"parent": "crosshairs-question"
 		},
 		"gpu": {
-			"parent": "expansion-card"
+			"parent": "expansion-card-variant"
 		},
 		"grade": {
 			"parent": "star"
@@ -19842,7 +19848,7 @@
 			"parent": "barley-off"
 		},
 		"graphics-processing-unit": {
-			"parent": "expansion-card"
+			"parent": "expansion-card-variant"
 		},
 		"graveyard": {
 			"parent": "grave-stone"
@@ -19897,6 +19903,9 @@
 		},
 		"hand-truck": {
 			"parent": "dolly"
+		},
+		"hand-wash": {
+			"parent": "hand-water"
 		},
 		"harry-potter": {
 			"parent": "deathly-hallows"
@@ -20143,6 +20152,9 @@
 		},
 		"home-warning": {
 			"parent": "home-alert"
+		},
+		"honey-outline": {
+			"parent": "beehive-outline"
 		},
 		"hope": {
 			"parent": "hand-heart"
@@ -20649,7 +20661,7 @@
 			"parent": "teach"
 		},
 		"lego": {
-			"parent": "toy-brick"
+			"parent": "toy-brick-search"
 		},
 		"lens": {
 			"parent": "circle"
@@ -21702,7 +21714,7 @@
 			"parent": "pencil-outline"
 		},
 		"mom": {
-			"parent": "human-female-boy"
+			"parent": "human-female-girl"
 		},
 		"money": {
 			"parent": "cash"
@@ -21756,7 +21768,7 @@
 			"parent": "dots-vertical"
 		},
 		"mother": {
-			"parent": "human-female-boy"
+			"parent": "human-female-girl"
 		},
 		"motion": {
 			"parent": "transition"
@@ -21813,7 +21825,7 @@
 			"parent": "close-octagon"
 		},
 		"mum": {
-			"parent": "human-female-boy"
+			"parent": "human-female-girl"
 		},
 		"museum": {
 			"parent": "bank"
@@ -21885,7 +21897,7 @@
 			"parent": "wifi-star"
 		},
 		"network-interface-card": {
-			"parent": "expansion-card"
+			"parent": "expansion-card-variant"
 		},
 		"network-router": {
 			"parent": "router-network"
@@ -23103,7 +23115,7 @@
 			"parent": "power-socket-us"
 		},
 		"plugin": {
-			"parent": "toy-brick"
+			"parent": "toy-brick-search"
 		},
 		"plus-circles-outline": {
 			"parent": "plus-circle-multiple-outline"
@@ -23361,7 +23373,7 @@
 			"parent": "help-network-outline"
 		},
 		"queue": {
-			"parent": "tray"
+			"parent": "tray-remove"
 		},
 		"queue-music": {
 			"parent": "playlist-music"
@@ -24896,6 +24908,12 @@
 		"tragedy": {
 			"parent": "drama-masks"
 		},
+		"trans-fat": {
+			"parent": "water"
+		},
+		"trans-fat-off": {
+			"parent": "water-off"
+		},
 		"transfer-within-a-station": {
 			"parent": "transit-transfer"
 		},
@@ -25758,7 +25776,7 @@
 			"parent": "human-female"
 		},
 		"woman-child": {
-			"parent": "human-female-boy"
+			"parent": "human-female-girl"
 		},
 		"woman-woman": {
 			"parent": "human-female-female"
@@ -34112,6 +34130,7 @@
 			"clipboard-pulse-outline",
 			"diabetes",
 			"doctor",
+			"hand-water",
 			"heart",
 			"heart-flash",
 			"heart-pulse",

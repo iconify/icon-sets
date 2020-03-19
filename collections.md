@@ -479,12 +479,12 @@
 
 
 ### OpenMoji
-* Number of icons: 3440
+* Number of icons: 3444
 * Author: OpenMoji
 * URL: https://github.com/hfg-gmuend/openmoji
 * License: CC BY-SA 4.0
 * License URL: https://creativecommons.org/licenses/by-sa/4.0/
-* Version: 12.1.0
+* Version: 12.2.0
 * Palette: Colorful
 
 

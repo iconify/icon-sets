@@ -2,7 +2,7 @@
 	"prefix": "mdi",
 	"info": {
 		"name": "Material Design Icons",
-		"total": 5133,
+		"total": 5134,
 		"author": {
 			"name": "Austin Andrews",
 			"url": "https://github.com/Templarian/MaterialDesign"
@@ -1472,6 +1472,9 @@
 		},
 		"axis-arrow": {
 			"body": "<path d=\"M12 2l4 4h-3v7.85l6.53 3.76L21 15.03l1.5 5.47l-5.5 1.46l1.53-2.61L12 15.58l-6.53 3.77L7 21.96L1.5 20.5L3 15.03l1.47 2.58L11 13.85V6H8l4-4z\" fill=\"currentColor\"/>"
+		},
+		"axis-arrow-info": {
+			"body": "<path d=\"M12 2l4 4h-3v7.85l6.53 3.76L21 15.03l1.5 5.47l-5.5 1.46l1.53-2.61L12 15.58l-6.53 3.77L7 21.96L1.5 20.5L3 15.03l1.47 2.58L11 13.85V6H8l4-4m9 3h-2V3h2v2m1 5v2h-4v-2h1V8h-1V6h3v4h1z\" fill=\"currentColor\"/>"
 		},
 		"axis-arrow-lock": {
 			"body": "<path d=\"M21.8 5c.6 0 1.2.6 1.2 1.3v3.5c0 .6-.6 1.2-1.3 1.2h-5.5c-.6 0-1.2-.6-1.2-1.3V6.2c0-.6.6-1.2 1.2-1.2V3.5C16.2 2.1 17.6 1 19 1s2.8 1.1 2.8 2.5V5m-1.3 0V3.5c0-.8-.7-1.3-1.5-1.3s-1.5.5-1.5 1.3V5h3M1.74 19.25l1.47-5.46l1.47 2.55L9 13.85V6H6l4-4l4 4h-3v7.85l7.03 4.01l1.47-2.58l1.5 5.46l-5.5 1.47l1.53-2.61L10 15.58l-4.32 2.49l1.53 2.64l-5.47-1.46z\" fill=\"currentColor\"/>"
@@ -17208,7 +17211,7 @@
 			"parent": "seal"
 		},
 		"awning": {
-			"parent": "storefront-outline"
+			"parent": "storefront"
 		},
 		"azure": {
 			"parent": "microsoft-azure"
@@ -17424,7 +17427,7 @@
 			"parent": "microsoft-bing"
 		},
 		"birthday-cake": {
-			"parent": "cake-variant"
+			"parent": "cake"
 		},
 		"biscuit": {
 			"parent": "cookie"
@@ -18294,7 +18297,7 @@
 			"parent": "update"
 		},
 		"clock-warning": {
-			"parent": "clock-alert-outline"
+			"parent": "clock-alert"
 		},
 		"clockwise": {
 			"parent": "update"
@@ -18681,7 +18684,7 @@
 			"parent": "face-agent"
 		},
 		"cycling": {
-			"parent": "bicycle"
+			"parent": "bike"
 		},
 		"dad": {
 			"parent": "human-male-girl"
@@ -19239,7 +19242,7 @@
 			"parent": "map-marker-circle"
 		},
 		"extension": {
-			"parent": "toy-brick"
+			"parent": "toy-brick-search"
 		},
 		"extension-outline": {
 			"parent": "puzzle-outline"
@@ -20469,7 +20472,7 @@
 			"parent": "card-account-details-outline"
 		},
 		"idea": {
-			"parent": "lightbulb"
+			"parent": "lightbulb-outline"
 		},
 		"identification-card": {
 			"parent": "card-account-details"
@@ -20766,7 +20769,7 @@
 			"parent": "teach"
 		},
 		"lego": {
-			"parent": "toy-brick"
+			"parent": "toy-brick-search"
 		},
 		"lens": {
 			"parent": "circle"
@@ -21276,7 +21279,7 @@
 			"parent": "lan-pending"
 		},
 		"local-atm": {
-			"parent": "cash-usd-outline"
+			"parent": "cash-usd"
 		},
 		"local-attraction": {
 			"parent": "ticket"
@@ -21825,7 +21828,7 @@
 			"parent": "currency-usd-off"
 		},
 		"money-usd": {
-			"parent": "cash-usd-outline"
+			"parent": "cash-usd"
 		},
 		"monitor-mobile-phone": {
 			"parent": "monitor-cellphone"
@@ -23235,7 +23238,7 @@
 			"parent": "power-socket-us"
 		},
 		"plugin": {
-			"parent": "toy-brick"
+			"parent": "toy-brick-search"
 		},
 		"plus-circles-outline": {
 			"parent": "plus-circle-multiple-outline"
@@ -23670,7 +23673,7 @@
 			"parent": "alert"
 		},
 		"reschedule": {
-			"parent": "calendar-arrow-right"
+			"parent": "calendar-arrow-left"
 		},
 		"resize-horizontal": {
 			"parent": "arrow-split-vertical"
@@ -25797,7 +25800,7 @@
 			"parent": "weather-rainy"
 		},
 		"weather-storm": {
-			"parent": "weather-lightning-rainy"
+			"parent": "weather-lightning"
 		},
 		"weather-thunder": {
 			"parent": "weather-lightning"
@@ -31200,7 +31203,8 @@
 		"f140a": "gas-station-off-outline",
 		"f140b": "lightning-bolt",
 		"f140c": "lightning-bolt-outline",
-		"f140d": "smoking-pipe"
+		"f140d": "smoking-pipe",
+		"f140e": "axis-arrow-info"
 	},
 	"categories": {
 		"Account / User": [

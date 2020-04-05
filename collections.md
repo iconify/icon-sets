@@ -3,7 +3,7 @@
 
 
 ### Material Design Icons
-* Number of icons: 5133
+* Number of icons: 5134
 * Author: Austin Andrews
 * URL: https://github.com/Templarian/MaterialDesign
 * License: Open Font License
@@ -153,7 +153,7 @@
 
 
 ### Feather Icons
-* Number of icons: 282
+* Number of icons: 286
 * Author: Cole Bemis
 * URL: https://github.com/feathericons/feather
 * License: MIT
@@ -479,7 +479,7 @@
 
 
 ### OpenMoji
-* Number of icons: 3452
+* Number of icons: 3454
 * Author: OpenMoji
 * URL: https://github.com/hfg-gmuend/openmoji
 * License: CC BY-SA 4.0

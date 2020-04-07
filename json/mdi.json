@@ -2,7 +2,7 @@
 	"prefix": "mdi",
 	"info": {
 		"name": "Material Design Icons",
-		"total": 5134,
+		"total": 5140,
 		"author": {
 			"name": "Austin Andrews",
 			"url": "https://github.com/Templarian/MaterialDesign"
@@ -3579,14 +3579,32 @@
 		"chat-alert-outline": {
 			"body": "<path d=\"M12 3C6.5 3 2 6.58 2 11a7.218 7.218 0 0 0 2.75 5.5c0 .6-.42 2.17-2.75 4.5c2.37-.11 4.64-1 6.47-2.5c1.14.33 2.34.5 3.53.5c5.5 0 10-3.58 10-8s-4.5-8-10-8m0 14c-4.42 0-8-2.69-8-6s3.58-6 8-6s8 2.69 8 6s-3.58 6-8 6m-1-4v2h2v-2h-2m0-2h2V7h-2v4z\" fill=\"currentColor\"/>"
 		},
+		"chat-minus": {
+			"body": "<path d=\"M23 17v2h-8v-2h8M12 3c5.5 0 10 3.58 10 8c0 .58-.08 1.14-.22 1.68A6.005 6.005 0 0 0 13 18l.08.95L12 19c-1.24 0-2.43-.18-3.53-.5C5.55 21 2 21 2 21c2.33-2.33 2.7-3.9 2.75-4.5C3.05 15.07 2 13.14 2 11c0-4.42 4.5-8 10-8z\" fill=\"currentColor\"/>"
+		},
+		"chat-minus-outline": {
+			"body": "<path d=\"M12 3c5.5 0 10 3.58 10 8c0 1.46-.5 2.82-1.34 4h-2.7c1.27-1.06 2.04-2.46 2.04-4c0-3.31-3.58-6-8-6s-8 2.69-8 6s3.58 6 8 6l1-.05v2.01L12 19c-1.19 0-2.38-.17-3.53-.5C6.64 20 4.37 20.89 2 21c2.33-2.33 2.75-3.9 2.75-4.5A7.218 7.218 0 0 1 2 11c0-4.42 4.5-8 10-8m3 14h8v2h-8v-2z\" fill=\"currentColor\"/>"
+		},
 		"chat-outline": {
 			"body": "<path d=\"M12 3C6.5 3 2 6.58 2 11a7.218 7.218 0 0 0 2.75 5.5c0 .6-.42 2.17-2.75 4.5c2.37-.11 4.64-1 6.47-2.5c1.14.33 2.34.5 3.53.5c5.5 0 10-3.58 10-8s-4.5-8-10-8m0 14c-4.42 0-8-2.69-8-6s3.58-6 8-6s8 2.69 8 6s-3.58 6-8 6z\" fill=\"currentColor\"/>"
+		},
+		"chat-plus": {
+			"body": "<path d=\"M18 14h2v3h3v2h-3v3h-2v-3h-3v-2h3v-3M12 3c5.5 0 10 3.58 10 8c0 .58-.08 1.14-.22 1.68A6.005 6.005 0 0 0 13 18l.08.95L12 19c-1.24 0-2.43-.18-3.53-.5C5.55 21 2 21 2 21c2.33-2.33 2.7-3.9 2.75-4.5C3.05 15.07 2 13.14 2 11c0-4.42 4.5-8 10-8z\" fill=\"currentColor\"/>"
+		},
+		"chat-plus-outline": {
+			"body": "<path d=\"M12 3c5.5 0 10 3.58 10 8c0 .58-.08 1.14-.22 1.68c-.59-.3-1.23-.52-1.9-.62c.08-.34.12-.7.12-1.06c0-3.31-3.58-6-8-6s-8 2.69-8 6s3.58 6 8 6l1.09-.05L13 18l.08.95L12 19c-1.19 0-2.38-.17-3.53-.5C6.64 20 4.37 20.89 2 21c2.33-2.33 2.75-3.9 2.75-4.5A7.218 7.218 0 0 1 2 11c0-4.42 4.5-8 10-8m6 11h2v3h3v2h-3v3h-2v-3h-3v-2h3v-3z\" fill=\"currentColor\"/>"
 		},
 		"chat-processing": {
 			"body": "<path d=\"M12 3c5.5 0 10 3.58 10 8s-4.5 8-10 8c-1.24 0-2.43-.18-3.53-.5C5.55 21 2 21 2 21c2.33-2.33 2.7-3.9 2.75-4.5C3.05 15.07 2 13.13 2 11c0-4.42 4.5-8 10-8m5 9v-2h-2v2h2m-4 0v-2h-2v2h2m-4 0v-2H7v2h2z\" fill=\"currentColor\"/>"
 		},
 		"chat-processing-outline": {
 			"body": "<path d=\"M12 3C6.5 3 2 6.58 2 11a7.218 7.218 0 0 0 2.75 5.5c0 .6-.42 2.17-2.75 4.5c2.37-.11 4.64-1 6.47-2.5c1.14.33 2.34.5 3.53.5c5.5 0 10-3.58 10-8s-4.5-8-10-8m0 14c-4.42 0-8-2.69-8-6s3.58-6 8-6s8 2.69 8 6s-3.58 6-8 6m5-5v-2h-2v2h2m-4 0v-2h-2v2h2m-4 0v-2H7v2h2z\" fill=\"currentColor\"/>"
+		},
+		"chat-remove": {
+			"body": "<path d=\"M15.46 15.88l1.42-1.42L19 16.59l2.12-2.12l1.42 1.41L20.41 18l2.13 2.12l-1.42 1.42L19 19.41l-2.12 2.13l-1.42-1.42L17.59 18l-2.12-2.12M12 3c5.5 0 10 3.58 10 8c0 .58-.08 1.14-.22 1.68A6.005 6.005 0 0 0 13 18l.08.95L12 19c-1.24 0-2.43-.18-3.53-.5C5.55 21 2 21 2 21c2.33-2.33 2.7-3.9 2.75-4.5C3.05 15.07 2 13.14 2 11c0-4.42 4.5-8 10-8z\" fill=\"currentColor\"/>"
+		},
+		"chat-remove-outline": {
+			"body": "<path d=\"M15.46 15.88l1.42-1.42L19 16.59l2.12-2.12l1.42 1.41L20.41 18l2.13 2.12l-1.42 1.42L19 19.41l-2.12 2.13l-1.42-1.42L17.59 18l-2.12-2.12M12 3c5.5 0 10 3.58 10 8c0 .58-.08 1.14-.22 1.68c-.59-.3-1.23-.52-1.9-.62c.08-.34.12-.7.12-1.06c0-3.31-3.58-6-8-6s-8 2.69-8 6s3.58 6 8 6l1.09-.05L13 18l.08.95L12 19c-1.19 0-2.38-.17-3.53-.5C6.64 20 4.37 20.89 2 21c2.33-2.33 2.75-3.9 2.75-4.5A7.218 7.218 0 0 1 2 11c0-4.42 4.5-8 10-8z\" fill=\"currentColor\"/>"
 		},
 		"chat-sleep": {
 			"body": "<path d=\"M12 3C6.5 3 2 6.58 2 11c0 2.13 1.05 4.07 2.75 5.5c-.05.6-.42 2.17-2.75 4.5c0 0 3.55 0 6.47-2.5c1.1.32 2.29.5 3.53.5c5.5 0 10-3.58 10-8s-4.5-8-10-8m3 6.3L11.76 13H15v2H9v-2.3L12.24 9H9V7h6v2.3z\" fill=\"currentColor\"/>"
@@ -16914,7 +16932,7 @@
 			"parent": "boom-gate-up-outline"
 		},
 		"arrow": {
-			"parent": "undo"
+			"parent": "undo-variant"
 		},
 		"arrow-back": {
 			"parent": "arrow-left"
@@ -17211,7 +17229,7 @@
 			"parent": "seal"
 		},
 		"awning": {
-			"parent": "storefront"
+			"parent": "storefront-outline"
 		},
 		"azure": {
 			"parent": "microsoft-azure"
@@ -17247,7 +17265,7 @@
 			"parent": "baguette"
 		},
 		"ban": {
-			"parent": "file-cancel"
+			"parent": "file-cancel-outline"
 		},
 		"band-aid": {
 			"parent": "bandage"
@@ -17259,7 +17277,7 @@
 			"parent": "bank-plus"
 		},
 		"bar": {
-			"parent": "glass-wine"
+			"parent": "glass-tulip"
 		},
 		"bar-chart": {
 			"parent": "poll"
@@ -19665,7 +19683,7 @@
 			"parent": "shoe-print"
 		},
 		"forbid": {
-			"parent": "file-cancel"
+			"parent": "file-cancel-outline"
 		},
 		"foreign-key": {
 			"parent": "key-link"
@@ -19938,7 +19956,7 @@
 			"parent": "crosshairs-question"
 		},
 		"gpu": {
-			"parent": "expansion-card"
+			"parent": "expansion-card-variant"
 		},
 		"grade": {
 			"parent": "star"
@@ -19953,7 +19971,7 @@
 			"parent": "barley-off"
 		},
 		"graphics-processing-unit": {
-			"parent": "expansion-card"
+			"parent": "expansion-card-variant"
 		},
 		"graveyard": {
 			"parent": "grave-stone"
@@ -20472,7 +20490,7 @@
 			"parent": "card-account-details-outline"
 		},
 		"idea": {
-			"parent": "lightbulb-outline"
+			"parent": "lightbulb-on"
 		},
 		"identification-card": {
 			"parent": "card-account-details"
@@ -20607,7 +20625,7 @@
 			"parent": "receipt"
 		},
 		"irrigation": {
-			"parent": "sprinkler"
+			"parent": "sprinkler-variant"
 		},
 		"italian-lights": {
 			"parent": "string-lights"
@@ -21279,7 +21297,7 @@
 			"parent": "lan-pending"
 		},
 		"local-atm": {
-			"parent": "cash-usd"
+			"parent": "cash-usd-outline"
 		},
 		"local-attraction": {
 			"parent": "ticket"
@@ -21828,7 +21846,7 @@
 			"parent": "currency-usd-off"
 		},
 		"money-usd": {
-			"parent": "cash-usd"
+			"parent": "cash-usd-outline"
 		},
 		"monitor-mobile-phone": {
 			"parent": "monitor-cellphone"
@@ -21999,7 +22017,7 @@
 			"parent": "wifi-star"
 		},
 		"network-interface-card": {
-			"parent": "expansion-card"
+			"parent": "expansion-card-variant"
 		},
 		"network-router": {
 			"parent": "router-network"
@@ -23496,7 +23514,7 @@
 			"parent": "help-network-outline"
 		},
 		"queue": {
-			"parent": "tray"
+			"parent": "tray-remove"
 		},
 		"queue-music": {
 			"parent": "playlist-music"
@@ -31204,7 +31222,13 @@
 		"f140b": "lightning-bolt",
 		"f140c": "lightning-bolt-outline",
 		"f140d": "smoking-pipe",
-		"f140e": "axis-arrow-info"
+		"f140e": "axis-arrow-info",
+		"f140f": "chat-plus",
+		"f1410": "chat-minus",
+		"f1411": "chat-remove",
+		"f1412": "chat-plus-outline",
+		"f1413": "chat-minus-outline",
+		"f1414": "chat-remove-outline"
 	},
 	"categories": {
 		"Account / User": [

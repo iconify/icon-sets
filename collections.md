@@ -30,12 +30,12 @@
 
 
 ### Unicons
-* Number of icons: 1130
+* Number of icons: 1134
 * Author: Iconscout
 * URL: https://github.com/Iconscout/unicons
 * License: Apache 2.0
 * License URL: https://raw.githubusercontent.com/Iconscout/unicons/master/LICENSE
-* Version: 2.1.3
+* Version: 2.1.5
 * Palette: Colorless
 
 
@@ -479,7 +479,7 @@
 
 
 ### OpenMoji
-* Number of icons: 3454
+* Number of icons: 3455
 * Author: OpenMoji
 * URL: https://github.com/hfg-gmuend/openmoji
 * License: CC BY-SA 4.0

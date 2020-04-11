@@ -12802,11 +12802,11 @@
 		"selection-marker": {
 			"body": "<path d=\"M2 4a2 2 0 0 1 2-2h3v2H4v3H2V4m20 0v3h-2V4h-3V2h3a2 2 0 0 1 2 2M2 20v-3h2v3h3v2H4a2 2 0 0 1-2-2m8-18h4v2h-4V2m0 18h4v2h-4v-2M2 10h2v4H2v-4m16.5 3c1.9 0 3.5 1.6 3.5 3.5c0 2.6-3.5 6.5-3.5 6.5S15 19.1 15 16.5c0-1.9 1.6-3.5 3.5-3.5m0 4.8c.7 0 1.3-.6 1.2-1.2c0-.6-.6-1.2-1.2-1.2s-1.2.5-1.2 1.2c0 .6.5 1.2 1.2 1.2M20 10h2v2.34c-.58-.5-1.26-.89-2-1.11V10z\" fill=\"currentColor\"/>"
 		},
+		"selection-multiple": {
+			"body": "<path d=\"M11 6V4h4v2h-4M6 9h2v4H6V9m0-3a2 2 0 0 1 2-2h1v2H8v1H6V6m2 12a2 2 0 0 1-2-2v-1h2v1h1v2H8M18 4a2 2 0 0 1 2 2v1h-2V6h-1V4h1m-3 12v2h-4v-2h4m5-3h-2V9h2v4m0 3a2 2 0 0 1-2 2h-1v-2h1v-1h2v1M3 8h1v12h12v1c0 .54-.43 1-.97 1H3c-.55 0-1-.45-1-1V9c0-.55.45-1 1-1z\" fill=\"currentColor\"/>"
+		},
 		"selection-multiple-marker": {
 			"body": "<path d=\"M7 4h2v2H8v1H6V5c0-.55.45-1 1-1m12 0c.55 0 1 .45 1 1v2h-2V6h-1V4h2m-8 2V4h4v2h-4M7 18c-.55 0-1-.45-1-1v-2h2v1h1v2H7M6 9h2v4H6V9M3 8h1v12h10.58l1.45 2H3c-.55 0-1-.45-1-1V9c0-.55.45-1 1-1m15.5 4c1.9 0 3.5 1.6 3.5 3.5c0 2.6-3.5 6.5-3.5 6.5S15 18.1 15 15.5c0-1.9 1.6-3.5 3.5-3.5m0 4.8c.7 0 1.3-.6 1.2-1.2c0-.6-.6-1.2-1.2-1.2s-1.2.5-1.2 1.2c0 .6.5 1.2 1.2 1.2M11 18v-2h2c.09.66.27 1.33.5 2H11m9-9v1.23c-.5-.15-1-.23-1.5-.23l-.5.03V9h2z\" fill=\"currentColor\"/>"
-		},
-		"selection-mutliple": {
-			"body": "<path d=\"M11 6V4h4v2h-4M6 9h2v4H6V9m0-3a2 2 0 0 1 2-2h1v2H8v1H6V6m2 12a2 2 0 0 1-2-2v-1h2v1h1v2H8M18 4a2 2 0 0 1 2 2v1h-2V6h-1V4h1m-3 12v2h-4v-2h4m5-3h-2V9h2v4m0 3a2 2 0 0 1-2 2h-1v-2h1v-1h2v1M3 8h1v12h12v1c0 .54-.43 1-.97 1H3c-.55 0-1-.45-1-1V9c0-.55.45-1 1-1z\" fill=\"currentColor\"/>"
 		},
 		"selection-off": {
 			"body": "<path d=\"M.5 3.77L1.78 2.5L21.5 22.22l-1.27 1.28l-1.5-1.5H17v-1.73L3.73 7H2V5.27L.5 3.77M4 2h3v2H5.82L3.83 2H4m18 2v3h-2V4h-3V2h3a2 2 0 0 1 2 2m-2 13h2v3.17l-2-1.99V17M2 20v-3h2v3h3v2H4a2 2 0 0 1-2-2m8-18h4v2h-4V2m0 18h4v2h-4v-2m10-10h2v4h-2v-4M2 10h2v4H2v-4z\" fill=\"currentColor\"/>"
@@ -16932,7 +16932,7 @@
 			"parent": "boom-gate-up-outline"
 		},
 		"arrow": {
-			"parent": "undo-variant"
+			"parent": "undo"
 		},
 		"arrow-back": {
 			"parent": "arrow-left"
@@ -17226,10 +17226,10 @@
 			"parent": "robot-industrial"
 		},
 		"award": {
-			"parent": "seal"
+			"parent": "seal-variant"
 		},
 		"awning": {
-			"parent": "storefront-outline"
+			"parent": "storefront"
 		},
 		"azure": {
 			"parent": "microsoft-azure"
@@ -17265,7 +17265,7 @@
 			"parent": "baguette"
 		},
 		"ban": {
-			"parent": "file-cancel-outline"
+			"parent": "file-cancel"
 		},
 		"band-aid": {
 			"parent": "bandage"
@@ -19683,7 +19683,7 @@
 			"parent": "shoe-print"
 		},
 		"forbid": {
-			"parent": "file-cancel-outline"
+			"parent": "file-cancel"
 		},
 		"foreign-key": {
 			"parent": "key-link"
@@ -20490,7 +20490,7 @@
 			"parent": "card-account-details-outline"
 		},
 		"idea": {
-			"parent": "lightbulb-on"
+			"parent": "lightbulb"
 		},
 		"identification-card": {
 			"parent": "card-account-details"
@@ -20625,7 +20625,7 @@
 			"parent": "receipt"
 		},
 		"irrigation": {
-			"parent": "sprinkler-variant"
+			"parent": "sprinkler"
 		},
 		"italian-lights": {
 			"parent": "string-lights"
@@ -21297,7 +21297,7 @@
 			"parent": "lan-pending"
 		},
 		"local-atm": {
-			"parent": "cash-usd-outline"
+			"parent": "cash-usd"
 		},
 		"local-attraction": {
 			"parent": "ticket"
@@ -21846,7 +21846,7 @@
 			"parent": "currency-usd-off"
 		},
 		"money-usd": {
-			"parent": "cash-usd-outline"
+			"parent": "cash-usd"
 		},
 		"monitor-mobile-phone": {
 			"parent": "monitor-cellphone"
@@ -23430,7 +23430,7 @@
 			"parent": "printer-alert"
 		},
 		"prize": {
-			"parent": "seal"
+			"parent": "seal-variant"
 		},
 		"progress-spanner": {
 			"parent": "progress-wrench"
@@ -23514,7 +23514,7 @@
 			"parent": "help-network-outline"
 		},
 		"queue": {
-			"parent": "tray-remove"
+			"parent": "tray"
 		},
 		"queue-music": {
 			"parent": "playlist-music"
@@ -23691,7 +23691,7 @@
 			"parent": "alert"
 		},
 		"reschedule": {
-			"parent": "calendar-arrow-left"
+			"parent": "calendar-arrow-right"
 		},
 		"resize-horizontal": {
 			"parent": "arrow-split-vertical"
@@ -23902,6 +23902,9 @@
 		},
 		"selection-invert": {
 			"parent": "select-inverse"
+		},
+		"selection-mutliple": {
+			"parent": "selection-multiple"
 		},
 		"selfie": {
 			"parent": "account-box"
@@ -30829,7 +30832,7 @@
 		"f1282": "select-multiple-marker",
 		"f1283": "selection-marker",
 		"f1284": "selection-multiple-marker",
-		"f1285": "selection-mutliple",
+		"f1285": "selection-multiple",
 		"f1286": "star-box-multiple",
 		"f1287": "star-box-multiple-outline",
 		"f1288": "toy-brick",

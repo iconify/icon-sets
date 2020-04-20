@@ -47,6 +47,15 @@
 * Palette: Colorless
 
 
+### Remix Icon
+* Number of icons: 2149
+* Author: Remix Design
+* URL: https://github.com/Remix-Design/RemixIcon
+* License: Apache 2.0
+* License URL: https://github.com/Remix-Design/RemixIcon/blob/master/License
+* Palette: Colorless
+
+
 ### Jam Icons
 * Number of icons: 896
 * Author: Michael Amprimo

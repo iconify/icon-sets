@@ -75,6 +75,16 @@
 * Palette: Colorless
 
 
+### Bootstrap Icons
+* Number of icons: 536
+* Author: The Bootstrap Authors
+* URL: https://github.com/twbs/icons
+* License: MIT
+* License URL: https://github.com/twbs/icons/blob/master/LICENSE.md
+* Version: 1.0.0-alpha3
+* Palette: Colorless
+
+
 ### CoreUI Free
 * Number of icons: 502
 * Author: creativeLabs Łukasz Holeczek
@@ -121,6 +131,16 @@
 * URL: https://github.com/Keyamoon/IcoMoon-Free
 * License: GPL
 * License URL: http://www.gnu.org/licenses/gpl.html
+* Palette: Colorless
+
+
+### Eva Icons
+* Number of icons: 490
+* Author: Akveo
+* URL: https://github.com/akveo/eva-icons/
+* License: MIT
+* License URL: https://github.com/akveo/eva-icons/blob/master/LICENSE.txt
+* Version: 1.1.3
 * Palette: Colorless
 
 

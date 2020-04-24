@@ -14044,7 +14044,7 @@
 		"syllabary-katakana": {
 			"body": "<path d=\"M4 4v2h14v.09l-3.71 3.7l1.42 1.42L20 6.91V4m-9 5v4c0 2.78-.75 3.89-2.64 5.46L9.64 20c2.11-1.76 3.36-3.78 3.36-7V9z\" fill=\"currentColor\"/>"
 		},
-		"syllabary-katakana-half-width": {
+		"syllabary-katakana-halfwidth": {
 			"body": "<path d=\"M8 4v2h6l-1 4.81l2 .39l1-5.1V4m-6 5v3c0 2.86-.66 5.29-1.92 6.61L9.5 20c1.85-1.92 2.5-4.85 2.5-8V9z\" fill=\"currentColor\"/>"
 		},
 		"symfony": {
@@ -16950,7 +16950,7 @@
 			"parent": "boom-gate-up-outline"
 		},
 		"arrow": {
-			"parent": "undo-variant"
+			"parent": "undo"
 		},
 		"arrow-back": {
 			"parent": "arrow-left"
@@ -17406,7 +17406,7 @@
 			"parent": "grill-outline"
 		},
 		"beacon": {
-			"parent": "lighthouse"
+			"parent": "lighthouse-on"
 		},
 		"beats-per-minute": {
 			"parent": "metronome"
@@ -17463,7 +17463,7 @@
 			"parent": "microsoft-bing"
 		},
 		"birthday-cake": {
-			"parent": "cake-variant"
+			"parent": "cake"
 		},
 		"biscuit": {
 			"parent": "cookie"
@@ -18723,7 +18723,7 @@
 			"parent": "bike"
 		},
 		"dad": {
-			"parent": "human-male-girl"
+			"parent": "human-male-boy"
 		},
 		"dagger": {
 			"parent": "knife-military"
@@ -18768,10 +18768,10 @@
 			"parent": "bus-clock"
 		},
 		"dependencies": {
-			"parent": "graph-outline"
+			"parent": "graph"
 		},
 		"dependency": {
-			"parent": "graph-outline"
+			"parent": "graph"
 		},
 		"design": {
 			"parent": "pencil-ruler"
@@ -19332,7 +19332,7 @@
 			"parent": "rewind"
 		},
 		"father": {
-			"parent": "human-male-girl"
+			"parent": "human-male-boy"
 		},
 		"favorite": {
 			"parent": "heart"
@@ -19974,7 +19974,7 @@
 			"parent": "crosshairs-question"
 		},
 		"gpu": {
-			"parent": "expansion-card"
+			"parent": "expansion-card-variant"
 		},
 		"grade": {
 			"parent": "star"
@@ -19989,7 +19989,7 @@
 			"parent": "barley-off"
 		},
 		"graphics-processing-unit": {
-			"parent": "expansion-card"
+			"parent": "expansion-card-variant"
 		},
 		"graveyard": {
 			"parent": "grave-stone"
@@ -20061,7 +20061,7 @@
 			"parent": "pound-box-outline"
 		},
 		"hd": {
-			"parent": "high-definition"
+			"parent": "high-definition-box"
 		},
 		"hd-box": {
 			"parent": "high-definition-box"
@@ -21549,7 +21549,7 @@
 			"parent": "human-male"
 		},
 		"man-child": {
-			"parent": "human-male-girl"
+			"parent": "human-male-boy"
 		},
 		"man-man": {
 			"parent": "human-male-male"
@@ -21884,6 +21884,9 @@
 		"monitors": {
 			"parent": "monitor-multiple"
 		},
+		"monkey-wrench": {
+			"parent": "pipe-wrench"
+		},
 		"mood": {
 			"parent": "emoticon-outline"
 		},
@@ -22038,7 +22041,7 @@
 			"parent": "wifi-star"
 		},
 		"network-interface-card": {
-			"parent": "expansion-card"
+			"parent": "expansion-card-variant"
 		},
 		"network-router": {
 			"parent": "router-network"
@@ -23424,7 +23427,7 @@
 			"parent": "transmission-tower"
 		},
 		"pram": {
-			"parent": "baby-buggy"
+			"parent": "baby-carriage"
 		},
 		"pram-off": {
 			"parent": "baby-carriage-off"
@@ -23718,7 +23721,7 @@
 			"parent": "alert"
 		},
 		"reschedule": {
-			"parent": "calendar-arrow-left"
+			"parent": "calendar-arrow-right"
 		},
 		"resize-horizontal": {
 			"parent": "arrow-split-vertical"
@@ -24507,7 +24510,7 @@
 			"parent": "radius-outline"
 		},
 		"spicy": {
-			"parent": "chili-medium"
+			"parent": "chili-mild"
 		},
 		"sql-foreign-key": {
 			"parent": "key-link"
@@ -24606,7 +24609,7 @@
 			"parent": "format-strikethrough-variant"
 		},
 		"stroller": {
-			"parent": "baby-buggy"
+			"parent": "baby-carriage"
 		},
 		"stroller-off": {
 			"parent": "baby-carriage-off"
@@ -24703,6 +24706,9 @@
 		},
 		"switch-video": {
 			"parent": "video-switch"
+		},
+		"syllabary-katakana-half-width": {
+			"parent": "syllabary-katakana-halfwidth"
 		},
 		"sync-disabled": {
 			"parent": "sync-off"
@@ -26022,7 +26028,7 @@
 			"parent": "syllabary-katakana"
 		},
 		"writing-system-katakana-half-width": {
-			"parent": "syllabary-katakana-half-width"
+			"parent": "syllabary-katakana-halfwidth"
 		},
 		"writing-system-latin": {
 			"parent": "alphabet-latin"
@@ -31048,7 +31054,7 @@
 		"f1333": "syllabary-hangul",
 		"f1334": "syllabary-hiragana",
 		"f1335": "syllabary-katakana",
-		"f1336": "syllabary-katakana-half-width",
+		"f1336": "syllabary-katakana-halfwidth",
 		"f1337": "alphabet-tengwar",
 		"f1338": "head-alert",
 		"f1339": "head-alert-outline",
@@ -31791,7 +31797,7 @@
 			"syllabary-hangul",
 			"syllabary-hiragana",
 			"syllabary-katakana",
-			"syllabary-katakana-half-width"
+			"syllabary-katakana-halfwidth"
 		],
 		"Animal": [
 			"bone",

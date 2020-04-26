@@ -3762,7 +3762,7 @@
 			"body": "<path d=\"M19 22H5v-2h14v2M13 2c-1.25 0-2.42.62-3.11 1.66L7 8l2 2l2.06-1.37c.44-.31 1.08-.19 1.39.27c.02.03.05.06.05.1c.3.59.19 1.3-.28 1.77l-4.8 4.8c-.55.56-.55 1.46.01 2.01c.26.26.62.42.99.42H17V6a4 4 0 0 0-4-4z\" fill=\"currentColor\"/>"
 		},
 		"chess-pawn": {
-			"body": "<path d=\"M19 22H5v-2h14v2m-3-4L13.2 7.74a2.99 2.99 0 0 0 1.54-3.95a2.988 2.988 0 0 0-3.95-1.54A2.988 2.988 0 0 0 9.25 6.2c.3.69.85 1.24 1.54 1.54L8 18h8z\" fill=\"currentColor\"/>"
+			"body": "<path d=\"M19 22H5v-2h14v2m-3-4H8l2.18-8H8V8h2.72l.07-.26A2.97 2.97 0 0 1 9.25 6.2c-.67-1.52.02-3.29 1.54-3.95c1.52-.67 3.29.02 3.95 1.54a2.99 2.99 0 0 1-1.54 3.95l.07.26H16v2h-2.18L16 18z\" fill=\"currentColor\"/>"
 		},
 		"chess-queen": {
 			"body": "<path d=\"M18 3a2 2 0 0 1 2 2c0 .81-.5 1.5-1.17 1.82L17 13.15V18H7v-4.85L5.17 6.82C4.5 6.5 4 5.81 4 5a2 2 0 0 1 2-2a2 2 0 0 1 2 2c0 .5-.18.95-.5 1.3l2.8 3.05l.53-3.73C10.33 5.26 10 4.67 10 4a2 2 0 0 1 2-2a2 2 0 0 1 2 2c0 .67-.33 1.26-.83 1.62l.53 3.73l2.77-3.06A2 2 0 0 1 16 5a2 2 0 0 1 2-2M5 20h14v2H5v-2z\" fill=\"currentColor\"/>"
@@ -14761,7 +14761,7 @@
 			"body": "<path d=\"M19 6V5a2 2 0 0 0-2-2h-2a2 2 0 0 0-2 2v1h-2V5a2 2 0 0 0-2-2H7a2 2 0 0 0-2 2v1H3v14h10.09a5.47 5.47 0 0 1-.09-1a6 6 0 0 1 8-5.66V6m1.54 10.88L20.41 19l2.13 2.12l-1.42 1.42L19 20.41l-2.12 2.13l-1.42-1.42L17.59 19l-2.13-2.12l1.42-1.42L19 17.59l2.12-2.13z\" fill=\"currentColor\"/>"
 		},
 		"toy-brick-remove-outline": {
-			"body": "<path d=\"M19 6V5a2 2 0 0 0-2-2h-2a2 2 0 0 0-2 2v1h-2V5a2 2 0 0 0-2-2H7a2 2 0 0 0-2 2v1H3v14h11v-2H5V8h14v5h2V6m0 9v3h3v2h-3v3h-2v-3h-3v-2h3v-3z\" fill=\"currentColor\"/>"
+			"body": "<path d=\"M19 6V5c0-1.1-.9-2-2-2h-2c-1.1 0-2 .9-2 2v1h-2V5c0-1.1-.9-2-2-2H7c-1.1 0-2 .9-2 2v1H3v14h11v-2H5V8h14v5h2V6m-3.12 9.46L20 17.59l2.12-2.12l1.42 1.41L21.41 19l2.13 2.12l-1.42 1.42L20 20.41l-2.12 2.13l-1.42-1.42L18.59 19l-2.12-2.12\" fill=\"currentColor\"/>"
 		},
 		"toy-brick-search": {
 			"body": "<path d=\"M19 6V5a2 2 0 0 0-2-2h-2a2 2 0 0 0-2 2v1h-2V5a2 2 0 0 0-2-2H7a2 2 0 0 0-2 2v1H3v14h8.81A6.5 6.5 0 0 1 21 10.81V6m-.69 11.9a4.5 4.5 0 1 0-1.43 1.42L22 22.39L23.39 21m-6.89-3a2.5 2.5 0 1 1 2.5-2.5a2.5 2.5 0 0 1-2.5 2.5z\" fill=\"currentColor\"/>"
@@ -17184,7 +17184,7 @@
 			"parent": "paperclip"
 		},
 		"audio": {
-			"parent": "volume-medium"
+			"parent": "volume-low"
 		},
 		"audio-book": {
 			"parent": "book-music"
@@ -17463,7 +17463,7 @@
 			"parent": "microsoft-bing"
 		},
 		"birthday-cake": {
-			"parent": "cake"
+			"parent": "cake-layered"
 		},
 		"biscuit": {
 			"parent": "cookie"
@@ -17998,6 +17998,18 @@
 		},
 		"caret": {
 			"parent": "chevron-up"
+		},
+		"caret-down": {
+			"parent": "menu-down"
+		},
+		"caret-down-outline": {
+			"parent": "menu-down-outline"
+		},
+		"caret-up": {
+			"parent": "menu-up"
+		},
+		"caret-up-outline": {
+			"parent": "menu-up-outline"
 		},
 		"cargo-ship": {
 			"parent": "ferry"
@@ -18723,7 +18735,7 @@
 			"parent": "bike"
 		},
 		"dad": {
-			"parent": "human-male-boy"
+			"parent": "human-male-girl"
 		},
 		"dagger": {
 			"parent": "knife-military"
@@ -18768,10 +18780,10 @@
 			"parent": "bus-clock"
 		},
 		"dependencies": {
-			"parent": "graph"
+			"parent": "graph-outline"
 		},
 		"dependency": {
-			"parent": "graph"
+			"parent": "graph-outline"
 		},
 		"design": {
 			"parent": "pencil-ruler"
@@ -19332,7 +19344,7 @@
 			"parent": "rewind"
 		},
 		"father": {
-			"parent": "human-male-boy"
+			"parent": "human-male-girl"
 		},
 		"favorite": {
 			"parent": "heart"
@@ -19974,7 +19986,7 @@
 			"parent": "crosshairs-question"
 		},
 		"gpu": {
-			"parent": "expansion-card-variant"
+			"parent": "expansion-card"
 		},
 		"grade": {
 			"parent": "star"
@@ -19989,7 +20001,7 @@
 			"parent": "barley-off"
 		},
 		"graphics-processing-unit": {
-			"parent": "expansion-card-variant"
+			"parent": "expansion-card"
 		},
 		"graveyard": {
 			"parent": "grave-stone"
@@ -20061,7 +20073,7 @@
 			"parent": "pound-box-outline"
 		},
 		"hd": {
-			"parent": "high-definition-box"
+			"parent": "high-definition"
 		},
 		"hd-box": {
 			"parent": "high-definition-box"
@@ -20508,7 +20520,7 @@
 			"parent": "card-account-details-outline"
 		},
 		"idea": {
-			"parent": "lightbulb"
+			"parent": "lightbulb-on"
 		},
 		"identification-card": {
 			"parent": "card-account-details"
@@ -21549,7 +21561,7 @@
 			"parent": "human-male"
 		},
 		"man-child": {
-			"parent": "human-male-boy"
+			"parent": "human-male-girl"
 		},
 		"man-man": {
 			"parent": "human-male-male"
@@ -21948,7 +21960,7 @@
 			"parent": "inbox-arrow-down"
 		},
 		"movie-creation": {
-			"parent": "movie"
+			"parent": "movie-open"
 		},
 		"mozilla-firefox": {
 			"parent": "firefox"
@@ -22041,7 +22053,7 @@
 			"parent": "wifi-star"
 		},
 		"network-interface-card": {
-			"parent": "expansion-card-variant"
+			"parent": "expansion-card"
 		},
 		"network-router": {
 			"parent": "router-network"
@@ -23427,7 +23439,7 @@
 			"parent": "transmission-tower"
 		},
 		"pram": {
-			"parent": "baby-carriage"
+			"parent": "baby-buggy"
 		},
 		"pram-off": {
 			"parent": "baby-carriage-off"
@@ -23544,7 +23556,7 @@
 			"parent": "help-network-outline"
 		},
 		"queue": {
-			"parent": "tray"
+			"parent": "tray-minus"
 		},
 		"queue-music": {
 			"parent": "playlist-music"
@@ -23988,7 +24000,7 @@
 			"parent": "set-left-right"
 		},
 		"settings": {
-			"parent": "cog"
+			"parent": "cogs"
 		},
 		"settings-applications": {
 			"parent": "cog-box"
@@ -24510,7 +24522,7 @@
 			"parent": "radius-outline"
 		},
 		"spicy": {
-			"parent": "chili-mild"
+			"parent": "chili-medium"
 		},
 		"sql-foreign-key": {
 			"parent": "key-link"
@@ -24526,6 +24538,9 @@
 		},
 		"sql-primary-key": {
 			"parent": "key-star"
+		},
+		"sql-query": {
+			"parent": "database-search"
 		},
 		"sql-right-outer-join": {
 			"parent": "set-center-right"
@@ -24609,7 +24624,7 @@
 			"parent": "format-strikethrough-variant"
 		},
 		"stroller": {
-			"parent": "baby-carriage"
+			"parent": "baby-buggy"
 		},
 		"stroller-off": {
 			"parent": "baby-carriage-off"

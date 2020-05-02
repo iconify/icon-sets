@@ -163,6 +163,24 @@
 * Palette: Colorless
 
 
+### HeroIcons
+* Number of icons: 330
+* Author: Steve Schoger
+* URL: https://github.com/refactoringui/heroicons
+* License: MIT
+* Version: 0.1.0
+* Palette: Colorless
+
+
+### Zondicons
+* Number of icons: 297
+* Author: Steve Schoger
+* URL: https://github.com/dukestreetstudio/zondicons
+* License: MIT
+* Version: 0.1.0
+* Palette: Colorless
+
+
 ### Flat Color Icons
 * Number of icons: 329
 * Author: Icons8

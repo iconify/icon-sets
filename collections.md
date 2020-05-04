@@ -39,6 +39,16 @@
 * Palette: Colorless
 
 
+### Unicons Monochrome
+* Number of icons: 253
+* Author: Iconscout
+* URL: https://github.com/Iconscout/unicons
+* License: Apache 2.0
+* License URL: https://raw.githubusercontent.com/Iconscout/unicons/master/LICENSE
+* Version: 2.1.6
+* Palette: Colorless
+
+
 ### BoxIcons
 * Number of icons: 1462
 * Author: Atisa

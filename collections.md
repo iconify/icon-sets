@@ -526,7 +526,7 @@
 
 
 ### OpenMoji
-* Number of icons: 3505
+* Number of icons: 3506
 * Author: OpenMoji
 * URL: https://github.com/hfg-gmuend/openmoji
 * License: CC BY-SA 4.0
@@ -595,12 +595,12 @@
 
 
 ### Simple Icons
-* Number of icons: 1302
+* Number of icons: 1307
 * Author: Simple Icons Collaborators
 * URL: https://github.com/simple-icons/simple-icons
 * License: CC0 1.0
 * License URL: https://github.com/simple-icons/simple-icons/blob/develop/LICENSE.md
-* Version: 2.10.0
+* Version: 2.11.0
 * Palette: Colorless
 
 

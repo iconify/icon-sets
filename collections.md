@@ -95,6 +95,15 @@
 * Palette: Colorless
 
 
+### Carbon
+* Number of icons: 1127
+* Author: IBM
+* URL: https://github.com/carbon-design-system/carbon/tree/master/packages/icons
+* License: Apache 2.0
+* Version: 10.10.2
+* Palette: Colorless
+
+
 ### CoreUI Free
 * Number of icons: 502
 * Author: creativeLabs Łukasz Holeczek

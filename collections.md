@@ -3,7 +3,7 @@
 
 
 ### Material Design Icons
-* Number of icons: 5247
+* Number of icons: 5339
 * Author: Austin Andrews
 * URL: https://github.com/Templarian/MaterialDesign
 * License: Open Font License
@@ -535,17 +535,17 @@
 
 
 ### Twitter Emoji
-* Number of icons: 3236
+* Number of icons: 3339
 * Author: Twitter
 * URL: https://github.com/twitter/twemoji
 * License: CC BY 4.0
 * License URL: https://creativecommons.org/licenses/by/4.0/
-* Version: 12.1.6
+* Version: 13.0.0
 * Palette: Colorful
 
 
 ### OpenMoji
-* Number of icons: 3510
+* Number of icons: 3509
 * Author: OpenMoji
 * URL: https://github.com/hfg-gmuend/openmoji
 * License: CC BY-SA 4.0
@@ -614,12 +614,12 @@
 
 
 ### Simple Icons
-* Number of icons: 1307
+* Number of icons: 1315
 * Author: Simple Icons Collaborators
 * URL: https://github.com/simple-icons/simple-icons
 * License: CC0 1.0
 * License URL: https://github.com/simple-icons/simple-icons/blob/develop/LICENSE.md
-* Version: 2.11.0
+* Version: 2.12.0
 * Palette: Colorless
 
 

@@ -2,7 +2,7 @@
 	"prefix": "carbon",
 	"info": {
 		"name": "Carbon",
-		"total": 1127,
+		"total": 1129,
 		"author": {
 			"name": "IBM",
 			"url": "https://github.com/carbon-design-system/carbon/tree/master/packages/icons"
@@ -1497,6 +1497,12 @@
 		},
 		"information-filled": {
 			"body": "<defs/><path d=\"M16 2a14 14 0 1 0 14 14A14 14 0 0 0 16 2zm0 5a1.5 1.5 0 1 1-1.5 1.5A1.5 1.5 0 0 1 16 7zm4 17.125h-8v-2.25h2.875v-6.75H13v-2.25h4.125v9H20z\" fill=\"currentColor\"/>"
+		},
+		"information-square": {
+			"body": "<path d=\"M17 22v-8h-4v2h2v6h-3v2h8v-2h-3z\" fill=\"currentColor\"/><path d=\"M16 8a1.5 1.5 0 1 0 1.5 1.5A1.5 1.5 0 0 0 16 8z\" fill=\"currentColor\"/><path d=\"M26 28H6a2.002 2.002 0 0 1-2-2V6a2.002 2.002 0 0 1 2-2h20a2.002 2.002 0 0 1 2 2v20a2.002 2.002 0 0 1-2 2zM6 6v20h20V6z\" fill=\"currentColor\"/>"
+		},
+		"information-square-filled": {
+			"body": "<defs/><path d=\"M26 4H6a2 2 0 0 0-2 2v20a2 2 0 0 0 2 2h20a2 2 0 0 0 2-2V6a2 2 0 0 0-2-2zM16 7a1.5 1.5 0 1 1-1.5 1.5A1.5 1.5 0 0 1 16 7zm4 17h-8v-2h3v-7h-2v-2h4v9h3z\" fill=\"currentColor\"/>"
 		},
 		"insert": {
 			"body": "<path d=\"M2 9h9V2H2zm2-5h5v3H4z\" fill=\"currentColor\"/><path d=\"M2 19h9v-7H2zm2-5h5v3H4z\" fill=\"currentColor\"/><path d=\"M2 29h9v-7H2zm2-5h5v3H4z\" fill=\"currentColor\"/><path d=\"M27 9h-9l3.41-3.59L20 4l-6 6l6 6l1.41-1.41L18 11h9a1 1 0 0 1 1 1v12a1 1 0 0 1-1 1H15v2h12a3 3 0 0 0 3-3V12a3 3 0 0 0-3-3z\" fill=\"currentColor\"/>"
@@ -4057,6 +4063,8 @@
 			"increase-level",
 			"information",
 			"information-filled",
+			"information-square",
+			"information-square-filled",
 			"interactions",
 			"iso",
 			"iso-filled",

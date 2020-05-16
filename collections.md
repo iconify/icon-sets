@@ -545,7 +545,7 @@
 
 
 ### OpenMoji
-* Number of icons: 3508
+* Number of icons: 3525
 * Author: OpenMoji
 * URL: https://github.com/hfg-gmuend/openmoji
 * License: CC BY-SA 4.0

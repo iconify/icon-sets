@@ -95,6 +95,14 @@
 * Palette: Colorless
 
 
+### Clarity
+* Number of icons: 1085
+* Author: VMware
+* URL: https://github.com/vmware/clarity
+* License: MIT
+* Palette: Colorless
+
+
 ### Carbon
 * Number of icons: 1129
 * Author: IBM

@@ -622,12 +622,12 @@
 
 
 ### Simple Icons
-* Number of icons: 1315
+* Number of icons: 1316
 * Author: Simple Icons Collaborators
 * URL: https://github.com/simple-icons/simple-icons
 * License: CC0 1.0
 * License URL: https://github.com/simple-icons/simple-icons/blob/develop/LICENSE.md
-* Version: 2.12.0
+* Version: 2.13.0
 * Palette: Colorless
 
 

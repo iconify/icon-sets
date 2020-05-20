@@ -190,15 +190,6 @@
 * Palette: Colorless
 
 
-### HeroIcons
-* Number of icons: 330
-* Author: Steve Schoger
-* URL: https://github.com/refactoringui/heroicons
-* License: MIT
-* Version: 0.2.0
-* Palette: Colorless
-
-
 ### Zondicons
 * Number of icons: 297
 * Author: Steve Schoger
@@ -253,6 +244,24 @@
 * License: GPL 2.0
 * License URL: https://github.com/Automattic/gridicons/blob/master/LICENSE.md
 * Version: 3.3.1
+* Palette: Colorless
+
+
+### HeroIcons Outline
+* Number of icons: 165
+* Author: Steve Schoger
+* URL: https://github.com/refactoringui/heroicons
+* License: MIT
+* Version: 0.2.0
+* Palette: Colorless
+
+
+### HeroIcons Solid
+* Number of icons: 165
+* Author: Steve Schoger
+* URL: https://github.com/refactoringui/heroicons
+* License: MIT
+* Version: 0.2.0
 * Palette: Colorless
 
 

@@ -86,7 +86,7 @@
 
 
 ### Bootstrap Icons
-* Number of icons: 536
+* Number of icons: 673
 * Author: The Bootstrap Authors
 * URL: https://github.com/twbs/icons
 * License: MIT
@@ -195,7 +195,7 @@
 * Author: Steve Schoger
 * URL: https://github.com/refactoringui/heroicons
 * License: MIT
-* Version: 0.1.0
+* Version: 0.2.0
 * Palette: Colorless
 
 

@@ -11,7 +11,7 @@
 			"title": "MIT",
 			"spdx": "MIT"
 		},
-		"version": "0.1.0",
+		"version": "0.2.0",
 		"samples": [
 			"sm-color-swatch",
 			"sm-library",
@@ -128,16 +128,16 @@
 		"md-check-circle": {
 			"body": "<g fill=\"none\" stroke=\"currentColor\"><path stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" d=\"M9 12l2 2l4-4m6 2a9 9 0 1 1-18 0a9 9 0 0 1 18 0z\"/></g>"
 		},
-		"md-cheveron-down": {
+		"md-chevron-down": {
 			"body": "<g fill=\"none\" stroke=\"currentColor\"><path stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" d=\"M19 9l-7 7l-7-7\"/></g>"
 		},
-		"md-cheveron-left": {
+		"md-chevron-left": {
 			"body": "<g fill=\"none\" stroke=\"currentColor\"><path stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" d=\"M15 19l-7-7l7-7\"/></g>"
 		},
-		"md-cheveron-right": {
+		"md-chevron-right": {
 			"body": "<g fill=\"none\" stroke=\"currentColor\"><path stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" d=\"M9 5l7 7l-7 7\"/></g>"
 		},
-		"md-cheveron-up": {
+		"md-chevron-up": {
 			"body": "<g fill=\"none\" stroke=\"currentColor\"><path stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" d=\"M5 15l7-7l7 7\"/></g>"
 		},
 		"md-clipboard": {
@@ -691,22 +691,22 @@
 			"width": 20,
 			"height": 20
 		},
-		"sm-cheveron-down": {
+		"sm-chevron-down": {
 			"body": "<g fill=\"currentColor\"><path fill-rule=\"evenodd\" d=\"M5.293 7.293a1 1 0 0 1 1.414 0L10 10.586l3.293-3.293a1 1 0 1 1 1.414 1.414l-4 4a1 1 0 0 1-1.414 0l-4-4a1 1 0 0 1 0-1.414z\" clip-rule=\"evenodd\"/></g>",
 			"width": 20,
 			"height": 20
 		},
-		"sm-cheveron-left": {
+		"sm-chevron-left": {
 			"body": "<g fill=\"currentColor\"><path fill-rule=\"evenodd\" d=\"M12.707 5.293a1 1 0 0 1 0 1.414L9.414 10l3.293 3.293a1 1 0 0 1-1.414 1.414l-4-4a1 1 0 0 1 0-1.414l4-4a1 1 0 0 1 1.414 0z\" clip-rule=\"evenodd\"/></g>",
 			"width": 20,
 			"height": 20
 		},
-		"sm-cheveron-right": {
+		"sm-chevron-right": {
 			"body": "<g fill=\"currentColor\"><path fill-rule=\"evenodd\" d=\"M7.293 14.707a1 1 0 0 1 0-1.414L10.586 10L7.293 6.707a1 1 0 0 1 1.414-1.414l4 4a1 1 0 0 1 0 1.414l-4 4a1 1 0 0 1-1.414 0z\" clip-rule=\"evenodd\"/></g>",
 			"width": 20,
 			"height": 20
 		},
-		"sm-cheveron-up": {
+		"sm-chevron-up": {
 			"body": "<g fill=\"currentColor\"><path fill-rule=\"evenodd\" d=\"M14.707 12.707a1 1 0 0 1-1.414 0L10 9.414l-3.293 3.293a1 1 0 0 1-1.414-1.414l4-4a1 1 0 0 1 1.414 0l4 4a1 1 0 0 1 0 1.414z\" clip-rule=\"evenodd\"/></g>",
 			"width": 20,
 			"height": 20
@@ -1345,6 +1345,32 @@
 			"body": "<g fill=\"currentColor\"><path fill-rule=\"evenodd\" d=\"M8 4a4 4 0 1 0 0 8a4 4 0 0 0 0-8zM2 8a6 6 0 1 1 10.89 3.476l4.817 4.817a1 1 0 0 1-1.414 1.414l-4.816-4.816A6 6 0 0 1 2 8z\" clip-rule=\"evenodd\"/><path fill-rule=\"evenodd\" d=\"M5 8a1 1 0 0 1 1-1h4a1 1 0 1 1 0 2H6a1 1 0 0 1-1-1z\" clip-rule=\"evenodd\"/></g>",
 			"width": 20,
 			"height": 20
+		}
+	},
+	"aliases": {
+		"md-cheveron-down": {
+			"parent": "md-chevron-down"
+		},
+		"md-cheveron-left": {
+			"parent": "md-chevron-left"
+		},
+		"md-cheveron-right": {
+			"parent": "md-chevron-right"
+		},
+		"md-cheveron-up": {
+			"parent": "md-chevron-up"
+		},
+		"sm-cheveron-down": {
+			"parent": "sm-chevron-down"
+		},
+		"sm-cheveron-left": {
+			"parent": "sm-chevron-left"
+		},
+		"sm-cheveron-right": {
+			"parent": "sm-chevron-right"
+		},
+		"sm-cheveron-up": {
+			"parent": "sm-chevron-up"
 		}
 	},
 	"themes": {

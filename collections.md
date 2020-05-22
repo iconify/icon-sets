@@ -91,7 +91,7 @@
 * URL: https://github.com/twbs/icons
 * License: MIT
 * License URL: https://github.com/twbs/icons/blob/master/LICENSE.md
-* Version: 1.0.0-alpha3
+* Version: 1.0.0-alpha4
 * Palette: Colorless
 
 
@@ -562,7 +562,7 @@
 
 
 ### OpenMoji
-* Number of icons: 3525
+* Number of icons: 3540
 * Author: OpenMoji
 * URL: https://github.com/hfg-gmuend/openmoji
 * License: CC BY-SA 4.0

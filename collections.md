@@ -30,22 +30,22 @@
 
 
 ### Unicons
-* Number of icons: 1157
+* Number of icons: 1171
 * Author: Iconscout
 * URL: https://github.com/Iconscout/unicons
 * License: Apache 2.0
 * License URL: https://raw.githubusercontent.com/Iconscout/unicons/master/LICENSE
-* Version: 2.1.8
+* Version: 2.1.9
 * Palette: Colorless
 
 
 ### Unicons Monochrome
-* Number of icons: 276
+* Number of icons: 285
 * Author: Iconscout
 * URL: https://github.com/Iconscout/unicons
 * License: Apache 2.0
 * License URL: https://raw.githubusercontent.com/Iconscout/unicons/master/LICENSE
-* Version: 2.1.8
+* Version: 2.1.9
 * Palette: Colorless
 
 
@@ -58,7 +58,7 @@
 
 
 ### Remix Icon
-* Number of icons: 2149
+* Number of icons: 2271
 * Author: Remix Design
 * URL: https://github.com/Remix-Design/RemixIcon
 * License: Apache 2.0
@@ -567,7 +567,7 @@
 * URL: https://github.com/hfg-gmuend/openmoji
 * License: CC BY-SA 4.0
 * License URL: https://creativecommons.org/licenses/by-sa/4.0/
-* Version: 12.2.0
+* Version: 12.3.0
 * Palette: Colorful
 
 
@@ -631,12 +631,12 @@
 
 
 ### Simple Icons
-* Number of icons: 1316
+* Number of icons: 1334
 * Author: Simple Icons Collaborators
 * URL: https://github.com/simple-icons/simple-icons
 * License: CC0 1.0
 * License URL: https://github.com/simple-icons/simple-icons/blob/develop/LICENSE.md
-* Version: 2.13.0
+* Version: 2.14.0
 * Palette: Colorless
 
 

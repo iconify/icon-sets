@@ -118,7 +118,7 @@
 * URL: https://github.com/coreui/coreui-icons
 * License: CC BY 4.0
 * License URL: https://creativecommons.org/licenses/by/4.0/
-* Version: 2.0.0-beta.2
+* Version: 2.0.0-beta.3
 * Palette: Colorless
 
 
@@ -520,7 +520,7 @@
 * URL: https://github.com/bpmn-io/bpmn-font
 * License: Open Font License
 * License URL: http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL
-* Version: 0.9.3
+* Version: 0.10.0
 * Palette: Colorless
 
 
@@ -626,7 +626,7 @@
 * URL: https://github.com/coreui/coreui-icons
 * License: CC BY 4.0
 * License URL: https://creativecommons.org/licenses/by/4.0/
-* Version: 2.0.0-beta.2
+* Version: 2.0.0-beta.3
 * Palette: Colorless
 
 
@@ -703,7 +703,7 @@
 * URL: https://github.com/coreui/coreui-icons
 * License: CC BY 4.0
 * License URL: https://creativecommons.org/licenses/by/4.0/
-* Version: 2.0.0-beta.2
+* Version: 2.0.0-beta.3
 * Palette: Colorful
 
 

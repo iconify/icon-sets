@@ -248,7 +248,7 @@
 
 
 ### HeroIcons Outline
-* Number of icons: 165
+* Number of icons: 176
 * Author: Steve Schoger
 * URL: https://github.com/refactoringui/heroicons
 * License: MIT
@@ -257,7 +257,7 @@
 
 
 ### HeroIcons Solid
-* Number of icons: 165
+* Number of icons: 176
 * Author: Steve Schoger
 * URL: https://github.com/refactoringui/heroicons
 * License: MIT

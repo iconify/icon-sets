@@ -631,12 +631,12 @@
 
 
 ### Simple Icons
-* Number of icons: 1334
+* Number of icons: 1342
 * Author: Simple Icons Collaborators
 * URL: https://github.com/simple-icons/simple-icons
 * License: CC0 1.0
 * License URL: https://github.com/simple-icons/simple-icons/blob/develop/LICENSE.md
-* Version: 2.14.0
+* Version: 2.15.0
 * Palette: Colorless
 
 

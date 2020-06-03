@@ -108,7 +108,7 @@
 * Author: IBM
 * URL: https://github.com/carbon-design-system/carbon/tree/master/packages/icons
 * License: Apache 2.0
-* Version: 10.10.2
+* Version: 10.11.0
 * Palette: Colorless
 
 
@@ -252,7 +252,7 @@
 * Author: Steve Schoger
 * URL: https://github.com/refactoringui/heroicons
 * License: MIT
-* Version: 0.2.0
+* Version: 0.3.5
 * Palette: Colorless
 
 
@@ -261,7 +261,7 @@
 * Author: Steve Schoger
 * URL: https://github.com/refactoringui/heroicons
 * License: MIT
-* Version: 0.2.0
+* Version: 0.3.5
 * Palette: Colorless
 
 
@@ -562,7 +562,7 @@
 
 
 ### OpenMoji
-* Number of icons: 3540
+* Number of icons: 3541
 * Author: OpenMoji
 * URL: https://github.com/hfg-gmuend/openmoji
 * License: CC BY-SA 4.0

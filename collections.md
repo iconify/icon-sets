@@ -86,7 +86,7 @@
 
 
 ### Bootstrap Icons
-* Number of icons: 673
+* Number of icons: 923
 * Author: The Bootstrap Authors
 * URL: https://github.com/twbs/icons
 * License: MIT
@@ -118,7 +118,7 @@
 * URL: https://github.com/coreui/coreui-icons
 * License: CC BY 4.0
 * License URL: https://creativecommons.org/licenses/by/4.0/
-* Version: 2.0.0-beta.3
+* Version: 2.0.0-beta.4
 * Palette: Colorless
 
 
@@ -626,7 +626,7 @@
 * URL: https://github.com/coreui/coreui-icons
 * License: CC BY 4.0
 * License URL: https://creativecommons.org/licenses/by/4.0/
-* Version: 2.0.0-beta.3
+* Version: 2.0.0-beta.4
 * Palette: Colorless
 
 
@@ -703,7 +703,7 @@
 * URL: https://github.com/coreui/coreui-icons
 * License: CC BY 4.0
 * License URL: https://creativecommons.org/licenses/by/4.0/
-* Version: 2.0.0-beta.3
+* Version: 2.0.0-beta.4
 * Palette: Colorful
 
 

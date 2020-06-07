@@ -2,7 +2,7 @@
 	"prefix": "mdi",
 	"info": {
 		"name": "Material Design Icons",
-		"total": 5348,
+		"total": 5352,
 		"author": {
 			"name": "Austin Andrews",
 			"url": "https://github.com/Templarian/MaterialDesign"
@@ -4043,6 +4043,12 @@
 		},
 		"clipboard-check-outline": {
 			"body": "<path d=\"M19 3h-4.18C14.4 1.84 13.3 1 12 1c-1.3 0-2.4.84-2.82 2H5a2 2 0 0 0-2 2v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2V5a2 2 0 0 0-2-2m-7 0a1 1 0 0 1 1 1a1 1 0 0 1-1 1a1 1 0 0 1-1-1a1 1 0 0 1 1-1M7 7h10V5h2v14H5V5h2v2m.5 6.5L9 12l2 2l4.5-4.5L17 11l-6 6l-3.5-3.5z\" fill=\"currentColor\"/>"
+		},
+		"clipboard-edit": {
+			"body": "<path d=\"M21.04 12.13c.14 0 .27.06.38.17l1.28 1.28c.22.21.22.56 0 .77l-1 1l-2.05-2.05l1-1c.11-.11.25-.17.39-.17m-1.97 1.75l2.05 2.05L15.06 22H13v-2.06l6.07-6.06M19 3c1.1 0 2 .9 2 2v4L11 19v2H5c-1.1 0-2-.9-2-2V5c0-1.1.9-2 2-2h4.18C9.6 1.84 10.7 1 12 1c1.3 0 2.4.84 2.82 2H19m-7 0c-.55 0-1 .45-1 1s.45 1 1 1s1-.45 1-1s-.45-1-1-1z\" fill=\"currentColor\"/>"
+		},
+		"clipboard-edit-outline": {
+			"body": "<path d=\"M21.04 12.13c.14 0 .27.06.38.17l1.28 1.28c.22.21.22.56 0 .77l-1 1l-2.05-2.05l1-1c.11-.11.25-.17.39-.17m-1.97 1.75l2.05 2.05L15.06 22H13v-2.06l6.07-6.06M11 19l-2 2H5c-1.1 0-2-.9-2-2V5c0-1.1.9-2 2-2h4.18C9.6 1.84 10.7 1 12 1c1.3 0 2.4.84 2.82 2H19c1.1 0 2 .9 2 2v4l-2 2V5h-2v2H7V5H5v14h6m1-16c-.55 0-1 .45-1 1s.45 1 1 1s1-.45 1-1s-.45-1-1-1z\" fill=\"currentColor\"/>"
 		},
 		"clipboard-file": {
 			"body": "<path d=\"M19 3c1.1 0 2 .9 2 2v4.17L19.83 8H15c-2.21 0-4 1.79-4 4v9H5c-1.1 0-2-.9-2-2V5c0-1.1.9-2 2-2h4.18C9.6 1.84 10.7 1 12 1c1.3 0 2.4.84 2.82 2H19m-7 0c-.55 0-1 .45-1 1s.45 1 1 1s1-.45 1-1s-.45-1-1-1m3 20a2 2 0 0 1-2-2v-9c0-1.1.9-2 2-2h4l4 4v7c0 1.11-.89 2-2 2h-6m6-8.17L18.17 12H18v3h3v-.17z\" fill=\"currentColor\"/>"
@@ -8806,6 +8812,9 @@
 		"human-child": {
 			"body": "<path d=\"M12 2a3 3 0 0 1 3 3a3 3 0 0 1-3 3a3 3 0 0 1-3-3a3 3 0 0 1 3-3m-1 20H8v-6H6V9h12v7h-2v6h-3v-4h-2v4z\" fill=\"currentColor\"/>"
 		},
+		"human-edit": {
+			"body": "<path d=\"M19.07 14.88l2.05 2.05L15.06 23H13v-2.06l6.07-6.06m1.97-1.75c.14 0 .27.06.38.17l1.28 1.28c.22.21.22.56 0 .77l-1 1l-2.05-2.05l1-1c.11-.11.25-.17.39-.17M21 9h-6v7l-2 2v-2h-2v6H9V9H3V7h18v2m-9-7c1.1 0 2 .9 2 2s-.9 2-2 2s-2-.9-2-2s.9-2 2-2z\" fill=\"currentColor\"/>"
+		},
 		"human-female": {
 			"body": "<path d=\"M12 2a2 2 0 0 1 2 2a2 2 0 0 1-2 2a2 2 0 0 1-2-2a2 2 0 0 1 2-2m-1.5 20v-6h-3l2.59-7.59C10.34 7.59 11.1 7 12 7c.9 0 1.66.59 1.91 1.41L16.5 16h-3v6h-3z\" fill=\"currentColor\"/>"
 		},
@@ -10961,6 +10970,9 @@
 		},
 		"notebook": {
 			"body": "<path d=\"M3 7V5h2V4a2 2 0 0 1 2-2h6v7l2.5-1.5L18 9V2h1c1.05 0 2 .95 2 2v16c0 1.05-.95 2-2 2H7c-1.05 0-2-.95-2-2v-1H3v-2h2v-4H3v-2h2V7H3m4 4H5v2h2v-2m0-4V5H5v2h2m0 12v-2H5v2h2z\" fill=\"currentColor\"/>"
+		},
+		"notebook-edit": {
+			"body": "<path d=\"M21.04 13.13c.14 0 .27.06.38.17l1.28 1.28c.22.21.22.56 0 .77l-1 1l-2.05-2.05l1-1c.11-.11.25-.17.39-.17m-1.97 1.75l2.05 2.05L15.06 23H13v-2.06l6.07-6.06M3 7V5h2V4a2 2 0 0 1 2-2h6v7l2.5-1.5L18 9V2h1c1.05 0 2 .95 2 2v6L11 20v2H7c-1.05 0-2-.95-2-2v-1H3v-2h2v-4H3v-2h2V7H3m2 0h2V5H5v2m0 4v2h2v-2H5m0 6v2h2v-2H5z\" fill=\"currentColor\"/>"
 		},
 		"notebook-multiple": {
 			"body": "<path d=\"M9.05 9H7.06V6h1.99V4.03H7.06v-1c0-1.11.89-1.99 1.99-1.99h5.98V8l2.47-1.5L20 8V1.04h1c1.05 0 2 .96 2 1.99V17c0 1.03-.95 2-2 2H9.05c-1.05 0-1.99-.95-1.99-2v-1h1.99v-2H7.06v-3h1.99V9M1 18h2v-3H1v-2h2v-3H1V8h2V5h2v3H3v2h2v3H3v2h2v3H3v2h2v1h16v2H5a2 2 0 0 1-2-2v-1H1v-2z\" fill=\"currentColor\"/>"
@@ -17571,7 +17583,7 @@
 			"parent": "boom-gate-up-outline"
 		},
 		"arrow": {
-			"parent": "undo-variant"
+			"parent": "undo"
 		},
 		"arrow-back": {
 			"parent": "arrow-left"
@@ -17904,7 +17916,7 @@
 			"parent": "baguette"
 		},
 		"ban": {
-			"parent": "file-cancel-outline"
+			"parent": "file-cancel"
 		},
 		"band-aid": {
 			"parent": "bandage"
@@ -18027,7 +18039,7 @@
 			"parent": "grill-outline"
 		},
 		"beacon": {
-			"parent": "lighthouse"
+			"parent": "lighthouse-on"
 		},
 		"beats-per-minute": {
 			"parent": "metronome"
@@ -18090,7 +18102,7 @@
 			"parent": "microsoft-bing"
 		},
 		"birthday-cake": {
-			"parent": "cake-variant"
+			"parent": "cake"
 		},
 		"biscuit": {
 			"parent": "cookie"
@@ -18507,7 +18519,7 @@
 			"parent": "calendar-multiple-check"
 		},
 		"calendar-repeat": {
-			"parent": "calendar-refresh"
+			"parent": "calendar-sync"
 		},
 		"calendar-repeat-outline": {
 			"parent": "calendar-sync-outline"
@@ -19017,7 +19029,7 @@
 			"parent": "update"
 		},
 		"clock-warning": {
-			"parent": "clock-alert"
+			"parent": "clock-alert-outline"
 		},
 		"clockwise": {
 			"parent": "update"
@@ -19452,10 +19464,10 @@
 			"parent": "bus-clock"
 		},
 		"dependencies": {
-			"parent": "graph-outline"
+			"parent": "graph"
 		},
 		"dependency": {
-			"parent": "graph-outline"
+			"parent": "graph"
 		},
 		"design": {
 			"parent": "pencil-ruler"
@@ -20418,7 +20430,7 @@
 			"parent": "shoe-print"
 		},
 		"forbid": {
-			"parent": "file-cancel-outline"
+			"parent": "file-cancel"
 		},
 		"foreign-key": {
 			"parent": "key-link"
@@ -20694,7 +20706,7 @@
 			"parent": "crosshairs-question"
 		},
 		"gpu": {
-			"parent": "expansion-card"
+			"parent": "expansion-card-variant"
 		},
 		"grade": {
 			"parent": "star"
@@ -20709,7 +20721,7 @@
 			"parent": "barley-off"
 		},
 		"graphics-processing-unit": {
-			"parent": "expansion-card"
+			"parent": "expansion-card-variant"
 		},
 		"graveyard": {
 			"parent": "grave-stone"
@@ -21231,7 +21243,7 @@
 			"parent": "card-account-details-outline"
 		},
 		"idea": {
-			"parent": "lightbulb"
+			"parent": "lightbulb-outline"
 		},
 		"identification-card": {
 			"parent": "card-account-details"
@@ -21369,7 +21381,7 @@
 			"parent": "receipt"
 		},
 		"irrigation": {
-			"parent": "sprinkler-variant"
+			"parent": "sprinkler"
 		},
 		"italian-lights": {
 			"parent": "string-lights"
@@ -22794,7 +22806,7 @@
 			"parent": "wifi-star"
 		},
 		"network-interface-card": {
-			"parent": "expansion-card"
+			"parent": "expansion-card-variant"
 		},
 		"network-router": {
 			"parent": "router-network"
@@ -24279,7 +24291,7 @@
 			"parent": "head-cog-outline"
 		},
 		"pub": {
-			"parent": "glass-mug"
+			"parent": "glass-mug-variant"
 		},
 		"public": {
 			"parent": "earth"
@@ -24324,7 +24336,7 @@
 			"parent": "help-network-outline"
 		},
 		"queue": {
-			"parent": "tray"
+			"parent": "tray-plus"
 		},
 		"queue-music": {
 			"parent": "playlist-music"
@@ -24513,7 +24525,7 @@
 			"parent": "alert"
 		},
 		"reschedule": {
-			"parent": "calendar-arrow-right"
+			"parent": "calendar-arrow-left"
 		},
 		"resize-horizontal": {
 			"parent": "arrow-split-vertical"
@@ -32360,7 +32372,11 @@
 		"f14e1": "set-split",
 		"f14e2": "beekeeper",
 		"f14e3": "snowflake-off",
-		"f14e4": "weather-sunny-off"
+		"f14e4": "weather-sunny-off",
+		"f14e5": "clipboard-edit",
+		"f14e6": "clipboard-edit-outline",
+		"f14e7": "notebook-edit",
+		"f14e8": "human-edit"
 	},
 	"categories": {
 		"Account / User": [

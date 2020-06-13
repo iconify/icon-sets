@@ -275,7 +275,7 @@
 		"account-supervisor-circle": {
 			"body": "<path d=\"M12 2C6.47 2 2 6.5 2 12a10 10 0 0 0 10 10a10 10 0 0 0 10-10A10 10 0 0 0 12 2m3.6 6.34c1.07 0 1.93.86 1.93 1.93c0 1.07-.86 1.93-1.93 1.93a1.93 1.93 0 0 1-1.93-1.93c-.01-1.07.86-1.93 1.93-1.93m-6-1.58c1.3 0 2.36 1.06 2.36 2.36c0 1.3-1.06 2.38-2.36 2.38c-1.3 0-2.36-1.08-2.36-2.38c0-1.31 1.05-2.36 2.36-2.36m0 9.13v3.75c-2.4-.75-4.3-2.6-5.14-4.96C5.5 13.56 8.13 13 9.6 13c.53 0 1.2.07 1.9.21c-1.64.87-1.9 2.02-1.9 2.68M12 20c-.28 0-.54 0-.8-.04v-4.07c0-1.42 2.94-2.13 4.4-2.13c1.07 0 2.9.39 3.84 1.15C18.27 17.88 15.38 20 12 20z\" fill=\"currentColor\"/>"
 		},
-		"account-supervisor-circle-outlined": {
+		"account-supervisor-circle-outline": {
 			"body": "<path d=\"M12.5 10c0-1.66-1.34-3-3-3c-1.64 0-3 1.34-3 3c0 1.64 1.36 3 3 3c1.66 0 3-1.36 3-3m-3 1c-.54 0-1-.46-1-1c0-.56.46-1 1-1c.56 0 1 .44 1 1c0 .54-.44 1-1 1m6.5 2c1.12 0 2-.9 2-2c0-1.12-.88-2-2-2c-1.1 0-2 .88-2 2c0 1.1.9 2 2 2M12 2C6.5 2 2 6.5 2 12s4.5 10 10 10s10-4.5 10-10S17.5 2 12 2M5.85 17.11C6.53 16.57 8.12 16 9.5 16h.24c.26-.63.67-1.28 1.3-1.85c-.54-.1-1.09-.15-1.54-.15c-1.29 0-3.38.44-4.72 1.42C4.28 14.38 4 13.22 4 12c0-4.42 3.59-8 8-8s8 3.58 8 8c0 1.19-.27 2.33-.75 3.36c-1-.59-2.36-.86-3.25-.86c-1.5 0-4.5.8-4.5 2.69v2.78a7.932 7.932 0 0 1-5.65-2.86z\" fill=\"currentColor\"/>"
 		},
 		"account-supervisor-outline": {
@@ -16877,6 +16877,9 @@
 		"account-security-outline": {
 			"parent": "account-lock-outline"
 		},
+		"account-supervisor-circle-outlined": {
+			"parent": "account-supervisor-circle-outline"
+		},
 		"account-tick": {
 			"parent": "account-check"
 		},
@@ -17625,7 +17628,7 @@
 			"parent": "boom-gate-up-outline"
 		},
 		"arrow": {
-			"parent": "undo"
+			"parent": "undo-variant"
 		},
 		"arrow-back": {
 			"parent": "arrow-left"
@@ -17859,7 +17862,7 @@
 			"parent": "paperclip"
 		},
 		"audio": {
-			"parent": "volume-medium"
+			"parent": "volume-high"
 		},
 		"audio-book": {
 			"parent": "book-music"
@@ -17922,7 +17925,7 @@
 			"parent": "seal"
 		},
 		"awning": {
-			"parent": "storefront"
+			"parent": "storefront-outline"
 		},
 		"azure": {
 			"parent": "microsoft-azure"
@@ -19071,7 +19074,7 @@
 			"parent": "update"
 		},
 		"clock-warning": {
-			"parent": "clock-alert-outline"
+			"parent": "clock-alert"
 		},
 		"clockwise": {
 			"parent": "update"
@@ -20835,7 +20838,7 @@
 			"parent": "pound-box-outline"
 		},
 		"hd": {
-			"parent": "high-definition-box"
+			"parent": "high-definition"
 		},
 		"hd-box": {
 			"parent": "high-definition-box"
@@ -22113,7 +22116,7 @@
 			"parent": "lan-pending"
 		},
 		"local-atm": {
-			"parent": "cash-usd-outline"
+			"parent": "cash-usd"
 		},
 		"local-attraction": {
 			"parent": "ticket"
@@ -22674,7 +22677,7 @@
 			"parent": "currency-usd-off"
 		},
 		"money-usd": {
-			"parent": "cash-usd-outline"
+			"parent": "cash-usd"
 		},
 		"monitor-mobile-phone": {
 			"parent": "monitor-cellphone"
@@ -24378,7 +24381,7 @@
 			"parent": "help-network-outline"
 		},
 		"queue": {
-			"parent": "tray"
+			"parent": "tray-plus"
 		},
 		"queue-music": {
 			"parent": "playlist-music"
@@ -24567,7 +24570,7 @@
 			"parent": "alert"
 		},
 		"reschedule": {
-			"parent": "calendar-arrow-right"
+			"parent": "calendar-arrow-left"
 		},
 		"resize-horizontal": {
 			"parent": "arrow-split-vertical"
@@ -25368,7 +25371,7 @@
 			"parent": "radius-outline"
 		},
 		"spicy": {
-			"parent": "chili-hot"
+			"parent": "chili-mild"
 		},
 		"spicy-off": {
 			"parent": "chili-off"
@@ -32422,7 +32425,7 @@
 		"f14e9": "notebook-edit-outline",
 		"f14ea": "cash-lock",
 		"f14eb": "cash-lock-open",
-		"f14ec": "account-supervisor-circle-outlined",
+		"f14ec": "account-supervisor-circle-outline",
 		"f14ed": "car-outline",
 		"f14ee": "cash-check",
 		"f14ef": "filter-off",

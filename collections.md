@@ -86,7 +86,7 @@
 
 
 ### Bootstrap Icons
-* Number of icons: 923
+* Number of icons: 984
 * Author: The Bootstrap Authors
 * URL: https://github.com/twbs/icons
 * License: MIT

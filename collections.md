@@ -66,6 +66,16 @@
 * Palette: Colorless
 
 
+### Line Awesome
+* Number of icons: 1544
+* Author: Icons8
+* URL: https://github.com/icons8/line-awesome
+* License: Good Boy License
+* License URL: https://icons8.com/good-boy-license/
+* Version: 1.2.1
+* Palette: Colorless
+
+
 ### Jam Icons
 * Number of icons: 896
 * Author: Michael Amprimo
@@ -119,6 +129,15 @@
 * License: CC BY 4.0
 * License URL: https://creativecommons.org/licenses/by/4.0/
 * Version: 2.0.0-beta.4
+* Palette: Colorless
+
+
+### css.gg
+* Number of icons: 704
+* Author: Astrit
+* URL: https://github.com/astrit/css.gg
+* License: MIT
+* Version: 2.0.0
 * Palette: Colorless
 
 

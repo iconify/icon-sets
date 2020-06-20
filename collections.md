@@ -118,7 +118,7 @@
 * Author: IBM
 * URL: https://github.com/carbon-design-system/carbon/tree/master/packages/icons
 * License: Apache 2.0
-* Version: 10.12.0
+* Version: 10.13.0
 * Palette: Colorless
 
 
@@ -142,12 +142,12 @@
 
 
 ### Font Awesome 5 Solid
-* Number of icons: 995
+* Number of icons: 999
 * Author: Dave Gandy
 * URL: http://fontawesome.io/
 * License: CC BY 4.0
 * License URL: https://creativecommons.org/licenses/by/4.0/
-* Version: 5.13.0
+* Version: 5.13.1
 * Palette: Colorless
 
 
@@ -157,7 +157,7 @@
 * URL: http://fontawesome.io/
 * License: CC BY 4.0
 * License URL: https://creativecommons.org/licenses/by/4.0/
-* Version: 5.13.0
+* Version: 5.13.1
 * Palette: Colorless
 
 
@@ -660,12 +660,12 @@
 
 
 ### Font Awesome 5 Brands
-* Number of icons: 442
+* Number of icons: 448
 * Author: Dave Gandy
 * URL: http://fontawesome.io/
 * License: CC BY 4.0
 * License URL: https://creativecommons.org/licenses/by/4.0/
-* Version: 5.13.0
+* Version: 5.13.1
 * Palette: Colorless
 
 

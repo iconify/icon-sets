@@ -3,7 +3,7 @@
 
 
 ### Material Design Icons
-* Number of icons: 5366
+* Number of icons: 5372
 * Author: Austin Andrews
 * URL: https://github.com/Templarian/MaterialDesign
 * License: Open Font License
@@ -86,17 +86,17 @@
 
 
 ### IonIcons
-* Number of icons: 1227
+* Number of icons: 1235
 * Author: Ben Sperry
 * URL: https://github.com/ionic-team/ionicons
 * License: MIT
 * License URL: https://github.com/ionic-team/ionicons/blob/master/LICENSE
-* Version: 5.0.1
+* Version: 5.1.0
 * Palette: Colorless
 
 
 ### Bootstrap Icons
-* Number of icons: 1009
+* Number of icons: 1030
 * Author: The Bootstrap Authors
 * URL: https://github.com/twbs/icons
 * License: MIT

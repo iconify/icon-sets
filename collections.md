@@ -91,7 +91,7 @@
 * URL: https://github.com/ionic-team/ionicons
 * License: MIT
 * License URL: https://github.com/ionic-team/ionicons/blob/master/LICENSE
-* Version: 5.1.0
+* Version: 5.1.2
 * Palette: Colorless
 
 

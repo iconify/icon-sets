@@ -3415,7 +3415,7 @@
 			"body": "<path d=\"M15 15v2h3v3h2v-3h3v-2h-3v-3h-2v3m-3.03-3.39C14.85 10.28 13.59 8.97 12 9c-1.7.03-3 1.3-3 3s1.3 2.94 3 3c.38 0 .77-.08 1.14-.23c.27-1.1.72-2.14 1.83-3.16M13 16H7a2 2 0 0 0-2-2v-4c1.11 0 2-.89 2-2h10a2 2 0 0 0 2 2v.06c.67 0 1.34.12 2 .34V6H3v12h10.32a6.38 6.38 0 0 1-.32-2z\" fill=\"currentColor\"/>"
 		},
 		"cash-refund": {
-			"body": "<path d=\"M3 11h18v12H3V11m9 4a2 2 0 0 1 2 2a2 2 0 0 1-2 2a2 2 0 0 1-2-2a2 2 0 0 1 2-2m-5-2a2 2 0 0 1-2 2v4a2 2 0 0 1 2 2h10a2 2 0 0 1 2-2v-4a2 2 0 0 1-2-2H7m10-8v5h-1.5V6.5H9.88l2.42 2.43L11.24 10L7 5.75l4.24-4.25l1.06 1.07L9.88 5H17z\" fill=\"currentColor\"/>"
+			"body": "<path d=\"M12.3 8.93L9.88 6.5h5.62V10H17V5H9.88l2.42-2.43l-1.06-1.07L7 5.75L11.24 10l1.06-1.07M12 14a3 3 0 1 0 3 3a3 3 0 0 0-3-3m-9-3v12h18V11m-2 8a2 2 0 0 0-2 2H7a2 2 0 0 0-2-2v-4a2 2 0 0 0 2-2h10a2 2 0 0 0 2 2z\" fill=\"currentColor\"/>"
 		},
 		"cash-register": {
 			"body": "<path d=\"M2 17h20v4H2v-4M6.25 7H9V6H6V3h8v3h-3v1h6.8c1 0 2 1 2.2 2l.5 7h-17l.55-7c0-1 1-2 2.2-2M13 9v2h5V9h-5M6 9v1h2V9H6m3 0v1h2V9H9m-3 2v1h2v-1H6m3 0v1h2v-1H9m-3 2v1h2v-1H6m3 0v1h2v-1H9M7 4v1h6V4H7z\" fill=\"currentColor\"/>"
@@ -17884,7 +17884,7 @@
 			"parent": "paperclip"
 		},
 		"audio": {
-			"parent": "volume-low"
+			"parent": "volume-medium"
 		},
 		"audio-book": {
 			"parent": "book-music"
@@ -17944,7 +17944,7 @@
 			"parent": "robot-industrial"
 		},
 		"award": {
-			"parent": "seal-variant"
+			"parent": "seal"
 		},
 		"awning": {
 			"parent": "storefront"
@@ -17983,7 +17983,7 @@
 			"parent": "baguette"
 		},
 		"ban": {
-			"parent": "file-cancel"
+			"parent": "file-cancel-outline"
 		},
 		"band-aid": {
 			"parent": "bandage"
@@ -18169,7 +18169,7 @@
 			"parent": "microsoft-bing"
 		},
 		"birthday-cake": {
-			"parent": "cake-variant"
+			"parent": "cake-layered"
 		},
 		"biscuit": {
 			"parent": "cookie"
@@ -19528,7 +19528,7 @@
 			"parent": "cancel"
 		},
 		"dentist": {
-			"parent": "toothbrush"
+			"parent": "toothbrush-electric"
 		},
 		"departure-board": {
 			"parent": "bus-clock"
@@ -20512,7 +20512,7 @@
 			"parent": "shoe-print"
 		},
 		"forbid": {
-			"parent": "file-cancel"
+			"parent": "file-cancel-outline"
 		},
 		"foreign-key": {
 			"parent": "key-link"
@@ -23515,7 +23515,7 @@
 			"parent": "ocr"
 		},
 		"oral-hygiene": {
-			"parent": "toothbrush"
+			"parent": "toothbrush-electric"
 		},
 		"order-checkbox-ascending": {
 			"parent": "order-bool-ascending-variant"
@@ -24100,7 +24100,7 @@
 			"parent": "notebook-outline"
 		},
 		"plant": {
-			"parent": "tree-outline"
+			"parent": "tree"
 		},
 		"plant-outline": {
 			"parent": "sprout-outline"
@@ -24292,7 +24292,7 @@
 			"parent": "transmission-tower"
 		},
 		"pram": {
-			"parent": "baby-carriage"
+			"parent": "baby-buggy"
 		},
 		"pram-off": {
 			"parent": "baby-carriage-off"
@@ -24334,7 +24334,7 @@
 			"parent": "printer-alert"
 		},
 		"prize": {
-			"parent": "seal-variant"
+			"parent": "seal"
 		},
 		"progress-spanner": {
 			"parent": "progress-wrench"
@@ -24373,7 +24373,7 @@
 			"parent": "head-cog-outline"
 		},
 		"pub": {
-			"parent": "glass-mug-variant"
+			"parent": "glass-mug"
 		},
 		"public": {
 			"parent": "earth"
@@ -25525,7 +25525,7 @@
 			"parent": "format-strikethrough-variant"
 		},
 		"stroller": {
-			"parent": "baby-carriage"
+			"parent": "baby-buggy"
 		},
 		"stroller-off": {
 			"parent": "baby-carriage-off"
@@ -26833,7 +26833,7 @@
 			"parent": "weather-rainy"
 		},
 		"weather-storm": {
-			"parent": "weather-lightning"
+			"parent": "weather-lightning-rainy"
 		},
 		"weather-thunder": {
 			"parent": "weather-lightning"

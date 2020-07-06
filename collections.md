@@ -650,12 +650,12 @@
 
 
 ### Simple Icons
-* Number of icons: 1370
+* Number of icons: 1377
 * Author: Simple Icons Collaborators
 * URL: https://github.com/simple-icons/simple-icons
 * License: CC0 1.0
 * License URL: https://github.com/simple-icons/simple-icons/blob/develop/LICENSE.md
-* Version: 2.19.0
+* Version: 3.0.1
 * Palette: Colorless
 
 

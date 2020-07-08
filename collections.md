@@ -581,7 +581,7 @@
 
 
 ### OpenMoji
-* Number of icons: 3555
+* Number of icons: 3556
 * Author: OpenMoji
 * URL: https://github.com/hfg-gmuend/openmoji
 * License: CC BY-SA 4.0
@@ -688,7 +688,7 @@
 
 
 ### Cryptocurrency Icons
-* Number of icons: 426
+* Number of icons: 428
 * Author: Christopher Downer
 * URL: https://github.com/atomiclabs/cryptocurrency-icons
 * License: CC0 1.0

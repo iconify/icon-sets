@@ -114,7 +114,7 @@
 
 
 ### Carbon
-* Number of icons: 1129
+* Number of icons: 1213
 * Author: IBM
 * URL: https://github.com/carbon-design-system/carbon/tree/master/packages/icons
 * License: Apache 2.0
@@ -581,7 +581,7 @@
 
 
 ### OpenMoji
-* Number of icons: 3556
+* Number of icons: 3557
 * Author: OpenMoji
 * URL: https://github.com/hfg-gmuend/openmoji
 * License: CC BY-SA 4.0

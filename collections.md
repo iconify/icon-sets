@@ -3,7 +3,7 @@
 
 
 ### Material Design Icons
-* Number of icons: 5406
+* Number of icons: 5418
 * Author: Austin Andrews
 * URL: https://github.com/Templarian/MaterialDesign
 * License: Open Font License
@@ -118,7 +118,7 @@
 * Author: IBM
 * URL: https://github.com/carbon-design-system/carbon/tree/master/packages/icons
 * License: Apache 2.0
-* Version: 10.13.0
+* Version: 10.14.0-rc.0
 * Palette: Colorless
 
 
@@ -147,7 +147,7 @@
 * URL: http://fontawesome.io/
 * License: CC BY 4.0
 * License URL: https://creativecommons.org/licenses/by/4.0/
-* Version: 5.13.1
+* Version: 5.14.0
 * Palette: Colorless
 
 
@@ -157,7 +157,7 @@
 * URL: http://fontawesome.io/
 * License: CC BY 4.0
 * License URL: https://creativecommons.org/licenses/by/4.0/
-* Version: 5.13.1
+* Version: 5.14.0
 * Palette: Colorless
 
 
@@ -665,7 +665,7 @@
 * URL: http://fontawesome.io/
 * License: CC BY 4.0
 * License URL: https://creativecommons.org/licenses/by/4.0/
-* Version: 5.13.1
+* Version: 5.14.0
 * Palette: Colorless
 
 

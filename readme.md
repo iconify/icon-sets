@@ -18,7 +18,7 @@ Instructions below are for Node.js and PHP projects.
 
 Run this command to add icons to your project:
 
-```
+```bash
 npm install --save @iconify/json
 ```
 
@@ -26,7 +26,7 @@ Icons will be available in node_modules/@iconify/json
 
 To resolve filename for any json file, use this:
 
-```
+```js
 const icons = require('@iconify/json');
 
 // returns location of fa.json
@@ -40,7 +40,7 @@ Install and initialize Composer project. See documentation at [https://getcompos
 
 Then open composer.json and add following code:
 
-```
+```json
 "require": {
     "php": ">=5.6",
     "iconify/json": "*"
@@ -49,7 +49,7 @@ Then open composer.json and add following code:
 
 then run:
 
-```
+```bash
 composer install
 ```
 
@@ -59,7 +59,7 @@ If you don't use Composer, clone GitHub repository and add necessary autoload co
 
 To resolve filename for any json file, use this:
 
-```
+```php
 // returns location of fa.json
 $fa = \Iconify\IconsJSON\Finder::locate('fa');
 ```
@@ -76,7 +76,7 @@ If you need individual SVG images, you can generate them using Iconify JSON Tool
 
 Format of json file is very simple:
 
-```
+```js
 {
     "icons": {
         "icon-name": {
@@ -118,7 +118,7 @@ For more information see developer documentation on [https://iconify.design/docs
 
 See JSON tools readme for instructions for [PHP](https://github.com/iconify/json-tools.php) or [Node.js](https://github.com/iconify/json-tools.js).
 
-```
+```js
 const fs = require('fs');
 const {SVG, Collection} = require('@iconify/json-tools');
 
@@ -132,7 +132,7 @@ collection.listIcons(true).forEach(icon => {
 });
 ```
 
-```
+```php
 use \Iconify\JSONTools\Collection;
 use \Iconify\JSONTools\SVG;
 

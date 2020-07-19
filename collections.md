@@ -21,7 +21,7 @@
 
 
 ### Google Material Icons
-* Number of icons: 6700
+* Number of icons: 6780
 * Author: Material Design Authors
 * URL: https://github.com/cyberalien/google-material-design-icons-updated
 * License: Apache 2.0
@@ -650,12 +650,12 @@
 
 
 ### Simple Icons
-* Number of icons: 1381
+* Number of icons: 1382
 * Author: Simple Icons Collaborators
 * URL: https://github.com/simple-icons/simple-icons
 * License: CC0 1.0
 * License URL: https://github.com/simple-icons/simple-icons/blob/develop/LICENSE.md
-* Version: 3.1.0
+* Version: 3.2.0
 * Palette: Colorless
 
 

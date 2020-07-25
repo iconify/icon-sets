@@ -3,7 +3,7 @@
 
 
 ### Material Design Icons
-* Number of icons: 5418
+* Number of icons: 5460
 * Author: Austin Andrews
 * URL: https://github.com/Templarian/MaterialDesign
 * License: Open Font License
@@ -30,12 +30,12 @@
 
 
 ### Unicons
-* Number of icons: 1171
+* Number of icons: 1185
 * Author: Iconscout
 * URL: https://github.com/Iconscout/unicons
 * License: Apache 2.0
 * License URL: https://raw.githubusercontent.com/Iconscout/unicons/master/LICENSE
-* Version: 2.1.9
+* Version: 2.1.11
 * Palette: Colorless
 
 
@@ -45,7 +45,7 @@
 * URL: https://github.com/Iconscout/unicons
 * License: Apache 2.0
 * License URL: https://raw.githubusercontent.com/Iconscout/unicons/master/LICENSE
-* Version: 2.1.9
+* Version: 2.1.11
 * Palette: Colorless
 
 
@@ -271,7 +271,7 @@
 * Author: Steve Schoger
 * URL: https://github.com/refactoringui/heroicons
 * License: MIT
-* Version: 0.3.5
+* Version: 0.3.7
 * Palette: Colorless
 
 
@@ -280,7 +280,7 @@
 * Author: Steve Schoger
 * URL: https://github.com/refactoringui/heroicons
 * License: MIT
-* Version: 0.3.5
+* Version: 0.3.7
 * Palette: Colorless
 
 
@@ -581,7 +581,7 @@
 
 
 ### OpenMoji
-* Number of icons: 3557
+* Number of icons: 3564
 * Author: OpenMoji
 * URL: https://github.com/hfg-gmuend/openmoji
 * License: CC BY-SA 4.0

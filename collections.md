@@ -228,6 +228,26 @@
 * Palette: Colorful
 
 
+### Octicons
+* Number of icons: 397
+* Author: GitHub
+* URL: https://github.com/primer/octicons/
+* License: Open Font License
+* License URL: https://raw.githubusercontent.com/primer/octicons/master/LICENSE
+* Version: 10.0.0
+* Palette: Colorless
+
+
+### Codicons
+* Number of icons: 325
+* Author: Microsoft Corporation
+* URL: https://github.com/microsoft/vscode-codicons
+* License: CC BY 4.0
+* License URL: https://raw.githubusercontent.com/microsoft/vscode-codicons/master/LICENSE
+* Version: 0.0.7
+* Palette: Colorless
+
+
 ### Ant Design Icons
 * Number of icons: 788
 * Author: HeskeyBaozi
@@ -415,16 +435,6 @@
 * License: MIT
 * License URL: https://raw.githubusercontent.com/iconic/open-iconic/master/ICON-LICENSE
 * Version: 1.1.1
-* Palette: Colorless
-
-
-### Octicons
-* Number of icons: 184
-* Author: GitHub
-* URL: https://github.com/primer/octicons/
-* License: Open Font License
-* License URL: https://raw.githubusercontent.com/primer/octicons/master/LICENSE
-* Version: 8.5.0
 * Palette: Colorless
 
 

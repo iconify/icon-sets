@@ -3,7 +3,7 @@
 
 
 ### Material Design Icons
-* Number of icons: 5555
+* Number of icons: 5578
 * Author: Austin Andrews
 * URL: https://github.com/Templarian/MaterialDesign
 * License: Open Font License
@@ -138,6 +138,16 @@
 * URL: https://github.com/astrit/css.gg
 * License: MIT
 * Version: 2.0.0
+* Palette: Colorless
+
+
+### Tabler Icons
+* Number of icons: 578
+* Author: Paweł Kuna
+* URL: https://github.com/tabler/tabler-icons
+* License: MIT
+* License URL: https://github.com/tabler/tabler-icons/blob/master/LICENSE
+* Version: 1.11.0
 * Palette: Colorless
 
 

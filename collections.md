@@ -3,7 +3,7 @@
 
 
 ### Material Design Icons
-* Number of icons: 5578
+* Number of icons: 5579
 * Author: Austin Andrews
 * URL: https://github.com/Templarian/MaterialDesign
 * License: Open Font License
@@ -21,7 +21,7 @@
 
 
 ### Google Material Icons
-* Number of icons: 6780
+* Number of icons: 6850
 * Author: Material Design Authors
 * URL: https://github.com/cyberalien/google-material-design-icons-updated
 * License: Apache 2.0
@@ -286,6 +286,15 @@
 * Palette: Colorless
 
 
+### System UIcons
+* Number of icons: 222
+* Author: Corey Ginnivan
+* URL: https://github.com/CoreyGinnivan/system-uicons
+* License: Unlicense
+* License URL: https://github.com/CoreyGinnivan/system-uicons/blob/master/LICENSE
+* Palette: Colorless
+
+
 ### Gridicons
 * Number of icons: 198
 * Author: Automattic
@@ -297,7 +306,7 @@
 
 
 ### HeroIcons Outline
-* Number of icons: 176
+* Number of icons: 224
 * Author: Steve Schoger
 * URL: https://github.com/refactoringui/heroicons
 * License: MIT
@@ -306,7 +315,7 @@
 
 
 ### HeroIcons Solid
-* Number of icons: 176
+* Number of icons: 223
 * Author: Steve Schoger
 * URL: https://github.com/refactoringui/heroicons
 * License: MIT

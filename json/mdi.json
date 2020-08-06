@@ -2,7 +2,7 @@
 	"prefix": "mdi",
 	"info": {
 		"name": "Material Design Icons",
-		"total": 5578,
+		"total": 5579,
 		"author": {
 			"name": "Austin Andrews",
 			"url": "https://github.com/Templarian/MaterialDesign"
@@ -11658,7 +11658,10 @@
 			"body": "<path d=\"M19 11v2h-2v2h-2v-2h-2v-2h2V9h2v2h2m-9-4a2 2 0 0 1 2 2v6a2 2 0 0 1-2 2H6v-2h4v-2H8a2 2 0 0 1-2-2V9a2 2 0 0 1 2-2h2M8 9v2h2V9H8m4-7a10 10 0 0 1 10 10a10 10 0 0 1-10 10A10 10 0 0 1 2 12A10 10 0 0 1 12 2m0 2a8 8 0 0 0-8 8a8 8 0 0 0 8 8a8 8 0 0 0 8-8a8 8 0 0 0-8-8z\" fill=\"currentColor\"/>"
 		},
 		"numeric-negative-1": {
-			"body": "<path d=\"M13 7v2h2v8h2V7h-4m-2 6H6v-2h5v2z\" fill=\"currentColor\"/>"
+			"body": "<path d=\"M13 7v2h2v8h2V7h-4m-2 6H5v-2h6v2z\" fill=\"currentColor\"/>"
+		},
+		"numeric-positive-1": {
+			"body": "<path d=\"M13 7v2h2v8h2V7h-4m-2 6H9v2H7v-2H5v-2h2V9h2v2h2v2z\" fill=\"currentColor\"/>"
 		},
 		"nut": {
 			"body": "<path d=\"M21 16.5c0 .38-.21.71-.53.88l-7.9 4.44c-.16.12-.36.18-.57.18c-.21 0-.41-.06-.57-.18l-7.9-4.44A.991.991 0 0 1 3 16.5v-9c0-.38.21-.71.53-.88l7.9-4.44c.16-.12.36-.18.57-.18c.21 0 .41.06.57.18l7.9 4.44c.32.17.53.5.53.88v9M12 7a5 5 0 0 0-5 5a5 5 0 0 0 5 5a5 5 0 0 0 5-5a5 5 0 0 0-5-5z\" fill=\"currentColor\"/>"
@@ -18579,7 +18582,7 @@
 			"parent": "audio-video-off"
 		},
 		"award": {
-			"parent": "seal"
+			"parent": "seal-variant"
 		},
 		"awning": {
 			"parent": "storefront"
@@ -20213,6 +20216,9 @@
 		"decagram-check": {
 			"parent": "check-decagram"
 		},
+		"decrement": {
+			"parent": "numeric-negative-1"
+		},
 		"defibrillator": {
 			"parent": "heart-flash"
 		},
@@ -20316,7 +20322,7 @@
 			"parent": "dice-multiple"
 		},
 		"dietary-restriction": {
-			"parent": "food-kosher"
+			"parent": "food-halal"
 		},
 		"difference-left": {
 			"parent": "set-left"
@@ -20847,7 +20853,7 @@
 			"parent": "map-marker-circle"
 		},
 		"extension": {
-			"parent": "toy-brick-remove"
+			"parent": "toy-brick"
 		},
 		"extension-outline": {
 			"parent": "puzzle-outline"
@@ -21666,7 +21672,7 @@
 			"parent": "pound-box-outline"
 		},
 		"hd": {
-			"parent": "high-definition"
+			"parent": "high-definition-box"
 		},
 		"hd-box": {
 			"parent": "high-definition-box"
@@ -22137,7 +22143,7 @@
 			"parent": "card-account-details-outline"
 		},
 		"idea": {
-			"parent": "lightbulb-on"
+			"parent": "lightbulb"
 		},
 		"identification-card": {
 			"parent": "card-account-details"
@@ -22189,6 +22195,9 @@
 		},
 		"inboxes-outline": {
 			"parent": "inbox-multiple-outline"
+		},
+		"increment": {
+			"parent": "numeric-positive-1"
 		},
 		"indeterminate-check-box": {
 			"parent": "minus-box"
@@ -22278,7 +22287,7 @@
 			"parent": "receipt"
 		},
 		"irrigation": {
-			"parent": "sprinkler-variant"
+			"parent": "sprinkler"
 		},
 		"italian-lights": {
 			"parent": "string-lights"
@@ -22467,7 +22476,7 @@
 			"parent": "teach"
 		},
 		"lego": {
-			"parent": "toy-brick-remove"
+			"parent": "toy-brick"
 		},
 		"lens": {
 			"parent": "circle"
@@ -23455,6 +23464,9 @@
 		},
 		"milestone-remove": {
 			"parent": "sign-direction-remove"
+		},
+		"minus-one": {
+			"parent": "numeric-negative-1"
 		},
 		"mixer-settings": {
 			"parent": "tune"
@@ -25026,7 +25038,7 @@
 			"parent": "power-socket-us"
 		},
 		"plugin": {
-			"parent": "toy-brick-remove"
+			"parent": "toy-brick"
 		},
 		"plus-circles-outline": {
 			"parent": "plus-circle-multiple-outline"
@@ -25179,7 +25191,7 @@
 			"parent": "transmission-tower"
 		},
 		"pram": {
-			"parent": "baby-buggy"
+			"parent": "baby-carriage"
 		},
 		"pram-off": {
 			"parent": "baby-carriage-off"
@@ -25221,7 +25233,7 @@
 			"parent": "printer-alert"
 		},
 		"prize": {
-			"parent": "seal"
+			"parent": "seal-variant"
 		},
 		"progress-spanner": {
 			"parent": "progress-wrench"
@@ -25260,7 +25272,7 @@
 			"parent": "head-cog-outline"
 		},
 		"pub": {
-			"parent": "glass-mug"
+			"parent": "glass-mug-variant"
 		},
 		"public": {
 			"parent": "earth"
@@ -25770,7 +25782,7 @@
 			"parent": "set-left-right"
 		},
 		"settings": {
-			"parent": "cogs"
+			"parent": "cog"
 		},
 		"settings-applications": {
 			"parent": "cog-box"
@@ -26469,7 +26481,7 @@
 			"parent": "format-strikethrough-variant"
 		},
 		"stroller": {
-			"parent": "baby-buggy"
+			"parent": "baby-carriage"
 		},
 		"stroller-off": {
 			"parent": "baby-carriage-off"
@@ -33661,7 +33673,8 @@
 		"f15c7": "shoe-cleat",
 		"f15c8": "shoe-sneaker",
 		"f15c9": "human-female-dance",
-		"f15ca": "shoe-ballet"
+		"f15ca": "shoe-ballet",
+		"f15cb": "numeric-positive-1"
 	},
 	"categories": {
 		"Account / User": [
@@ -34201,6 +34214,7 @@
 			"numeric-9-plus-circle",
 			"numeric-9-plus-circle-outline",
 			"numeric-negative-1",
+			"numeric-positive-1",
 			"roman-numeral-1",
 			"roman-numeral-10",
 			"roman-numeral-2",

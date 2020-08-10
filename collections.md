@@ -315,7 +315,7 @@
 
 
 ### HeroIcons Solid
-* Number of icons: 223
+* Number of icons: 224
 * Author: Steve Schoger
 * URL: https://github.com/refactoringui/heroicons
 * License: MIT

@@ -35,7 +35,7 @@
 * URL: https://github.com/Iconscout/unicons
 * License: Apache 2.0
 * License URL: https://raw.githubusercontent.com/Iconscout/unicons/master/LICENSE
-* Version: 2.1.11
+* Version: 3.0.0
 * Palette: Colorless
 
 
@@ -45,7 +45,7 @@
 * URL: https://github.com/Iconscout/unicons
 * License: Apache 2.0
 * License URL: https://raw.githubusercontent.com/Iconscout/unicons/master/LICENSE
-* Version: 2.1.11
+* Version: 3.0.0
 * Palette: Colorless
 
 
@@ -684,7 +684,7 @@
 * URL: https://github.com/simple-icons/simple-icons
 * License: CC0 1.0
 * License URL: https://github.com/simple-icons/simple-icons/blob/develop/LICENSE.md
-* Version: 3.4.0
+* Version: 3.4.1
 * Palette: Colorless
 
 

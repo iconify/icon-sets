@@ -21,7 +21,7 @@
 
 
 ### Google Material Icons
-* Number of icons: 6850
+* Number of icons: 6900
 * Author: Material Design Authors
 * URL: https://github.com/cyberalien/google-material-design-icons-updated
 * License: Apache 2.0
@@ -142,12 +142,12 @@
 
 
 ### Tabler Icons
-* Number of icons: 609
+* Number of icons: 622
 * Author: Paweł Kuna
 * URL: https://github.com/tabler/tabler-icons
 * License: MIT
 * License URL: https://github.com/tabler/tabler-icons/blob/master/LICENSE
-* Version: 1.12.0
+* Version: 1.13.1
 * Palette: Colorless
 
 

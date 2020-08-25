@@ -35,7 +35,7 @@
 * URL: https://github.com/Iconscout/unicons
 * License: Apache 2.0
 * License URL: https://raw.githubusercontent.com/Iconscout/unicons/master/LICENSE
-* Version: 3.0.1
+* Version: 3.0.2
 * Palette: Colorless
 
 
@@ -142,12 +142,12 @@
 
 
 ### Tabler Icons
-* Number of icons: 634
+* Number of icons: 644
 * Author: Paweł Kuna
 * URL: https://github.com/tabler/tabler-icons
 * License: MIT
 * License URL: https://github.com/tabler/tabler-icons/blob/master/LICENSE
-* Version: 1.14.0
+* Version: 1.15.0
 * Palette: Colorless
 
 
@@ -239,12 +239,12 @@
 
 
 ### Octicons
-* Number of icons: 397
+* Number of icons: 403
 * Author: GitHub
 * URL: https://github.com/primer/octicons/
 * License: Open Font License
 * License URL: https://raw.githubusercontent.com/primer/octicons/master/LICENSE
-* Version: 10.0.0
+* Version: 10.1.0
 * Palette: Colorless
 
 
@@ -306,20 +306,20 @@
 
 
 ### HeroIcons Outline
-* Number of icons: 224
+* Number of icons: 226
 * Author: Steve Schoger
 * URL: https://github.com/refactoringui/heroicons
 * License: MIT
-* Version: 0.3.7
+* Version: 0.4.0
 * Palette: Colorless
 
 
 ### HeroIcons Solid
-* Number of icons: 224
+* Number of icons: 226
 * Author: Steve Schoger
 * URL: https://github.com/refactoringui/heroicons
 * License: MIT
-* Version: 0.3.7
+* Version: 0.4.0
 * Palette: Colorless
 
 
@@ -679,12 +679,12 @@
 
 
 ### Simple Icons
-* Number of icons: 1400
+* Number of icons: 1402
 * Author: Simple Icons Collaborators
 * URL: https://github.com/simple-icons/simple-icons
 * License: CC0 1.0
 * License URL: https://github.com/simple-icons/simple-icons/blob/develop/LICENSE.md
-* Version: 3.5.0
+* Version: 3.6.0
 * Palette: Colorless
 
 

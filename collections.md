@@ -323,6 +323,15 @@
 * Palette: Colorless
 
 
+### File Icons
+* Number of icons: 872
+* Author: John Gardner
+* URL: https://github.com/file-icons/icons
+* License: ISC
+* License URL: https://github.com/file-icons/icons/blob/master/LICENSE.md
+* Palette: Colorless
+
+
 ### PrestaShop Icons
 * Number of icons: 479
 * Author: PrestaShop
@@ -465,6 +474,16 @@
 * License URL: http://www.gnu.org/licenses/gpl.html
 * Version: 1.0.1
 * Palette: Colorless
+
+
+### VSCode Icons
+* Number of icons: 1038
+* Author: Roberto Huertas
+* URL: https://github.com/vscode-icons/vscode-icons
+* License: MIT
+* License URL: https://github.com/vscode-icons/vscode-icons/blob/master/LICENSE
+* Version: 10.2.0
+* Palette: Colorful
 
 
 ### Font Awesome 4

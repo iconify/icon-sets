@@ -17798,6 +17798,9 @@
 		"alarms": {
 			"parent": "alarm-multiple"
 		},
+		"alcohol": {
+			"parent": "glass-mug-variant"
+		},
 		"align-horizontal-centre": {
 			"parent": "align-horizontal-center"
 		},
@@ -18330,7 +18333,7 @@
 			"parent": "boom-gate-up-outline"
 		},
 		"arrow": {
-			"parent": "undo"
+			"parent": "undo-variant"
 		},
 		"arrow-back": {
 			"parent": "arrow-left"
@@ -18564,7 +18567,7 @@
 			"parent": "paperclip"
 		},
 		"audio": {
-			"parent": "volume-medium"
+			"parent": "volume-low"
 		},
 		"audio-book": {
 			"parent": "book-music"
@@ -18630,10 +18633,10 @@
 			"parent": "audio-video-off"
 		},
 		"award": {
-			"parent": "seal"
+			"parent": "seal-variant"
 		},
 		"awning": {
-			"parent": "storefront"
+			"parent": "storefront-outline"
 		},
 		"azure": {
 			"parent": "microsoft-azure"
@@ -18672,7 +18675,7 @@
 			"parent": "human-female-dance"
 		},
 		"ban": {
-			"parent": "file-cancel-outline"
+			"parent": "file-cancel"
 		},
 		"band-aid": {
 			"parent": "bandage"
@@ -18684,7 +18687,7 @@
 			"parent": "bank-plus"
 		},
 		"bar": {
-			"parent": "glass-wine"
+			"parent": "glass-mug-variant"
 		},
 		"bar-chart": {
 			"parent": "poll"
@@ -19282,6 +19285,12 @@
 		},
 		"bunny": {
 			"parent": "rabbit"
+		},
+		"burger": {
+			"parent": "hamburger"
+		},
+		"burger-off": {
+			"parent": "food-off"
 		},
 		"burst-mode": {
 			"parent": "camera-burst"
@@ -19896,7 +19905,7 @@
 			"parent": "spider-web"
 		},
 		"cocktail": {
-			"parent": "glass-cocktail"
+			"parent": "glass-wine"
 		},
 		"cod": {
 			"parent": "credit-card-marker-outline"
@@ -20216,6 +20225,15 @@
 		"cta": {
 			"parent": "gesture-tap-button"
 		},
+		"cup-liquid": {
+			"parent": "cup-water"
+		},
+		"cup-to-go": {
+			"parent": "coffee-to-go"
+		},
+		"cup-to-go-outline": {
+			"parent": "coffee-to-go-outline"
+		},
 		"currency-irr": {
 			"parent": "currency-rial"
 		},
@@ -20512,6 +20530,24 @@
 		},
 		"drink": {
 			"parent": "glass-mug-variant"
+		},
+		"drink-off": {
+			"parent": "food-off"
+		},
+		"drink-off-outline": {
+			"parent": "cup-off-outline"
+		},
+		"drink-outline": {
+			"parent": "cup-outline"
+		},
+		"drink-to-go": {
+			"parent": "coffee-to-go"
+		},
+		"drink-to-go-outline": {
+			"parent": "coffee-to-go-outline"
+		},
+		"drink-water": {
+			"parent": "cup-water"
 		},
 		"drive": {
 			"parent": "alpha-d"
@@ -20913,7 +20949,7 @@
 			"parent": "map-marker-circle"
 		},
 		"extension": {
-			"parent": "toy-brick"
+			"parent": "toy-brick-remove"
 		},
 		"extension-outline": {
 			"parent": "puzzle-outline"
@@ -20985,7 +21021,7 @@
 			"parent": "tractor"
 		},
 		"fast-food": {
-			"parent": "food"
+			"parent": "hamburger"
 		},
 		"fast-food-off": {
 			"parent": "food-off"
@@ -21350,6 +21386,9 @@
 		"food-allergy-outline": {
 			"parent": "peanut-outline"
 		},
+		"food-fork-cup": {
+			"parent": "food-fork-drink"
+		},
 		"food-italian": {
 			"parent": "pasta"
 		},
@@ -21375,7 +21414,7 @@
 			"parent": "shoe-print"
 		},
 		"forbid": {
-			"parent": "file-cancel-outline"
+			"parent": "file-cancel"
 		},
 		"foreign-key": {
 			"parent": "key-link"
@@ -21463,6 +21502,21 @@
 		},
 		"free-breakfast": {
 			"parent": "coffee"
+		},
+		"free-breakfast-off": {
+			"parent": "coffee-off"
+		},
+		"free-breakfast-off-outline": {
+			"parent": "coffee-off-outline"
+		},
+		"free-breakfast-outline": {
+			"parent": "coffee-outline"
+		},
+		"free-breakfast-to-go": {
+			"parent": "coffee-to-go"
+		},
+		"free-breakfast-to-go-outline": {
+			"parent": "coffee-to-go-outline"
 		},
 		"freehand-line": {
 			"parent": "gesture"
@@ -21623,6 +21677,24 @@
 		"github-circle": {
 			"parent": "github"
 		},
+		"glass": {
+			"parent": "cup"
+		},
+		"glass-liquid": {
+			"parent": "cup-water"
+		},
+		"glass-off": {
+			"parent": "cup-off"
+		},
+		"glass-off-outline": {
+			"parent": "cup-off-outline"
+		},
+		"glass-outline": {
+			"parent": "cup-outline"
+		},
+		"glass-water": {
+			"parent": "cup-water"
+		},
 		"globe": {
 			"parent": "earth"
 		},
@@ -21712,6 +21784,9 @@
 		},
 		"hamburger-menu-back": {
 			"parent": "backburger"
+		},
+		"hamburger-off": {
+			"parent": "food-off"
 		},
 		"hand-blood": {
 			"parent": "diabetes"
@@ -22359,7 +22434,7 @@
 			"parent": "receipt"
 		},
 		"irrigation": {
-			"parent": "sprinkler"
+			"parent": "sprinkler-variant"
 		},
 		"italian-lights": {
 			"parent": "string-lights"
@@ -22548,7 +22623,7 @@
 			"parent": "teach"
 		},
 		"lego": {
-			"parent": "toy-brick"
+			"parent": "toy-brick-remove"
 		},
 		"lens": {
 			"parent": "circle"
@@ -23064,10 +23139,25 @@
 			"parent": "ticket"
 		},
 		"local-bar": {
-			"parent": "glass-cocktail"
+			"parent": "glass-mug-variant"
 		},
 		"local-cafe": {
 			"parent": "coffee"
+		},
+		"local-cafe-off": {
+			"parent": "coffee-off"
+		},
+		"local-cafe-off-outline": {
+			"parent": "coffee-off-outline"
+		},
+		"local-cafe-outline": {
+			"parent": "coffee-outline"
+		},
+		"local-cafe-to-go": {
+			"parent": "coffee-to-go"
+		},
+		"local-cafe-to-go-outline": {
+			"parent": "coffee-to-go-outline"
 		},
 		"local-car-wash": {
 			"parent": "car-wash"
@@ -25110,7 +25200,7 @@
 			"parent": "power-socket-us"
 		},
 		"plugin": {
-			"parent": "toy-brick"
+			"parent": "toy-brick-remove"
 		},
 		"plus-circles-outline": {
 			"parent": "plus-circle-multiple-outline"
@@ -25305,7 +25395,7 @@
 			"parent": "printer-alert"
 		},
 		"prize": {
-			"parent": "seal"
+			"parent": "seal-variant"
 		},
 		"progress-spanner": {
 			"parent": "progress-wrench"
@@ -25344,7 +25434,7 @@
 			"parent": "head-cog-outline"
 		},
 		"pub": {
-			"parent": "glass-mug"
+			"parent": "glass-mug-variant"
 		},
 		"public": {
 			"parent": "earth"
@@ -25506,7 +25596,7 @@
 			"parent": "account-plus-outline"
 		},
 		"registration-mark": {
-			"parent": "target"
+			"parent": "target-variant"
 		},
 		"regular-expression": {
 			"parent": "regex"
@@ -25854,7 +25944,7 @@
 			"parent": "set-left-right"
 		},
 		"settings": {
-			"parent": "cogs"
+			"parent": "cog"
 		},
 		"settings-applications": {
 			"parent": "cog-box"
@@ -26439,7 +26529,7 @@
 			"parent": "radius-outline"
 		},
 		"spicy": {
-			"parent": "chili-mild"
+			"parent": "chili-hot"
 		},
 		"spicy-off": {
 			"parent": "chili-off"
@@ -26839,6 +26929,18 @@
 		},
 		"tea-kettle-steam-outline": {
 			"parent": "kettle-steam-outline"
+		},
+		"tea-off": {
+			"parent": "coffee-off"
+		},
+		"tea-off-outline": {
+			"parent": "coffee-off-outline"
+		},
+		"tea-to-go": {
+			"parent": "coffee-to-go"
+		},
+		"tea-to-go-outline": {
+			"parent": "coffee-to-go-outline"
 		},
 		"teacher": {
 			"parent": "teach"

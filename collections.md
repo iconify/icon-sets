@@ -310,7 +310,7 @@
 * Author: Steve Schoger
 * URL: https://github.com/refactoringui/heroicons
 * License: MIT
-* Version: 0.4.0
+* Version: 0.4.1
 * Palette: Colorless
 
 
@@ -319,7 +319,7 @@
 * Author: Steve Schoger
 * URL: https://github.com/refactoringui/heroicons
 * License: MIT
-* Version: 0.4.0
+* Version: 0.4.1
 * Palette: Colorless
 
 

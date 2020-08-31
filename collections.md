@@ -477,7 +477,7 @@
 
 
 ### VSCode Icons
-* Number of icons: 1038
+* Number of icons: 1048
 * Author: Roberto Huertas
 * URL: https://github.com/vscode-icons/vscode-icons
 * License: MIT

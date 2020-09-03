@@ -151,6 +151,16 @@
 * Palette: Colorless
 
 
+### Teenyicons
+* Number of icons: 1174
+* Author: smhmd
+* URL: https://github.com/teenyicons/teenyicons
+* License: MIT
+* License URL: https://github.com/teenyicons/teenyicons/blob/master/LICENSE
+* Version: 0.3.0
+* Palette: Colorless
+
+
 ### Font Awesome 5 Solid
 * Number of icons: 999
 * Author: Dave Gandy

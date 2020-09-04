@@ -114,11 +114,11 @@
 
 
 ### Carbon
-* Number of icons: 1216
+* Number of icons: 1270
 * Author: IBM
 * URL: https://github.com/carbon-design-system/carbon/tree/master/packages/icons
 * License: Apache 2.0
-* Version: 10.17.0-rc.0
+* Version: 10.17.0
 * Palette: Colorless
 
 
@@ -142,12 +142,12 @@
 
 
 ### Tabler Icons
-* Number of icons: 681
+* Number of icons: 710
 * Author: Paweł Kuna
 * URL: https://github.com/tabler/tabler-icons
 * License: MIT
 * License URL: https://github.com/tabler/tabler-icons/blob/master/LICENSE
-* Version: 1.17.0
+* Version: 1.19.0
 * Palette: Colorless
 
 
@@ -320,7 +320,7 @@
 * Author: Steve Schoger
 * URL: https://github.com/refactoringui/heroicons
 * License: MIT
-* Version: 0.4.1
+* Version: 0.4.2
 * Palette: Colorless
 
 
@@ -329,7 +329,7 @@
 * Author: Steve Schoger
 * URL: https://github.com/refactoringui/heroicons
 * License: MIT
-* Version: 0.4.1
+* Version: 0.4.2
 * Palette: Colorless
 
 

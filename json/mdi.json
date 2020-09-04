@@ -17799,7 +17799,7 @@
 			"parent": "alarm-multiple"
 		},
 		"alcohol": {
-			"parent": "glass-tulip"
+			"parent": "glass-flute"
 		},
 		"align-horizontal-centre": {
 			"parent": "align-horizontal-center"
@@ -18509,6 +18509,9 @@
 		"arrow-upward": {
 			"parent": "arrow-up"
 		},
+		"art": {
+			"parent": "palette"
+		},
 		"artist": {
 			"parent": "account-music"
 		},
@@ -18567,7 +18570,7 @@
 			"parent": "paperclip"
 		},
 		"audio": {
-			"parent": "volume-medium"
+			"parent": "volume-low"
 		},
 		"audio-book": {
 			"parent": "book-music"
@@ -18675,7 +18678,7 @@
 			"parent": "human-female-dance"
 		},
 		"ban": {
-			"parent": "file-cancel"
+			"parent": "file-cancel-outline"
 		},
 		"band-aid": {
 			"parent": "bandage"
@@ -18687,7 +18690,7 @@
 			"parent": "bank-plus"
 		},
 		"bar": {
-			"parent": "glass-tulip"
+			"parent": "glass-wine"
 		},
 		"bar-chart": {
 			"parent": "poll"
@@ -18867,7 +18870,7 @@
 			"parent": "text-account"
 		},
 		"birthday-cake": {
-			"parent": "cake"
+			"parent": "cake-variant"
 		},
 		"biscuit": {
 			"parent": "cookie"
@@ -19326,7 +19329,7 @@
 			"parent": "calendar-multiple-check"
 		},
 		"calendar-repeat": {
-			"parent": "calendar-sync"
+			"parent": "calendar-refresh"
 		},
 		"calendar-repeat-outline": {
 			"parent": "calendar-sync-outline"
@@ -19905,7 +19908,7 @@
 			"parent": "spider-web"
 		},
 		"cocktail": {
-			"parent": "glass-tulip"
+			"parent": "glass-flute"
 		},
 		"cod": {
 			"parent": "credit-card-marker-outline"
@@ -19981,6 +19984,9 @@
 		},
 		"college-outline": {
 			"parent": "school-outline"
+		},
+		"color": {
+			"parent": "palette"
 		},
 		"color-lens": {
 			"parent": "palette"
@@ -20148,10 +20154,10 @@
 			"parent": "stove"
 		},
 		"couch": {
-			"parent": "sofa"
+			"parent": "sofa-single"
 		},
 		"couch-outline": {
-			"parent": "sofa-single-outline"
+			"parent": "sofa-outline"
 		},
 		"counterclockwise": {
 			"parent": "history"
@@ -20400,7 +20406,7 @@
 			"parent": "dice-multiple"
 		},
 		"dietary-restriction": {
-			"parent": "food-halal"
+			"parent": "food-kosher"
 		},
 		"difference-left": {
 			"parent": "set-left"
@@ -20529,7 +20535,7 @@
 			"parent": "email-open"
 		},
 		"drink": {
-			"parent": "glass-tulip"
+			"parent": "glass-flute"
 		},
 		"drink-off": {
 			"parent": "food-off"
@@ -20602,6 +20608,9 @@
 		},
 		"drop-remove-outline": {
 			"parent": "water-remove-outline"
+		},
+		"drug": {
+			"parent": "pill"
 		},
 		"edge": {
 			"parent": "microsoft-edge"
@@ -20949,7 +20958,7 @@
 			"parent": "map-marker-circle"
 		},
 		"extension": {
-			"parent": "toy-brick-remove-outline"
+			"parent": "toy-brick-search"
 		},
 		"extension-outline": {
 			"parent": "puzzle-outline"
@@ -21414,7 +21423,7 @@
 			"parent": "shoe-print"
 		},
 		"forbid": {
-			"parent": "file-cancel"
+			"parent": "file-cancel-outline"
 		},
 		"foreign-key": {
 			"parent": "key-link"
@@ -21726,7 +21735,7 @@
 			"parent": "crosshairs-question"
 		},
 		"gpu": {
-			"parent": "expansion-card"
+			"parent": "expansion-card-variant"
 		},
 		"grade": {
 			"parent": "star"
@@ -21741,7 +21750,7 @@
 			"parent": "barley-off"
 		},
 		"graphics-processing-unit": {
-			"parent": "expansion-card"
+			"parent": "expansion-card-variant"
 		},
 		"graveyard": {
 			"parent": "grave-stone"
@@ -22290,7 +22299,7 @@
 			"parent": "card-account-details-outline"
 		},
 		"idea": {
-			"parent": "lightbulb"
+			"parent": "lightbulb-on-outline"
 		},
 		"identification-card": {
 			"parent": "card-account-details"
@@ -22324,6 +22333,9 @@
 		},
 		"images-outline": {
 			"parent": "image-multiple-outline"
+		},
+		"immunization": {
+			"parent": "needle"
 		},
 		"import-contacts": {
 			"parent": "book-open-blank-variant"
@@ -22372,6 +22384,60 @@
 		},
 		"injection": {
 			"parent": "needle"
+		},
+		"ink": {
+			"parent": "water"
+		},
+		"ink-alert": {
+			"parent": "water-alert"
+		},
+		"ink-alert-outline": {
+			"parent": "water-alert-outline"
+		},
+		"ink-check": {
+			"parent": "water-check"
+		},
+		"ink-check-outline": {
+			"parent": "water-check-outline"
+		},
+		"ink-color": {
+			"parent": "format-color-fill"
+		},
+		"ink-colour": {
+			"parent": "format-color-fill"
+		},
+		"ink-minus": {
+			"parent": "water-minus"
+		},
+		"ink-minus-outline": {
+			"parent": "water-minus-outline"
+		},
+		"ink-off": {
+			"parent": "water-off"
+		},
+		"ink-off-outline": {
+			"parent": "water-off-outline"
+		},
+		"ink-outline": {
+			"parent": "water-outline"
+		},
+		"ink-percent": {
+			"parent": "water-percent"
+		},
+		"ink-percent-alert": {
+			"parent": "water-percent-alert"
+		},
+		"ink-plus": {
+			"parent": "water-plus"
+		},
+		"ink-plus-outline": {
+			"parent": "water-plus-outline"
+		},
+		"ink-remove": {
+			"parent": "water-remove"
+		},
+		"ink-remove-outline": {
+			"parent": "water-remove-outline"
 		},
 		"inky": {
 			"parent": "ghost"
@@ -22626,7 +22692,7 @@
 			"parent": "teach"
 		},
 		"lego": {
-			"parent": "toy-brick-remove-outline"
+			"parent": "toy-brick-search"
 		},
 		"lens": {
 			"parent": "circle"
@@ -23513,6 +23579,9 @@
 		"medicine": {
 			"parent": "pill"
 		},
+		"medicine-outline": {
+			"parent": "minus-circle-outline"
+		},
 		"medium-quality": {
 			"parent": "quality-medium"
 		},
@@ -23721,7 +23790,7 @@
 			"parent": "pencil-outline"
 		},
 		"mom": {
-			"parent": "human-female-girl"
+			"parent": "human-female-boy"
 		},
 		"money": {
 			"parent": "cash"
@@ -23778,7 +23847,7 @@
 			"parent": "dots-vertical"
 		},
 		"mother": {
-			"parent": "human-female-girl"
+			"parent": "human-female-boy"
 		},
 		"motion-detector": {
 			"parent": "motion-sensor"
@@ -23835,7 +23904,7 @@
 			"parent": "close-octagon"
 		},
 		"mum": {
-			"parent": "human-female-girl"
+			"parent": "human-female-boy"
 		},
 		"museum": {
 			"parent": "bank"
@@ -23907,7 +23976,7 @@
 			"parent": "wifi-star"
 		},
 		"network-interface-card": {
-			"parent": "expansion-card"
+			"parent": "expansion-card-variant"
 		},
 		"network-router": {
 			"parent": "router-network"
@@ -24587,6 +24656,9 @@
 		"paint-bucket": {
 			"parent": "format-color-fill"
 		},
+		"paint-outline": {
+			"parent": "palette-outline"
+		},
 		"paintbrush": {
 			"parent": "brush"
 		},
@@ -25203,7 +25275,7 @@
 			"parent": "power-socket-us"
 		},
 		"plugin": {
-			"parent": "toy-brick-remove-outline"
+			"parent": "toy-brick-search"
 		},
 		"plus-circles-outline": {
 			"parent": "plus-circle-multiple-outline"
@@ -25356,7 +25428,7 @@
 			"parent": "transmission-tower"
 		},
 		"pram": {
-			"parent": "baby-carriage"
+			"parent": "baby-buggy"
 		},
 		"pram-off": {
 			"parent": "baby-carriage-off"
@@ -25599,7 +25671,7 @@
 			"parent": "account-plus-outline"
 		},
 		"registration-mark": {
-			"parent": "target-variant"
+			"parent": "target"
 		},
 		"regular-expression": {
 			"parent": "regex"
@@ -25671,7 +25743,7 @@
 			"parent": "alert"
 		},
 		"reschedule": {
-			"parent": "calendar-arrow-right"
+			"parent": "calendar-arrow-left"
 		},
 		"resize-horizontal": {
 			"parent": "arrow-split-vertical"
@@ -25947,7 +26019,7 @@
 			"parent": "set-left-right"
 		},
 		"settings": {
-			"parent": "cogs"
+			"parent": "cog"
 		},
 		"settings-applications": {
 			"parent": "cog-box"
@@ -26167,6 +26239,9 @@
 		},
 		"shopping-cart-remove": {
 			"parent": "cart-remove"
+		},
+		"shot": {
+			"parent": "needle"
 		},
 		"show": {
 			"parent": "eye"
@@ -26532,7 +26607,7 @@
 			"parent": "radius-outline"
 		},
 		"spicy": {
-			"parent": "chili-mild"
+			"parent": "chili-hot"
 		},
 		"spicy-off": {
 			"parent": "chili-off"
@@ -26649,7 +26724,7 @@
 			"parent": "format-strikethrough-variant"
 		},
 		"stroller": {
-			"parent": "baby-carriage"
+			"parent": "baby-buggy"
 		},
 		"stroller-off": {
 			"parent": "baby-carriage-off"
@@ -28101,7 +28176,7 @@
 			"parent": "human-female"
 		},
 		"woman-child": {
-			"parent": "human-female-girl"
+			"parent": "human-female-boy"
 		},
 		"woman-woman": {
 			"parent": "human-female-female"
@@ -35471,7 +35546,8 @@
 			"palette-outline",
 			"palette-swatch",
 			"palette-swatch-outline",
-			"select-color"
+			"select-color",
+			"spray"
 		],
 		"Currency": [
 			"bitcoin",
@@ -35924,7 +36000,8 @@
 			"pencil-outline",
 			"pencil-ruler",
 			"ruler",
-			"ruler-square"
+			"ruler-square",
+			"spray"
 		],
 		"Edit / Modify": [
 			"account-edit",

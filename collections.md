@@ -708,12 +708,12 @@
 
 
 ### Simple Icons
-* Number of icons: 1402
+* Number of icons: 1404
 * Author: Simple Icons Collaborators
 * URL: https://github.com/simple-icons/simple-icons
 * License: CC0 1.0
 * License URL: https://github.com/simple-icons/simple-icons/blob/develop/LICENSE.md
-* Version: 3.6.1
+* Version: 3.7.0
 * Palette: Colorless
 
 

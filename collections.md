@@ -3,7 +3,7 @@
 
 
 ### Material Design Icons
-* Number of icons: 5595
+* Number of icons: 5655
 * Author: Austin Andrews
 * URL: https://github.com/Templarian/MaterialDesign
 * License: Open Font License
@@ -152,12 +152,12 @@
 
 
 ### Teenyicons
-* Number of icons: 1174
+* Number of icons: 1200
 * Author: smhmd
 * URL: https://github.com/teenyicons/teenyicons
 * License: MIT
 * License URL: https://github.com/teenyicons/teenyicons/blob/master/LICENSE
-* Version: 0.3.0
+* Version: 0.4.0
 * Palette: Colorless
 
 
@@ -249,22 +249,22 @@
 
 
 ### Octicons
-* Number of icons: 403
+* Number of icons: 402
 * Author: GitHub
 * URL: https://github.com/primer/octicons/
 * License: Open Font License
 * License URL: https://raw.githubusercontent.com/primer/octicons/master/LICENSE
-* Version: 10.1.0
+* Version: 11.0.0
 * Palette: Colorless
 
 
 ### Codicons
-* Number of icons: 325
+* Number of icons: 327
 * Author: Microsoft Corporation
 * URL: https://github.com/microsoft/vscode-codicons
 * License: CC BY 4.0
 * License URL: https://raw.githubusercontent.com/microsoft/vscode-codicons/master/LICENSE
-* Version: 0.0.7
+* Version: 0.0.9
 * Palette: Colorless
 
 

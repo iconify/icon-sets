@@ -259,12 +259,12 @@
 
 
 ### Codicons
-* Number of icons: 327
+* Number of icons: 328
 * Author: Microsoft Corporation
 * URL: https://github.com/microsoft/vscode-codicons
 * License: CC BY 4.0
 * License URL: https://raw.githubusercontent.com/microsoft/vscode-codicons/master/LICENSE
-* Version: 0.0.9
+* Version: 0.0.10
 * Palette: Colorless
 
 

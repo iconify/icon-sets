@@ -639,7 +639,7 @@
 
 
 ### OpenMoji
-* Number of icons: 3565
+* Number of icons: 3566
 * Author: OpenMoji
 * URL: https://github.com/hfg-gmuend/openmoji
 * License: CC BY-SA 4.0

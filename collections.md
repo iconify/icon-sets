@@ -342,6 +342,16 @@
 * Palette: Colorless
 
 
+### Mono Icons
+* Number of icons: 136
+* Author: Mono Company BV
+* URL: https://github.com/mono-company/mono-icons
+* License: MIT
+* License URL: https://github.com/mono-company/mono-icons/blob/master/LICENSE.md
+* Version: 1.0.4
+* Palette: Colorless
+
+
 ### PrestaShop Icons
 * Number of icons: 479
 * Author: PrestaShop

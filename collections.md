@@ -334,7 +334,7 @@
 
 
 ### File Icons
-* Number of icons: 872
+* Number of icons: 874
 * Author: John Gardner
 * URL: https://github.com/file-icons/icons
 * License: ISC
@@ -487,7 +487,7 @@
 
 
 ### VSCode Icons
-* Number of icons: 1048
+* Number of icons: 1053
 * Author: Roberto Huertas
 * URL: https://github.com/vscode-icons/vscode-icons
 * License: MIT
@@ -708,12 +708,12 @@
 
 
 ### Simple Icons
-* Number of icons: 1404
+* Number of icons: 1405
 * Author: Simple Icons Collaborators
 * URL: https://github.com/simple-icons/simple-icons
 * License: CC0 1.0
 * License URL: https://github.com/simple-icons/simple-icons/blob/develop/LICENSE.md
-* Version: 3.7.0
+* Version: 3.8.0
 * Palette: Colorless
 
 

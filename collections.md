@@ -118,7 +118,7 @@
 * Author: IBM
 * URL: https://github.com/carbon-design-system/carbon/tree/master/packages/icons
 * License: Apache 2.0
-* Version: 10.17.0
+* Version: 10.18.0
 * Palette: Colorless
 
 
@@ -142,12 +142,12 @@
 
 
 ### Tabler Icons
-* Number of icons: 710
+* Number of icons: 728
 * Author: Paweł Kuna
 * URL: https://github.com/tabler/tabler-icons
 * License: MIT
 * License URL: https://github.com/tabler/tabler-icons/blob/master/LICENSE
-* Version: 1.19.0
+* Version: 1.21.0
 * Palette: Colorless
 
 
@@ -502,7 +502,7 @@
 * URL: https://github.com/vscode-icons/vscode-icons
 * License: MIT
 * License URL: https://github.com/vscode-icons/vscode-icons/blob/master/LICENSE
-* Version: 10.2.0
+* Version: 11.0.0
 * Palette: Colorful
 
 

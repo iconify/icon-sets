@@ -296,6 +296,16 @@
 * Palette: Colorless
 
 
+### Animated Material Icons
+* Number of icons: 230
+* Author: Iconify
+* URL: https://github.com/cyberalien/line-md
+* License: MIT
+* License URL: https://github.com/cyberalien/line-md/blob/master/license.txt
+* Version: 0.0.1
+* Palette: Colorless
+
+
 ### System UIcons
 * Number of icons: 222
 * Author: Corey Ginnivan

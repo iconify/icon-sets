@@ -1,10 +1,10 @@
 {
 	"prefix": "line-md",
 	"info": {
-		"name": "Animated Material Icons",
-		"total": 230,
+		"name": "Material Line Icons",
+		"total": 231,
 		"author": {
-			"name": "Iconify",
+			"name": "Vjacheslav Trushkin",
 			"url": "https://github.com/cyberalien/line-md"
 		},
 		"license": {
@@ -28,6 +28,9 @@
 		},
 		"account-add": {
 			"body": "<g fill=\"none\"><path d=\"M9 13a3 3 0 1 1 0-6a3 3 0 0 1 0 6z\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" class=\"il-md-length-25 il-md-duration-2 il-md-delay-2\"/><path d=\"M3 21v-1a4 4 0 0 1 4-4h4a4 4 0 0 1 4 4v1\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" class=\"il-md-length-25 il-md-duration-2 il-md-delay-0\"/><path d=\"M18 3v6\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" class=\"il-md-length-15 il-md-duration-2 il-md-delay-4\"/><path d=\"M15 6h6\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" class=\"il-md-length-15 il-md-duration-2 il-md-delay-6\"/></g>"
+		},
+		"account-alert": {
+			"body": "<g fill=\"none\"><path d=\"M11 13a3 3 0 1 1 0-6a3 3 0 0 1 0 6z\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" class=\"il-md-length-25 il-md-duration-2 il-md-delay-2\"/><path d=\"M5 21v-1a4 4 0 0 1 4-4h4a4 4 0 0 1 4 4v1\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" class=\"il-md-length-25 il-md-duration-2 il-md-delay-0\"/><path d=\"M20 3v4\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"il-md-length-15 il-md-duration-2 il-md-delay-4\"/><circle cx=\"20\" cy=\"11\" r=\"1\" fill=\"currentColor\" class=\"il-md-fill il-md-delay-6\"/></g>"
 		},
 		"account-delete": {
 			"body": "<g fill=\"none\"><path d=\"M9 13a3 3 0 1 1 0-6a3 3 0 0 1 0 6z\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" class=\"il-md-length-25 il-md-duration-2 il-md-delay-2\"/><path d=\"M3 21v-1a4 4 0 0 1 4-4h4a4 4 0 0 1 4 4v1\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" class=\"il-md-length-25 il-md-duration-2 il-md-delay-0\"/><path d=\"M21 3l-6 6\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" class=\"il-md-length-15 il-md-duration-2 il-md-delay-4\"/><path d=\"M15 3l6 6\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" class=\"il-md-length-15 il-md-duration-2 il-md-delay-6\"/></g>"
@@ -792,6 +795,7 @@
 		"Account": [
 			"account",
 			"account-add",
+			"account-alert",
 			"account-delete",
 			"account-remove",
 			"account-small"

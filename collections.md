@@ -296,9 +296,9 @@
 * Palette: Colorless
 
 
-### Animated Material Icons
-* Number of icons: 230
-* Author: Iconify
+### Material Line Icons
+* Number of icons: 231
+* Author: Vjacheslav Trushkin
 * URL: https://github.com/cyberalien/line-md
 * License: MIT
 * License URL: https://github.com/cyberalien/line-md/blob/master/license.txt
@@ -728,12 +728,12 @@
 
 
 ### Simple Icons
-* Number of icons: 1405
+* Number of icons: 1411
 * Author: Simple Icons Collaborators
 * URL: https://github.com/simple-icons/simple-icons
 * License: CC0 1.0
 * License URL: https://github.com/simple-icons/simple-icons/blob/develop/LICENSE.md
-* Version: 3.8.0
+* Version: 3.9.0
 * Palette: Colorless
 
 

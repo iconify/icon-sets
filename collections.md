@@ -142,12 +142,12 @@
 
 
 ### Tabler Icons
-* Number of icons: 728
+* Number of icons: 777
 * Author: Paweł Kuna
 * URL: https://github.com/tabler/tabler-icons
 * License: MIT
 * License URL: https://github.com/tabler/tabler-icons/blob/master/LICENSE
-* Version: 1.21.0
+* Version: 1.24.0
 * Palette: Colorless
 
 
@@ -297,12 +297,12 @@
 
 
 ### Material Line Icons
-* Number of icons: 231
+* Number of icons: 239
 * Author: Vjacheslav Trushkin
 * URL: https://github.com/cyberalien/line-md
 * License: MIT
 * License URL: https://github.com/cyberalien/line-md/blob/master/license.txt
-* Version: 0.0.1
+* Version: 0.0.2
 * Palette: Colorless
 
 

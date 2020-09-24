@@ -142,12 +142,12 @@
 
 
 ### Tabler Icons
-* Number of icons: 777
+* Number of icons: 798
 * Author: Paweł Kuna
 * URL: https://github.com/tabler/tabler-icons
 * License: MIT
 * License URL: https://github.com/tabler/tabler-icons/blob/master/LICENSE
-* Version: 1.24.0
+* Version: 1.26.0
 * Palette: Colorless
 
 
@@ -259,12 +259,12 @@
 
 
 ### Codicons
-* Number of icons: 328
+* Number of icons: 330
 * Author: Microsoft Corporation
 * URL: https://github.com/microsoft/vscode-codicons
 * License: CC BY 4.0
 * License URL: https://raw.githubusercontent.com/microsoft/vscode-codicons/master/LICENSE
-* Version: 0.0.10
+* Version: 0.0.11
 * Palette: Colorless
 
 

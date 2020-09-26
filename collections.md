@@ -30,12 +30,12 @@
 
 
 ### Unicons
-* Number of icons: 1185
+* Number of icons: 1186
 * Author: Iconscout
 * URL: https://github.com/Iconscout/unicons
 * License: Apache 2.0
 * License URL: https://raw.githubusercontent.com/Iconscout/unicons/master/LICENSE
-* Version: 3.0.2
+* Version: 3.0.3
 * Palette: Colorless
 
 
@@ -45,7 +45,7 @@
 * URL: https://github.com/Iconscout/unicons
 * License: Apache 2.0
 * License URL: https://raw.githubusercontent.com/Iconscout/unicons/master/LICENSE
-* Version: 3.0.1
+* Version: 3.0.3
 * Palette: Colorless
 
 
@@ -259,12 +259,12 @@
 
 
 ### Codicons
-* Number of icons: 330
+* Number of icons: 331
 * Author: Microsoft Corporation
 * URL: https://github.com/microsoft/vscode-codicons
 * License: CC BY 4.0
 * License URL: https://raw.githubusercontent.com/microsoft/vscode-codicons/master/LICENSE
-* Version: 0.0.11
+* Version: 0.0.12
 * Palette: Colorless
 
 

@@ -17840,6 +17840,9 @@
 		"add-alert-outline": {
 			"parent": "bell-plus-outline"
 		},
+		"add-bold": {
+			"parent": "plus-thick"
+		},
 		"add-box": {
 			"parent": "plus-box"
 		},
@@ -18525,7 +18528,7 @@
 			"parent": "arrow-down"
 		},
 		"arrow-bottom-bold": {
-			"parent": "arrow-down-bold"
+			"parent": "arrow-down-thick"
 		},
 		"arrow-bottom-bold-box": {
 			"parent": "arrow-down-bold-box"
@@ -18560,6 +18563,12 @@
 		"arrow-bottom-drop-circle-outline": {
 			"parent": "arrow-down-drop-circle-outline"
 		},
+		"arrow-bottom-left-bold": {
+			"parent": "arrow-bottom-left-thick"
+		},
+		"arrow-bottom-right-bold": {
+			"parent": "arrow-bottom-right-thick"
+		},
 		"arrow-bottom-thick": {
 			"parent": "arrow-down-thick"
 		},
@@ -18590,6 +18599,9 @@
 		"arrow-down-left": {
 			"parent": "arrow-bottom-left"
 		},
+		"arrow-down-left-bold": {
+			"parent": "arrow-bottom-left-thick"
+		},
 		"arrow-down-left-bold-outline": {
 			"parent": "arrow-bottom-left-bold-outline"
 		},
@@ -18598,6 +18610,9 @@
 		},
 		"arrow-down-right": {
 			"parent": "arrow-bottom-right"
+		},
+		"arrow-down-right-bold": {
+			"parent": "arrow-bottom-right-thick"
 		},
 		"arrow-down-right-bold-outline": {
 			"parent": "arrow-bottom-right-bold-outline"
@@ -18633,7 +18648,7 @@
 			"parent": "arrow-up"
 		},
 		"arrow-top-bold": {
-			"parent": "arrow-up-bold"
+			"parent": "arrow-up-thick"
 		},
 		"arrow-top-bold-box": {
 			"parent": "arrow-up-bold-box"
@@ -18665,11 +18680,20 @@
 		"arrow-top-drop-circle-outline": {
 			"parent": "arrow-up-drop-circle-outline"
 		},
+		"arrow-top-left-bold": {
+			"parent": "arrow-top-left-thick"
+		},
+		"arrow-top-right-bold": {
+			"parent": "arrow-top-right-thick"
+		},
 		"arrow-top-thick": {
 			"parent": "arrow-up-thick"
 		},
 		"arrow-up-left": {
 			"parent": "arrow-top-left"
+		},
+		"arrow-up-left-bold": {
+			"parent": "arrow-top-left-thick"
 		},
 		"arrow-up-left-bold-outline": {
 			"parent": "arrow-top-left-bold-outline"
@@ -18679,6 +18703,9 @@
 		},
 		"arrow-up-right": {
 			"parent": "arrow-top-right"
+		},
+		"arrow-up-right-bold": {
+			"parent": "arrow-top-right-thick"
 		},
 		"arrow-up-right-bold-outline": {
 			"parent": "arrow-top-right-bold-outline"
@@ -18750,7 +18777,7 @@
 			"parent": "paperclip"
 		},
 		"audio": {
-			"parent": "volume-medium"
+			"parent": "volume-low"
 		},
 		"audio-book": {
 			"parent": "book-music"
@@ -18819,7 +18846,7 @@
 			"parent": "seal"
 		},
 		"awning": {
-			"parent": "storefront"
+			"parent": "storefront-outline"
 		},
 		"azure": {
 			"parent": "microsoft-azure"
@@ -19056,7 +19083,7 @@
 			"parent": "text-account"
 		},
 		"birthday-cake": {
-			"parent": "cake"
+			"parent": "cake-layered"
 		},
 		"biscuit": {
 			"parent": "cookie"
@@ -19604,6 +19631,45 @@
 		"camping": {
 			"parent": "tent"
 		},
+		"cancel-bold": {
+			"parent": "close-thick"
+		},
+		"cancel-box": {
+			"parent": "close-box"
+		},
+		"cancel-box-multiple": {
+			"parent": "close-box-multiple-outline"
+		},
+		"cancel-box-outline": {
+			"parent": "close-box-outline"
+		},
+		"cancel-circle": {
+			"parent": "close-circle"
+		},
+		"cancel-circle-multiple-outline": {
+			"parent": "close-circle-multiple-outline"
+		},
+		"cancel-circle-outline": {
+			"parent": "close-circle-outline"
+		},
+		"cancel-network": {
+			"parent": "close-network"
+		},
+		"cancel-network-outline": {
+			"parent": "close-network-outline"
+		},
+		"cancel-octagon": {
+			"parent": "close-octagon"
+		},
+		"cancel-octagon-outline": {
+			"parent": "close-octagon-outline"
+		},
+		"cancel-outline": {
+			"parent": "close-outline"
+		},
+		"cancel-thick": {
+			"parent": "close-thick"
+		},
 		"capsule": {
 			"parent": "pill"
 		},
@@ -19850,6 +19916,9 @@
 		"check-multiple": {
 			"parent": "check-all"
 		},
+		"check-thick": {
+			"parent": "check-bold"
+		},
 		"checkbox-indeterminate-outline": {
 			"parent": "minus-box-outline"
 		},
@@ -20006,6 +20075,45 @@
 		"clear": {
 			"parent": "close"
 		},
+		"clear-bold": {
+			"parent": "close-thick"
+		},
+		"clear-box": {
+			"parent": "close-box"
+		},
+		"clear-box-outline": {
+			"parent": "close-box-outline"
+		},
+		"clear-circle": {
+			"parent": "close-circle"
+		},
+		"clear-circle-multiple": {
+			"parent": "close-circle-multiple"
+		},
+		"clear-circle-multiple-outline": {
+			"parent": "close-circle-multiple-outline"
+		},
+		"clear-circle-outline": {
+			"parent": "close-circle-outline"
+		},
+		"clear-network": {
+			"parent": "close-network"
+		},
+		"clear-network-outline": {
+			"parent": "close-network-outline"
+		},
+		"clear-octagon": {
+			"parent": "close-octagon"
+		},
+		"clear-octagon-outline": {
+			"parent": "close-octagon-outline"
+		},
+		"clear-outline": {
+			"parent": "close-outline"
+		},
+		"clear-thick": {
+			"parent": "close-thick"
+		},
 		"clip": {
 			"parent": "content-cut"
 		},
@@ -20058,13 +20166,16 @@
 			"parent": "update"
 		},
 		"clock-warning": {
-			"parent": "clock-alert"
+			"parent": "clock-alert-outline"
 		},
 		"clockwise": {
 			"parent": "update"
 		},
 		"clockwise-arrows": {
 			"parent": "autorenew"
+		},
+		"close-bold": {
+			"parent": "close-thick"
 		},
 		"close-boxes": {
 			"parent": "close-box-multiple"
@@ -20361,10 +20472,10 @@
 			"parent": "stove"
 		},
 		"couch": {
-			"parent": "sofa"
+			"parent": "sofa-single"
 		},
 		"couch-outline": {
-			"parent": "sofa-outline"
+			"parent": "sofa-single-outline"
 		},
 		"counterclockwise": {
 			"parent": "history"
@@ -20613,7 +20724,7 @@
 			"parent": "dice-multiple"
 		},
 		"dietary-restriction": {
-			"parent": "food-halal"
+			"parent": "food-kosher"
 		},
 		"difference-left": {
 			"parent": "set-left"
@@ -21143,6 +21254,9 @@
 		"evse": {
 			"parent": "ev-station"
 		},
+		"exclamation-bold": {
+			"parent": "exclamation-thick"
+		},
 		"exclusion": {
 			"parent": "set-left-right"
 		},
@@ -21165,7 +21279,7 @@
 			"parent": "map-marker-circle"
 		},
 		"extension": {
-			"parent": "toy-brick"
+			"parent": "toy-brick-minus-outline"
 		},
 		"extension-outline": {
 			"parent": "puzzle-outline"
@@ -21854,6 +21968,12 @@
 		"gardening": {
 			"parent": "shovel"
 		},
+		"gas-co": {
+			"parent": "molecule-co"
+		},
+		"gas-co2": {
+			"parent": "molecule-co2"
+		},
 		"gas-pump": {
 			"parent": "gas-station"
 		},
@@ -21942,7 +22062,7 @@
 			"parent": "crosshairs-question"
 		},
 		"gpu": {
-			"parent": "expansion-card-variant"
+			"parent": "expansion-card"
 		},
 		"grade": {
 			"parent": "star"
@@ -21957,7 +22077,7 @@
 			"parent": "barley-off"
 		},
 		"graphics-processing-unit": {
-			"parent": "expansion-card-variant"
+			"parent": "expansion-card"
 		},
 		"graveyard": {
 			"parent": "grave-stone"
@@ -22506,7 +22626,7 @@
 			"parent": "card-account-details-outline"
 		},
 		"idea": {
-			"parent": "lightbulb"
+			"parent": "lightbulb-outline"
 		},
 		"identification-card": {
 			"parent": "card-account-details"
@@ -22704,7 +22824,7 @@
 			"parent": "invert-colors-off"
 		},
 		"invite": {
-			"parent": "account-plus"
+			"parent": "account-plus-outline"
 		},
 		"invoice": {
 			"parent": "receipt"
@@ -22902,7 +23022,7 @@
 			"parent": "teach"
 		},
 		"lego": {
-			"parent": "toy-brick"
+			"parent": "toy-brick-minus-outline"
 		},
 		"lens": {
 			"parent": "circle"
@@ -23412,7 +23532,7 @@
 			"parent": "lan-pending"
 		},
 		"local-atm": {
-			"parent": "cash-usd"
+			"parent": "cash-usd-outline"
 		},
 		"local-attraction": {
 			"parent": "ticket"
@@ -24018,7 +24138,7 @@
 			"parent": "currency-usd-off"
 		},
 		"money-usd": {
-			"parent": "cash-usd"
+			"parent": "cash-usd-outline"
 		},
 		"monitor-mobile-phone": {
 			"parent": "monitor-cellphone"
@@ -24110,14 +24230,56 @@
 		"multiply": {
 			"parent": "close"
 		},
+		"multiply-bold": {
+			"parent": "close-thick"
+		},
 		"multiply-box": {
 			"parent": "close-box"
+		},
+		"multiply-box-multiple": {
+			"parent": "close-box-multiple"
+		},
+		"multiply-box-multiple-outline": {
+			"parent": "close-box-multiple-outline"
+		},
+		"multiply-box-outline": {
+			"parent": "close-box-outline"
+		},
+		"multiply-boxes": {
+			"parent": "close-box-multiple"
+		},
+		"multiply-boxes-outline": {
+			"parent": "close-box-multiple-outline"
 		},
 		"multiply-circle": {
 			"parent": "close-circle"
 		},
+		"multiply-circle-multiple": {
+			"parent": "close-circle-multiple"
+		},
+		"multiply-circle-multiple-outline": {
+			"parent": "close-circle-multiple-outline"
+		},
+		"multiply-circle-outline": {
+			"parent": "close-circle-outline"
+		},
+		"multiply-network": {
+			"parent": "close-network"
+		},
+		"multiply-network-outline": {
+			"parent": "close-network-outline"
+		},
 		"multiply-octagon": {
 			"parent": "close-octagon"
+		},
+		"multiply-octagon-outline": {
+			"parent": "close-octagon-outline"
+		},
+		"multiply-outline": {
+			"parent": "close-outline"
+		},
+		"multiply-thick": {
+			"parent": "close-thick"
 		},
 		"mum": {
 			"parent": "human-female-girl"
@@ -24192,7 +24354,7 @@
 			"parent": "wifi-star"
 		},
 		"network-interface-card": {
-			"parent": "expansion-card-variant"
+			"parent": "expansion-card"
 		},
 		"network-router": {
 			"parent": "router-network"
@@ -24876,7 +25038,7 @@
 			"parent": "format-color-fill"
 		},
 		"paint-outline": {
-			"parent": "palette-swatch-outline"
+			"parent": "palette-outline"
 		},
 		"paintbrush": {
 			"parent": "brush"
@@ -25500,7 +25662,10 @@
 			"parent": "power-socket-us"
 		},
 		"plugin": {
-			"parent": "toy-brick"
+			"parent": "toy-brick-minus-outline"
+		},
+		"plus-bold": {
+			"parent": "plus-thick"
 		},
 		"plus-circles-outline": {
 			"parent": "plus-circle-multiple-outline"
@@ -25653,7 +25818,7 @@
 			"parent": "transmission-tower"
 		},
 		"pram": {
-			"parent": "baby-carriage"
+			"parent": "baby-buggy"
 		},
 		"pram-off": {
 			"parent": "baby-carriage-off"
@@ -25896,7 +26061,7 @@
 			"parent": "account-plus-outline"
 		},
 		"registration-mark": {
-			"parent": "target"
+			"parent": "target-variant"
 		},
 		"regular-expression": {
 			"parent": "regex"
@@ -25925,6 +26090,18 @@
 		"remove": {
 			"parent": "minus"
 		},
+		"remove-bold": {
+			"parent": "close-thick"
+		},
+		"remove-box": {
+			"parent": "close-box"
+		},
+		"remove-box-multiple": {
+			"parent": "close-box-multiple-outline"
+		},
+		"remove-box-outline": {
+			"parent": "close-box-outline"
+		},
 		"remove-circle": {
 			"parent": "minus-circle"
 		},
@@ -25943,11 +26120,29 @@
 		"remove-circle-outline": {
 			"parent": "minus-circle-outline"
 		},
+		"remove-network": {
+			"parent": "close-network"
+		},
+		"remove-network-outline": {
+			"parent": "close-network-outline"
+		},
+		"remove-octagon": {
+			"parent": "close-octagon"
+		},
+		"remove-octagon-outline": {
+			"parent": "close-octagon-outline"
+		},
+		"remove-outline": {
+			"parent": "close-outline"
+		},
 		"remove-red-eye": {
 			"parent": "eye"
 		},
 		"remove-shopping-cart": {
 			"parent": "cart-off"
+		},
+		"remove-thick": {
+			"parent": "close-thick"
 		},
 		"rename": {
 			"parent": "form-textbox"
@@ -25968,7 +26163,7 @@
 			"parent": "alert"
 		},
 		"reschedule": {
-			"parent": "calendar-arrow-left"
+			"parent": "calendar-arrow-right"
 		},
 		"resize-horizontal": {
 			"parent": "arrow-split-vertical"
@@ -26832,7 +27027,7 @@
 			"parent": "radius-outline"
 		},
 		"spicy": {
-			"parent": "chili-mild"
+			"parent": "chili-hot"
 		},
 		"spicy-off": {
 			"parent": "chili-off"
@@ -26949,7 +27144,7 @@
 			"parent": "format-strikethrough-variant"
 		},
 		"stroller": {
-			"parent": "baby-carriage"
+			"parent": "baby-buggy"
 		},
 		"stroller-off": {
 			"parent": "baby-carriage-off"

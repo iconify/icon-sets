@@ -142,12 +142,12 @@
 
 
 ### Tabler Icons
-* Number of icons: 798
+* Number of icons: 820
 * Author: Paweł Kuna
 * URL: https://github.com/tabler/tabler-icons
 * License: MIT
 * License URL: https://github.com/tabler/tabler-icons/blob/master/LICENSE
-* Version: 1.26.0
+* Version: 1.28.0
 * Palette: Colorless
 
 
@@ -344,7 +344,7 @@
 
 
 ### File Icons
-* Number of icons: 874
+* Number of icons: 876
 * Author: John Gardner
 * URL: https://github.com/file-icons/icons
 * License: ISC
@@ -728,12 +728,12 @@
 
 
 ### Simple Icons
-* Number of icons: 1411
+* Number of icons: 1431
 * Author: Simple Icons Collaborators
 * URL: https://github.com/simple-icons/simple-icons
 * License: CC0 1.0
 * License URL: https://github.com/simple-icons/simple-icons/blob/develop/LICENSE.md
-* Version: 3.9.0
+* Version: 3.10.0
 * Palette: Colorless
 
 

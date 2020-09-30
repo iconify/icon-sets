@@ -86,7 +86,7 @@
 
 
 ### IonIcons
-* Number of icons: 1235
+* Number of icons: 1238
 * Author: Ben Sperry
 * URL: https://github.com/ionic-team/ionicons
 * License: MIT
@@ -118,7 +118,7 @@
 * Author: IBM
 * URL: https://github.com/carbon-design-system/carbon/tree/master/packages/icons
 * License: Apache 2.0
-* Version: 10.18.0
+* Version: 10.19.0-rc.0
 * Palette: Colorless
 
 
@@ -142,12 +142,12 @@
 
 
 ### Tabler Icons
-* Number of icons: 820
+* Number of icons: 835
 * Author: Paweł Kuna
 * URL: https://github.com/tabler/tabler-icons
 * License: MIT
 * License URL: https://github.com/tabler/tabler-icons/blob/master/LICENSE
-* Version: 1.28.0
+* Version: 1.30.0
 * Palette: Colorless
 
 
@@ -162,12 +162,12 @@
 
 
 ### Font Awesome 5 Solid
-* Number of icons: 999
+* Number of icons: 1001
 * Author: Dave Gandy
 * URL: http://fontawesome.io/
 * License: CC BY 4.0
 * License URL: https://creativecommons.org/licenses/by/4.0/
-* Version: 5.14.0
+* Version: 5.15.0
 * Palette: Colorless
 
 
@@ -177,7 +177,7 @@
 * URL: http://fontawesome.io/
 * License: CC BY 4.0
 * License URL: https://creativecommons.org/licenses/by/4.0/
-* Version: 5.14.0
+* Version: 5.15.0
 * Palette: Colorless
 
 
@@ -302,7 +302,7 @@
 * URL: https://github.com/cyberalien/line-md
 * License: MIT
 * License URL: https://github.com/cyberalien/line-md/blob/master/license.txt
-* Version: 0.0.2
+* Version: 0.0.3
 * Palette: Colorless
 
 
@@ -738,12 +738,12 @@
 
 
 ### Font Awesome 5 Brands
-* Number of icons: 448
+* Number of icons: 457
 * Author: Dave Gandy
 * URL: http://fontawesome.io/
 * License: CC BY 4.0
 * License URL: https://creativecommons.org/licenses/by/4.0/
-* Version: 5.14.0
+* Version: 5.15.0
 * Palette: Colorless
 
 

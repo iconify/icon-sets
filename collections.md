@@ -669,7 +669,7 @@
 
 
 ### Emoji One (Colored)
-* Number of icons: 1832
+* Number of icons: 1834
 * Author: Emoji One
 * URL: https://github.com/emojione/emojione
 * License: CC BY-SA 4.0

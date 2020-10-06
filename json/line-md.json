@@ -2,7 +2,7 @@
 	"prefix": "line-md",
 	"info": {
 		"name": "Material Line Icons",
-		"total": 239,
+		"total": 243,
 		"author": {
 			"name": "Vjacheslav Trushkin",
 			"url": "https://github.com/cyberalien/line-md"
@@ -568,6 +568,18 @@
 		},
 		"twitter-twotone": {
 			"body": "<g fill=\"none\"><path d=\"M18.722 9.297c.678-.792 1.075-1.625 1.169-1.953l.054-.188c.281-.729-.265-.875-.672-.664c-.687.156-1.148.063-1.468-.148c-1.875-2.032-3.943-1.399-4.932-.693c-1.724 1.329-1.413 2.911-1.413 3.646c-.622.282-4.437 0-6.81-3.193c-1.018-.283-1.413 6.584 3.617 9.155c-1.328 2.006-4.974 1.582-4.182 2.628c5.764 2.91 14.185.085 14.637-8.59z\" fill=\"currentColor\" fill-opacity=\".3\" class=\"il-md-fill il-md-duration-0 il-md-delay-8\"/><path d=\"M19.89 7.344c-.093.328-.49 1.161-1.168 1.953c-.452 8.675-8.873 11.5-14.637 8.59c-.792-1.046 2.854-.622 4.182-2.628c-5.03-2.571-4.635-9.438-3.617-9.155c2.373 3.193 6.188 3.475 6.81 3.193c0-.735-.311-2.317 1.413-3.646c.989-.706 3.057-1.338 4.932.693c.32.21.78.304 1.468.148c.407-.21.953-.065.672.664\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"il-md-length-70 il-md-duration-8 il-md-delay-0\"/></g>"
+		},
+		"valign-baseline": {
+			"body": "<g fill=\"none\"><path d=\"M2.5 18.5h19\" stroke=\"currentColor\" stroke-linecap=\"round\" class=\"il-md-length-25 il-md-duration-2 il-md-delay-0\"/><path d=\"M2.5 11.5h19\" stroke=\"currentColor\" stroke-linecap=\"round\" class=\"il-md-length-25 il-md-duration-2 il-md-delay-0\"/><path d=\"M12.75 6H18v12H6V6h6.75z\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"il-md-length-70 il-md-duration-4 il-md-delay-2\"/></g>"
+		},
+		"valign-bottom": {
+			"body": "<g fill=\"none\"><path d=\"M2.5 15.5h19\" stroke=\"currentColor\" stroke-linecap=\"round\" class=\"il-md-length-25 il-md-duration-2 il-md-delay-0\"/><path d=\"M2.5 8.5h19\" stroke=\"currentColor\" stroke-linecap=\"round\" class=\"il-md-length-25 il-md-duration-2 il-md-delay-0\"/><path d=\"M12.75 9H18v12H6V9h6.75z\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"il-md-length-70 il-md-duration-4 il-md-delay-2\"/></g>"
+		},
+		"valign-middle": {
+			"body": "<g fill=\"none\"><path d=\"M2.5 15.5h19\" stroke=\"currentColor\" stroke-linecap=\"round\" class=\"il-md-length-25 il-md-duration-2 il-md-delay-0\"/><path d=\"M2.5 8.5h19\" stroke=\"currentColor\" stroke-linecap=\"round\" class=\"il-md-length-25 il-md-duration-2 il-md-delay-0\"/><path d=\"M12.75 6H18v12H6V6h6.75z\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"il-md-length-70 il-md-duration-4 il-md-delay-2\"/></g>"
+		},
+		"valign-top": {
+			"body": "<g fill=\"none\"><path d=\"M2.5 15.5h19\" stroke=\"currentColor\" stroke-linecap=\"round\" class=\"il-md-length-25 il-md-duration-2 il-md-delay-0\"/><path d=\"M2.5 8.5h19\" stroke=\"currentColor\" stroke-linecap=\"round\" class=\"il-md-length-25 il-md-duration-2 il-md-delay-0\"/><path d=\"M12.75 3H18v12H6V3h6.75z\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"il-md-length-70 il-md-duration-4 il-md-delay-2\"/></g>"
 		}
 	},
 	"aliases": {
@@ -914,7 +926,11 @@
 			"pencil-twotone-alt",
 			"rotate-180",
 			"rotate-270",
-			"rotate-90"
+			"rotate-90",
+			"valign-baseline",
+			"valign-bottom",
+			"valign-middle",
+			"valign-top"
 		],
 		"Emoji": [
 			"emoji-angry",

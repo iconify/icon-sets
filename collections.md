@@ -3,7 +3,7 @@
 
 
 ### Material Design Icons
-* Number of icons: 5716
+* Number of icons: 5744
 * Author: Austin Andrews
 * URL: https://github.com/Templarian/MaterialDesign
 * License: Open Font License
@@ -86,7 +86,7 @@
 
 
 ### IonIcons
-* Number of icons: 1238
+* Number of icons: 1300
 * Author: Ben Sperry
 * URL: https://github.com/ionic-team/ionicons
 * License: MIT
@@ -142,12 +142,12 @@
 
 
 ### Tabler Icons
-* Number of icons: 859
+* Number of icons: 877
 * Author: Paweł Kuna
 * URL: https://github.com/tabler/tabler-icons
 * License: MIT
 * License URL: https://github.com/tabler/tabler-icons/blob/master/LICENSE
-* Version: 1.32.0
+* Version: 1.33.0
 * Palette: Colorless
 
 
@@ -167,7 +167,7 @@
 * URL: http://fontawesome.io/
 * License: CC BY 4.0
 * License URL: https://creativecommons.org/licenses/by/4.0/
-* Version: 5.15.0
+* Version: 5.15.1
 * Palette: Colorless
 
 
@@ -177,7 +177,7 @@
 * URL: http://fontawesome.io/
 * License: CC BY 4.0
 * License URL: https://creativecommons.org/licenses/by/4.0/
-* Version: 5.15.0
+* Version: 5.15.1
 * Palette: Colorless
 
 
@@ -297,7 +297,7 @@
 
 
 ### Material Line Icons
-* Number of icons: 239
+* Number of icons: 243
 * Author: Vjacheslav Trushkin
 * URL: https://github.com/cyberalien/line-md
 * License: MIT
@@ -728,12 +728,12 @@
 
 
 ### Simple Icons
-* Number of icons: 1431
+* Number of icons: 1461
 * Author: Simple Icons Collaborators
 * URL: https://github.com/simple-icons/simple-icons
 * License: CC0 1.0
 * License URL: https://github.com/simple-icons/simple-icons/blob/develop/LICENSE.md
-* Version: 3.10.0
+* Version: 3.11.0
 * Palette: Colorless
 
 
@@ -743,7 +743,7 @@
 * URL: http://fontawesome.io/
 * License: CC BY 4.0
 * License URL: https://creativecommons.org/licenses/by/4.0/
-* Version: 5.15.0
+* Version: 5.15.1
 * Palette: Colorless
 
 

@@ -142,12 +142,12 @@
 
 
 ### Tabler Icons
-* Number of icons: 877
+* Number of icons: 895
 * Author: Paweł Kuna
 * URL: https://github.com/tabler/tabler-icons
 * License: MIT
 * License URL: https://github.com/tabler/tabler-icons/blob/master/LICENSE
-* Version: 1.33.0
+* Version: 1.34.0
 * Palette: Colorless
 
 
@@ -293,6 +293,15 @@
 * License: MIT
 * License URL: https://github.com/feathericon/feathericon/blob/master/LICENSE
 * Version: 1.0.2
+* Palette: Colorless
+
+
+### Radix Icons
+* Number of icons: 260
+* Author: Modulz
+* URL: https://github.com/modulz/radix-icons
+* License: MIT
+* Version: 3.0.0
 * Palette: Colorless
 
 
@@ -659,7 +668,7 @@
 
 
 ### OpenMoji
-* Number of icons: 3566
+* Number of icons: 3570
 * Author: OpenMoji
 * URL: https://github.com/hfg-gmuend/openmoji
 * License: CC BY-SA 4.0

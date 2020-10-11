@@ -485,6 +485,16 @@
 * Palette: Colorless
 
 
+### Grommet Icons
+* Number of icons: 611
+* Author: Grommet
+* URL: https://github.com/grommet/grommet-icons
+* License: Apache 2.0
+* License URL: http://www.apache.org/licenses/LICENSE-2.0
+* Version: 4.5.0
+* Palette: Colorless
+
+
 ### Maki
 * Number of icons: 374
 * Author: Mapbox

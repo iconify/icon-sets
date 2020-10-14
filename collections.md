@@ -297,11 +297,11 @@
 
 
 ### Radix Icons
-* Number of icons: 260
+* Number of icons: 264
 * Author: Modulz
 * URL: https://github.com/modulz/radix-icons
 * License: MIT
-* Version: 3.0.0
+* Version: 3.1.0
 * Palette: Colorless
 
 
@@ -353,7 +353,7 @@
 
 
 ### File Icons
-* Number of icons: 876
+* Number of icons: 878
 * Author: John Gardner
 * URL: https://github.com/file-icons/icons
 * License: ISC

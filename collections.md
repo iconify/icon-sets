@@ -747,12 +747,12 @@
 
 
 ### Simple Icons
-* Number of icons: 1461
+* Number of icons: 1463
 * Author: Simple Icons Collaborators
 * URL: https://github.com/simple-icons/simple-icons
 * License: CC0 1.0
 * License URL: https://github.com/simple-icons/simple-icons/blob/develop/LICENSE.md
-* Version: 3.11.0
+* Version: 3.12.0
 * Palette: Colorless
 
 

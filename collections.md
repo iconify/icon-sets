@@ -50,7 +50,7 @@
 
 
 ### BoxIcons
-* Number of icons: 1462
+* Number of icons: 1475
 * Author: Atisa
 * URL: https://github.com/atisawd/boxicons
 * License: CC 4.0
@@ -785,7 +785,7 @@
 
 
 ### Cryptocurrency Icons
-* Number of icons: 431
+* Number of icons: 433
 * Author: Christopher Downer
 * URL: https://github.com/atomiclabs/cryptocurrency-icons
 * License: CC0 1.0

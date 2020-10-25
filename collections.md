@@ -301,7 +301,7 @@
 * Author: Modulz
 * URL: https://github.com/modulz/radix-icons
 * License: MIT
-* Version: 3.1.0
+* Version: 3.2.0
 * Palette: Colorless
 
 
@@ -353,7 +353,7 @@
 
 
 ### File Icons
-* Number of icons: 879
+* Number of icons: 881
 * Author: John Gardner
 * URL: https://github.com/file-icons/icons
 * License: ISC

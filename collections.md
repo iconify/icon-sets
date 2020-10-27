@@ -118,7 +118,7 @@
 * Author: IBM
 * URL: https://github.com/carbon-design-system/carbon/tree/master/packages/icons
 * License: Apache 2.0
-* Version: 10.19.0
+* Version: 10.20.0-rc.0
 * Palette: Colorless
 
 
@@ -752,7 +752,7 @@
 * URL: https://github.com/simple-icons/simple-icons
 * License: CC0 1.0
 * License URL: https://github.com/simple-icons/simple-icons/blob/develop/LICENSE.md
-* Version: 3.12.0
+* Version: 3.12.1
 * Palette: Colorless
 
 

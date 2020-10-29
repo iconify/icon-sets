@@ -325,7 +325,7 @@
 
 
 ### Gridicons
-* Number of icons: 198
+* Number of icons: 199
 * Author: Automattic
 * URL: https://github.com/Automattic/gridicons
 * License: GPL 2.0

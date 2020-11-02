@@ -353,7 +353,7 @@
 
 
 ### File Icons
-* Number of icons: 881
+* Number of icons: 902
 * Author: John Gardner
 * URL: https://github.com/file-icons/icons
 * License: ISC
@@ -752,7 +752,7 @@
 * URL: https://github.com/simple-icons/simple-icons
 * License: CC0 1.0
 * License URL: https://github.com/simple-icons/simple-icons/blob/develop/LICENSE.md
-* Version: 3.12.1
+* Version: 3.12.2
 * Palette: Colorless
 
 

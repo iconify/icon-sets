@@ -114,7 +114,7 @@
 
 
 ### Carbon
-* Number of icons: 1270
+* Number of icons: 1463
 * Author: IBM
 * URL: https://github.com/carbon-design-system/carbon/tree/master/packages/icons
 * License: Apache 2.0
@@ -306,12 +306,12 @@
 
 
 ### Material Line Icons
-* Number of icons: 243
+* Number of icons: 250
 * Author: Vjacheslav Trushkin
 * URL: https://github.com/cyberalien/line-md
 * License: MIT
 * License URL: https://github.com/cyberalien/line-md/blob/master/license.txt
-* Version: 0.0.3
+* Version: 0.0.4
 * Palette: Colorless
 
 
@@ -678,7 +678,7 @@
 
 
 ### OpenMoji
-* Number of icons: 3646
+* Number of icons: 3654
 * Author: OpenMoji
 * URL: https://github.com/hfg-gmuend/openmoji
 * License: CC BY-SA 4.0

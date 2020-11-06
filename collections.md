@@ -49,6 +49,15 @@
 * Palette: Colorless
 
 
+### Phosphor
+* Number of icons: 3411
+* Author: Phosphor Icons
+* URL: https://github.com/phosphor-icons/phosphor-icons
+* License: MIT
+* Version: 1.0.1
+* Palette: Colorless
+
+
 ### BoxIcons
 * Number of icons: 1500
 * Author: Atisa

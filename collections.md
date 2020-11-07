@@ -320,7 +320,7 @@
 * URL: https://github.com/cyberalien/line-md
 * License: MIT
 * License URL: https://github.com/cyberalien/line-md/blob/master/license.txt
-* Version: 0.0.4
+* Version: 0.1.0
 * Palette: Colorless
 
 
@@ -687,7 +687,7 @@
 
 
 ### OpenMoji
-* Number of icons: 3654
+* Number of icons: 3675
 * Author: OpenMoji
 * URL: https://github.com/hfg-gmuend/openmoji
 * License: CC BY-SA 4.0

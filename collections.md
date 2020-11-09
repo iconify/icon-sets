@@ -151,12 +151,12 @@
 
 
 ### Tabler Icons
-* Number of icons: 895
+* Number of icons: 937
 * Author: Paweł Kuna
 * URL: https://github.com/tabler/tabler-icons
 * License: MIT
 * License URL: https://github.com/tabler/tabler-icons/blob/master/LICENSE
-* Version: 1.34.0
+* Version: 1.35.0
 * Palette: Colorless
 
 
@@ -761,7 +761,7 @@
 * URL: https://github.com/simple-icons/simple-icons
 * License: CC0 1.0
 * License URL: https://github.com/simple-icons/simple-icons/blob/develop/LICENSE.md
-* Version: 3.12.2
+* Version: 3.12.3
 * Palette: Colorless
 
 

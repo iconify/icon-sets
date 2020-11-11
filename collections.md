@@ -127,7 +127,7 @@
 * Author: IBM
 * URL: https://github.com/carbon-design-system/carbon/tree/master/packages/icons
 * License: Apache 2.0
-* Version: 10.20.0
+* Version: 10.21.0-rc.0
 * Palette: Colorless
 
 
@@ -687,7 +687,7 @@
 
 
 ### OpenMoji
-* Number of icons: 3675
+* Number of icons: 3678
 * Author: OpenMoji
 * URL: https://github.com/hfg-gmuend/openmoji
 * License: CC BY-SA 4.0

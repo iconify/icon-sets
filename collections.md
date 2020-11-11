@@ -62,7 +62,8 @@
 * Number of icons: 1500
 * Author: Atisa
 * URL: https://github.com/atisawd/boxicons
-* License: CC 4.0
+* License: CC BY 4.0
+* License URL: https://creativecommons.org/licenses/by/4.0/
 * Palette: Colorless
 
 

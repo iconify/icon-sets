@@ -152,12 +152,12 @@
 
 
 ### Tabler Icons
-* Number of icons: 937
+* Number of icons: 958
 * Author: Paweł Kuna
 * URL: https://github.com/tabler/tabler-icons
 * License: MIT
 * License URL: https://github.com/tabler/tabler-icons/blob/master/LICENSE
-* Version: 1.35.0
+* Version: 1.36.0
 * Palette: Colorless
 
 
@@ -259,12 +259,12 @@
 
 
 ### Octicons
-* Number of icons: 402
+* Number of icons: 405
 * Author: GitHub
 * URL: https://github.com/primer/octicons/
 * License: Open Font License
 * License URL: https://raw.githubusercontent.com/primer/octicons/master/LICENSE
-* Version: 11.0.0
+* Version: 11.1.0
 * Palette: Colorless
 
 
@@ -363,7 +363,7 @@
 
 
 ### File Icons
-* Number of icons: 902
+* Number of icons: 903
 * Author: John Gardner
 * URL: https://github.com/file-icons/icons
 * License: ISC
@@ -660,7 +660,7 @@
 
 
 ### Noto Emoji
-* Number of icons: 3308
+* Number of icons: 3311
 * Author: Google Inc
 * URL: https://github.com/googlei18n/noto-emoji
 * License: Apache 2.0
@@ -693,7 +693,7 @@
 * URL: https://github.com/hfg-gmuend/openmoji
 * License: CC BY-SA 4.0
 * License URL: https://creativecommons.org/licenses/by-sa/4.0/
-* Version: 12.4.0
+* Version: 13.0.0
 * Palette: Colorful
 
 

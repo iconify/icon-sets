@@ -307,11 +307,11 @@
 
 
 ### Radix Icons
-* Number of icons: 264
+* Number of icons: 279
 * Author: Modulz
 * URL: https://github.com/modulz/radix-icons
 * License: MIT
-* Version: 3.2.0
+* Version: 3.3.0
 * Palette: Colorless
 
 
@@ -688,7 +688,7 @@
 
 
 ### OpenMoji
-* Number of icons: 3678
+* Number of icons: 3686
 * Author: OpenMoji
 * URL: https://github.com/hfg-gmuend/openmoji
 * License: CC BY-SA 4.0
@@ -762,7 +762,7 @@
 * URL: https://github.com/simple-icons/simple-icons
 * License: CC0 1.0
 * License URL: https://github.com/simple-icons/simple-icons/blob/develop/LICENSE.md
-* Version: 3.12.3
+* Version: 3.12.4
 * Palette: Colorless
 
 

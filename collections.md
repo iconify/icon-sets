@@ -138,7 +138,7 @@
 * URL: https://github.com/coreui/coreui-icons
 * License: CC BY 4.0
 * License URL: https://creativecommons.org/licenses/by/4.0/
-* Version: 2.0.0-beta.5
+* Version: 2.0.0-rc.0
 * Palette: Colorless
 
 
@@ -747,12 +747,12 @@
 
 
 ### CoreUI Brands
-* Number of icons: 829
+* Number of icons: 830
 * Author: creativeLabs Łukasz Holeczek
 * URL: https://github.com/coreui/coreui-icons
 * License: CC BY 4.0
 * License URL: https://creativecommons.org/licenses/by/4.0/
-* Version: 2.0.0-beta.5
+* Version: 2.0.0-rc.0
 * Palette: Colorless
 
 
@@ -824,12 +824,12 @@
 
 
 ### CoreUI Flags
-* Number of icons: 197
+* Number of icons: 199
 * Author: creativeLabs Łukasz Holeczek
 * URL: https://github.com/coreui/coreui-icons
 * License: CC BY 4.0
 * License URL: https://creativecommons.org/licenses/by/4.0/
-* Version: 2.0.0-beta.5
+* Version: 2.0.0-rc.0
 * Palette: Colorful
 
 

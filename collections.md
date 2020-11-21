@@ -128,7 +128,7 @@
 * Author: IBM
 * URL: https://github.com/carbon-design-system/carbon/tree/master/packages/icons
 * License: Apache 2.0
-* Version: 10.21.0
+* Version: 10.22.0-rc.0
 * Palette: Colorless
 
 
@@ -372,12 +372,12 @@
 
 
 ### Mono Icons
-* Number of icons: 136
+* Number of icons: 147
 * Author: Mono Company BV
 * URL: https://github.com/mono-company/mono-icons
 * License: MIT
 * License URL: https://github.com/mono-company/mono-icons/blob/master/LICENSE.md
-* Version: 1.0.4
+* Version: 1.2.4
 * Palette: Colorless
 
 

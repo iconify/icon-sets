@@ -87,7 +87,7 @@
 
 
 ### Jam Icons
-* Number of icons: 896
+* Number of icons: 940
 * Author: Michael Amprimo
 * URL: https://github.com/michaelampr/jam
 * License: MIT
@@ -757,12 +757,12 @@
 
 
 ### Simple Icons
-* Number of icons: 1463
+* Number of icons: 1464
 * Author: Simple Icons Collaborators
 * URL: https://github.com/simple-icons/simple-icons
 * License: CC0 1.0
 * License URL: https://github.com/simple-icons/simple-icons/blob/develop/LICENSE.md
-* Version: 3.12.4
+* Version: 3.13.0
 * Palette: Colorless
 
 

@@ -50,11 +50,11 @@
 
 
 ### Phosphor
-* Number of icons: 3411
+* Number of icons: 3950
 * Author: Phosphor Icons
 * URL: https://github.com/phosphor-icons/phosphor-icons
 * License: MIT
-* Version: 1.0.1
+* Version: 1.1.1
 * Palette: Colorless
 
 
@@ -269,7 +269,7 @@
 
 
 ### Codicons
-* Number of icons: 332
+* Number of icons: 335
 * Author: Microsoft Corporation
 * URL: https://github.com/microsoft/vscode-codicons
 * License: CC BY 4.0
@@ -377,7 +377,7 @@
 * URL: https://github.com/mono-company/mono-icons
 * License: MIT
 * License URL: https://github.com/mono-company/mono-icons/blob/master/LICENSE.md
-* Version: 1.2.4
+* Version: 1.2.5
 * Palette: Colorless
 
 
@@ -688,7 +688,7 @@
 
 
 ### OpenMoji
-* Number of icons: 3686
+* Number of icons: 3687
 * Author: OpenMoji
 * URL: https://github.com/hfg-gmuend/openmoji
 * License: CC BY-SA 4.0

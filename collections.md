@@ -3,7 +3,7 @@
 
 
 ### Material Design Icons
-* Number of icons: 5855
+* Number of icons: 5917
 * Author: Austin Andrews
 * URL: https://github.com/Templarian/MaterialDesign
 * License: Open Font License
@@ -50,11 +50,11 @@
 
 
 ### Phosphor
-* Number of icons: 3950
+* Number of icons: 3949
 * Author: Phosphor Icons
 * URL: https://github.com/phosphor-icons/phosphor-icons
 * License: MIT
-* Version: 1.1.1
+* Version: 1.1.3
 * Palette: Colorless
 
 

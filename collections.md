@@ -21,7 +21,7 @@
 
 
 ### Google Material Icons
-* Number of icons: 6900
+* Number of icons: 6970
 * Author: Material Design Authors
 * URL: https://github.com/cyberalien/google-material-design-icons-updated
 * License: Apache 2.0
@@ -128,7 +128,7 @@
 * Author: IBM
 * URL: https://github.com/carbon-design-system/carbon/tree/master/packages/icons
 * License: Apache 2.0
-* Version: 10.22.0-rc.0
+* Version: 10.22.0
 * Palette: Colorless
 
 
@@ -197,7 +197,7 @@
 * URL: https://vaadin.com/elements/vaadin-icons
 * License: CC BY 4.0
 * License URL: https://creativecommons.org/licenses/by/4.0/
-* Version: 4.3.1
+* Version: 4.3.2
 * Palette: Colorless
 
 

@@ -259,12 +259,12 @@
 
 
 ### Octicons
-* Number of icons: 405
+* Number of icons: 407
 * Author: GitHub
 * URL: https://github.com/primer/octicons/
 * License: Open Font License
 * License URL: https://raw.githubusercontent.com/primer/octicons/master/LICENSE
-* Version: 11.1.0
+* Version: 11.2.0
 * Palette: Colorless
 
 
@@ -274,7 +274,7 @@
 * URL: https://github.com/microsoft/vscode-codicons
 * License: CC BY 4.0
 * License URL: https://raw.githubusercontent.com/microsoft/vscode-codicons/master/LICENSE
-* Version: 0.0.12
+* Version: 0.0.13
 * Palette: Colorless
 
 
@@ -757,12 +757,12 @@
 
 
 ### Simple Icons
-* Number of icons: 1464
+* Number of icons: 1472
 * Author: Simple Icons Collaborators
 * URL: https://github.com/simple-icons/simple-icons
 * License: CC0 1.0
 * License URL: https://github.com/simple-icons/simple-icons/blob/develop/LICENSE.md
-* Version: 4.0.1
+* Version: 4.1.0
 * Palette: Colorless
 
 

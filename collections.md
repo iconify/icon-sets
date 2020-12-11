@@ -35,17 +35,17 @@
 * URL: https://github.com/Iconscout/unicons
 * License: Apache 2.0
 * License URL: https://raw.githubusercontent.com/Iconscout/unicons/master/LICENSE
-* Version: 3.0.3
+* Version: 3.0.4
 * Palette: Colorless
 
 
 ### Unicons Monochrome
-* Number of icons: 285
+* Number of icons: 296
 * Author: Iconscout
 * URL: https://github.com/Iconscout/unicons
 * License: Apache 2.0
 * License URL: https://raw.githubusercontent.com/Iconscout/unicons/master/LICENSE
-* Version: 3.0.3
+* Version: 3.0.4
 * Palette: Colorless
 
 

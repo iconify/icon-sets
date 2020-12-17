@@ -30,12 +30,12 @@
 
 
 ### Unicons
-* Number of icons: 1186
+* Number of icons: 1206
 * Author: Iconscout
 * URL: https://github.com/Iconscout/unicons
 * License: Apache 2.0
 * License URL: https://raw.githubusercontent.com/Iconscout/unicons/master/LICENSE
-* Version: 3.0.4
+* Version: 3.0.6
 * Palette: Colorless
 
 
@@ -45,7 +45,7 @@
 * URL: https://github.com/Iconscout/unicons
 * License: Apache 2.0
 * License URL: https://raw.githubusercontent.com/Iconscout/unicons/master/LICENSE
-* Version: 3.0.4
+* Version: 3.0.6
 * Palette: Colorless
 
 
@@ -157,7 +157,7 @@
 * URL: https://github.com/tabler/tabler-icons
 * License: MIT
 * License URL: https://github.com/tabler/tabler-icons/blob/master/LICENSE
-* Version: 1.38.0
+* Version: 1.38.1
 * Palette: Colorless
 
 
@@ -738,7 +738,7 @@
 
 
 ### SVG Logos
-* Number of icons: 1176
+* Number of icons: 1189
 * Author: Gil Barbara
 * URL: https://github.com/gilbarbara/logos
 * License: CC0

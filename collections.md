@@ -363,7 +363,7 @@
 
 
 ### File Icons
-* Number of icons: 912
+* Number of icons: 913
 * Author: John Gardner
 * URL: https://github.com/file-icons/icons
 * License: ISC

@@ -495,6 +495,15 @@
 * Palette: Colorless
 
 
+### Fluent UI System Icons
+* Number of icons: 5338
+* Author: Microsoft Corporation
+* URL: https://github.com/microsoft/fluentui-system-icons
+* License: MIT
+* License URL: https://github.com/microsoft/fluentui-system-icons/blob/master/LICENSE
+* Palette: Colorless
+
+
 ### Grommet Icons
 * Number of icons: 611
 * Author: Grommet

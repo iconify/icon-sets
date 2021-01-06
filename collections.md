@@ -96,12 +96,12 @@
 
 
 ### IonIcons
-* Number of icons: 1300
+* Number of icons: 1301
 * Author: Ben Sperry
 * URL: https://github.com/ionic-team/ionicons
 * License: MIT
 * License URL: https://github.com/ionic-team/ionicons/blob/master/LICENSE
-* Version: 5.2.3
+* Version: 5.3.0
 * Palette: Colorless
 
 
@@ -124,11 +124,11 @@
 
 
 ### Carbon
-* Number of icons: 1463
+* Number of icons: 1545
 * Author: IBM
 * URL: https://github.com/carbon-design-system/carbon/tree/master/packages/icons
 * License: Apache 2.0
-* Version: 10.22.0
+* Version: 10.23.0-rc.0
 * Palette: Colorless
 
 
@@ -748,7 +748,7 @@
 
 
 ### SVG Logos
-* Number of icons: 1203
+* Number of icons: 1216
 * Author: Gil Barbara
 * URL: https://github.com/gilbarbara/logos
 * License: CC0

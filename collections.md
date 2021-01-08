@@ -128,7 +128,7 @@
 * Author: IBM
 * URL: https://github.com/carbon-design-system/carbon/tree/master/packages/icons
 * License: Apache 2.0
-* Version: 10.23.0-rc.0
+* Version: 10.23.0
 * Palette: Colorless
 
 
@@ -496,12 +496,12 @@
 
 
 ### Fluent UI System Icons
-* Number of icons: 5338
+* Number of icons: 5329
 * Author: Microsoft Corporation
 * URL: https://github.com/microsoft/fluentui-system-icons
 * License: MIT
 * License URL: https://github.com/microsoft/fluentui-system-icons/blob/master/LICENSE
-* Version: 1.1.90
+* Version: 1.1.91
 * Palette: Colorless
 
 
@@ -805,12 +805,12 @@
 
 
 ### Cryptocurrency Icons
-* Number of icons: 433
+* Number of icons: 446
 * Author: Christopher Downer
 * URL: https://github.com/atomiclabs/cryptocurrency-icons
 * License: CC0 1.0
 * License URL: https://creativecommons.org/publicdomain/zero/1.0/
-* Version: 0.17.0
+* Version: 0.17.1
 * Palette: Colorless
 
 

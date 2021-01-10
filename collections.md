@@ -21,7 +21,7 @@
 
 
 ### Google Material Icons
-* Number of icons: 6970
+* Number of icons: 7215
 * Author: Material Design Authors
 * URL: https://github.com/cyberalien/google-material-design-icons-updated
 * License: Apache 2.0
@@ -748,7 +748,7 @@
 
 
 ### SVG Logos
-* Number of icons: 1216
+* Number of icons: 1186
 * Author: Gil Barbara
 * URL: https://github.com/gilbarbara/logos
 * License: CC0

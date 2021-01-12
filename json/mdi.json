@@ -2,7 +2,7 @@
 	"prefix": "mdi",
 	"info": {
 		"name": "Material Design Icons",
-		"total": 5917,
+		"total": 5918,
 		"author": {
 			"name": "Austin Andrews",
 			"url": "https://github.com/Templarian/MaterialDesign"
@@ -406,6 +406,9 @@
 		},
 		"alarm-light": {
 			"body": "<path d=\"M6 6.9L3.87 4.78l1.41-1.41L7.4 5.5L6 6.9M13 1v3h-2V1h2m7.13 3.78L18 6.9l-1.4-1.4l2.12-2.13l1.41 1.41M4.5 10.5v2h-3v-2h3m15 0h3v2h-3v-2M6 20h12a2 2 0 0 1 2 2H4a2 2 0 0 1 2-2m6-15a6 6 0 0 1 6 6v8H6v-8a6 6 0 0 1 6-6z\" fill=\"currentColor\"/>"
+		},
+		"alarm-light-off": {
+			"body": "<path d=\"M18 14.8l-9-9c.9-.5 1.9-.8 3-.8c3.3 0 6 2.7 6 6v3.8m2.1-10l-1.4-1.4l-2.1 2.1L18 6.9l2.1-2.1m-.6 5.7v2h3v-2h-3m-15 0h-3v2h3v-2M1.1 3l5.5 5.5c-.4.7-.6 1.6-.6 2.5v8h11.1l1 1H6c-1.1 0-2 .9-2 2h16.1l.7.7l1.3-1.3L2.4 1.7L1.1 3M13 1h-2v3h2V1z\" fill=\"currentColor\"/>"
 		},
 		"alarm-light-outline": {
 			"body": "<path d=\"M6 6.9L3.87 4.78l1.41-1.41L7.4 5.5L6 6.9M13 1v3h-2V1h2m7.13 3.78L18 6.9l-1.4-1.4l2.12-2.13l1.41 1.41M4.5 10.5v2h-3v-2h3m15 0h3v2h-3v-2M6 20h12a2 2 0 0 1 2 2H4a2 2 0 0 1 2-2m6-15a6 6 0 0 1 6 6v8H6v-8a6 6 0 0 1 6-6m0 2a4 4 0 0 0-4 4v6h8v-6a4 4 0 0 0-4-4z\" fill=\"currentColor\"/>"
@@ -18768,7 +18771,7 @@
 			"parent": "alarm-multiple"
 		},
 		"alcohol": {
-			"parent": "glass-wine"
+			"parent": "glass-tulip"
 		},
 		"align-horizontal-centre": {
 			"parent": "align-horizontal-center"
@@ -19302,7 +19305,7 @@
 			"parent": "boom-gate-up-outline"
 		},
 		"arrow": {
-			"parent": "undo-variant"
+			"parent": "undo"
 		},
 		"arrow-back": {
 			"parent": "arrow-left"
@@ -19629,7 +19632,7 @@
 			"parent": "audio-video-off"
 		},
 		"award": {
-			"parent": "seal-variant"
+			"parent": "seal"
 		},
 		"awning": {
 			"parent": "storefront"
@@ -19683,7 +19686,7 @@
 			"parent": "bank-plus"
 		},
 		"bar": {
-			"parent": "glass-wine"
+			"parent": "glass-tulip"
 		},
 		"bar-chart": {
 			"parent": "poll"
@@ -19797,7 +19800,7 @@
 			"parent": "grill-outline"
 		},
 		"beacon": {
-			"parent": "lighthouse-on"
+			"parent": "lighthouse"
 		},
 		"beats-per-minute": {
 			"parent": "metronome"
@@ -21128,6 +21131,12 @@
 		"clear-outline": {
 			"parent": "close-outline"
 		},
+		"clear-reverse": {
+			"parent": "backspace-reverse"
+		},
+		"clear-reverse-outline": {
+			"parent": "backspace-reverse-outline"
+		},
 		"clear-thick": {
 			"parent": "close-thick"
 		},
@@ -21243,7 +21252,7 @@
 			"parent": "spider-web"
 		},
 		"cocktail": {
-			"parent": "glass-wine"
+			"parent": "glass-tulip"
 		},
 		"cod": {
 			"parent": "credit-card-marker-outline"
@@ -21735,10 +21744,10 @@
 			"parent": "bus-clock"
 		},
 		"dependencies": {
-			"parent": "graph-outline"
+			"parent": "graph"
 		},
 		"dependency": {
-			"parent": "graph-outline"
+			"parent": "graph"
 		},
 		"design": {
 			"parent": "pencil-ruler"
@@ -21810,7 +21819,7 @@
 			"parent": "dice-multiple"
 		},
 		"dietary-restriction": {
-			"parent": "food-kosher"
+			"parent": "food-halal"
 		},
 		"difference-left": {
 			"parent": "set-left"
@@ -21820,6 +21829,9 @@
 		},
 		"dining": {
 			"parent": "table-chair"
+		},
+		"dinner": {
+			"parent": "food-turkey"
 		},
 		"dinner-bell": {
 			"parent": "instrument-triangle"
@@ -21957,7 +21969,7 @@
 			"parent": "email-open"
 		},
 		"drink": {
-			"parent": "glass-wine"
+			"parent": "glass-tulip"
 		},
 		"drink-ice": {
 			"parent": "delete-variant"
@@ -22265,6 +22277,18 @@
 		"equestrian": {
 			"parent": "horse-human"
 		},
+		"erase": {
+			"parent": "backspace"
+		},
+		"erase-outline": {
+			"parent": "backspace-outline"
+		},
+		"erase-reverse": {
+			"parent": "backspace-reverse"
+		},
+		"erase-reverse-outline": {
+			"parent": "backspace-reverse-outline"
+		},
 		"error": {
 			"parent": "alert-circle"
 		},
@@ -22467,7 +22491,7 @@
 			"parent": "map-marker-circle"
 		},
 		"extension": {
-			"parent": "toy-brick-search-outline"
+			"parent": "toy-brick"
 		},
 		"extension-outline": {
 			"parent": "puzzle-outline"
@@ -23532,7 +23556,7 @@
 			"parent": "crosshairs-question"
 		},
 		"gpu": {
-			"parent": "expansion-card-variant"
+			"parent": "expansion-card"
 		},
 		"grade": {
 			"parent": "star"
@@ -23547,7 +23571,7 @@
 			"parent": "barley-off"
 		},
 		"graphics-processing-unit": {
-			"parent": "expansion-card-variant"
+			"parent": "expansion-card"
 		},
 		"graveyard": {
 			"parent": "grave-stone"
@@ -24303,7 +24327,7 @@
 			"parent": "invert-colors-off"
 		},
 		"invite": {
-			"parent": "account-plus"
+			"parent": "account-plus-outline"
 		},
 		"invoice": {
 			"parent": "receipt"
@@ -24416,6 +24440,12 @@
 		"keyboard-capslock": {
 			"parent": "keyboard-caps"
 		},
+		"keyboard-clear": {
+			"parent": "keyboard-backspace"
+		},
+		"keyboard-erase": {
+			"parent": "keyboard-backspace"
+		},
 		"keyboard-hide": {
 			"parent": "keyboard-close"
 		},
@@ -24507,7 +24537,7 @@
 			"parent": "teach"
 		},
 		"lego": {
-			"parent": "toy-brick-search-outline"
+			"parent": "toy-brick"
 		},
 		"lens": {
 			"parent": "circle"
@@ -25023,7 +25053,7 @@
 			"parent": "ticket"
 		},
 		"local-bar": {
-			"parent": "glass-mug-variant"
+			"parent": "glass-mug"
 		},
 		"local-cafe": {
 			"parent": "coffee"
@@ -25869,7 +25899,7 @@
 			"parent": "wifi-star"
 		},
 		"network-interface-card": {
-			"parent": "expansion-card-variant"
+			"parent": "expansion-card"
 		},
 		"network-router": {
 			"parent": "router-network"
@@ -26574,7 +26604,7 @@
 			"parent": "format-color-fill"
 		},
 		"paint-outline": {
-			"parent": "palette-outline"
+			"parent": "palette-swatch-outline"
 		},
 		"paintbrush": {
 			"parent": "brush"
@@ -27219,7 +27249,7 @@
 			"parent": "notebook-outline"
 		},
 		"plant": {
-			"parent": "tree-outline"
+			"parent": "tree"
 		},
 		"plant-outline": {
 			"parent": "sprout-outline"
@@ -27279,7 +27309,7 @@
 			"parent": "power-socket-us"
 		},
 		"plugin": {
-			"parent": "toy-brick-search-outline"
+			"parent": "toy-brick"
 		},
 		"plus-bold": {
 			"parent": "plus-thick"
@@ -27507,7 +27537,7 @@
 			"parent": "printer-alert"
 		},
 		"prize": {
-			"parent": "seal-variant"
+			"parent": "seal"
 		},
 		"progress-spanner": {
 			"parent": "progress-wrench"
@@ -27552,7 +27582,7 @@
 			"parent": "head-cog-outline"
 		},
 		"pub": {
-			"parent": "glass-mug-variant"
+			"parent": "glass-mug"
 		},
 		"pub-outline": {
 			"parent": "beer-outline"
@@ -27825,7 +27855,7 @@
 			"parent": "alert"
 		},
 		"reschedule": {
-			"parent": "calendar-arrow-right"
+			"parent": "calendar-arrow-left"
 		},
 		"resize-horizontal": {
 			"parent": "arrow-split-vertical"
@@ -36634,7 +36664,8 @@
 		"f171a": "robot-happy-outline",
 		"f171b": "turkey",
 		"f171c": "food-turkey",
-		"f171d": "fan-auto"
+		"f171d": "fan-auto",
+		"f171e": "alarm-light-off"
 	},
 	"categories": {
 		"Account / User": [

@@ -3,7 +3,7 @@
 
 
 ### Material Design Icons
-* Number of icons: 5918
+* Number of icons: 5955
 * Author: Austin Andrews
 * URL: https://github.com/Templarian/MaterialDesign
 * License: Open Font License
@@ -177,7 +177,7 @@
 * URL: http://fontawesome.io/
 * License: CC BY 4.0
 * License URL: https://creativecommons.org/licenses/by/4.0/
-* Version: 5.15.1
+* Version: 5.15.2
 * Palette: Colorless
 
 
@@ -187,7 +187,7 @@
 * URL: http://fontawesome.io/
 * License: CC BY 4.0
 * License URL: https://creativecommons.org/licenses/by/4.0/
-* Version: 5.15.1
+* Version: 5.15.2
 * Palette: Colorless
 
 
@@ -307,11 +307,11 @@
 
 
 ### Radix Icons
-* Number of icons: 279
+* Number of icons: 297
 * Author: Modulz
 * URL: https://github.com/modulz/radix-icons
 * License: MIT
-* Version: 3.3.0
+* Version: 1.0.0
 * Palette: Colorless
 
 
@@ -698,7 +698,7 @@
 
 
 ### OpenMoji
-* Number of icons: 3687
+* Number of icons: 3887
 * Author: OpenMoji
 * URL: https://github.com/hfg-gmuend/openmoji
 * License: CC BY-SA 4.0
@@ -782,7 +782,7 @@
 * URL: http://fontawesome.io/
 * License: CC BY 4.0
 * License URL: https://creativecommons.org/licenses/by/4.0/
-* Version: 5.15.1
+* Version: 5.15.2
 * Palette: Colorless
 
 

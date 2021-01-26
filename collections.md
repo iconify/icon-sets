@@ -128,7 +128,7 @@
 * Author: IBM
 * URL: https://github.com/carbon-design-system/carbon/tree/master/packages/icons
 * License: Apache 2.0
-* Version: 10.24.0-rc.1
+* Version: 10.24.0
 * Palette: Colorless
 
 
@@ -274,7 +274,7 @@
 * URL: https://github.com/microsoft/vscode-codicons
 * License: CC BY 4.0
 * License URL: https://raw.githubusercontent.com/microsoft/vscode-codicons/master/LICENSE
-* Version: 0.0.13
+* Version: 0.0.14
 * Palette: Colorless
 
 
@@ -767,12 +767,12 @@
 
 
 ### Simple Icons
-* Number of icons: 1700
+* Number of icons: 1716
 * Author: Simple Icons Collaborators
 * URL: https://github.com/simple-icons/simple-icons
 * License: CC0 1.0
 * License URL: https://github.com/simple-icons/simple-icons/blob/develop/LICENSE.md
-* Version: 4.7.0
+* Version: 4.8.0
 * Palette: Colorless
 
 

@@ -96,12 +96,12 @@
 
 
 ### IonIcons
-* Number of icons: 1301
+* Number of icons: 1332
 * Author: Ben Sperry
 * URL: https://github.com/ionic-team/ionicons
 * License: MIT
 * License URL: https://github.com/ionic-team/ionicons/blob/master/LICENSE
-* Version: 5.3.0
+* Version: 5.4.0
 * Palette: Colorless
 
 
@@ -748,7 +748,7 @@
 
 
 ### SVG Logos
-* Number of icons: 1186
+* Number of icons: 1187
 * Author: Gil Barbara
 * URL: https://github.com/gilbarbara/logos
 * License: CC0

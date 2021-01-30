@@ -496,12 +496,12 @@
 
 
 ### Fluent UI System Icons
-* Number of icons: 5483
+* Number of icons: 5695
 * Author: Microsoft Corporation
 * URL: https://github.com/microsoft/fluentui-system-icons
 * License: MIT
 * License URL: https://github.com/microsoft/fluentui-system-icons/blob/master/LICENSE
-* Version: 1.1.93
+* Version: 1.1.94
 * Palette: Colorless
 
 

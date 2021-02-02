@@ -220,6 +220,26 @@
 * Palette: Colorless
 
 
+### Pixelarticons
+* Number of icons: 450
+* Author: Gerrit Halfmann
+* URL: https://github.com/halfmage/pixelarticons
+* License: MIT
+* License URL: https://github.com/halfmage/pixelarticons/blob/master/LICENSE
+* Version: 1.3.0
+* Palette: Colorless
+
+
+### Majesticons
+* Number of icons: 420
+* Author: Gerrit Halfmann
+* URL: https://github.com/halfmage/majesticons
+* License: MIT
+* License URL: https://github.com/halfmage/majesticons/blob/main/LICENSE
+* Version: 1.0.0
+* Palette: Colorless
+
+
 ### Dashicons
 * Number of icons: 343
 * Author: WordPress
@@ -331,6 +351,16 @@
 * URL: https://github.com/CoreyGinnivan/system-uicons
 * License: Unlicense
 * License URL: https://github.com/CoreyGinnivan/system-uicons/blob/master/LICENSE
+* Palette: Colorless
+
+
+### Akar Icons
+* Number of icons: 215
+* Author: Arturo Wibawa
+* URL: https://github.com/artcoholic/akar-icons
+* License: MIT
+* License URL: https://github.com/artcoholic/akar-icons/blob/master/LICENSE
+* Version: 1.0.3
 * Palette: Colorless
 
 

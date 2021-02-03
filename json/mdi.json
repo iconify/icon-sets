@@ -9136,7 +9136,7 @@
 			"body": "<path d=\"M6.5 6c.97 0 1.87.5 2.61 1.38c.55-.59 1.2-1.02 1.89-1.23V4a2 2 0 0 1 2-2h2v2h-2v2.15c.69.21 1.34.64 1.89 1.23C15.63 6.5 16.53 6 17.5 6C20 6 22 9.36 22 13.5c0 4.14-2 7.5-4.5 7.5c-.97 0-1.87-.5-2.61-1.38C14.08 20.5 13.08 21 12 21s-2.08-.5-2.89-1.38C8.37 20.5 7.47 21 6.5 21C4 21 2 17.64 2 13.5C2 9.36 4 6 6.5 6M9 10l-1.25 2.25h2.5L9 10m6 0l-1.25 2.25h2.5L15 10m-7 7h2l1-1l1 1h2l1-1l1 1l1.5-3l-3.58.62L13 16l-1-1h-2l-1 1l-1-1l-2-1l2 3z\" fill=\"currentColor\"/>"
 		},
 		"hamburger": {
-			"body": "<path d=\"M2 16h20v2c0 1.11-.89 2-2 2H4c-1.11 0-2-.89-2-2v-2M6 4h12c2.22 0 4 1.78 4 4v2H2V8c0-2.22 1.78-4 4-4m-2 7h11l2 2l2-2h1c1.11 0 2 .89 2 2c0 1.11-.89 2-2 2H4c-1.11 0-2-.89-2-2c0-1.11.89-2 2-2z\" fill=\"currentColor\"/>"
+			"body": "<path d=\"M22 13c0 1.11-.89 2-2 2H4a2 2 0 1 1 0-4h9l2.5 2l2.5-2h2a2 2 0 0 1 2 2M12 3C3 3 3 9 3 9h18s0-6-9-6M3 18c0 1.66 1.34 3 3 3h12c1.66 0 3-1.34 3-3v-1H3v1z\" fill=\"currentColor\"/>"
 		},
 		"hammer": {
 			"body": "<path d=\"M2 19.63L13.43 8.2l-.71-.7l1.42-1.43L12 3.89c1.2-1.19 3.09-1.19 4.27 0l3.6 3.61l-1.42 1.41h2.84l.71.71l-3.55 3.59l-.71-.71V9.62l-1.47 1.42l-.71-.71L4.13 21.76L2 19.63z\" fill=\"currentColor\"/>"
@@ -19844,7 +19844,7 @@
 			"parent": "seal"
 		},
 		"awning": {
-			"parent": "storefront"
+			"parent": "storefront-outline"
 		},
 		"azure": {
 			"parent": "microsoft-azure"
@@ -20009,7 +20009,7 @@
 			"parent": "grill-outline"
 		},
 		"beacon": {
-			"parent": "lighthouse"
+			"parent": "lighthouse-on"
 		},
 		"beats-per-minute": {
 			"parent": "metronome"
@@ -20090,7 +20090,7 @@
 			"parent": "text-account"
 		},
 		"birthday-cake": {
-			"parent": "cake"
+			"parent": "cake-layered"
 		},
 		"biscuit": {
 			"parent": "cookie"
@@ -21428,7 +21428,7 @@
 			"parent": "update"
 		},
 		"clock-warning": {
-			"parent": "clock-alert-outline"
+			"parent": "clock-alert"
 		},
 		"clockwise": {
 			"parent": "update"
@@ -21806,7 +21806,7 @@
 			"parent": "sofa"
 		},
 		"couch-outline": {
-			"parent": "sofa-outline"
+			"parent": "sofa-single-outline"
 		},
 		"counterclockwise": {
 			"parent": "history"
@@ -22784,7 +22784,7 @@
 			"parent": "map-marker-circle"
 		},
 		"extension": {
-			"parent": "toy-brick"
+			"parent": "toy-brick-minus-outline"
 		},
 		"extension-outline": {
 			"parent": "puzzle-outline"
@@ -24014,7 +24014,7 @@
 			"parent": "pound-box-outline"
 		},
 		"hd": {
-			"parent": "high-definition"
+			"parent": "high-definition-box"
 		},
 		"hd-box": {
 			"parent": "high-definition-box"
@@ -24494,7 +24494,7 @@
 			"parent": "card-account-details-outline"
 		},
 		"idea": {
-			"parent": "lightbulb-on"
+			"parent": "lightbulb"
 		},
 		"identification-card": {
 			"parent": "card-account-details"
@@ -24908,7 +24908,7 @@
 			"parent": "human-male-board"
 		},
 		"lego": {
-			"parent": "toy-brick"
+			"parent": "toy-brick-minus-outline"
 		},
 		"lens": {
 			"parent": "circle"
@@ -27719,7 +27719,7 @@
 			"parent": "power-socket-us"
 		},
 		"plugin": {
-			"parent": "toy-brick"
+			"parent": "toy-brick-minus-outline"
 		},
 		"plus-bold": {
 			"parent": "plus-thick"
@@ -28043,7 +28043,7 @@
 			"parent": "help-network-outline"
 		},
 		"queue": {
-			"parent": "tray"
+			"parent": "tray-plus"
 		},
 		"queue-music": {
 			"parent": "playlist-music"
@@ -28628,7 +28628,7 @@
 			"parent": "cog-transfer-outline"
 		},
 		"settings-vertical": {
-			"parent": "tune-vertical"
+			"parent": "tune-vertical-variant"
 		},
 		"settings-voice": {
 			"parent": "microphone-settings"
@@ -30896,7 +30896,7 @@
 			"parent": "weather-rainy"
 		},
 		"weather-storm": {
-			"parent": "weather-lightning"
+			"parent": "weather-lightning-rainy"
 		},
 		"weather-thunder": {
 			"parent": "weather-lightning"

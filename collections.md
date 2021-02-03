@@ -101,7 +101,7 @@
 * URL: https://github.com/ionic-team/ionicons
 * License: MIT
 * License URL: https://github.com/ionic-team/ionicons/blob/master/LICENSE
-* Version: 5.4.0
+* Version: 5.5.0-1
 * Palette: Colorless
 
 
@@ -128,7 +128,7 @@
 * Author: IBM
 * URL: https://github.com/carbon-design-system/carbon/tree/master/packages/icons
 * License: Apache 2.0
-* Version: 10.24.0
+* Version: 10.25.0-rc.0
 * Palette: Colorless
 
 
@@ -279,17 +279,17 @@
 
 
 ### Octicons
-* Number of icons: 407
+* Number of icons: 411
 * Author: GitHub
 * URL: https://github.com/primer/octicons/
 * License: Open Font License
 * License URL: https://raw.githubusercontent.com/primer/octicons/master/LICENSE
-* Version: 11.2.0
+* Version: 11.3.0
 * Palette: Colorless
 
 
 ### Codicons
-* Number of icons: 336
+* Number of icons: 341
 * Author: Microsoft Corporation
 * URL: https://github.com/microsoft/vscode-codicons
 * License: CC BY 4.0
@@ -355,12 +355,12 @@
 
 
 ### Akar Icons
-* Number of icons: 215
+* Number of icons: 208
 * Author: Arturo Wibawa
 * URL: https://github.com/artcoholic/akar-icons
 * License: MIT
 * License URL: https://github.com/artcoholic/akar-icons/blob/master/LICENSE
-* Version: 1.0.3
+* Version: 1.0.4
 * Palette: Colorless
 
 
@@ -531,7 +531,7 @@
 * URL: https://github.com/microsoft/fluentui-system-icons
 * License: MIT
 * License URL: https://github.com/microsoft/fluentui-system-icons/blob/master/LICENSE
-* Version: 1.1.94
+* Version: 1.1.95
 * Palette: Colorless
 
 

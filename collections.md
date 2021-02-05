@@ -106,12 +106,12 @@
 
 
 ### Bootstrap Icons
-* Number of icons: 1030
+* Number of icons: 1265
 * Author: The Bootstrap Authors
 * URL: https://github.com/twbs/icons
 * License: MIT
 * License URL: https://github.com/twbs/icons/blob/master/LICENSE.md
-* Version: 1.0.0-alpha4
+* Version: 1.3.0
 * Palette: Colorless
 
 
@@ -128,7 +128,7 @@
 * Author: IBM
 * URL: https://github.com/carbon-design-system/carbon/tree/master/packages/icons
 * License: Apache 2.0
-* Version: 10.25.0-rc.0
+* Version: 10.25.0
 * Palette: Colorless
 
 
@@ -167,7 +167,7 @@
 * URL: https://github.com/teenyicons/teenyicons
 * License: MIT
 * License URL: https://github.com/teenyicons/teenyicons/blob/master/LICENSE
-* Version: 0.4.0
+* Version: 0.4.1
 * Palette: Colorless
 
 
@@ -279,17 +279,17 @@
 
 
 ### Octicons
-* Number of icons: 411
+* Number of icons: 414
 * Author: GitHub
 * URL: https://github.com/primer/octicons/
 * License: Open Font License
 * License URL: https://raw.githubusercontent.com/primer/octicons/master/LICENSE
-* Version: 11.3.0
+* Version: 12.0.0
 * Palette: Colorless
 
 
 ### Codicons
-* Number of icons: 341
+* Number of icons: 342
 * Author: Microsoft Corporation
 * URL: https://github.com/microsoft/vscode-codicons
 * License: CC BY 4.0

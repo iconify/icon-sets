@@ -360,7 +360,7 @@
 * URL: https://github.com/artcoholic/akar-icons
 * License: MIT
 * License URL: https://github.com/artcoholic/akar-icons/blob/master/LICENSE
-* Version: 1.0.4
+* Version: 1.0.6
 * Palette: Colorless
 
 
@@ -393,7 +393,7 @@
 
 
 ### File Icons
-* Number of icons: 913
+* Number of icons: 914
 * Author: John Gardner
 * URL: https://github.com/file-icons/icons
 * License: ISC
@@ -526,12 +526,12 @@
 
 
 ### Fluent UI System Icons
-* Number of icons: 5695
+* Number of icons: 5731
 * Author: Microsoft Corporation
 * URL: https://github.com/microsoft/fluentui-system-icons
 * License: MIT
 * License URL: https://github.com/microsoft/fluentui-system-icons/blob/master/LICENSE
-* Version: 1.1.95
+* Version: 1.1.96
 * Palette: Colorless
 
 
@@ -778,7 +778,7 @@
 
 
 ### SVG Logos
-* Number of icons: 1187
+* Number of icons: 1202
 * Author: Gil Barbara
 * URL: https://github.com/gilbarbara/logos
 * License: CC0

@@ -163,6 +163,12 @@
 		"account-edit-outline": {
 			"body": "<path d=\"M2 17v3h8v-1.89H3.9V17c0-.64 3.13-2.1 6.1-2.1c.96.01 1.91.14 2.83.38l1.52-1.52c-1.4-.47-2.85-.73-4.35-.76c-2.67 0-8 1.33-8 4m8-13C7.79 4 6 5.79 6 8s1.79 4 4 4s4-1.79 4-4s-1.79-4-4-4m0 6c-1.1 0-2-.89-2-2s.9-2 2-2s2 .9 2 2s-.89 2-2 2m11.7 3.35l-1 1l-2.05-2l1-1a.55.55 0 0 1 .77 0l1.28 1.28c.21.21.21.56 0 .77M12 18.94l6.06-6.06l2.05 2l-6 6.07H12v-2.01\" fill=\"currentColor\"/>"
 		},
+		"account-filter": {
+			"body": "<path d=\"M10 4c2.2 0 4 1.8 4 4s-1.8 4-4 4s-4-1.8-4-4s1.8-4 4-4m7 17l1.8 1.8c.5.5 1.2.1 1.2-.5V18l2.8-3.4A1 1 0 0 0 22 13h-7c-.8 0-1.3 1-.8 1.6L17 18v3m-2-2.3l-2.3-2.8c-.4-.5-.6-1.1-.6-1.7c-.7-.2-1.4-.2-2.1-.2c-4.4 0-8 1.8-8 4v2h13v-1.3z\" fill=\"currentColor\"/>"
+		},
+		"account-filter-outline": {
+			"body": "<path d=\"M17 21l1.8 1.8c.5.5 1.2.1 1.2-.5V18l2.8-3.4A1 1 0 0 0 22 13h-7c-.8 0-1.3 1-.8 1.6L17 18v3m-2-1H2v-3c0-2.7 5.3-4 8-4c.6 0 1.3.1 2.1.2c-.2.6-.1 1.3.1 1.9c-.7-.1-1.5-.2-2.2-.2c-3 0-6.1 1.5-6.1 2.1v1.1h10.6l.5.6V20m-5-8c2.2 0 4-1.8 4-4s-1.8-4-4-4s-4 1.8-4 4s1.8 4 4 4m0-6c1.1 0 2 .9 2 2s-.9 2-2 2s-2-.9-2-2s.9-2 2-2z\" fill=\"currentColor\"/>"
+		},
 		"account-group": {
 			"body": "<path d=\"M12 5.5A3.5 3.5 0 0 1 15.5 9a3.5 3.5 0 0 1-3.5 3.5A3.5 3.5 0 0 1 8.5 9A3.5 3.5 0 0 1 12 5.5M5 8c.56 0 1.08.15 1.53.42c-.15 1.43.27 2.85 1.13 3.96C7.16 13.34 6.16 14 5 14a3 3 0 0 1-3-3a3 3 0 0 1 3-3m14 0a3 3 0 0 1 3 3a3 3 0 0 1-3 3c-1.16 0-2.16-.66-2.66-1.62a5.536 5.536 0 0 0 1.13-3.96c.45-.27.97-.42 1.53-.42M5.5 18.25c0-2.07 2.91-3.75 6.5-3.75s6.5 1.68 6.5 3.75V20h-13v-1.75M0 20v-1.5c0-1.39 1.89-2.56 4.45-2.9c-.59.68-.95 1.62-.95 2.65V20H0m24 0h-3.5v-1.75c0-1.03-.36-1.97-.95-2.65c2.56.34 4.45 1.51 4.45 2.9V20z\" fill=\"currentColor\"/>"
 		},
@@ -351,10 +357,12 @@
 			"body": "<path d=\"M12 2A10 10 0 0 0 2 12a10 10 0 0 0 10 10a10 10 0 0 0 10-10A10 10 0 0 0 12 2m0 18c-4.41 0-8-3.59-8-8s3.59-8 8-8s8 3.59 8 8s-3.59 8-8 8m3-8a3 3 0 0 1-3 3a3 3 0 0 1-3-3a3 3 0 0 1 3-3a3 3 0 0 1 3 3z\" fill=\"currentColor\"/>"
 		},
 		"adobe": {
-			"body": "<path d=\"M14.58 3H22v16.67L14.58 3M9.42 3H2v16.67L9.42 3M12 9.17l4.67 10.5H13.5l-1.33-3.34H8.75L12 9.17z\" fill=\"currentColor\"/>"
+			"body": "<path d=\"M14.58 3H22v16.67L14.58 3M9.42 3H2v16.67L9.42 3M12 9.17l4.67 10.5H13.5l-1.33-3.34H8.75L12 9.17z\" fill=\"currentColor\"/>",
+			"hidden": true
 		},
 		"adobe-acrobat": {
-			"body": "<path d=\"M21.8 14.5c-.5-.8-1.7-1.1-3.7-1.1c-.7 0-1.4 0-2.1.1c-.5-.3-1-.6-1.4-.9c-1-.8-1.9-2.3-2.6-4.1c0 0 0-.1.1-.2c.5-2.1 1-4.7 0-5.8c-.3-.3-.6-.4-1-.4h-.4c-.6 0-1.1.6-1.3 1.2c-.6 2.1-.2 3.3.4 5.2c-.4 1.5-.9 3.1-1.8 4.8c-.5 1.1-1.1 2.1-1.5 2.9c-.6.3-1.1.6-1.4.8c-1.9 1.2-2.9 2.6-3 3.4c-.1.3-.1.6 0 .8v.1l.8.5c.2.1.5.2.7.2c1.3 0 2.8-1.5 4.8-5c.1 0 .2-.1.3-.1c1.7-.5 3.7-.9 6.5-1.2c1.6.8 3.6 1.2 4.8 1.2c.7 0 1.2-.2 1.5-.5c.3-.3.4-.7.5-1.1c0-.3 0-.6-.2-.8M3.4 20.9c.1-.6.8-1.7 2-2.7c.2-.1.4-.3.8-.5c-1.2 1.9-2.1 2.9-2.8 3.2m7.4-17.7c.1-.1.1-.2.2-.2l.2.1c.3.4.3.9.1 1.8v.3c-.1.4-.1.8-.3 1.3c-.4-1.5-.4-2.6-.2-3.3m-2 12.6l-.2.1c.1-.5.5-1.1.8-1.7c.7-1.4 1.3-2.7 1.6-3.9c.7 1.5 1.5 2.6 2.5 3.5c.2.2.4.4.7.5c-1.4.2-3.3.7-5.4 1.5m12.1-.1h-.4c-.7 0-1.9-.3-3.1-.8c.1-.2.3-.2.4-.2c2.3 0 2.9.4 3.1.6c.1.1.1.1.1.2s0 .1-.1.2z\" fill=\"currentColor\"/>"
+			"body": "<path d=\"M21.8 14.5c-.5-.8-1.7-1.1-3.7-1.1c-.7 0-1.4 0-2.1.1c-.5-.3-1-.6-1.4-.9c-1-.8-1.9-2.3-2.6-4.1c0 0 0-.1.1-.2c.5-2.1 1-4.7 0-5.8c-.3-.3-.6-.4-1-.4h-.4c-.6 0-1.1.6-1.3 1.2c-.6 2.1-.2 3.3.4 5.2c-.4 1.5-.9 3.1-1.8 4.8c-.5 1.1-1.1 2.1-1.5 2.9c-.6.3-1.1.6-1.4.8c-1.9 1.2-2.9 2.6-3 3.4c-.1.3-.1.6 0 .8v.1l.8.5c.2.1.5.2.7.2c1.3 0 2.8-1.5 4.8-5c.1 0 .2-.1.3-.1c1.7-.5 3.7-.9 6.5-1.2c1.6.8 3.6 1.2 4.8 1.2c.7 0 1.2-.2 1.5-.5c.3-.3.4-.7.5-1.1c0-.3 0-.6-.2-.8M3.4 20.9c.1-.6.8-1.7 2-2.7c.2-.1.4-.3.8-.5c-1.2 1.9-2.1 2.9-2.8 3.2m7.4-17.7c.1-.1.1-.2.2-.2l.2.1c.3.4.3.9.1 1.8v.3c-.1.4-.1.8-.3 1.3c-.4-1.5-.4-2.6-.2-3.3m-2 12.6l-.2.1c.1-.5.5-1.1.8-1.7c.7-1.4 1.3-2.7 1.6-3.9c.7 1.5 1.5 2.6 2.5 3.5c.2.2.4.4.7.5c-1.4.2-3.3.7-5.4 1.5m12.1-.1h-.4c-.7 0-1.9-.3-3.1-.8c.1-.2.3-.2.4-.2c2.3 0 2.9.4 3.1.6c.1.1.1.1.1.2s0 .1-.1.2z\" fill=\"currentColor\"/>",
+			"hidden": true
 		},
 		"air-conditioner": {
 			"body": "<path d=\"M6.59.66c2.34-1.81 4.88.4 5.45 3.84c.43 0 .85.12 1.23.34c.52-.6.98-1.42.8-2.34c-.42-2.15 1.99-3.89 4.28-.92c1.81 2.34-.4 4.88-3.85 5.45c0 .43-.11.86-.34 1.24c.6.51 1.42.97 2.34.79c2.13-.42 3.88 1.98.91 4.28c-2.34 1.81-4.88-.4-5.45-3.84c-.43 0-.85-.13-1.22-.35c-.52.6-.99 1.43-.81 2.35c.42 2.14-1.99 3.89-4.28.92c-1.82-2.35.4-4.89 3.85-5.45c0-.43.13-.85.35-1.23c-.6-.51-1.42-.98-2.35-.8c-2.13.42-3.88-1.98-.91-4.28M5 16h2a2 2 0 0 1 2 2v6H7v-2H5v2H3v-6a2 2 0 0 1 2-2m0 2v2h2v-2H5m7.93-2H15l-2.93 8H10l2.93-8M18 16h3v2h-3v4h3v2h-3a2 2 0 0 1-2-2v-4a2 2 0 0 1 2-2z\" fill=\"currentColor\"/>"
@@ -12217,10 +12225,10 @@
 			"body": "<path d=\"M14 10V4.5l5.5 5.5M5 3c-1.11 0-2 .89-2 2v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2V9l-6-6H5z\" fill=\"currentColor\"/>"
 		},
 		"note-minus": {
-			"body": "<path d=\"M15 3H5c-1.11 0-2 .89-2 2v14a2 2 0 0 0 2 2h14c1.11 0 2-.89 2-2V9l-6-6m-1 12H6v-2h8v2m0-5V4.5l5.5 5.5H14z\" fill=\"currentColor\"/>"
+			"body": "<path d=\"M19 13c.7 0 1.37.13 2 .35V9l-6-6H5c-1.11 0-2 .89-2 2v14a2 2 0 0 0 2 2h8.35c-.22-.63-.35-1.3-.35-2c0-3.31 2.69-6 6-6m-5-8.5l5.5 5.5H14V4.5M23 18v2h-8v-2h8z\" fill=\"currentColor\"/>"
 		},
 		"note-minus-outline": {
-			"body": "<path d=\"M16 3H4c-1.11 0-2 .89-2 2v14a2 2 0 0 0 2 2h16c1.11 0 2-.89 2-2V9l-6-6m4 16H4V5h9v7h7v7m-5-9V4.5l5.5 5.5H15m-9 3h6v2H6v-2z\" fill=\"currentColor\"/>"
+			"body": "<path d=\"M23 18v2h-8v-2h8m-10 1c0 .7.13 1.37.35 2H5a2 2 0 0 1-2-2V5c0-1.11.89-2 2-2h10l6 6v4.35c-.63-.22-1.3-.35-2-.35v-1h-7V5H5v14h8m1-9h5.5L14 4.5V10z\" fill=\"currentColor\"/>"
 		},
 		"note-multiple": {
 			"body": "<path d=\"M16 9h5.5L16 3.5V9M7 2h10l6 6v10a2 2 0 0 1-2 2H7a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2M3 6v16h18v2H3a2 2 0 0 1-2-2V6h2z\" fill=\"currentColor\"/>"
@@ -12232,16 +12240,16 @@
 			"body": "<path d=\"M14 10h5.5L14 4.5V10M5 3h10l6 6v10a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V5c0-1.11.89-2 2-2m0 2v14h14v-7h-7V5H5z\" fill=\"currentColor\"/>"
 		},
 		"note-plus": {
-			"body": "<path d=\"M14 10h5.5L14 4.5V10M5 3h10l6 6v10a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V5c0-1.11.89-2 2-2m4 15h2v-3h3v-2h-3v-3H9v3H6v2h3v3z\" fill=\"currentColor\"/>"
+			"body": "<path d=\"M19 13c.7 0 1.37.13 2 .35V9l-6-6H5c-1.11 0-2 .89-2 2v14a2 2 0 0 0 2 2h8.35c-.22-.63-.35-1.3-.35-2c0-3.31 2.69-6 6-6m-5-8.5l5.5 5.5H14V4.5M23 18v2h-3v3h-2v-3h-3v-2h3v-3h2v3h3z\" fill=\"currentColor\"/>"
 		},
 		"note-plus-outline": {
-			"body": "<path d=\"M15 10h5.5L15 4.5V10M4 3h12l6 6v10a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2V5c0-1.11.89-2 2-2m0 2v14h16v-7h-7V5H4m4 12v-2H6v-2h2v-2h2v2h2v2h-2v2H8z\" fill=\"currentColor\"/>"
+			"body": "<path d=\"M5 19V5h7v7h7v1c.7 0 1.37.13 2 .35V9l-6-6H5c-1.11 0-2 .89-2 2v14a2 2 0 0 0 2 2h8.35c-.22-.63-.35-1.3-.35-2H5m9-14.5l5.5 5.5H14V4.5M23 18v2h-3v3h-2v-3h-3v-2h3v-3h2v3h3z\" fill=\"currentColor\"/>"
 		},
 		"note-remove": {
-			"body": "<path d=\"M15 3H5c-1.11 0-2 .89-2 2v14a2 2 0 0 0 2 2h14c1.11 0 2-.89 2-2V9l-6-6m-1.46 13.12l-1.42 1.42L10 15.41l-2.12 2.13l-1.41-1.42L8.59 14l-2.12-2.12l1.41-1.41L10 12.59l2.12-2.12l1.42 1.41L11.41 14l2.13 2.12M14 10V4.5l5.5 5.5H14z\" fill=\"currentColor\"/>"
+			"body": "<path d=\"M19 13c.7 0 1.37.13 2 .35V9l-6-6H5c-1.11 0-2 .89-2 2v14a2 2 0 0 0 2 2h8.35c-.22-.63-.35-1.3-.35-2c0-3.31 2.69-6 6-6m-5-8.5l5.5 5.5H14V4.5M20.41 19l2.13 2.12l-1.42 1.42L19 20.41l-2.12 2.13l-1.41-1.42L17.59 19l-2.12-2.12l1.41-1.41L19 17.59l2.12-2.12l1.42 1.41L20.41 19z\" fill=\"currentColor\"/>"
 		},
 		"note-remove-outline": {
-			"body": "<path d=\"M16 3H4c-1.11 0-2 .89-2 2v14a2 2 0 0 0 2 2h16c1.11 0 2-.89 2-2V9l-6-6m4 16H4V5h9v7h7v7m-5-9V4.5l5.5 5.5H15m-3.17 2.59L10.41 14l1.42 1.41l-1.42 1.42L9 15.41l-1.41 1.42l-1.42-1.42L7.59 14l-1.42-1.41l1.42-1.42L9 12.59l1.41-1.42l1.42 1.42z\" fill=\"currentColor\"/>"
+			"body": "<path d=\"M5 19V5h7v7h7v1c.7 0 1.37.13 2 .35V9l-6-6H5c-1.11 0-2 .89-2 2v14a2 2 0 0 0 2 2h8.35c-.22-.63-.35-1.3-.35-2H5m9-14.5l5.5 5.5H14V4.5M20.41 19l2.13 2.12l-1.42 1.42L19 20.41l-2.12 2.13l-1.41-1.42L17.59 19l-2.12-2.12l1.41-1.41L19 17.59l2.12-2.12l1.42 1.41L20.41 19z\" fill=\"currentColor\"/>"
 		},
 		"note-search": {
 			"body": "<path d=\"M15 3H5c-1.11 0-2 .89-2 2v5.82a6.505 6.505 0 0 1 9.1.08a6.525 6.525 0 0 1 0 9.2c-.36.35-.75.64-1.16.9H19c1.11 0 2-.89 2-2V9l-6-6m-1 7V4.5l5.5 5.5H14m-6.5 1C5 11 3 13 3 15.5c0 .88.25 1.71.69 2.4L.61 21L2 22.39l3.12-3.07c.69.43 1.51.68 2.38.68c2.5 0 4.5-2 4.5-4.5S10 11 7.5 11m0 7a2.5 2.5 0 0 1 0-5a2.5 2.5 0 0 1 0 5z\" fill=\"currentColor\"/>"
@@ -18676,6 +18684,15 @@
 		"account-card-details-outline": {
 			"parent": "card-account-details-outline"
 		},
+		"account-favorite": {
+			"parent": "account-star"
+		},
+		"account-funnel": {
+			"parent": "account-filter"
+		},
+		"account-funnel-outline": {
+			"parent": "account-filter-outline"
+		},
 		"account-help": {
 			"parent": "account-question"
 		},
@@ -18853,6 +18870,9 @@
 		"address-marker": {
 			"parent": "map-marker"
 		},
+		"address-marker-outline": {
+			"parent": "map-marker-outline"
+		},
 		"aed": {
 			"parent": "heart-flash"
 		},
@@ -18959,7 +18979,7 @@
 			"parent": "alarm-multiple"
 		},
 		"alcohol": {
-			"parent": "glass-wine"
+			"parent": "glass-mug"
 		},
 		"align-horizontal-centre": {
 			"parent": "align-horizontal-center"
@@ -19883,7 +19903,7 @@
 			"parent": "human-female-dance"
 		},
 		"ban": {
-			"parent": "file-cancel-outline"
+			"parent": "file-cancel"
 		},
 		"band-aid": {
 			"parent": "bandage"
@@ -19895,7 +19915,7 @@
 			"parent": "bank-plus"
 		},
 		"bar": {
-			"parent": "glass-wine"
+			"parent": "glass-mug"
 		},
 		"bar-chart": {
 			"parent": "poll"
@@ -20260,6 +20280,12 @@
 		"book-image": {
 			"parent": "image-album"
 		},
+		"book-location": {
+			"parent": "book-marker"
+		},
+		"book-location-outline": {
+			"parent": "book-marker-outline"
+		},
 		"book-multiple-add": {
 			"parent": "book-plus-multiple"
 		},
@@ -20376,6 +20402,21 @@
 		},
 		"bottle-rocket": {
 			"parent": "firework"
+		},
+		"box-alert": {
+			"parent": "archive-alert"
+		},
+		"box-alert-outline": {
+			"parent": "archive-alert-outline"
+		},
+		"box-arrow-down": {
+			"parent": "archive-arrow-down"
+		},
+		"box-arrow-up": {
+			"parent": "archive-arrow-up"
+		},
+		"box-arrow-up-outline": {
+			"parent": "archive-arrow-up-outline"
 		},
 		"box-down": {
 			"parent": "package-down"
@@ -20605,6 +20646,9 @@
 		"burst-mode": {
 			"parent": "camera-burst"
 		},
+		"bus-location": {
+			"parent": "bus-marker"
+		},
 		"bus-warning": {
 			"parent": "bus-alert"
 		},
@@ -20637,6 +20681,9 @@
 		},
 		"calendar-day": {
 			"parent": "calendar-today"
+		},
+		"calendar-favorite": {
+			"parent": "calendar-star"
 		},
 		"calendar-multiple-tick": {
 			"parent": "calendar-multiple-check"
@@ -20764,6 +20811,9 @@
 		"cancel-thick": {
 			"parent": "close-thick"
 		},
+		"canine": {
+			"parent": "dog-side"
+		},
 		"capsule": {
 			"parent": "pill"
 		},
@@ -20836,6 +20886,12 @@
 		"carbon-monoxide": {
 			"parent": "molecule-co"
 		},
+		"card-account-details-favorite": {
+			"parent": "card-account-details-star"
+		},
+		"card-account-details-favorite-outline": {
+			"parent": "card-account-details-star-outline"
+		},
 		"card-giftcard": {
 			"parent": "wallet-giftcard"
 		},
@@ -20898,6 +20954,9 @@
 		},
 		"cart-add": {
 			"parent": "cart-plus"
+		},
+		"cash-location": {
+			"parent": "cash-marker"
 		},
 		"cash-on-delivery": {
 			"parent": "cash-marker"
@@ -21488,7 +21547,7 @@
 			"parent": "spider-web"
 		},
 		"cocktail": {
-			"parent": "glass-wine"
+			"parent": "glass-tulip"
 		},
 		"cod": {
 			"parent": "credit-card-marker-outline"
@@ -21806,7 +21865,7 @@
 			"parent": "sofa"
 		},
 		"couch-outline": {
-			"parent": "sofa-single-outline"
+			"parent": "sofa-outline"
 		},
 		"counterclockwise": {
 			"parent": "history"
@@ -21852,6 +21911,12 @@
 		},
 		"credit-card-contactless": {
 			"parent": "credit-card-wireless-outline"
+		},
+		"credit-card-location": {
+			"parent": "credit-card-marker"
+		},
+		"credit-card-location-outline": {
+			"parent": "credit-card-marker-outline"
 		},
 		"credit-cards": {
 			"parent": "credit-card-multiple-outline"
@@ -21920,7 +21985,7 @@
 			"parent": "face-agent"
 		},
 		"cycling": {
-			"parent": "bicycle"
+			"parent": "bike"
 		},
 		"dad": {
 			"parent": "human-male-girl"
@@ -21936,6 +22001,12 @@
 		},
 		"database-add": {
 			"parent": "database-plus"
+		},
+		"database-location": {
+			"parent": "database-marker"
+		},
+		"database-location-outline": {
+			"parent": "database-marker-outline"
 		},
 		"database-tick": {
 			"parent": "database-check"
@@ -22031,7 +22102,7 @@
 			"parent": "cancel"
 		},
 		"dentist": {
-			"parent": "toothbrush"
+			"parent": "toothbrush-paste"
 		},
 		"departure-board": {
 			"parent": "bus-clock"
@@ -22109,7 +22180,7 @@
 			"parent": "dice-multiple"
 		},
 		"dietary-restriction": {
-			"parent": "food-kosher"
+			"parent": "food-halal"
 		},
 		"difference-left": {
 			"parent": "set-left"
@@ -22262,7 +22333,7 @@
 			"parent": "email-open"
 		},
 		"drink": {
-			"parent": "glass-wine"
+			"parent": "glass-mug"
 		},
 		"drink-ice": {
 			"parent": "delete-variant"
@@ -22438,6 +22509,336 @@
 		"emergency-exit": {
 			"parent": "exit-run"
 		},
+		"emoji": {
+			"parent": "emoticon"
+		},
+		"emoji-agent": {
+			"parent": "face-agent"
+		},
+		"emoji-angry": {
+			"parent": "emoticon-angry"
+		},
+		"emoji-angry-outline": {
+			"parent": "emoticon-angry-outline"
+		},
+		"emoji-baby": {
+			"parent": "baby-face"
+		},
+		"emoji-baby-outline": {
+			"parent": "baby-face-outline"
+		},
+		"emoji-cat": {
+			"parent": "cat"
+		},
+		"emoji-confused": {
+			"parent": "emoticon-confused"
+		},
+		"emoji-confused-outline": {
+			"parent": "emoticon-confused-outline"
+		},
+		"emoji-cool": {
+			"parent": "emoticon-cool"
+		},
+		"emoji-cool-outline": {
+			"parent": "emoticon-cool-outline"
+		},
+		"emoji-cow": {
+			"parent": "cow"
+		},
+		"emoji-cry": {
+			"parent": "emoticon-cry"
+		},
+		"emoji-cry-outline": {
+			"parent": "emoticon-cry-outline"
+		},
+		"emoji-dead": {
+			"parent": "emoticon-dead"
+		},
+		"emoji-dead-outline": {
+			"parent": "emoticon-dead-outline"
+		},
+		"emoji-devil": {
+			"parent": "emoticon-devil"
+		},
+		"emoji-devil-outline": {
+			"parent": "emoticon-devil-outline"
+		},
+		"emoji-dog": {
+			"parent": "dog"
+		},
+		"emoji-excited": {
+			"parent": "emoticon-excited"
+		},
+		"emoji-excited-outline": {
+			"parent": "emoticon-excited-outline"
+		},
+		"emoji-frown": {
+			"parent": "emoticon-frown"
+		},
+		"emoji-frown-outline": {
+			"parent": "emoticon-frown-outline"
+		},
+		"emoji-halloween": {
+			"parent": "halloween"
+		},
+		"emoji-happy": {
+			"parent": "emoticon-happy"
+		},
+		"emoji-happy-outline": {
+			"parent": "emoticon-happy-outline"
+		},
+		"emoji-kiss": {
+			"parent": "emoticon-kiss"
+		},
+		"emoji-kiss-outline": {
+			"parent": "emoticon-kiss-outline"
+		},
+		"emoji-koala": {
+			"parent": "koala"
+		},
+		"emoji-lol": {
+			"parent": "emoticon-lol"
+		},
+		"emoji-lol-outline": {
+			"parent": "emoticon-lol-outline"
+		},
+		"emoji-man": {
+			"parent": "face-man"
+		},
+		"emoji-man-outline": {
+			"parent": "face-man-outline"
+		},
+		"emoji-man-profile": {
+			"parent": "face-man-profile"
+		},
+		"emoji-man-shimmer": {
+			"parent": "face-man-shimmer"
+		},
+		"emoji-man-shimmer-outline": {
+			"parent": "face-man-shimmer-outline"
+		},
+		"emoji-neutral": {
+			"parent": "emoticon-neutral"
+		},
+		"emoji-neutral-outline": {
+			"parent": "emoticon-neutral-outline"
+		},
+		"emoji-outline": {
+			"parent": "emoticon-outline"
+		},
+		"emoji-panda": {
+			"parent": "panda"
+		},
+		"emoji-penguin": {
+			"parent": "penguin"
+		},
+		"emoji-pig": {
+			"parent": "pig"
+		},
+		"emoji-poop": {
+			"parent": "emoticon-poop"
+		},
+		"emoji-poop-outline": {
+			"parent": "emoticon-poop-outline"
+		},
+		"emoji-robot": {
+			"parent": "robot"
+		},
+		"emoji-robot-angry": {
+			"parent": "robot-angry"
+		},
+		"emoji-robot-angry-outline": {
+			"parent": "robot-angry-outline"
+		},
+		"emoji-robot-confused": {
+			"parent": "robot-confused"
+		},
+		"emoji-robot-confused-outline": {
+			"parent": "robot-confused-outline"
+		},
+		"emoji-robot-dead": {
+			"parent": "robot-dead"
+		},
+		"emoji-robot-dead-outline": {
+			"parent": "robot-dead-outline"
+		},
+		"emoji-robot-excited": {
+			"parent": "robot-excited"
+		},
+		"emoji-robot-excited-outline": {
+			"parent": "robot-excited-outline"
+		},
+		"emoji-robot-happy": {
+			"parent": "robot-happy"
+		},
+		"emoji-robot-happy-outline": {
+			"parent": "robot-happy-outline"
+		},
+		"emoji-robot-love": {
+			"parent": "robot-love"
+		},
+		"emoji-robot-off": {
+			"parent": "robot-off"
+		},
+		"emoji-robot-outline": {
+			"parent": "robot-outline"
+		},
+		"emoji-sad": {
+			"parent": "emoticon-sad"
+		},
+		"emoji-sad-outline": {
+			"parent": "emoticon-sad-outline"
+		},
+		"emoji-sheep": {
+			"parent": "sheep"
+		},
+		"emoji-sick": {
+			"parent": "emoticon-sick"
+		},
+		"emoji-sick-outline": {
+			"parent": "emoticon-sick-outline"
+		},
+		"emoji-star": {
+			"parent": "star-face"
+		},
+		"emoji-tongue": {
+			"parent": "emoticon-tongue"
+		},
+		"emoji-tongue-outline": {
+			"parent": "emoticon-tongue-outline"
+		},
+		"emoji-wink": {
+			"parent": "emoticon-wink"
+		},
+		"emoji-wink-outline": {
+			"parent": "emoticon-wink-outline"
+		},
+		"emoji-woman": {
+			"parent": "face-woman"
+		},
+		"emoji-woman-outline": {
+			"parent": "face-woman-outline"
+		},
+		"emoji-woman-profile": {
+			"parent": "face-woman-profile"
+		},
+		"emoji-woman-shimmer": {
+			"parent": "face-woman-shimmer"
+		},
+		"emoji-woman-shimmer-outline": {
+			"parent": "face-woman-shimmer-outline"
+		},
+		"emoticon-agent": {
+			"parent": "face-agent"
+		},
+		"emoticon-baby": {
+			"parent": "baby-face"
+		},
+		"emoticon-baby-outline": {
+			"parent": "baby-face-outline"
+		},
+		"emoticon-cat": {
+			"parent": "cat"
+		},
+		"emoticon-cow": {
+			"parent": "cow"
+		},
+		"emoticon-dog": {
+			"parent": "dog"
+		},
+		"emoticon-halloween": {
+			"parent": "halloween"
+		},
+		"emoticon-koala": {
+			"parent": "koala"
+		},
+		"emoticon-man": {
+			"parent": "face-man"
+		},
+		"emoticon-man-outline": {
+			"parent": "face-man-outline"
+		},
+		"emoticon-man-profile": {
+			"parent": "face-man-profile"
+		},
+		"emoticon-man-shimmer": {
+			"parent": "face-man-shimmer"
+		},
+		"emoticon-man-shimmer-outline": {
+			"parent": "face-man-shimmer-outline"
+		},
+		"emoticon-panda": {
+			"parent": "panda"
+		},
+		"emoticon-penguin": {
+			"parent": "penguin"
+		},
+		"emoticon-pig": {
+			"parent": "pig"
+		},
+		"emoticon-robot": {
+			"parent": "robot"
+		},
+		"emoticon-robot-angry": {
+			"parent": "robot-angry"
+		},
+		"emoticon-robot-angry-outline": {
+			"parent": "robot-angry-outline"
+		},
+		"emoticon-robot-confused": {
+			"parent": "robot-confused"
+		},
+		"emoticon-robot-confused-outline": {
+			"parent": "robot-confused-outline"
+		},
+		"emoticon-robot-dead": {
+			"parent": "robot-dead"
+		},
+		"emoticon-robot-dead-outline": {
+			"parent": "robot-dead-outline"
+		},
+		"emoticon-robot-excited": {
+			"parent": "robot-excited"
+		},
+		"emoticon-robot-excited-outline": {
+			"parent": "robot-excited-outline"
+		},
+		"emoticon-robot-happy": {
+			"parent": "robot-happy"
+		},
+		"emoticon-robot-happy-outline": {
+			"parent": "robot-happy-outline"
+		},
+		"emoticon-robot-love": {
+			"parent": "robot-love"
+		},
+		"emoticon-robot-off": {
+			"parent": "robot-off"
+		},
+		"emoticon-robot-outline": {
+			"parent": "robot-outline"
+		},
+		"emoticon-sheep": {
+			"parent": "sheep"
+		},
+		"emoticon-star": {
+			"parent": "star-face"
+		},
+		"emoticon-woman": {
+			"parent": "face-woman"
+		},
+		"emoticon-woman-outline": {
+			"parent": "face-woman-outline"
+		},
+		"emoticon-woman-profile": {
+			"parent": "face-woman-profile"
+		},
+		"emoticon-woman-shimmer": {
+			"parent": "face-woman-shimmer"
+		},
+		"emoticon-woman-shimmer-outline": {
+			"parent": "face-woman-shimmer-outline"
+		},
 		"encryption": {
 			"parent": "lock"
 		},
@@ -22568,7 +22969,10 @@
 			"parent": "tune-vertical-variant"
 		},
 		"equestrian": {
-			"parent": "horse-human"
+			"parent": "horse"
+		},
+		"equestrian-variant": {
+			"parent": "horse-variant"
 		},
 		"erase": {
 			"parent": "backspace"
@@ -22787,7 +23191,7 @@
 			"parent": "toy-brick"
 		},
 		"extension-outline": {
-			"parent": "puzzle-outline"
+			"parent": "toy-brick-marker-outline"
 		},
 		"external-link": {
 			"parent": "open-in-new"
@@ -23005,6 +23409,12 @@
 		"fan-speed-up": {
 			"parent": "fan-chevron-up"
 		},
+		"fantasy": {
+			"parent": "unicorn"
+		},
+		"fantasy-variant": {
+			"parent": "unicorn-variant"
+		},
 		"faq": {
 			"parent": "frequently-asked-questions"
 		},
@@ -23030,13 +23440,94 @@
 			"parent": "water-pump-off"
 		},
 		"favorite": {
-			"parent": "heart"
+			"parent": "star"
+		},
+		"favorite-add": {
+			"parent": "star-plus"
+		},
+		"favorite-add-outline": {
+			"parent": "star-plus-outline"
 		},
 		"favorite-border": {
 			"parent": "heart-outline"
 		},
+		"favorite-box": {
+			"parent": "star-box"
+		},
+		"favorite-box-multiple": {
+			"parent": "star-box-multiple"
+		},
+		"favorite-box-multiple-outline": {
+			"parent": "star-box-multiple-outline"
+		},
+		"favorite-box-outline": {
+			"parent": "star-box-outline"
+		},
+		"favorite-check": {
+			"parent": "star-check"
+		},
+		"favorite-check-outline": {
+			"parent": "star-check-outline"
+		},
+		"favorite-circle": {
+			"parent": "star-circle"
+		},
+		"favorite-circle-outline": {
+			"parent": "star-circle-outline"
+		},
+		"favorite-cog": {
+			"parent": "star-cog"
+		},
+		"favorite-cog-outline": {
+			"parent": "star-cog-outline"
+		},
+		"favorite-face": {
+			"parent": "star-face"
+		},
+		"favorite-half": {
+			"parent": "star-half"
+		},
+		"favorite-half-full": {
+			"parent": "star-half-full"
+		},
+		"favorite-minus": {
+			"parent": "star-minus"
+		},
+		"favorite-minus-outline": {
+			"parent": "star-minus-outline"
+		},
+		"favorite-off": {
+			"parent": "star-off"
+		},
+		"favorite-off-outline": {
+			"parent": "star-off-outline"
+		},
 		"favorite-outline": {
-			"parent": "heart-outline"
+			"parent": "star-outline"
+		},
+		"favorite-plus": {
+			"parent": "star-plus"
+		},
+		"favorite-plus-outline": {
+			"parent": "star-plus-outline"
+		},
+		"favorite-remove": {
+			"parent": "star-remove"
+		},
+		"favorite-remove-outline": {
+			"parent": "star-remove-outline"
+		},
+		"favorite-settings": {
+			"parent": "star-settings"
+		},
+		"favorite-settings-outline": {
+			"parent": "star-settings-outline"
+		},
+		"favorite-shooting": {
+			"parent": "star-shooting"
+		},
+		"favorite-shooting-outline": {
+			"parent": "star-shooting-outline"
 		},
 		"favourite": {
 			"parent": "heart"
@@ -23142,6 +23633,12 @@
 		},
 		"file-document-boxes-outline": {
 			"parent": "text-box-multiple-outline"
+		},
+		"file-favorite": {
+			"parent": "file-star"
+		},
+		"file-favorite-outline": {
+			"parent": "file-star-outline"
 		},
 		"file-report": {
 			"parent": "file-chart"
@@ -23485,11 +23982,29 @@
 		"folder-add-outline": {
 			"parent": "folder-plus-outline"
 		},
+		"folder-favorite": {
+			"parent": "folder-star"
+		},
+		"folder-favorite-multiple": {
+			"parent": "folder-star-multiple"
+		},
+		"folder-favorite-multiple-outline": {
+			"parent": "folder-star-multiple-outline"
+		},
+		"folder-favorite-outline": {
+			"parent": "folder-star-outline"
+		},
 		"folder-hash": {
 			"parent": "folder-pound"
 		},
 		"folder-hash-outline": {
 			"parent": "folder-pound-outline"
+		},
+		"folder-location": {
+			"parent": "folder-marker"
+		},
+		"folder-location-outline": {
+			"parent": "folder-marker-outline"
 		},
 		"folder-mydrive": {
 			"parent": "folder-google-drive"
@@ -23582,7 +24097,7 @@
 			"parent": "shoe-print"
 		},
 		"forbid": {
-			"parent": "file-cancel-outline"
+			"parent": "file-cancel"
 		},
 		"foreign-key": {
 			"parent": "key-link"
@@ -23836,6 +24351,9 @@
 		"gasoline": {
 			"parent": "fuel"
 		},
+		"gastropod": {
+			"parent": "snail"
+		},
 		"gear": {
 			"parent": "cog"
 		},
@@ -24006,6 +24524,9 @@
 		},
 		"hand-truck": {
 			"parent": "dolly"
+		},
+		"hare": {
+			"parent": "rabbit"
 		},
 		"harry-potter": {
 			"parent": "deathly-hallows"
@@ -24250,6 +24771,9 @@
 		"home-floor-zero": {
 			"parent": "home-floor-0"
 		},
+		"home-location": {
+			"parent": "home-map-marker"
+		},
 		"home-temperature": {
 			"parent": "home-thermometer"
 		},
@@ -24315,6 +24839,9 @@
 		},
 		"horseback-riding": {
 			"parent": "horse-human"
+		},
+		"hospital-location": {
+			"parent": "hospital-marker"
 		},
 		"hot-air-balloon": {
 			"parent": "airballoon"
@@ -24500,7 +25027,7 @@
 			"parent": "card-account-details-outline"
 		},
 		"idea": {
-			"parent": "lightbulb-outline"
+			"parent": "lightbulb"
 		},
 		"identification-card": {
 			"parent": "card-account-details"
@@ -24757,6 +25284,9 @@
 		"jump": {
 			"parent": "debug-step-over"
 		},
+		"k9": {
+			"parent": "dog-side"
+		},
 		"karabiner": {
 			"parent": "carabiner"
 		},
@@ -24801,6 +25331,9 @@
 		},
 		"key-add": {
 			"parent": "key-plus"
+		},
+		"key-favorite": {
+			"parent": "key-star"
 		},
 		"keyboard-arrow-down": {
 			"parent": "chevron-down"
@@ -24904,6 +25437,12 @@
 		"layers-clear": {
 			"parent": "layers-off"
 		},
+		"leads": {
+			"parent": "account-filter"
+		},
+		"leads-outline": {
+			"parent": "account-filter-outline"
+		},
 		"learn": {
 			"parent": "school"
 		},
@@ -24915,6 +25454,15 @@
 		},
 		"lego": {
 			"parent": "toy-brick"
+		},
+		"lego-location": {
+			"parent": "toy-brick-marker"
+		},
+		"lego-location-outline": {
+			"parent": "toy-brick-marker-outline"
+		},
+		"lego-outline": {
+			"parent": "toy-brick-marker-outline"
 		},
 		"lens": {
 			"parent": "circle"
@@ -25534,17 +26082,134 @@
 		"location": {
 			"parent": "map-marker"
 		},
+		"location-add": {
+			"parent": "map-marker-plus"
+		},
+		"location-add-outline": {
+			"parent": "map-marker-plus-outline"
+		},
+		"location-alert": {
+			"parent": "map-marker-alert"
+		},
+		"location-alert-outline": {
+			"parent": "map-marker-alert-outline"
+		},
+		"location-check": {
+			"parent": "map-marker-check"
+		},
+		"location-check-outline": {
+			"parent": "map-marker-check-outline"
+		},
+		"location-circle": {
+			"parent": "map-marker-circle"
+		},
 		"location-city": {
 			"parent": "city"
+		},
+		"location-distance": {
+			"parent": "map-marker-distance"
+		},
+		"location-down": {
+			"parent": "map-marker-down"
+		},
+		"location-favorite": {
+			"parent": "map-marker-star"
+		},
+		"location-favorite-outline": {
+			"parent": "map-marker-star-outline"
+		},
+		"location-left": {
+			"parent": "map-marker-left"
+		},
+		"location-left-outline": {
+			"parent": "map-marker-left-outline"
+		},
+		"location-minus": {
+			"parent": "map-marker-minus"
+		},
+		"location-minus-outline": {
+			"parent": "map-marker-minus-outline"
+		},
+		"location-multiple": {
+			"parent": "map-marker-multiple"
+		},
+		"location-multiple-outline": {
+			"parent": "map-marker-multiple-outline"
 		},
 		"location-off": {
 			"parent": "map-marker-off"
 		},
+		"location-off-outline": {
+			"parent": "map-marker-off-outline"
+		},
 		"location-on": {
 			"parent": "map-marker"
 		},
+		"location-on-outline": {
+			"parent": "map-marker-outline"
+		},
+		"location-outline": {
+			"parent": "map-marker-outline"
+		},
+		"location-path": {
+			"parent": "map-marker-path"
+		},
+		"location-plus": {
+			"parent": "map-marker-plus"
+		},
+		"location-plus-outline": {
+			"parent": "map-marker-plus-outline"
+		},
+		"location-question": {
+			"parent": "map-marker-question"
+		},
+		"location-question-outline": {
+			"parent": "map-marker-question-outline"
+		},
+		"location-radius": {
+			"parent": "map-marker-radius"
+		},
+		"location-radius-outline": {
+			"parent": "map-marker-radius-outline"
+		},
+		"location-remove": {
+			"parent": "map-marker-remove"
+		},
+		"location-remove-outline": {
+			"parent": "map-marker-remove-outline"
+		},
+		"location-remove-variant-outline": {
+			"parent": "map-marker-remove-variant"
+		},
+		"location-right": {
+			"parent": "map-marker-right"
+		},
+		"location-right-outline": {
+			"parent": "map-marker-right-outline"
+		},
 		"location-searching": {
 			"parent": "crosshairs"
+		},
+		"location-star": {
+			"parent": "map-marker-star"
+		},
+		"location-star-outline": {
+			"parent": "map-marker-star-outline"
+		},
+		"location-up": {
+			"parent": "map-marker-up"
+		},
+		"location-warning": {
+			"parent": "map-marker-alert"
+		},
+		"location-warning-outline": {
+			"parent": "map-marker-alert-outline"
+		},
+		"locations": {
+			"parent": "map-marker-multiple"
+		},
+		"locations-outline": {
+			"parent": "map-marker-multiple-outline"
 		},
 		"lock-add": {
 			"parent": "lock-plus"
@@ -25720,6 +26385,12 @@
 		"map-add": {
 			"parent": "map-plus"
 		},
+		"map-marker-add": {
+			"parent": "map-marker-plus"
+		},
+		"map-marker-add-outline": {
+			"parent": "map-marker-plus-outline"
+		},
 		"map-marker-favorite": {
 			"parent": "map-marker-star"
 		},
@@ -25731,6 +26402,9 @@
 		},
 		"map-markers": {
 			"parent": "map-marker-multiple"
+		},
+		"map-markers-outline": {
+			"parent": "map-marker-multiple-outline"
 		},
 		"map-tick": {
 			"parent": "map-check"
@@ -25764,6 +26438,9 @@
 		},
 		"mars": {
 			"parent": "gender-male"
+		},
+		"marsupial": {
+			"parent": "koala"
 		},
 		"martial-arts": {
 			"parent": "karate"
@@ -26086,8 +26763,14 @@
 		"money-usd": {
 			"parent": "cash-usd"
 		},
+		"monitor-cellphone-favorite": {
+			"parent": "monitor-cellphone-star"
+		},
 		"monitor-clean": {
 			"parent": "monitor-shimmer"
+		},
+		"monitor-favorite": {
+			"parent": "monitor-star"
 		},
 		"monitor-mobile-phone": {
 			"parent": "monitor-cellphone"
@@ -26169,6 +26852,18 @@
 		},
 		"movie-creation": {
 			"parent": "movie"
+		},
+		"movie-favorite": {
+			"parent": "movie-star"
+		},
+		"movie-favorite-outline": {
+			"parent": "movie-star-outline"
+		},
+		"movie-open-favorite": {
+			"parent": "movie-open-star"
+		},
+		"movie-open-favorite-outline": {
+			"parent": "movie-open-star-outline"
 		},
 		"mozilla-firefox": {
 			"parent": "firefox"
@@ -26298,6 +26993,9 @@
 		},
 		"network-attached-storage": {
 			"parent": "nas"
+		},
+		"network-favorite": {
+			"parent": "wifi-star"
 		},
 		"network-favourite": {
 			"parent": "wifi-star"
@@ -26948,7 +27646,7 @@
 			"parent": "ocr"
 		},
 		"oral-hygiene": {
-			"parent": "toothbrush"
+			"parent": "toothbrush-paste"
 		},
 		"order-checkbox-ascending": {
 			"parent": "order-bool-ascending-variant"
@@ -27034,6 +27732,12 @@
 		"paper": {
 			"parent": "note"
 		},
+		"paper-add": {
+			"parent": "note-plus"
+		},
+		"paper-add-outline": {
+			"parent": "note-plus-outline"
+		},
 		"paper-airplane": {
 			"parent": "send"
 		},
@@ -27042,6 +27746,12 @@
 		},
 		"paper-jam": {
 			"parent": "printer-alert"
+		},
+		"paper-minus": {
+			"parent": "note-minus"
+		},
+		"paper-minus-outline": {
+			"parent": "note-minus-outline"
 		},
 		"paper-outline": {
 			"parent": "note-outline"
@@ -27052,6 +27762,27 @@
 		"paper-plane-outline": {
 			"parent": "send-outline"
 		},
+		"paper-plus": {
+			"parent": "note-plus"
+		},
+		"paper-plus-outline": {
+			"parent": "note-plus-outline"
+		},
+		"paper-remove": {
+			"parent": "note-remove"
+		},
+		"paper-search": {
+			"parent": "note-search"
+		},
+		"paper-search-outline": {
+			"parent": "note-search-outline"
+		},
+		"paper-text": {
+			"parent": "note-text"
+		},
+		"paper-text-outline": {
+			"parent": "note-text-outline"
+		},
 		"paper-towels": {
 			"parent": "paper-roll"
 		},
@@ -27060,6 +27791,12 @@
 		},
 		"paperclip-horizontal": {
 			"parent": "attachment"
+		},
+		"papers": {
+			"parent": "note-multiple"
+		},
+		"papers-outline": {
+			"parent": "note-multiple-outline"
 		},
 		"paraglide": {
 			"parent": "paragliding"
@@ -27179,6 +27916,9 @@
 			"parent": "credit-card-outline"
 		},
 		"payment-on-delivery": {
+			"parent": "credit-card-marker"
+		},
+		"payment-on-delivery-outline": {
 			"parent": "credit-card-marker-outline"
 		},
 		"payment-settings": {
@@ -27637,6 +28377,9 @@
 		"place": {
 			"parent": "map-marker"
 		},
+		"place-outline": {
+			"parent": "map-marker-outline"
+		},
 		"plane": {
 			"parent": "airplane"
 		},
@@ -27691,6 +28434,9 @@
 		"playlist-add-check": {
 			"parent": "playlist-check"
 		},
+		"playlist-favorite": {
+			"parent": "playlist-star"
+		},
 		"playlist-note": {
 			"parent": "playlist-music"
 		},
@@ -27726,6 +28472,9 @@
 		},
 		"plugin": {
 			"parent": "toy-brick"
+		},
+		"plugin-outline": {
+			"parent": "toy-brick-marker-outline"
 		},
 		"plus-bold": {
 			"parent": "plus-thick"
@@ -27780,6 +28529,51 @@
 		},
 		"portrait": {
 			"parent": "account-box-outline"
+		},
+		"post-it-note": {
+			"parent": "note"
+		},
+		"post-it-note-add": {
+			"parent": "note-plus"
+		},
+		"post-it-note-add-outline": {
+			"parent": "note-plus-outline"
+		},
+		"post-it-note-minus": {
+			"parent": "note-minus"
+		},
+		"post-it-note-minus-outline": {
+			"parent": "note-minus-outline"
+		},
+		"post-it-note-outline": {
+			"parent": "note-outline"
+		},
+		"post-it-note-plus": {
+			"parent": "note-plus"
+		},
+		"post-it-note-plus-outline": {
+			"parent": "note-plus-outline"
+		},
+		"post-it-note-remove": {
+			"parent": "note-remove"
+		},
+		"post-it-note-search": {
+			"parent": "note-search"
+		},
+		"post-it-note-search-outline": {
+			"parent": "note-search-outline"
+		},
+		"post-it-note-text": {
+			"parent": "note-text"
+		},
+		"post-it-note-text-outline": {
+			"parent": "note-text-outline"
+		},
+		"post-it-notes": {
+			"parent": "note-multiple"
+		},
+		"post-it-notes-outline": {
+			"parent": "note-multiple-outline"
 		},
 		"pot-light-flat": {
 			"parent": "wall-sconce-flat"
@@ -27947,7 +28741,7 @@
 			"parent": "printer-pos"
 		},
 		"printer-preview": {
-			"parent": "printer-search"
+			"parent": "printer-eye"
 		},
 		"printer-view": {
 			"parent": "printer-eye"
@@ -28014,6 +28808,12 @@
 		},
 		"pumpkin-face": {
 			"parent": "halloween"
+		},
+		"puzzle-favorite": {
+			"parent": "puzzle-star"
+		},
+		"puzzle-favorite-outline": {
+			"parent": "puzzle-star-outline"
 		},
 		"pylon": {
 			"parent": "transmission-tower"
@@ -28273,6 +29073,9 @@
 		"report-problem": {
 			"parent": "alert"
 		},
+		"reptile": {
+			"parent": "turtle"
+		},
 		"reschedule": {
 			"parent": "calendar-arrow-right"
 		},
@@ -28507,8 +29310,20 @@
 		"select-colour": {
 			"parent": "select-color"
 		},
+		"select-location": {
+			"parent": "select-marker"
+		},
+		"select-multiple-location": {
+			"parent": "select-multiple-marker"
+		},
 		"selection-invert": {
 			"parent": "select-inverse"
+		},
+		"selection-location": {
+			"parent": "selection-marker"
+		},
+		"selection-multiple-location": {
+			"parent": "selection-multiple-marker"
 		},
 		"selection-mutliple": {
 			"parent": "selection-multiple"
@@ -28671,6 +29486,12 @@
 		},
 		"shield-christianity-outline": {
 			"parent": "shield-cross-outline"
+		},
+		"shield-favorite": {
+			"parent": "shield-star"
+		},
+		"shield-favorite-outline": {
+			"parent": "shield-star-outline"
 		},
 		"shield-house": {
 			"parent": "shield-home"
@@ -29332,6 +30153,12 @@
 		"stanley-knife": {
 			"parent": "box-cutter"
 		},
+		"star-add": {
+			"parent": "star-plus"
+		},
+		"star-add-outline": {
+			"parent": "star-plus-outline"
+		},
 		"star-border": {
 			"parent": "star-outline"
 		},
@@ -29358,6 +30185,51 @@
 		},
 		"sterling": {
 			"parent": "currency-gbp"
+		},
+		"sticky-note": {
+			"parent": "note"
+		},
+		"sticky-note-add": {
+			"parent": "note-plus"
+		},
+		"sticky-note-add-outline": {
+			"parent": "note-plus-outline"
+		},
+		"sticky-note-minus": {
+			"parent": "note-minus"
+		},
+		"sticky-note-minus-outline": {
+			"parent": "note-minus-outline"
+		},
+		"sticky-note-outline": {
+			"parent": "note-outline"
+		},
+		"sticky-note-plus": {
+			"parent": "note-plus"
+		},
+		"sticky-note-plus-outline": {
+			"parent": "note-plus-outline"
+		},
+		"sticky-note-remove": {
+			"parent": "note-remove"
+		},
+		"sticky-note-search": {
+			"parent": "note-search"
+		},
+		"sticky-note-search-outline": {
+			"parent": "note-search-outline"
+		},
+		"sticky-note-text": {
+			"parent": "note-text"
+		},
+		"sticky-note-text-outline": {
+			"parent": "note-text-outline"
+		},
+		"sticky-notes": {
+			"parent": "note-multiple"
+		},
+		"sticky-notes-outline": {
+			"parent": "note-multiple-outline"
 		},
 		"stop-alert": {
 			"parent": "alert-octagon"
@@ -29616,6 +30488,12 @@
 		},
 		"tag-add": {
 			"parent": "tag-plus"
+		},
+		"tag-emoji": {
+			"parent": "tag-faces"
+		},
+		"tag-emoticon": {
+			"parent": "tag-faces"
 		},
 		"tags": {
 			"parent": "tag-multiple"
@@ -29881,6 +30759,18 @@
 		"thinking-outline": {
 			"parent": "thought-bubble-outline"
 		},
+		"this-side-down": {
+			"parent": "package-down"
+		},
+		"this-side-down-outline": {
+			"parent": "archive-arrow-down-outline"
+		},
+		"this-side-up": {
+			"parent": "package-up"
+		},
+		"this-side-up-outline": {
+			"parent": "archive-arrow-up-outline"
+		},
 		"thumbs-down": {
 			"parent": "thumb-down"
 		},
@@ -29997,6 +30887,12 @@
 		},
 		"towing": {
 			"parent": "tow-truck"
+		},
+		"toy-brick-location": {
+			"parent": "toy-brick-marker"
+		},
+		"toy-brick-location-outline": {
+			"parent": "toy-brick-marker-outline"
 		},
 		"toys": {
 			"parent": "pinwheel"
@@ -30943,6 +31839,9 @@
 		"where-to-vote": {
 			"parent": "map-marker-check"
 		},
+		"where-to-vote-outline": {
+			"parent": "map-marker-check-outline"
+		},
 		"whiff-whaff": {
 			"parent": "table-tennis"
 		},
@@ -30952,8 +31851,14 @@
 		"wide-area-network": {
 			"parent": "wan"
 		},
+		"wifi-favorite": {
+			"parent": "wifi-star"
+		},
 		"wifi-favourite": {
 			"parent": "wifi-star"
+		},
+		"wifi-location": {
+			"parent": "wifi-marker"
 		},
 		"wifi-strength-0": {
 			"parent": "wifi-strength-outline"
@@ -33548,7 +34453,7 @@
 		"f0933": "trackpad-lock",
 		"f0934": "account-box-multiple",
 		"f0935": "account-search-outline",
-		"f0936": "adobe",
+		"f0936": "account-filter",
 		"f0937": "angle-acute",
 		"f0938": "angle-obtuse",
 		"f0939": "angle-right",
@@ -35187,7 +36092,7 @@
 		"f0f9a": "timeline-help-outline",
 		"f0f9b": "home-export-outline",
 		"f0f9c": "home-import-outline",
-		"f0f9d": "adobe-acrobat",
+		"f0f9d": "account-filter-outline",
 		"f0f9e": "approximately-equal",
 		"f0f9f": "approximately-equal-box",
 		"f0fa0": "baby-carriage-off",
@@ -37189,6 +38094,8 @@
 			"account-details-outline",
 			"account-edit",
 			"account-edit-outline",
+			"account-filter",
+			"account-filter-outline",
 			"account-group",
 			"account-group-outline",
 			"account-hard-hat",
@@ -37729,9 +38636,14 @@
 			"syllabary-katakana-halfwidth"
 		],
 		"Animal": [
+			"bat",
 			"bee",
 			"bird",
 			"bone",
+			"bug",
+			"bug-check",
+			"bug-check-outline",
+			"bug-outline",
 			"butterfly",
 			"butterfly-outline",
 			"cat",
@@ -38369,8 +39281,6 @@
 			"microsoft-xbox-controller-battery-unknown"
 		],
 		"Brand / Logo": [
-			"adobe",
-			"adobe-acrobat",
 			"amazon",
 			"amazon-alexa",
 			"android",

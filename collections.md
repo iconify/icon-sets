@@ -21,7 +21,7 @@
 
 
 ### Google Material Icons
-* Number of icons: 7215
+* Number of icons: 9050
 * Author: Material Design Authors
 * URL: https://github.com/cyberalien/google-material-design-icons-updated
 * License: Apache 2.0
@@ -101,7 +101,7 @@
 * URL: https://github.com/ionic-team/ionicons
 * License: MIT
 * License URL: https://github.com/ionic-team/ionicons/blob/master/LICENSE
-* Version: 5.5.0-1
+* Version: 5.5.0
 * Palette: Colorless
 
 
@@ -360,7 +360,7 @@
 * URL: https://github.com/artcoholic/akar-icons
 * License: MIT
 * License URL: https://github.com/artcoholic/akar-icons/blob/master/LICENSE
-* Version: 1.0.7
+* Version: 1.0.9
 * Palette: Colorless
 
 

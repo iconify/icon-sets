@@ -106,7 +106,7 @@
 
 
 ### Bootstrap Icons
-* Number of icons: 1265
+* Number of icons: 1325
 * Author: The Bootstrap Authors
 * URL: https://github.com/twbs/icons
 * License: MIT
@@ -128,7 +128,7 @@
 * Author: IBM
 * URL: https://github.com/carbon-design-system/carbon/tree/master/packages/icons
 * License: Apache 2.0
-* Version: 10.25.0
+* Version: 10.26.0-rc.0
 * Palette: Colorless
 
 
@@ -289,7 +289,7 @@
 
 
 ### Codicons
-* Number of icons: 342
+* Number of icons: 345
 * Author: Microsoft Corporation
 * URL: https://github.com/microsoft/vscode-codicons
 * License: CC BY 4.0
@@ -331,7 +331,7 @@
 * Author: Modulz
 * URL: https://github.com/modulz/radix-icons
 * License: MIT
-* Version: 1.0.1
+* Version: 1.0.2
 * Palette: Colorless
 
 
@@ -728,7 +728,7 @@
 
 
 ### OpenMoji
-* Number of icons: 3888
+* Number of icons: 3889
 * Author: OpenMoji
 * URL: https://github.com/hfg-gmuend/openmoji
 * License: CC BY-SA 4.0

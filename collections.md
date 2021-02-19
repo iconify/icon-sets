@@ -80,8 +80,7 @@
 * Number of icons: 1544
 * Author: Icons8
 * URL: https://github.com/icons8/line-awesome
-* License: Good Boy License
-* License URL: https://icons8.com/good-boy-license/
+* License: MIT
 * Version: 1.2.1
 * Palette: Colorless
 
@@ -272,8 +271,7 @@
 * Number of icons: 329
 * Author: Icons8
 * URL: https://github.com/icons8/flat-Color-icons
-* License: Good Boy License
-* License URL: https://icons8.com/good-boy-license/
+* License: MIT
 * Version: 1.0.2
 * Palette: Colorful
 
@@ -470,8 +468,7 @@
 * Number of icons: 234
 * Author: Icons8
 * URL: https://github.com/icons8/windows-10-icons
-* License: Good Boy License
-* License URL: https://icons8.com/good-boy-license/
+* License: MIT
 * Version: 1.0.0
 * Palette: Colorless
 
@@ -480,8 +477,7 @@
 * Number of icons: 200
 * Author: Icons8
 * URL: https://github.com/icons8/WPF-UI-Framework
-* License: Good Boy License
-* License URL: https://icons8.com/good-boy-license/
+* License: MIT
 * Palette: Colorless
 
 

@@ -127,7 +127,7 @@
 * Author: IBM
 * URL: https://github.com/carbon-design-system/carbon/tree/master/packages/icons
 * License: Apache 2.0
-* Version: 10.26.0-rc.0
+* Version: 10.26.0
 * Palette: Colorless
 
 
@@ -527,7 +527,7 @@
 * URL: https://github.com/microsoft/fluentui-system-icons
 * License: MIT
 * License URL: https://github.com/microsoft/fluentui-system-icons/blob/master/LICENSE
-* Version: 1.1.97
+* Version: 1.1.98
 * Palette: Colorless
 
 

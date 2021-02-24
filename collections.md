@@ -110,7 +110,7 @@
 * URL: https://github.com/twbs/icons
 * License: MIT
 * License URL: https://github.com/twbs/icons/blob/master/LICENSE.md
-* Version: 1.3.0
+* Version: 1.4.0
 * Palette: Colorless
 
 
@@ -287,7 +287,7 @@
 
 
 ### Codicons
-* Number of icons: 345
+* Number of icons: 346
 * Author: Microsoft Corporation
 * URL: https://github.com/microsoft/vscode-codicons
 * License: CC BY 4.0
@@ -353,12 +353,12 @@
 
 
 ### Akar Icons
-* Number of icons: 208
+* Number of icons: 224
 * Author: Arturo Wibawa
 * URL: https://github.com/artcoholic/akar-icons
 * License: MIT
 * License URL: https://github.com/artcoholic/akar-icons/blob/master/LICENSE
-* Version: 1.0.9
+* Version: 1.1.0
 * Palette: Colorless
 
 
@@ -527,7 +527,7 @@
 * URL: https://github.com/microsoft/fluentui-system-icons
 * License: MIT
 * License URL: https://github.com/microsoft/fluentui-system-icons/blob/master/LICENSE
-* Version: 1.1.98
+* Version: 1.1.99
 * Palette: Colorless
 
 

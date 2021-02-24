@@ -2,7 +2,7 @@
 	"prefix": "codicon",
 	"info": {
 		"name": "Codicons",
-		"total": 345,
+		"total": 346,
 		"author": {
 			"name": "Microsoft Corporation",
 			"url": "https://github.com/microsoft/vscode-codicons"
@@ -256,13 +256,16 @@
 			"height": 24
 		},
 		"debug-continue": {
-			"body": "<g fill=\"currentColor\"><path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M2.5 2H4v12H2.5V2zm3.5.18V14l9-5.938l-9-5.881zm6.315 5.882L7.5 5v6.18l4.815-3.118z\"/></g>"
+			"body": "<g fill=\"currentColor\"><path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M2.5 2H4v12H2.5V2zm4.936.39L6.25 3v10l1.186.61l7-5V7.39l-7-5zM12.71 8l-4.96 3.543V4.457L12.71 8z\"/></g>"
 		},
 		"debug-disconnect": {
 			"body": "<g fill=\"currentColor\"><path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M13.617 3.844a2.87 2.87 0 0 0-.451-.868l1.354-1.36L13.904 1l-1.36 1.354a2.877 2.877 0 0 0-.868-.452a3.073 3.073 0 0 0-2.14.075a3.03 3.03 0 0 0-.991.664L7 4.192l4.327 4.328l1.552-1.545c.287-.287.508-.618.663-.992a3.074 3.074 0 0 0 .075-2.14zm-.889 1.804a2.15 2.15 0 0 1-.471.705l-.93.93l-3.09-3.09l.93-.93a2.15 2.15 0 0 1 .704-.472a2.134 2.134 0 0 1 1.689.007c.264.114.494.271.69.472c.2.195.358.426.472.69a2.134 2.134 0 0 1 .007 1.688zm-4.824 4.994l1.484-1.545l-.616-.622l-1.49 1.551l-1.86-1.859l1.491-1.552L6.291 6L4.808 7.545l-.616-.615l-1.551 1.545a3 3 0 0 0-.663.998a3.023 3.023 0 0 0-.233 1.169c0 .332.05.656.15.97c.105.31.258.597.459.862L1 13.834l.615.615l1.36-1.353c.265.2.552.353.862.458c.314.1.638.15.97.15c.406 0 .796-.077 1.17-.232c.378-.155.71-.376.998-.663l1.545-1.552l-.616-.615zm-2.262 2.023a2.16 2.16 0 0 1-.834.164c-.301 0-.586-.057-.855-.17a2.278 2.278 0 0 1-.697-.466a2.28 2.28 0 0 1-.465-.697a2.167 2.167 0 0 1-.17-.854a2.16 2.16 0 0 1 .642-1.545l.93-.93l3.09 3.09l-.93.93a2.22 2.22 0 0 1-.711.478z\"/></g>"
 		},
 		"debug-pause": {
 			"body": "<g fill=\"currentColor\"><path d=\"M4.5 3H6v10H4.5V3zm7 0v10H10V3h1.5z\"/></g>"
+		},
+		"debug-rerun": {
+			"body": "<g fill=\"currentColor\"><path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M7.167 12a3 3 0 0 1-5.74 1.223l-.928.376A4.001 4.001 0 1 0 1 9.556V8.333H0V11l.5.5h2.333v-1H1.568A3 3 0 0 1 7.167 12z\"/><path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M5 2.41L5.78 2l9 6v.83L10 12.017v-1.2l3.6-2.397L6 3.35V7H5V2.41z\"/></g>"
 		},
 		"debug-restart": {
 			"body": "<g fill=\"currentColor\"><path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M12.75 8a4.5 4.5 0 0 1-8.61 1.834l-1.391.565A6.001 6.001 0 0 0 14.25 8A6 6 0 0 0 3.5 4.334V2.5H2v4l.75.75h3.5v-1.5H4.352A4.5 4.5 0 0 1 12.75 8z\"/></g>"
@@ -271,7 +274,7 @@
 			"body": "<g fill=\"currentColor\"><path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M1 10V9h5.207a5.48 5.48 0 0 0-.185 1H1zm6.257-3a5.54 5.54 0 0 1 1.08-1H1v1h6.257zM6.6 13a5.465 5.465 0 0 1-.393-1H1v1h5.6zM15 3v1H1V3h14zm-3.36 10.031a2.531 2.531 0 1 0-2.192-3.797h1.068v.844h-1.97l-.421-.422v-2.25h.844v1.032a3.375 3.375 0 1 1-.423 3.412l.782-.318a2.532 2.532 0 0 0 2.313 1.5z\"/></g>"
 		},
 		"debug-reverse-continue": {
-			"body": "<g fill=\"currentColor\"><path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M13.5 2H12v12h1.5V2zm-3.5.18V14L1 8.062l9-5.881zM3.685 8.063L8.5 5v6.18L3.685 8.063z\"/></g>"
+			"body": "<g fill=\"currentColor\"><path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M13.5 2H12v12h1.5V2zm-4.936.39L9.75 3v10l-1.186.61l-7-5V7.39l7-5zM3.29 8l4.96 3.543V4.457L3.29 8z\"/></g>"
 		},
 		"debug-stackframe": {
 			"body": "<g fill=\"currentColor\"><path d=\"M14.5 7.15l-4.26-4.74L9.31 2H4.25L3 3.25v9.48l1.25 1.25h5.06l.93-.42l4.26-4.74V7.15zm-5.19 5.58H4.25V3.25h5.06l4.26 4.73l-4.26 4.75z\"/></g>"
@@ -283,7 +286,7 @@
 			"body": "<g fill=\"currentColor\"><path d=\"M10 8a2 2 0 1 1-4 0a2 2 0 0 1 4 0z\"/></g>"
 		},
 		"debug-start": {
-			"body": "<g fill=\"currentColor\"><path d=\"M4 2v11.82l9-5.94L4 2zm1.5 2.82l4.81 3.06L5.5 11V4.82z\"/></g>"
+			"body": "<g fill=\"currentColor\"><path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M4.25 3l1.166-.624l8 5.333v1.248l-8 5.334l-1.166-.624V3zm1.5 1.401v7.864l5.898-3.932L5.75 4.401z\"/></g>"
 		},
 		"debug-step-back": {
 			"body": "<g fill=\"currentColor\"><path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M1.75 5.75v-4h1.5v2.542c1.145-1.359 2.911-2.209 4.84-2.209c3.177 0 5.92 2.307 6.16 5.398l.02.269h-1.5l-.022-.226c-.212-2.195-2.202-3.94-4.656-3.94c-1.736 0-3.244.875-4.05 2.166h2.83v1.5H2.707l-.961-.975V5.75h.003zM8 14a2 2 0 1 1 0-4a2 2 0 0 1 0 4z\"/></g>"
@@ -629,7 +632,7 @@
 			"body": "<g fill=\"currentColor\"><path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M1.5 5h2.79l3.86-3.83l.85.35v13l-.85.33L4.29 11H1.5l-.5-.5v-5l.5-.5zm3.35 5.17L8 13.31V2.73L4.85 5.85L4.5 6H2v4h2.5l.35.17zm9.381-4.108l.707.707L13.207 8.5l1.731 1.732l-.707.707L12.5 9.207l-1.732 1.732l-.707-.707L11.793 8.5L10.06 6.77l.707-.707l1.733 1.73l1.731-1.731z\"/></g>"
 		},
 		"new-file": {
-			"body": "<g fill=\"currentColor\"><path d=\"M12 16h1v-3h3v-1h-3V9h-1v3H9v1h3v3z\"/><path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M12.9 4.6L9.5 1.1L9.2 1H2.5l-.5.5v12l.5.5H7v-1H3V2h5v4h4v1h1V5l-.1-.4zM9 5V2l2.9 3H9z\"/></g>"
+			"body": "<g fill=\"currentColor\"><path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M9.5 1.1l3.4 3.5l.1.4v2h-1V6H8V2H3v11h4v1H2.5l-.5-.5v-12l.5-.5h6.7l.3.1zM9 2v3h2.9L9 2zm4 14h-1v-3H9v-1h3V9h1v3h3v1h-3v3z\"/></g>"
 		},
 		"new-folder": {
 			"body": "<g fill=\"currentColor\"><path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M14.5 2H7.71l-.85-.85L6.51 1h-5l-.5.5v11l.5.5H7v-1H1.99V6h4.49l.35-.15l.86-.86H14v1.5l-.001.51h1.011V2.5L14.5 2zm-.51 2h-6.5l-.35.15l-.86.86H2v-3h4.29l.85.85l.36.15H14l-.01.99zM13 16h-1v-3H9v-1h3V9h1v3h3v1h-3v3z\"/></g>"

@@ -363,7 +363,7 @@
 
 
 ### Gridicons
-* Number of icons: 199
+* Number of icons: 201
 * Author: Automattic
 * URL: https://github.com/Automattic/gridicons
 * License: GPL 2.0
@@ -527,7 +527,7 @@
 * URL: https://github.com/microsoft/fluentui-system-icons
 * License: MIT
 * License URL: https://github.com/microsoft/fluentui-system-icons/blob/master/LICENSE
-* Version: 1.1.99
+* Version: 1.1.101
 * Palette: Colorless
 
 
@@ -774,7 +774,7 @@
 
 
 ### SVG Logos
-* Number of icons: 1202
+* Number of icons: 1212
 * Author: Gil Barbara
 * URL: https://github.com/gilbarbara/logos
 * License: CC0

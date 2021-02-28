@@ -282,7 +282,7 @@
 * URL: https://github.com/primer/octicons/
 * License: Open Font License
 * License URL: https://raw.githubusercontent.com/primer/octicons/master/LICENSE
-* Version: 12.0.0
+* Version: 12.1.0
 * Palette: Colorless
 
 
@@ -522,12 +522,12 @@
 
 
 ### Fluent UI System Icons
-* Number of icons: 5911
+* Number of icons: 6038
 * Author: Microsoft Corporation
 * URL: https://github.com/microsoft/fluentui-system-icons
 * License: MIT
 * License URL: https://github.com/microsoft/fluentui-system-icons/blob/master/LICENSE
-* Version: 1.1.101
+* Version: 1.1.102
 * Palette: Colorless
 
 

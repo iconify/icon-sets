@@ -127,7 +127,7 @@
 * Author: IBM
 * URL: https://github.com/carbon-design-system/carbon/tree/master/packages/icons
 * License: Apache 2.0
-* Version: 10.26.0
+* Version: 10.27.0-rc.0
 * Palette: Colorless
 
 
@@ -353,12 +353,12 @@
 
 
 ### Akar Icons
-* Number of icons: 224
+* Number of icons: 226
 * Author: Arturo Wibawa
 * URL: https://github.com/artcoholic/akar-icons
 * License: MIT
 * License URL: https://github.com/artcoholic/akar-icons/blob/master/LICENSE
-* Version: 1.1.0
+* Version: 1.1.3
 * Palette: Colorless
 
 
@@ -391,7 +391,7 @@
 
 
 ### File Icons
-* Number of icons: 914
+* Number of icons: 918
 * Author: John Gardner
 * URL: https://github.com/file-icons/icons
 * License: ISC

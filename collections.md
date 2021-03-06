@@ -123,11 +123,11 @@
 
 
 ### Carbon
-* Number of icons: 1545
+* Number of icons: 1582
 * Author: IBM
 * URL: https://github.com/carbon-design-system/carbon/tree/master/packages/icons
 * License: Apache 2.0
-* Version: 10.27.0-rc.0
+* Version: 10.27.0
 * Palette: Colorless
 
 
@@ -292,7 +292,7 @@
 * URL: https://github.com/microsoft/vscode-codicons
 * License: CC BY 4.0
 * License URL: https://raw.githubusercontent.com/microsoft/vscode-codicons/master/LICENSE
-* Version: 0.0.14
+* Version: 0.0.15
 * Palette: Colorless
 
 
@@ -522,12 +522,12 @@
 
 
 ### Fluent UI System Icons
-* Number of icons: 6038
+* Number of icons: 6040
 * Author: Microsoft Corporation
 * URL: https://github.com/microsoft/fluentui-system-icons
 * License: MIT
 * License URL: https://github.com/microsoft/fluentui-system-icons/blob/master/LICENSE
-* Version: 1.1.102
+* Version: 1.1.105
 * Palette: Colorless
 
 

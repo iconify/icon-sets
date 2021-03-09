@@ -50,11 +50,11 @@
 
 
 ### Phosphor
-* Number of icons: 3949
+* Number of icons: 4482
 * Author: Phosphor Icons
 * URL: https://github.com/phosphor-icons/phosphor-icons
 * License: MIT
-* Version: 1.1.3
+* Version: 1.2.0
 * Palette: Colorless
 
 
@@ -358,7 +358,7 @@
 * URL: https://github.com/artcoholic/akar-icons
 * License: MIT
 * License URL: https://github.com/artcoholic/akar-icons/blob/master/LICENSE
-* Version: 1.1.3
+* Version: 1.1.4
 * Palette: Colorless
 
 
@@ -774,7 +774,7 @@
 
 
 ### SVG Logos
-* Number of icons: 1212
+* Number of icons: 1223
 * Author: Gil Barbara
 * URL: https://github.com/gilbarbara/logos
 * License: CC0
@@ -793,12 +793,12 @@
 
 
 ### Simple Icons
-* Number of icons: 1831
+* Number of icons: 1856
 * Author: Simple Icons Collaborators
 * URL: https://github.com/simple-icons/simple-icons
 * License: CC0 1.0
 * License URL: https://github.com/simple-icons/simple-icons/blob/develop/LICENSE.md
-* Version: 4.13.0
+* Version: 4.14.0
 * Palette: Colorless
 
 

@@ -125,7 +125,7 @@
 ### Carbon
 * Number of icons: 1582
 * Author: IBM
-* URL: https://github.com/carbon-design-system/carbon/tree/master/packages/icons
+* URL: https://github.com/carbon-design-system/carbon/tree/main/packages/icons
 * License: Apache 2.0
 * Version: 10.27.0
 * Palette: Colorless
@@ -287,7 +287,7 @@
 
 
 ### Codicons
-* Number of icons: 346
+* Number of icons: 349
 * Author: Microsoft Corporation
 * URL: https://github.com/microsoft/vscode-codicons
 * License: CC BY 4.0
@@ -353,12 +353,12 @@
 
 
 ### Akar Icons
-* Number of icons: 226
+* Number of icons: 227
 * Author: Arturo Wibawa
 * URL: https://github.com/artcoholic/akar-icons
 * License: MIT
 * License URL: https://github.com/artcoholic/akar-icons/blob/master/LICENSE
-* Version: 1.1.4
+* Version: 1.1.8
 * Palette: Colorless
 
 
@@ -527,7 +527,7 @@
 * URL: https://github.com/microsoft/fluentui-system-icons
 * License: MIT
 * License URL: https://github.com/microsoft/fluentui-system-icons/blob/master/LICENSE
-* Version: 1.1.105
+* Version: 1.1.107
 * Palette: Colorless
 
 

@@ -123,7 +123,7 @@
 
 
 ### Carbon
-* Number of icons: 1582
+* Number of icons: 1584
 * Author: IBM
 * URL: https://github.com/carbon-design-system/carbon/tree/main/packages/icons
 * License: Apache 2.0
@@ -220,12 +220,12 @@
 
 
 ### Pixelarticons
-* Number of icons: 450
+* Number of icons: 460
 * Author: Gerrit Halfmann
 * URL: https://github.com/halfmage/pixelarticons
 * License: MIT
 * License URL: https://github.com/halfmage/pixelarticons/blob/master/LICENSE
-* Version: 1.3.0
+* Version: 1.4.0
 * Palette: Colorless
 
 
@@ -522,12 +522,12 @@
 
 
 ### Fluent UI System Icons
-* Number of icons: 6040
+* Number of icons: 6246
 * Author: Microsoft Corporation
 * URL: https://github.com/microsoft/fluentui-system-icons
 * License: MIT
 * License URL: https://github.com/microsoft/fluentui-system-icons/blob/master/LICENSE
-* Version: 1.1.107
+* Version: 1.1.110
 * Palette: Colorless
 
 
@@ -719,7 +719,7 @@
 * URL: https://github.com/twitter/twemoji
 * License: CC BY 4.0
 * License URL: https://creativecommons.org/licenses/by/4.0/
-* Version: 13.0.1
+* Version: 13.0.2
 * Palette: Colorful
 
 

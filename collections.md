@@ -572,12 +572,12 @@
 
 
 ### VSCode Icons
-* Number of icons: 1061
+* Number of icons: 1068
 * Author: Roberto Huertas
 * URL: https://github.com/vscode-icons/vscode-icons
 * License: MIT
 * License URL: https://github.com/vscode-icons/vscode-icons/blob/master/LICENSE
-* Version: 11.1.0
+* Version: 11.2.0
 * Palette: Colorful
 
 
@@ -793,12 +793,12 @@
 
 
 ### Simple Icons
-* Number of icons: 1856
+* Number of icons: 1867
 * Author: Simple Icons Collaborators
 * URL: https://github.com/simple-icons/simple-icons
 * License: CC0 1.0
 * License URL: https://github.com/simple-icons/simple-icons/blob/develop/LICENSE.md
-* Version: 4.14.0
+* Version: 4.15.0
 * Palette: Colorless
 
 

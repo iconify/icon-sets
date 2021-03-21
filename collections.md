@@ -353,12 +353,12 @@
 
 
 ### Akar Icons
-* Number of icons: 227
+* Number of icons: 232
 * Author: Arturo Wibawa
 * URL: https://github.com/artcoholic/akar-icons
 * License: MIT
 * License URL: https://github.com/artcoholic/akar-icons/blob/master/LICENSE
-* Version: 1.1.8
+* Version: 1.1.9
 * Palette: Colorless
 
 

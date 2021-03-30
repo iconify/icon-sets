@@ -110,7 +110,7 @@
 * URL: https://github.com/twbs/icons
 * License: MIT
 * License URL: https://github.com/twbs/icons/blob/master/LICENSE.md
-* Version: 1.4.0
+* Version: 1.4.1
 * Palette: Colorless
 
 
@@ -377,7 +377,7 @@
 * Author: Steve Schoger
 * URL: https://github.com/refactoringui/heroicons
 * License: MIT
-* Version: 0.4.2
+* Version: 1.0.0
 * Palette: Colorless
 
 
@@ -386,7 +386,7 @@
 * Author: Steve Schoger
 * URL: https://github.com/refactoringui/heroicons
 * License: MIT
-* Version: 0.4.2
+* Version: 1.0.0
 * Palette: Colorless
 
 
@@ -793,12 +793,12 @@
 
 
 ### Simple Icons
-* Number of icons: 1872
+* Number of icons: 1875
 * Author: Simple Icons Collaborators
 * URL: https://github.com/simple-icons/simple-icons
 * License: CC0 1.0
 * License URL: https://github.com/simple-icons/simple-icons/blob/develop/LICENSE.md
-* Version: 4.16.0
+* Version: 4.17.0
 * Palette: Colorless
 
 

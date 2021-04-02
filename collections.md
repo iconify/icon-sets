@@ -127,7 +127,7 @@
 * Author: IBM
 * URL: https://github.com/carbon-design-system/carbon/tree/main/packages/icons
 * License: Apache 2.0
-* Version: 10.28.0
+* Version: 10.29.0
 * Palette: Colorless
 
 
@@ -137,7 +137,7 @@
 * URL: https://github.com/coreui/coreui-icons
 * License: CC BY 4.0
 * License URL: https://creativecommons.org/licenses/by/4.0/
-* Version: 2.0.0-rc.0
+* Version: 2.0.1
 * Palette: Colorless
 
 
@@ -344,7 +344,7 @@
 
 
 ### System UIcons
-* Number of icons: 222
+* Number of icons: 420
 * Author: Corey Ginnivan
 * URL: https://github.com/CoreyGinnivan/system-uicons
 * License: Unlicense
@@ -527,7 +527,7 @@
 * URL: https://github.com/microsoft/fluentui-system-icons
 * License: MIT
 * License URL: https://github.com/microsoft/fluentui-system-icons/blob/master/LICENSE
-* Version: 1.1.113
+* Version: 1.1.115
 * Palette: Colorless
 
 
@@ -788,7 +788,7 @@
 * URL: https://github.com/coreui/coreui-icons
 * License: CC BY 4.0
 * License URL: https://creativecommons.org/licenses/by/4.0/
-* Version: 2.0.0-rc.0
+* Version: 2.0.1
 * Palette: Colorless
 
 
@@ -865,7 +865,7 @@
 * URL: https://github.com/coreui/coreui-icons
 * License: CC BY 4.0
 * License URL: https://creativecommons.org/licenses/by/4.0/
-* Version: 2.0.0-rc.0
+* Version: 2.0.1
 * Palette: Colorful
 
 

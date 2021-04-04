@@ -522,12 +522,12 @@
 
 
 ### Fluent UI System Icons
-* Number of icons: 6248
+* Number of icons: 6428
 * Author: Microsoft Corporation
 * URL: https://github.com/microsoft/fluentui-system-icons
 * License: MIT
 * License URL: https://github.com/microsoft/fluentui-system-icons/blob/master/LICENSE
-* Version: 1.1.115
+* Version: 1.1.117
 * Palette: Colorless
 
 
@@ -572,12 +572,12 @@
 
 
 ### VSCode Icons
-* Number of icons: 1068
+* Number of icons: 1070
 * Author: Roberto Huertas
 * URL: https://github.com/vscode-icons/vscode-icons
 * License: MIT
 * License URL: https://github.com/vscode-icons/vscode-icons/blob/master/LICENSE
-* Version: 11.2.0
+* Version: 11.3.0
 * Palette: Colorful
 
 

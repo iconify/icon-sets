@@ -292,7 +292,7 @@
 * URL: https://github.com/microsoft/vscode-codicons
 * License: CC BY 4.0
 * License URL: https://raw.githubusercontent.com/microsoft/vscode-codicons/master/LICENSE
-* Version: 0.0.15
+* Version: 0.0.16
 * Palette: Colorless
 
 
@@ -353,12 +353,12 @@
 
 
 ### Akar Icons
-* Number of icons: 232
+* Number of icons: 234
 * Author: Arturo Wibawa
 * URL: https://github.com/artcoholic/akar-icons
 * License: MIT
 * License URL: https://github.com/artcoholic/akar-icons/blob/master/LICENSE
-* Version: 1.2.0
+* Version: 1.2.3
 * Palette: Colorless
 
 
@@ -572,12 +572,12 @@
 
 
 ### VSCode Icons
-* Number of icons: 1070
+* Number of icons: 1072
 * Author: Roberto Huertas
 * URL: https://github.com/vscode-icons/vscode-icons
 * License: MIT
 * License URL: https://github.com/vscode-icons/vscode-icons/blob/master/LICENSE
-* Version: 11.3.0
+* Version: 11.4.0
 * Palette: Colorful
 
 
@@ -793,12 +793,12 @@
 
 
 ### Simple Icons
-* Number of icons: 1875
+* Number of icons: 1880
 * Author: Simple Icons Collaborators
 * URL: https://github.com/simple-icons/simple-icons
 * License: CC0 1.0
 * License URL: https://github.com/simple-icons/simple-icons/blob/develop/LICENSE.md
-* Version: 4.17.0
+* Version: 4.18.0
 * Palette: Colorless
 
 

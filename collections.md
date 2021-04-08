@@ -277,17 +277,17 @@
 
 
 ### Octicons
-* Number of icons: 414
+* Number of icons: 433
 * Author: GitHub
 * URL: https://github.com/primer/octicons/
 * License: Open Font License
 * License URL: https://raw.githubusercontent.com/primer/octicons/master/LICENSE
-* Version: 12.1.0
+* Version: 13.0.0
 * Palette: Colorless
 
 
 ### Codicons
-* Number of icons: 349
+* Number of icons: 354
 * Author: Microsoft Corporation
 * URL: https://github.com/microsoft/vscode-codicons
 * License: CC BY 4.0
@@ -353,12 +353,12 @@
 
 
 ### Akar Icons
-* Number of icons: 234
+* Number of icons: 235
 * Author: Arturo Wibawa
 * URL: https://github.com/artcoholic/akar-icons
 * License: MIT
 * License URL: https://github.com/artcoholic/akar-icons/blob/master/LICENSE
-* Version: 1.2.3
+* Version: 1.2.4
 * Palette: Colorless
 
 

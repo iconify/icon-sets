@@ -127,7 +127,7 @@
 * Author: IBM
 * URL: https://github.com/carbon-design-system/carbon/tree/main/packages/icons
 * License: Apache 2.0
-* Version: 10.29.0
+* Version: 10.30.0
 * Palette: Colorless
 
 
@@ -329,7 +329,7 @@
 * Author: Modulz
 * URL: https://github.com/modulz/radix-icons
 * License: MIT
-* Version: 1.0.2
+* Version: 1.0.3
 * Palette: Colorless
 
 
@@ -353,12 +353,12 @@
 
 
 ### Akar Icons
-* Number of icons: 235
+* Number of icons: 239
 * Author: Arturo Wibawa
 * URL: https://github.com/artcoholic/akar-icons
 * License: MIT
 * License URL: https://github.com/artcoholic/akar-icons/blob/master/LICENSE
-* Version: 1.2.5
+* Version: 1.2.8
 * Palette: Colorless
 
 
@@ -373,20 +373,20 @@
 
 
 ### HeroIcons Outline
-* Number of icons: 226
+* Number of icons: 230
 * Author: Steve Schoger
 * URL: https://github.com/refactoringui/heroicons
 * License: MIT
-* Version: 1.0.0
+* Version: 1.0.1
 * Palette: Colorless
 
 
 ### HeroIcons Solid
-* Number of icons: 226
+* Number of icons: 230
 * Author: Steve Schoger
 * URL: https://github.com/refactoringui/heroicons
 * License: MIT
-* Version: 1.0.0
+* Version: 1.0.1
 * Palette: Colorless
 
 

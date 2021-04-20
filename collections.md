@@ -151,12 +151,12 @@
 
 
 ### Tabler Icons
-* Number of icons: 1262
+* Number of icons: 1280
 * Author: Paweł Kuna
 * URL: https://github.com/tabler/tabler-icons
 * License: MIT
 * License URL: https://github.com/tabler/tabler-icons/blob/master/LICENSE
-* Version: 1.39.1
+* Version: 1.40.2
 * Palette: Colorless
 
 
@@ -353,12 +353,12 @@
 
 
 ### Akar Icons
-* Number of icons: 239
+* Number of icons: 240
 * Author: Arturo Wibawa
 * URL: https://github.com/artcoholic/akar-icons
 * License: MIT
 * License URL: https://github.com/artcoholic/akar-icons/blob/master/LICENSE
-* Version: 1.2.8
+* Version: 1.3.0
 * Palette: Colorless
 
 
@@ -793,12 +793,12 @@
 
 
 ### Simple Icons
-* Number of icons: 1882
+* Number of icons: 1897
 * Author: Simple Icons Collaborators
 * URL: https://github.com/simple-icons/simple-icons
 * License: CC0 1.0
 * License URL: https://github.com/simple-icons/simple-icons/blob/develop/LICENSE.md
-* Version: 4.19.0
+* Version: 4.20.0
 * Palette: Colorless
 
 

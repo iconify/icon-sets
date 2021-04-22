@@ -281,13 +281,13 @@
 * Author: GitHub
 * URL: https://github.com/primer/octicons/
 * License: Open Font License
-* License URL: https://raw.githubusercontent.com/primer/octicons/master/LICENSE
+* License URL: https://raw.githubusercontent.com/primer/octicons/main/LICENSE
 * Version: 13.0.0
 * Palette: Colorless
 
 
 ### Codicons
-* Number of icons: 354
+* Number of icons: 362
 * Author: Microsoft Corporation
 * URL: https://github.com/microsoft/vscode-codicons
 * License: CC BY 4.0
@@ -358,7 +358,7 @@
 * URL: https://github.com/artcoholic/akar-icons
 * License: MIT
 * License URL: https://github.com/artcoholic/akar-icons/blob/master/LICENSE
-* Version: 1.3.0
+* Version: 1.3.2
 * Palette: Colorless
 
 
@@ -527,7 +527,7 @@
 * URL: https://github.com/microsoft/fluentui-system-icons
 * License: MIT
 * License URL: https://github.com/microsoft/fluentui-system-icons/blob/master/LICENSE
-* Version: 1.1.117
+* Version: 1.1.120
 * Palette: Colorless
 
 

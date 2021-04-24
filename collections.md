@@ -522,12 +522,12 @@
 
 
 ### Fluent UI System Icons
-* Number of icons: 6428
+* Number of icons: 6980
 * Author: Microsoft Corporation
 * URL: https://github.com/microsoft/fluentui-system-icons
 * License: MIT
 * License URL: https://github.com/microsoft/fluentui-system-icons/blob/master/LICENSE
-* Version: 1.1.120
+* Version: 1.1.121
 * Palette: Colorless
 
 
@@ -700,7 +700,7 @@
 * Author: Google Inc
 * URL: https://github.com/googlei18n/noto-emoji
 * License: Apache 2.0
-* License URL: https://github.com/googlei18n/noto-emoji/blob/master/LICENSE
+* License URL: https://github.com/googlefonts/noto-emoji/blob/main/LICENSE
 * Palette: Colorful
 
 
@@ -724,7 +724,7 @@
 
 
 ### OpenMoji
-* Number of icons: 3892
+* Number of icons: 3898
 * Author: OpenMoji
 * URL: https://github.com/hfg-gmuend/openmoji
 * License: CC BY-SA 4.0

@@ -151,12 +151,12 @@
 
 
 ### Tabler Icons
-* Number of icons: 1280
+* Number of icons: 1298
 * Author: Paweł Kuna
 * URL: https://github.com/tabler/tabler-icons
 * License: MIT
 * License URL: https://github.com/tabler/tabler-icons/blob/master/LICENSE
-* Version: 1.40.2
+* Version: 1.41.1
 * Palette: Colorless
 
 
@@ -358,7 +358,7 @@
 * URL: https://github.com/artcoholic/akar-icons
 * License: MIT
 * License URL: https://github.com/artcoholic/akar-icons/blob/master/LICENSE
-* Version: 1.3.2
+* Version: 1.3.3
 * Palette: Colorless
 
 
@@ -724,7 +724,7 @@
 
 
 ### OpenMoji
-* Number of icons: 3898
+* Number of icons: 3910
 * Author: OpenMoji
 * URL: https://github.com/hfg-gmuend/openmoji
 * License: CC BY-SA 4.0

@@ -105,7 +105,7 @@
 
 
 ### Bootstrap Icons
-* Number of icons: 1325
+* Number of icons: 1370
 * Author: The Bootstrap Authors
 * URL: https://github.com/twbs/icons
 * License: MIT
@@ -527,7 +527,7 @@
 * URL: https://github.com/microsoft/fluentui-system-icons
 * License: MIT
 * License URL: https://github.com/microsoft/fluentui-system-icons/blob/master/LICENSE
-* Version: 1.1.121
+* Version: 1.1.122
 * Palette: Colorless
 
 

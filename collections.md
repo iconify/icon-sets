@@ -127,7 +127,7 @@
 * Author: IBM
 * URL: https://github.com/carbon-design-system/carbon/tree/main/packages/icons
 * License: Apache 2.0
-* Version: 10.30.0
+* Version: 10.31.0
 * Palette: Colorless
 
 
@@ -532,7 +532,7 @@
 
 
 ### Grommet Icons
-* Number of icons: 611
+* Number of icons: 613
 * Author: Grommet
 * URL: https://github.com/grommet/grommet-icons
 * License: Apache 2.0

@@ -292,7 +292,7 @@
 * URL: https://github.com/microsoft/vscode-codicons
 * License: CC BY 4.0
 * License URL: https://raw.githubusercontent.com/microsoft/vscode-codicons/master/LICENSE
-* Version: 0.0.16
+* Version: 0.0.17
 * Palette: Colorless
 
 
@@ -724,7 +724,7 @@
 
 
 ### OpenMoji
-* Number of icons: 3910
+* Number of icons: 3913
 * Author: OpenMoji
 * URL: https://github.com/hfg-gmuend/openmoji
 * License: CC BY-SA 4.0

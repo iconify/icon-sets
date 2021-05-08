@@ -287,7 +287,7 @@
 
 
 ### Codicons
-* Number of icons: 362
+* Number of icons: 363
 * Author: Microsoft Corporation
 * URL: https://github.com/microsoft/vscode-codicons
 * License: CC BY 4.0
@@ -522,12 +522,12 @@
 
 
 ### Fluent UI System Icons
-* Number of icons: 6980
+* Number of icons: 7220
 * Author: Microsoft Corporation
 * URL: https://github.com/microsoft/fluentui-system-icons
 * License: MIT
 * License URL: https://github.com/microsoft/fluentui-system-icons/blob/master/LICENSE
-* Version: 1.1.122
+* Version: 1.1.123
 * Palette: Colorless
 
 

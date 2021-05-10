@@ -156,7 +156,7 @@
 * URL: https://github.com/tabler/tabler-icons
 * License: MIT
 * License URL: https://github.com/tabler/tabler-icons/blob/master/LICENSE
-* Version: 1.41.1
+* Version: 1.41.2
 * Palette: Colorless
 
 
@@ -793,12 +793,12 @@
 
 
 ### Simple Icons
-* Number of icons: 1913
+* Number of icons: 1928
 * Author: Simple Icons Collaborators
 * URL: https://github.com/simple-icons/simple-icons
 * License: CC0 1.0
 * License URL: https://github.com/simple-icons/simple-icons/blob/develop/LICENSE.md
-* Version: 4.22.0
+* Version: 4.23.0
 * Palette: Colorless
 
 

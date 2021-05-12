@@ -21,7 +21,7 @@
 
 
 ### Google Material Icons
-* Number of icons: 9050
+* Number of icons: 9210
 * Author: Material Design Authors
 * URL: https://github.com/cyberalien/google-material-design-icons-updated
 * License: Apache 2.0
@@ -110,7 +110,7 @@
 * URL: https://github.com/twbs/icons
 * License: MIT
 * License URL: https://github.com/twbs/icons/blob/master/LICENSE.md
-* Version: 1.4.1
+* Version: 1.5.0
 * Palette: Colorless
 
 
@@ -127,7 +127,7 @@
 * Author: IBM
 * URL: https://github.com/carbon-design-system/carbon/tree/main/packages/icons
 * License: Apache 2.0
-* Version: 10.31.0
+* Version: 10.32.0-rc.0
 * Palette: Colorless
 
 
@@ -696,7 +696,7 @@
 
 
 ### Noto Emoji
-* Number of icons: 3311
+* Number of icons: 3310
 * Author: Google Inc
 * URL: https://github.com/googlei18n/noto-emoji
 * License: Apache 2.0
@@ -724,7 +724,7 @@
 
 
 ### OpenMoji
-* Number of icons: 3913
+* Number of icons: 3914
 * Author: OpenMoji
 * URL: https://github.com/hfg-gmuend/openmoji
 * License: CC BY-SA 4.0
@@ -831,12 +831,12 @@
 
 
 ### Cryptocurrency Icons
-* Number of icons: 446
+* Number of icons: 456
 * Author: Christopher Downer
 * URL: https://github.com/atomiclabs/cryptocurrency-icons
 * License: CC0 1.0
 * License URL: https://creativecommons.org/publicdomain/zero/1.0/
-* Version: 0.17.1
+* Version: 0.17.2
 * Palette: Colorless
 
 

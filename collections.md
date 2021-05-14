@@ -127,7 +127,7 @@
 * Author: IBM
 * URL: https://github.com/carbon-design-system/carbon/tree/main/packages/icons
 * License: Apache 2.0
-* Version: 10.32.0-rc.0
+* Version: 10.32.0
 * Palette: Colorless
 
 
@@ -277,12 +277,12 @@
 
 
 ### Octicons
-* Number of icons: 433
+* Number of icons: 443
 * Author: GitHub
 * URL: https://github.com/primer/octicons/
 * License: Open Font License
 * License URL: https://raw.githubusercontent.com/primer/octicons/main/LICENSE
-* Version: 13.0.0
+* Version: 14.0.0
 * Palette: Colorless
 
 
@@ -353,12 +353,12 @@
 
 
 ### Akar Icons
-* Number of icons: 240
+* Number of icons: 248
 * Author: Arturo Wibawa
 * URL: https://github.com/artcoholic/akar-icons
 * License: MIT
 * License URL: https://github.com/artcoholic/akar-icons/blob/master/LICENSE
-* Version: 1.3.4
+* Version: 1.3.6
 * Palette: Colorless
 
 

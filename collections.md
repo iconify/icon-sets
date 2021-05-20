@@ -35,7 +35,7 @@
 * URL: https://github.com/Iconscout/unicons
 * License: Apache 2.0
 * License URL: https://raw.githubusercontent.com/Iconscout/unicons/master/LICENSE
-* Version: 3.0.6
+* Version: 4.0.0
 * Palette: Colorless
 
 
@@ -45,7 +45,7 @@
 * URL: https://github.com/Iconscout/unicons
 * License: Apache 2.0
 * License URL: https://raw.githubusercontent.com/Iconscout/unicons/master/LICENSE
-* Version: 3.0.6
+* Version: 4.0.0
 * Palette: Colorless
 
 
@@ -115,7 +115,7 @@
 
 
 ### Clarity
-* Number of icons: 1085
+* Number of icons: 1096
 * Author: VMware
 * URL: https://github.com/vmware/clarity
 * License: MIT

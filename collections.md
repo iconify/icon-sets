@@ -358,7 +358,7 @@
 * URL: https://github.com/artcoholic/akar-icons
 * License: MIT
 * License URL: https://github.com/artcoholic/akar-icons/blob/master/LICENSE
-* Version: 1.3.7
+* Version: 1.3.10
 * Palette: Colorless
 
 
@@ -522,12 +522,12 @@
 
 
 ### Fluent UI System Icons
-* Number of icons: 7234
+* Number of icons: 7582
 * Author: Microsoft Corporation
 * URL: https://github.com/microsoft/fluentui-system-icons
 * License: MIT
 * License URL: https://github.com/microsoft/fluentui-system-icons/blob/master/LICENSE
-* Version: 1.1.124
+* Version: 1.1.125
 * Palette: Colorless
 
 

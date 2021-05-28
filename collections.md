@@ -127,7 +127,7 @@
 * Author: IBM
 * URL: https://github.com/carbon-design-system/carbon/tree/main/packages/icons
 * License: Apache 2.0
-* Version: 10.33.0-rc.0
+* Version: 10.33.0
 * Palette: Colorless
 
 
@@ -277,12 +277,12 @@
 
 
 ### Octicons
-* Number of icons: 447
+* Number of icons: 452
 * Author: GitHub
 * URL: https://github.com/primer/octicons/
 * License: Open Font License
 * License URL: https://raw.githubusercontent.com/primer/octicons/main/LICENSE
-* Version: 14.1.0
+* Version: 14.2.1
 * Palette: Colorless
 
 
@@ -522,17 +522,17 @@
 
 
 ### Fluent UI System Icons
-* Number of icons: 7582
+* Number of icons: 7618
 * Author: Microsoft Corporation
 * URL: https://github.com/microsoft/fluentui-system-icons
 * License: MIT
 * License URL: https://github.com/microsoft/fluentui-system-icons/blob/master/LICENSE
-* Version: 1.1.125
+* Version: 1.1.126
 * Palette: Colorless
 
 
 ### Grommet Icons
-* Number of icons: 613
+* Number of icons: 614
 * Author: Grommet
 * URL: https://github.com/grommet/grommet-icons
 * License: Apache 2.0
@@ -714,12 +714,12 @@
 
 
 ### Twitter Emoji
-* Number of icons: 3339
+* Number of icons: 3556
 * Author: Twitter
 * URL: https://github.com/twitter/twemoji
 * License: CC BY 4.0
 * License URL: https://creativecommons.org/licenses/by/4.0/
-* Version: 13.0.2
+* Version: 13.1.0
 * Palette: Colorful
 
 

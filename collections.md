@@ -358,7 +358,7 @@
 * URL: https://github.com/artcoholic/akar-icons
 * License: MIT
 * License URL: https://github.com/artcoholic/akar-icons/blob/master/LICENSE
-* Version: 1.5.1
+* Version: 1.5.2
 * Palette: Colorless
 
 
@@ -391,7 +391,7 @@
 
 
 ### File Icons
-* Number of icons: 918
+* Number of icons: 928
 * Author: John Gardner
 * URL: https://github.com/file-icons/icons
 * License: ISC

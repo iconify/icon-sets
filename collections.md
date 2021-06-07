@@ -391,7 +391,7 @@
 
 
 ### File Icons
-* Number of icons: 928
+* Number of icons: 929
 * Author: John Gardner
 * URL: https://github.com/file-icons/icons
 * License: ISC
@@ -522,12 +522,12 @@
 
 
 ### Fluent UI System Icons
-* Number of icons: 7614
+* Number of icons: 7762
 * Author: Microsoft Corporation
 * URL: https://github.com/microsoft/fluentui-system-icons
 * License: MIT
 * License URL: https://github.com/microsoft/fluentui-system-icons/blob/master/LICENSE
-* Version: 1.1.127
+* Version: 1.1.128
 * Palette: Colorless
 
 
@@ -793,12 +793,12 @@
 
 
 ### Simple Icons
-* Number of icons: 1926
+* Number of icons: 1928
 * Author: Simple Icons Collaborators
 * URL: https://github.com/simple-icons/simple-icons
 * License: CC0 1.0
 * License URL: https://github.com/simple-icons/simple-icons/blob/develop/LICENSE.md
-* Version: 5.0.0
+* Version: 5.1.0
 * Palette: Colorless
 
 

@@ -282,7 +282,7 @@
 * URL: https://github.com/primer/octicons/
 * License: Open Font License
 * License URL: https://raw.githubusercontent.com/primer/octicons/main/LICENSE
-* Version: 14.2.1
+* Version: 14.2.2
 * Palette: Colorless
 
 
@@ -527,7 +527,7 @@
 * URL: https://github.com/microsoft/fluentui-system-icons
 * License: MIT
 * License URL: https://github.com/microsoft/fluentui-system-icons/blob/master/LICENSE
-* Version: 1.1.128
+* Version: 1.1.129
 * Palette: Colorless
 
 

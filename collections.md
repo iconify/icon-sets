@@ -537,7 +537,7 @@
 * URL: https://github.com/grommet/grommet-icons
 * License: Apache 2.0
 * License URL: http://www.apache.org/licenses/LICENSE-2.0
-* Version: 4.5.0
+* Version: 4.6.0
 * Palette: Colorless
 
 

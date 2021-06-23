@@ -21,7 +21,7 @@
 
 
 ### Google Material Icons
-* Number of icons: 9285
+* Number of icons: 9295
 * Author: Material Design Authors
 * URL: https://github.com/cyberalien/google-material-design-icons-updated
 * License: Apache 2.0
@@ -127,7 +127,7 @@
 * Author: IBM
 * URL: https://github.com/carbon-design-system/carbon/tree/main/packages/icons
 * License: Apache 2.0
-* Version: 10.33.0
+* Version: 10.34.0-rc.0
 * Palette: Colorless
 
 
@@ -353,12 +353,12 @@
 
 
 ### Akar Icons
-* Number of icons: 284
+* Number of icons: 289
 * Author: Arturo Wibawa
 * URL: https://github.com/artcoholic/akar-icons
 * License: MIT
 * License URL: https://github.com/artcoholic/akar-icons/blob/master/LICENSE
-* Version: 1.5.2
+* Version: 1.5.3
 * Palette: Colorless
 
 
@@ -527,7 +527,7 @@
 * URL: https://github.com/microsoft/fluentui-system-icons
 * License: MIT
 * License URL: https://github.com/microsoft/fluentui-system-icons/blob/master/LICENSE
-* Version: 1.1.133
+* Version: 1.1.134
 * Palette: Colorless
 
 
@@ -542,12 +542,12 @@
 
 
 ### Maki
-* Number of icons: 374
+* Number of icons: 204
 * Author: Mapbox
 * URL: https://github.com/mapbox/maki
 * License: CC0
 * License URL: http://creativecommons.org/publicdomain/zero/1.0/
-* Version: 6.2.0
+* Version: 7.0.0
 * Palette: Colorless
 
 

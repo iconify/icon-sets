@@ -2,7 +2,7 @@
 	"prefix": "akar-icons",
 	"info": {
 		"name": "Akar Icons",
-		"total": 284,
+		"total": 289,
 		"author": {
 			"name": "Arturo Wibawa",
 			"url": "https://github.com/artcoholic/akar-icons"
@@ -12,7 +12,7 @@
 			"spdx": "MIT",
 			"url": "https://github.com/artcoholic/akar-icons/blob/master/LICENSE"
 		},
-		"version": "1.5.2",
+		"version": "1.5.3",
 		"samples": [
 			"paper",
 			"pencil",
@@ -447,6 +447,9 @@
 		"face-very-sad": {
 			"body": "<g fill=\"none\"><circle cx=\"12\" cy=\"12\" r=\"10\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\"/><path d=\"M8 9.05v-.1\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\"/><path d=\"M16 9.05v-.1\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\"/><path d=\"M12 13a4 4 0 0 1 4 4H8a4 4 0 0 1 4-4z\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/></g>"
 		},
+		"face-wink": {
+			"body": "<g fill=\"none\"><circle cx=\"12\" cy=\"12\" r=\"10\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\"/><path d=\"M15.766 15.319c-.967 1.251-2.68 2.242-4.766 1.513\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M8 9.01V9\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\"/><path d=\"M17 10h-2\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\"/></g>"
+		},
 		"facebook-fill": {
 			"body": "<g fill=\"none\"><path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M0 12.067C0 18.033 4.333 22.994 10 24v-8.667H7V12h3V9.333c0-3 1.933-4.666 4.667-4.666c.866 0 1.8.133 2.666.266V8H15.8c-1.467 0-1.8.733-1.8 1.667V12h3.2l-.533 3.333H14V24c5.667-1.006 10-5.966 10-11.933C24 5.43 18.6 0 12 0S0 5.43 0 12.067z\" fill=\"currentColor\"/></g>"
 		},
@@ -788,6 +791,12 @@
 		"text-align-right": {
 			"body": "<g fill=\"none\"><path d=\"M3 6h18m-10 6h10M6 18h15\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\"/></g>"
 		},
+		"three-line-horizontal": {
+			"body": "<g fill=\"none\"><path d=\"M5 6h14M5 12h14M5 18h14\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\"/></g>"
+		},
+		"three-line-vertical": {
+			"body": "<g fill=\"none\"><path d=\"M12 19V5m6 14V5M6 19V5\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\"/></g>"
+		},
 		"thumbs-down": {
 			"body": "<g fill=\"none\"><path d=\"M12.395 18.218l-.23 2.369c-.091.952-.98 1.598-1.878 1.366c-1.351-.35-2.3-1.605-2.3-3.044v-3.035c0-.675 0-1.013-.146-1.26a1.018 1.018 0 0 0-.333-.345c-.24-.151-.567-.151-1.22-.151h-.396c-1.703 0-2.554 0-3.078-.39a2.073 2.073 0 0 1-.78-1.208c-.146-.65.181-1.463.836-3.087l.327-.81c.188-.468.265-.975.225-1.48c-.232-2.874 2.047-5.295 4.833-5.135l10.424.598c1.139.065 1.708.098 2.222.553c.515.455.612.924.805 1.861a14.317 14.317 0 0 1-.055 6.037c-.283 1.248-1.475 1.92-2.706 1.76c-3.264-.42-6.223 2.019-6.55 5.4z\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M17 12.5l.137-.457c.887-2.956.84-6.115-.137-9.043\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/></g>"
 		},
@@ -848,6 +857,12 @@
 		},
 		"twitter-fill": {
 			"body": "<g fill=\"none\"><path d=\"M23.643 4.937c-.835.37-1.732.62-2.675.733a4.67 4.67 0 0 0 2.048-2.578a9.3 9.3 0 0 1-2.958 1.13a4.66 4.66 0 0 0-7.938 4.25a13.229 13.229 0 0 1-9.602-4.868c-.4.69-.63 1.49-.63 2.342A4.66 4.66 0 0 0 3.96 9.824a4.647 4.647 0 0 1-2.11-.583v.06a4.66 4.66 0 0 0 3.737 4.568a4.692 4.692 0 0 1-2.104.08a4.661 4.661 0 0 0 4.352 3.234a9.348 9.348 0 0 1-5.786 1.995a9.5 9.5 0 0 1-1.112-.065a13.175 13.175 0 0 0 7.14 2.093c8.57 0 13.255-7.098 13.255-13.254c0-.2-.005-.402-.014-.602a9.47 9.47 0 0 0 2.323-2.41l.002-.003z\" fill=\"currentColor\"/></g>"
+		},
+		"two-line-horizontal": {
+			"body": "<g fill=\"none\"><path d=\"M5 9h14M5 15h14\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\"/></g>"
+		},
+		"two-line-vertical": {
+			"body": "<g fill=\"none\"><path d=\"M15 19V5M9 19V5\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\"/></g>"
 		},
 		"umbrella": {
 			"body": "<g fill=\"none\"><path d=\"M3.183 14A.18.18 0 0 1 3 13.817C3.09 8.378 7.085 4 12 4c4.916 0 8.91 4.378 8.998 9.817a.18.18 0 0 1-.18.183a.188.188 0 0 1-.17-.11c-.525-1.123-1.58-1.89-2.798-1.89c-1.185 0-1.814.727-2.306 1.802a.336.336 0 0 1-.304.198a.366.366 0 0 1-.326-.224C14.44 12.729 13.099 12 12 12c-1.099 0-2.44.73-2.914 1.776A.366.366 0 0 1 8.76 14a.336.336 0 0 1-.304-.198C7.964 12.727 7.336 12 6.15 12c-1.217 0-2.273.767-2.798 1.89a.188.188 0 0 1-.17.11z\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M12 12v8a2 2 0 0 1-2 2v0a2 2 0 0 1-2-2v-1\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M12 4V2\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/></g>"

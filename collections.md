@@ -239,6 +239,16 @@
 * Palette: Colorless
 
 
+### EOS Icons
+* Number of icons: 237
+* Author: SUSE UX/UI team
+* URL: https://gitlab.com/SUSE-UIUX/eos-icons
+* License: MIT
+* License URL: https://gitlab.com/SUSE-UIUX/eos-icons/-/blob/master/LICENSE
+* Version: 5.1.0
+* Palette: Colorless
+
+
 ### Dashicons
 * Number of icons: 343
 * Author: WordPress

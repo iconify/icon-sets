@@ -239,6 +239,16 @@
 * Palette: Colorless
 
 
+### coolicons
+* Number of icons: 412
+* Author: Kryston Schwarze
+* URL: https://github.com/krystonschwarze/coolicons
+* License: CC BY 4.0
+* License URL: https://creativecommons.org/licenses/by/4.0/
+* Version: 2.5
+* Palette: Colorless
+
+
 ### EOS Icons
 * Number of icons: 237
 * Author: SUSE UX/UI team
@@ -591,6 +601,16 @@
 * Palette: Colorful
 
 
+### Fontisto
+* Number of icons: 615
+* Author: Kenan Gündoğan
+* URL: https://github.com/kenangundogan/fontisto
+* License: MIT
+* License URL: https://github.com/kenangundogan/fontisto/blob/master/LICENSE
+* Version: 3.0.4
+* Palette: Colorless
+
+
 ### Font Awesome 4
 * Number of icons: 678
 * Author: Dave Gandy
@@ -877,6 +897,15 @@
 * License URL: https://creativecommons.org/licenses/by/4.0/
 * Version: 2.0.1
 * Palette: Colorful
+
+
+### FontAudio
+* Number of icons: 155
+* Author: @fefanto
+* URL: https://github.com/fefanto/fontaudio
+* License: CC BY 4.0
+* License URL: https://creativecommons.org/licenses/by/4.0/
+* Palette: Colorless
 
 
 ### Weather Icons

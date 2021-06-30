@@ -759,7 +759,7 @@
 * URL: https://github.com/hfg-gmuend/openmoji
 * License: CC BY-SA 4.0
 * License URL: https://creativecommons.org/licenses/by-sa/4.0/
-* Version: 13.0.0
+* Version: 13.1.0
 * Palette: Colorful
 
 

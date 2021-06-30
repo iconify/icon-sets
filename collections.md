@@ -49,6 +49,26 @@
 * Palette: Colorless
 
 
+### IconPark
+* Number of icons: 2420
+* Author: ByteDance
+* URL: https://github.com/bytedance/IconPark
+* License: Apache 2.0
+* License URL: https://github.com/bytedance/IconPark/blob/master/LICENSE
+* Version: 1.3.3
+* Palette: Colorful
+
+
+### IconPark Outline
+* Number of icons: 2420
+* Author: ByteDance
+* URL: https://github.com/bytedance/IconPark
+* License: Apache 2.0
+* License URL: https://github.com/bytedance/IconPark/blob/master/LICENSE
+* Version: 1.3.3
+* Palette: Colorless
+
+
 ### Phosphor
 * Number of icons: 4482
 * Author: Phosphor Icons

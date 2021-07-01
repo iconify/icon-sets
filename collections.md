@@ -29,6 +29,35 @@
 * Palette: Colorless
 
 
+### Phosphor
+* Number of icons: 4482
+* Author: Phosphor Icons
+* URL: https://github.com/phosphor-icons/phosphor-icons
+* License: MIT
+* Version: 1.2.0
+* Palette: Colorless
+
+
+### IconPark Outline
+* Number of icons: 2420
+* Author: ByteDance
+* URL: https://github.com/bytedance/IconPark
+* License: Apache 2.0
+* License URL: https://github.com/bytedance/IconPark/blob/master/LICENSE
+* Version: 1.3.3
+* Palette: Colorless
+
+
+### IconPark
+* Number of icons: 2420
+* Author: ByteDance
+* URL: https://github.com/bytedance/IconPark
+* License: Apache 2.0
+* License URL: https://github.com/bytedance/IconPark/blob/master/LICENSE
+* Version: 1.3.3
+* Palette: Colorful
+
+
 ### Unicons
 * Number of icons: 1206
 * Author: Iconscout
@@ -46,35 +75,6 @@
 * License: Apache 2.0
 * License URL: https://raw.githubusercontent.com/Iconscout/unicons/master/LICENSE
 * Version: 4.0.0
-* Palette: Colorless
-
-
-### IconPark
-* Number of icons: 2420
-* Author: ByteDance
-* URL: https://github.com/bytedance/IconPark
-* License: Apache 2.0
-* License URL: https://github.com/bytedance/IconPark/blob/master/LICENSE
-* Version: 1.3.3
-* Palette: Colorful
-
-
-### IconPark Outline
-* Number of icons: 2420
-* Author: ByteDance
-* URL: https://github.com/bytedance/IconPark
-* License: Apache 2.0
-* License URL: https://github.com/bytedance/IconPark/blob/master/LICENSE
-* Version: 1.3.3
-* Palette: Colorless
-
-
-### Phosphor
-* Number of icons: 4482
-* Author: Phosphor Icons
-* URL: https://github.com/phosphor-icons/phosphor-icons
-* License: MIT
-* Version: 1.2.0
 * Palette: Colorless
 
 

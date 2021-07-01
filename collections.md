@@ -105,6 +105,15 @@
 * Palette: Colorless
 
 
+### Iconoir
+* Number of icons: 914
+* Author: Luca Burgio
+* URL: https://github.com/lucaburgio/iconoir
+* License: MIT
+* License URL: https://github.com/lucaburgio/iconoir/blob/master/LICENSE
+* Palette: Colorless
+
+
 ### Jam Icons
 * Number of icons: 940
 * Author: Michael Amprimo
@@ -402,6 +411,16 @@
 * Palette: Colorless
 
 
+### uiw icons
+* Number of icons: 214
+* Author: liwen0526
+* URL: https://github.com/uiwjs/icons
+* License: MIT
+* License URL: https://github.com/uiwjs/icons/blob/master/LICENSE
+* Version: 2.5.1
+* Palette: Colorless
+
+
 ### Gridicons
 * Number of icons: 201
 * Author: Automattic
@@ -409,6 +428,16 @@
 * License: GPL 2.0
 * License URL: https://github.com/Automattic/gridicons/blob/master/LICENSE.md
 * Version: 3.3.1
+* Palette: Colorless
+
+
+### Mono Icons
+* Number of icons: 180
+* Author: Mono
+* URL: https://github.com/mono-company/mono-icons
+* License: MIT
+* License URL: https://github.com/mono-company/mono-icons/blob/master/LICENSE.md
+* Version: 1.3.1
 * Palette: Colorless
 
 
@@ -935,6 +964,16 @@
 * License: Open Font License
 * License URL: http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL
 * Version: 2.0.10
+* Palette: Colorless
+
+
+### Health Icons
+* Number of icons: 1266
+* Author: Resolve to Save Lives
+* URL: https://github.com/resolvetosavelives/healthicons
+* License: MIT
+* License URL: https://github.com/resolvetosavelives/healthicons/blob/main/LICENSE
+* Version: 0.1.0
 * Palette: Colorless
 
 

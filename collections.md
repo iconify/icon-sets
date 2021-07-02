@@ -407,7 +407,7 @@
 * URL: https://github.com/artcoholic/akar-icons
 * License: MIT
 * License URL: https://github.com/artcoholic/akar-icons/blob/master/LICENSE
-* Version: 1.5.3
+* Version: 1.5.4
 * Palette: Colorless
 
 

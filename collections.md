@@ -106,7 +106,7 @@
 
 
 ### Iconoir
-* Number of icons: 914
+* Number of icons: 941
 * Author: Luca Burgio
 * URL: https://github.com/lucaburgio/iconoir
 * License: MIT
@@ -402,12 +402,12 @@
 
 
 ### Akar Icons
-* Number of icons: 289
+* Number of icons: 312
 * Author: Arturo Wibawa
 * URL: https://github.com/artcoholic/akar-icons
 * License: MIT
 * License URL: https://github.com/artcoholic/akar-icons/blob/master/LICENSE
-* Version: 1.5.4
+* Version: 1.7.7
 * Palette: Colorless
 
 
@@ -591,12 +591,12 @@
 
 
 ### Fluent UI System Icons
-* Number of icons: 8160
+* Number of icons: 8214
 * Author: Microsoft Corporation
 * URL: https://github.com/microsoft/fluentui-system-icons
 * License: MIT
 * License URL: https://github.com/microsoft/fluentui-system-icons/blob/master/LICENSE
-* Version: 1.1.134
+* Version: 1.1.135
 * Palette: Colorless
 
 
@@ -872,12 +872,12 @@
 
 
 ### Simple Icons
-* Number of icons: 1964
+* Number of icons: 1965
 * Author: Simple Icons Collaborators
 * URL: https://github.com/simple-icons/simple-icons
 * License: CC0 1.0
 * License URL: https://github.com/simple-icons/simple-icons/blob/develop/LICENSE.md
-* Version: 5.4.0
+* Version: 5.5.0
 * Palette: Colorless
 
 

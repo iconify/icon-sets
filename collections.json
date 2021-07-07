@@ -273,7 +273,7 @@
 			"humidity",
 			"edit-off"
 		],
-		"version": "10.34.0",
+		"version": "10.35.0-rc.0",
 		"palette": "Colorless",
 		"category": "General"
 	},
@@ -584,7 +584,7 @@
 	},
 	"codicon": {
 		"name": "Codicons",
-		"total": 363,
+		"total": 370,
 		"author": "Microsoft Corporation",
 		"url": "https://github.com/microsoft/vscode-codicons",
 		"license": "CC BY 4.0",
@@ -632,8 +632,7 @@
 			"home"
 		],
 		"version": "0.0.0-development",
-		"palette": "Colorless",
-		"category": "General"
+		"palette": "Colorless"
 	},
 	"fe": {
 		"name": "Feather Icon",
@@ -1670,15 +1669,20 @@
 	},
 	"healthicons": {
 		"name": "Health Icons",
-		"total": 1266,
+		"total": 1302,
 		"author": "Resolve to Save Lives",
 		"url": "https://github.com/resolvetosavelives/healthicons",
 		"license": "MIT",
 		"licenseURL": "https://github.com/resolvetosavelives/healthicons/blob/main/LICENSE",
 		"height": 24,
-		"samples": [],
+		"samples": [
+			"cold-chain",
+			"emergency-post",
+			"asthma-outline"
+		],
 		"version": "0.1.0",
-		"palette": "Colorless"
+		"palette": "Colorless",
+		"category": "Thematic"
 	},
 	"medical-icon": {
 		"name": "Medical Icons",

@@ -156,7 +156,7 @@
 * Author: IBM
 * URL: https://github.com/carbon-design-system/carbon/tree/main/packages/icons
 * License: Apache 2.0
-* Version: 10.34.0
+* Version: 10.35.0-rc.0
 * Palette: Colorless
 
 
@@ -336,7 +336,7 @@
 
 
 ### Codicons
-* Number of icons: 363
+* Number of icons: 370
 * Author: Microsoft Corporation
 * URL: https://github.com/microsoft/vscode-codicons
 * License: CC BY 4.0
@@ -968,7 +968,7 @@
 
 
 ### Health Icons
-* Number of icons: 1266
+* Number of icons: 1302
 * Author: Resolve to Save Lives
 * URL: https://github.com/resolvetosavelives/healthicons
 * License: MIT

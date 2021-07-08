@@ -21,7 +21,7 @@
 
 
 ### Google Material Icons
-* Number of icons: 9295
+* Number of icons: 9320
 * Author: Material Design Authors
 * URL: https://github.com/cyberalien/google-material-design-icons-updated
 * License: Apache 2.0
@@ -30,11 +30,11 @@
 
 
 ### Phosphor
-* Number of icons: 4482
+* Number of icons: 5206
 * Author: Phosphor Icons
 * URL: https://github.com/phosphor-icons/phosphor-icons
 * License: MIT
-* Version: 1.2.0
+* Version: 1.3.2
 * Palette: Colorless
 
 
@@ -336,7 +336,7 @@
 
 
 ### Codicons
-* Number of icons: 370
+* Number of icons: 372
 * Author: Microsoft Corporation
 * URL: https://github.com/microsoft/vscode-codicons
 * License: CC BY 4.0

@@ -156,7 +156,7 @@
 * Author: IBM
 * URL: https://github.com/carbon-design-system/carbon/tree/main/packages/icons
 * License: Apache 2.0
-* Version: 10.35.0-rc.0
+* Version: 10.35.0
 * Palette: Colorless
 
 
@@ -446,7 +446,7 @@
 * Author: Steve Schoger
 * URL: https://github.com/refactoringui/heroicons
 * License: MIT
-* Version: 1.0.1
+* Version: 1.0.2
 * Palette: Colorless
 
 
@@ -455,7 +455,7 @@
 * Author: Steve Schoger
 * URL: https://github.com/refactoringui/heroicons
 * License: MIT
-* Version: 1.0.1
+* Version: 1.0.2
 * Palette: Colorless
 
 

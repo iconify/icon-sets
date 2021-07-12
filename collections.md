@@ -872,12 +872,12 @@
 
 
 ### Simple Icons
-* Number of icons: 1965
+* Number of icons: 1969
 * Author: Simple Icons Collaborators
 * URL: https://github.com/simple-icons/simple-icons
 * License: CC0 1.0
 * License URL: https://github.com/simple-icons/simple-icons/blob/develop/LICENSE.md
-* Version: 5.5.0
+* Version: 5.6.0
 * Palette: Colorless
 
 

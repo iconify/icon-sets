@@ -341,7 +341,7 @@
 * URL: https://github.com/microsoft/vscode-codicons
 * License: CC BY 4.0
 * License URL: https://raw.githubusercontent.com/microsoft/vscode-codicons/master/LICENSE
-* Version: 0.0.17
+* Version: 0.0.20
 * Palette: Colorless
 
 
@@ -407,7 +407,7 @@
 * URL: https://github.com/artcoholic/akar-icons
 * License: MIT
 * License URL: https://github.com/artcoholic/akar-icons/blob/master/LICENSE
-* Version: 1.7.7
+* Version: 1.7.10
 * Palette: Colorless
 
 

@@ -19186,7 +19186,7 @@
 			"parent": "alarm-multiple"
 		},
 		"alcohol": {
-			"parent": "glass-stange"
+			"parent": "glass-wine"
 		},
 		"align-horizontal-centre": {
 			"parent": "align-horizontal-center"
@@ -19616,6 +19616,9 @@
 		},
 		"analog": {
 			"parent": "sine-wave"
+		},
+		"analytics": {
+			"parent": "poll"
 		},
 		"and": {
 			"parent": "ampersand"
@@ -20101,7 +20104,7 @@
 			"parent": "audio-video-off"
 		},
 		"award": {
-			"parent": "seal-variant"
+			"parent": "seal"
 		},
 		"awning": {
 			"parent": "storefront"
@@ -20143,7 +20146,7 @@
 			"parent": "human-female-dance"
 		},
 		"ban": {
-			"parent": "file-cancel-outline"
+			"parent": "file-cancel"
 		},
 		"band-aid": {
 			"parent": "bandage"
@@ -20155,7 +20158,7 @@
 			"parent": "bank-plus"
 		},
 		"bar": {
-			"parent": "glass-stange"
+			"parent": "glass-wine"
 		},
 		"bar-chart": {
 			"parent": "poll"
@@ -20269,7 +20272,7 @@
 			"parent": "grill-outline"
 		},
 		"beacon": {
-			"parent": "lighthouse-on"
+			"parent": "lighthouse"
 		},
 		"beats-per-minute": {
 			"parent": "metronome"
@@ -21172,7 +21175,7 @@
 			"parent": "close-box"
 		},
 		"cancel-box-multiple": {
-			"parent": "close-box-multiple-outline"
+			"parent": "close-box-multiple"
 		},
 		"cancel-box-outline": {
 			"parent": "close-box-outline"
@@ -21205,7 +21208,7 @@
 			"parent": "close-thick"
 		},
 		"canine": {
-			"parent": "dog-side"
+			"parent": "dog-service"
 		},
 		"capsule": {
 			"parent": "pill"
@@ -21886,7 +21889,7 @@
 			"parent": "update"
 		},
 		"clock-warning": {
-			"parent": "clock-alert-outline"
+			"parent": "clock-alert"
 		},
 		"clockwise": {
 			"parent": "update"
@@ -21946,7 +21949,7 @@
 			"parent": "spider-web"
 		},
 		"cocktail": {
-			"parent": "glass-stange"
+			"parent": "glass-wine"
 		},
 		"cod": {
 			"parent": "credit-card-marker-outline"
@@ -22738,7 +22741,7 @@
 			"parent": "email-open"
 		},
 		"drink": {
-			"parent": "glass-stange"
+			"parent": "glass-wine"
 		},
 		"drink-ice": {
 			"parent": "delete-variant"
@@ -24045,6 +24048,12 @@
 		"file-favorite-outline": {
 			"parent": "file-star-outline"
 		},
+		"file-graph": {
+			"parent": "file-chart"
+		},
+		"file-graph-outline": {
+			"parent": "file-chart-outline"
+		},
 		"file-image-location": {
 			"parent": "file-image-marker"
 		},
@@ -24059,6 +24068,9 @@
 		},
 		"file-report": {
 			"parent": "file-chart"
+		},
+		"file-report-outline": {
+			"parent": "file-chart-outline"
 		},
 		"file-revert": {
 			"parent": "file-undo"
@@ -24514,7 +24526,7 @@
 			"parent": "shoe-print"
 		},
 		"forbid": {
-			"parent": "file-cancel-outline"
+			"parent": "file-cancel"
 		},
 		"foreign-key": {
 			"parent": "key-link"
@@ -24876,6 +24888,81 @@
 		"grain-off": {
 			"parent": "barley-off"
 		},
+		"graph-areaspline": {
+			"parent": "chart-areaspline"
+		},
+		"graph-areaspline-variant": {
+			"parent": "chart-areaspline-variant"
+		},
+		"graph-bar": {
+			"parent": "finance"
+		},
+		"graph-bar-stacked": {
+			"parent": "chart-bar-stacked"
+		},
+		"graph-bell-curve": {
+			"parent": "chart-bell-curve"
+		},
+		"graph-bell-curve-cumulative": {
+			"parent": "chart-bell-curve-cumulative"
+		},
+		"graph-box": {
+			"parent": "chart-box"
+		},
+		"graph-box-outline": {
+			"parent": "chart-box-outline"
+		},
+		"graph-box-plus-outline": {
+			"parent": "chart-box-plus-outline"
+		},
+		"graph-histogram": {
+			"parent": "chart-histogram"
+		},
+		"graph-line": {
+			"parent": "chart-timeline-variant"
+		},
+		"graph-line-shimmer": {
+			"parent": "chart-timeline-variant-shimmer"
+		},
+		"graph-line-stacked": {
+			"parent": "chart-line-stacked"
+		},
+		"graph-line-variant": {
+			"parent": "chart-line-variant"
+		},
+		"graph-multiline": {
+			"parent": "chart-multiline"
+		},
+		"graph-multiple": {
+			"parent": "chart-multiple"
+		},
+		"graph-pie": {
+			"parent": "chart-pie"
+		},
+		"graph-ppf": {
+			"parent": "chart-ppf"
+		},
+		"graph-sankey": {
+			"parent": "chart-sankey"
+		},
+		"graph-sankey-variant": {
+			"parent": "chart-sankey-variant"
+		},
+		"graph-scatter-plot": {
+			"parent": "chart-scatter-plot"
+		},
+		"graph-scatter-plot-hexbin": {
+			"parent": "chart-scatter-plot-hexbin"
+		},
+		"graph-timeline": {
+			"parent": "chart-timeline"
+		},
+		"graph-timeline-variant": {
+			"parent": "chart-timeline-variant"
+		},
+		"graph-timeline-variant-shimmer": {
+			"parent": "chart-timeline-variant-shimmer"
+		},
 		"graphics-processing-unit": {
 			"parent": "expansion-card"
 		},
@@ -24958,7 +25045,7 @@
 			"parent": "pound-box-outline"
 		},
 		"hd": {
-			"parent": "high-definition-box"
+			"parent": "high-definition"
 		},
 		"hd-box": {
 			"parent": "high-definition-box"
@@ -25190,6 +25277,9 @@
 		},
 		"home-location": {
 			"parent": "home-map-marker"
+		},
+		"home-report": {
+			"parent": "home-analytics"
 		},
 		"home-temperature": {
 			"parent": "home-thermometer"
@@ -25444,7 +25534,7 @@
 			"parent": "card-account-details-outline"
 		},
 		"idea": {
-			"parent": "lightbulb-outline"
+			"parent": "lightbulb"
 		},
 		"identification-card": {
 			"parent": "card-account-details"
@@ -25645,7 +25735,7 @@
 			"parent": "invert-colors-off"
 		},
 		"invite": {
-			"parent": "account-plus-outline"
+			"parent": "account-plus"
 		},
 		"invoice": {
 			"parent": "receipt"
@@ -25705,7 +25795,7 @@
 			"parent": "debug-step-over"
 		},
 		"k9": {
-			"parent": "dog-side"
+			"parent": "dog-service"
 		},
 		"karabiner": {
 			"parent": "carabiner"
@@ -27169,7 +27259,7 @@
 			"parent": "pencil-outline"
 		},
 		"mom": {
-			"parent": "human-female-boy"
+			"parent": "human-female-girl"
 		},
 		"money": {
 			"parent": "cash"
@@ -27235,7 +27325,7 @@
 			"parent": "dots-vertical"
 		},
 		"mother": {
-			"parent": "human-female-boy"
+			"parent": "human-female-girl"
 		},
 		"motion-detector": {
 			"parent": "motion-sensor"
@@ -27346,7 +27436,7 @@
 			"parent": "close-thick"
 		},
 		"mum": {
-			"parent": "human-female-boy"
+			"parent": "human-female-girl"
 		},
 		"museum": {
 			"parent": "bank"
@@ -28126,7 +28216,7 @@
 			"parent": "format-color-fill"
 		},
 		"paint-outline": {
-			"parent": "palette-outline"
+			"parent": "palette-swatch-outline"
 		},
 		"paintbrush": {
 			"parent": "brush"
@@ -28436,6 +28526,9 @@
 		},
 		"pepper-off": {
 			"parent": "chili-off"
+		},
+		"performance": {
+			"parent": "poll"
 		},
 		"perimeter": {
 			"parent": "dots-square"
@@ -29224,7 +29317,7 @@
 			"parent": "printer-alert"
 		},
 		"prize": {
-			"parent": "seal-variant"
+			"parent": "seal"
 		},
 		"progress-spanner": {
 			"parent": "progress-wrench"
@@ -29323,7 +29416,7 @@
 			"parent": "help-network-outline"
 		},
 		"queue": {
-			"parent": "tray-minus"
+			"parent": "tray"
 		},
 		"queue-music": {
 			"parent": "playlist-music"
@@ -29446,7 +29539,7 @@
 			"parent": "account-plus-outline"
 		},
 		"registration-mark": {
-			"parent": "target-variant"
+			"parent": "target"
 		},
 		"regular-expression": {
 			"parent": "regex"
@@ -29482,7 +29575,7 @@
 			"parent": "close-box"
 		},
 		"remove-box-multiple": {
-			"parent": "close-box-multiple-outline"
+			"parent": "close-box-multiple"
 		},
 		"remove-box-outline": {
 			"parent": "close-box-outline"
@@ -29542,10 +29635,106 @@
 			"parent": "repeat-once"
 		},
 		"report": {
-			"parent": "alert-octagon"
+			"parent": "poll"
+		},
+		"report-arc": {
+			"parent": "chart-arc"
+		},
+		"report-areaspline": {
+			"parent": "chart-areaspline"
+		},
+		"report-areaspline-variant": {
+			"parent": "chart-areaspline-variant"
+		},
+		"report-bar": {
+			"parent": "chart-bar"
+		},
+		"report-bar-stacked": {
+			"parent": "chart-bar-stacked"
+		},
+		"report-bell-curve": {
+			"parent": "chart-bell-curve"
+		},
+		"report-bell-curve-cumulative": {
+			"parent": "chart-bell-curve-cumulative"
+		},
+		"report-box": {
+			"parent": "chart-box"
+		},
+		"report-box-outline": {
+			"parent": "chart-box-outline"
+		},
+		"report-box-plus-outline": {
+			"parent": "chart-box-plus-outline"
+		},
+		"report-bubble": {
+			"parent": "chart-bubble"
+		},
+		"report-donut": {
+			"parent": "chart-donut"
+		},
+		"report-donut-variant": {
+			"parent": "chart-donut-variant"
+		},
+		"report-finance": {
+			"parent": "finance"
+		},
+		"report-gantt": {
+			"parent": "chart-gantt"
+		},
+		"report-histogram": {
+			"parent": "chart-histogram"
+		},
+		"report-line": {
+			"parent": "chart-timeline-variant"
+		},
+		"report-line-shimmer": {
+			"parent": "chart-timeline-variant-shimmer"
+		},
+		"report-line-stacked": {
+			"parent": "chart-line-stacked"
+		},
+		"report-line-variant": {
+			"parent": "chart-line-variant"
+		},
+		"report-multiline": {
+			"parent": "chart-multiline"
+		},
+		"report-multiple": {
+			"parent": "chart-multiple"
+		},
+		"report-pie": {
+			"parent": "chart-pie"
+		},
+		"report-ppf": {
+			"parent": "chart-ppf"
 		},
 		"report-problem": {
 			"parent": "alert"
+		},
+		"report-sankey": {
+			"parent": "chart-sankey"
+		},
+		"report-sankey-variant": {
+			"parent": "chart-sankey-variant"
+		},
+		"report-scatter-plot": {
+			"parent": "chart-scatter-plot"
+		},
+		"report-scatter-plot-hexbin": {
+			"parent": "chart-scatter-plot-hexbin"
+		},
+		"report-timeline": {
+			"parent": "chart-timeline"
+		},
+		"report-timeline-variant": {
+			"parent": "chart-timeline-variant"
+		},
+		"report-timeline-variant-shimmer": {
+			"parent": "chart-timeline-variant-shimmer"
+		},
+		"report-tree": {
+			"parent": "chart-tree"
 		},
 		"reptile": {
 			"parent": "turtle"
@@ -29583,6 +29772,9 @@
 		"reverse": {
 			"parent": "alpha-r"
 		},
+		"roadmap": {
+			"parent": "chart-timeline"
+		},
 		"robber-mask": {
 			"parent": "domino-mask"
 		},
@@ -29602,7 +29794,7 @@
 			"parent": "format-rotate-90"
 		},
 		"royalty": {
-			"parent": "chess-king"
+			"parent": "chess-queen"
 		},
 		"rss-feed": {
 			"parent": "rss"
@@ -32349,6 +32541,99 @@
 		"wide-area-network": {
 			"parent": "wan"
 		},
+		"widget-arc": {
+			"parent": "chart-arc"
+		},
+		"widget-areaspline": {
+			"parent": "chart-areaspline"
+		},
+		"widget-areaspline-variant": {
+			"parent": "chart-areaspline-variant"
+		},
+		"widget-bar": {
+			"parent": "chart-bar"
+		},
+		"widget-bar-stacked": {
+			"parent": "chart-bar-stacked"
+		},
+		"widget-bell-curve": {
+			"parent": "chart-bell-curve"
+		},
+		"widget-bell-curve-cumulative": {
+			"parent": "chart-bell-curve-cumulative"
+		},
+		"widget-box": {
+			"parent": "chart-box"
+		},
+		"widget-box-outline": {
+			"parent": "chart-box-outline"
+		},
+		"widget-box-plus-outline": {
+			"parent": "chart-box-plus-outline"
+		},
+		"widget-bubble": {
+			"parent": "chart-bubble"
+		},
+		"widget-donut": {
+			"parent": "chart-donut"
+		},
+		"widget-donut-variant": {
+			"parent": "chart-donut-variant"
+		},
+		"widget-gantt": {
+			"parent": "chart-gantt"
+		},
+		"widget-histogram": {
+			"parent": "chart-histogram"
+		},
+		"widget-line": {
+			"parent": "chart-timeline-variant"
+		},
+		"widget-line-shimmer": {
+			"parent": "chart-timeline-variant-shimmer"
+		},
+		"widget-line-stacked": {
+			"parent": "chart-line-stacked"
+		},
+		"widget-line-variant": {
+			"parent": "chart-line-variant"
+		},
+		"widget-multiline": {
+			"parent": "chart-multiline"
+		},
+		"widget-multiple": {
+			"parent": "chart-multiple"
+		},
+		"widget-pie": {
+			"parent": "chart-pie"
+		},
+		"widget-ppf": {
+			"parent": "chart-ppf"
+		},
+		"widget-sankey": {
+			"parent": "chart-sankey"
+		},
+		"widget-sankey-variant": {
+			"parent": "chart-sankey-variant"
+		},
+		"widget-scatter-plot": {
+			"parent": "chart-scatter-plot"
+		},
+		"widget-scatter-plot-hexbin": {
+			"parent": "chart-scatter-plot-hexbin"
+		},
+		"widget-timeline": {
+			"parent": "chart-timeline"
+		},
+		"widget-timeline-variant": {
+			"parent": "chart-timeline-variant"
+		},
+		"widget-timeline-variant-shimmer": {
+			"parent": "chart-timeline-variant-shimmer"
+		},
+		"widget-tree": {
+			"parent": "chart-tree"
+		},
 		"wifi-favorite": {
 			"parent": "wifi-star"
 		},
@@ -32410,7 +32695,7 @@
 			"parent": "human-female"
 		},
 		"woman-child": {
-			"parent": "human-female-boy"
+			"parent": "human-female-girl"
 		},
 		"woman-woman": {
 			"parent": "human-female-female"

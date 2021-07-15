@@ -68,16 +68,6 @@
 * Palette: Colorless
 
 
-### Unicons Monochrome
-* Number of icons: 296
-* Author: Iconscout
-* URL: https://github.com/Iconscout/unicons
-* License: Apache 2.0
-* License URL: https://raw.githubusercontent.com/Iconscout/unicons/master/LICENSE
-* Version: 4.0.0
-* Palette: Colorless
-
-
 ### BoxIcons
 * Number of icons: 1500
 * Author: Atisa
@@ -353,16 +343,6 @@
 * Palette: Colorless
 
 
-### Feather Icons
-* Number of icons: 286
-* Author: Cole Bemis
-* URL: https://github.com/feathericons/feather
-* License: MIT
-* License URL: https://github.com/feathericons/feather/blob/master/LICENSE
-* Version: 0.0.0-development
-* Palette: Colorless
-
-
 ### Feather Icon
 * Number of icons: 255
 * Author: Megumi Hano
@@ -402,12 +382,12 @@
 
 
 ### Akar Icons
-* Number of icons: 312
+* Number of icons: 325
 * Author: Arturo Wibawa
 * URL: https://github.com/artcoholic/akar-icons
 * License: MIT
 * License URL: https://github.com/artcoholic/akar-icons/blob/master/LICENSE
-* Version: 1.7.10
+* Version: 1.7.11
 * Palette: Colorless
 
 
@@ -418,6 +398,36 @@
 * License: MIT
 * License URL: https://github.com/uiwjs/icons/blob/master/LICENSE
 * Version: 2.5.1
+* Palette: Colorless
+
+
+### Unicons Monochrome
+* Number of icons: 296
+* Author: Iconscout
+* URL: https://github.com/Iconscout/unicons
+* License: Apache 2.0
+* License URL: https://raw.githubusercontent.com/Iconscout/unicons/master/LICENSE
+* Version: 4.0.0
+* Palette: Colorless
+
+
+### Unicons Thin Line
+* Number of icons: 214
+* Author: Iconscout
+* URL: https://github.com/Iconscout/unicons
+* License: Apache 2.0
+* License URL: https://raw.githubusercontent.com/Iconscout/unicons/master/LICENSE
+* Version: 4.0.0
+* Palette: Colorless
+
+
+### Unicons Solid
+* Number of icons: 189
+* Author: Iconscout
+* URL: https://github.com/Iconscout/unicons
+* License: Apache 2.0
+* License URL: https://raw.githubusercontent.com/Iconscout/unicons/master/LICENSE
+* Version: 4.0.0
 * Palette: Colorless
 
 
@@ -443,18 +453,20 @@
 
 ### HeroIcons Outline
 * Number of icons: 230
-* Author: Steve Schoger
-* URL: https://github.com/refactoringui/heroicons
+* Author: Refactoring UI Inc
+* URL: https://github.com/tailwindlabs/heroicons
 * License: MIT
+* License URL: https://raw.githubusercontent.com/tailwindlabs/heroicons/master/LICENSE
 * Version: 1.0.2
 * Palette: Colorless
 
 
 ### HeroIcons Solid
 * Number of icons: 230
-* Author: Steve Schoger
-* URL: https://github.com/refactoringui/heroicons
+* Author: Refactoring UI Inc
+* URL: https://github.com/tailwindlabs/heroicons
 * License: MIT
+* License URL: https://raw.githubusercontent.com/tailwindlabs/heroicons/master/LICENSE
 * Version: 1.0.2
 * Palette: Colorless
 
@@ -771,6 +783,16 @@
 * URL: https://github.com/fontello/fontelico.font
 * License: CC BY SA
 * License URL: http://creativecommons.org/licenses/by-sa/3.0/
+* Palette: Colorless
+
+
+### Feather Icons
+* Number of icons: 286
+* Author: Cole Bemis
+* URL: https://github.com/feathericons/feather
+* License: MIT
+* License URL: https://github.com/feathericons/feather/blob/master/LICENSE
+* Version: 0.0.0-development
 * Palette: Colorless
 
 

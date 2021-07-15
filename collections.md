@@ -343,6 +343,15 @@
 * Palette: Colorless
 
 
+### Lucide
+* Number of icons: 487
+* Author: Lucide Contributors
+* URL: https://github.com/lucide-icons/lucide
+* License: ISC
+* License URL: https://github.com/lucide-icons/lucide/blob/master/LICENSE
+* Palette: Colorless
+
+
 ### Feather Icon
 * Number of icons: 255
 * Author: Megumi Hano

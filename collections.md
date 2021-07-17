@@ -326,7 +326,7 @@
 
 
 ### Codicons
-* Number of icons: 372
+* Number of icons: 374
 * Author: Microsoft Corporation
 * URL: https://github.com/microsoft/vscode-codicons
 * License: CC BY 4.0

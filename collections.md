@@ -903,12 +903,12 @@
 
 
 ### Simple Icons
-* Number of icons: 1969
+* Number of icons: 1972
 * Author: Simple Icons Collaborators
 * URL: https://github.com/simple-icons/simple-icons
 * License: CC0 1.0
 * License URL: https://github.com/simple-icons/simple-icons/blob/develop/LICENSE.md
-* Version: 5.6.0
+* Version: 5.7.0
 * Palette: Colorless
 
 
@@ -941,12 +941,12 @@
 
 
 ### Cryptocurrency Icons
-* Number of icons: 456
+* Number of icons: 471
 * Author: Christopher Downer
 * URL: https://github.com/atomiclabs/cryptocurrency-icons
 * License: CC0 1.0
 * License URL: https://creativecommons.org/publicdomain/zero/1.0/
-* Version: 0.17.2
+* Version: 0.18.0
 * Palette: Colorless
 
 

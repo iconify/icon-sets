@@ -69,7 +69,7 @@
 
 
 ### BoxIcons
-* Number of icons: 1500
+* Number of icons: 1525
 * Author: Atisa
 * URL: https://github.com/atisawd/boxicons
 * License: CC BY 4.0
@@ -142,11 +142,11 @@
 
 
 ### Carbon
-* Number of icons: 1609
+* Number of icons: 1751
 * Author: IBM
 * URL: https://github.com/carbon-design-system/carbon/tree/main/packages/icons
 * License: Apache 2.0
-* Version: 10.35.0
+* Version: 10.36.0-rc.0
 * Palette: Colorless
 
 

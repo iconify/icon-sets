@@ -146,7 +146,7 @@
 * Author: IBM
 * URL: https://github.com/carbon-design-system/carbon/tree/main/packages/icons
 * License: Apache 2.0
-* Version: 10.36.0-rc.0
+* Version: 10.36.0
 * Palette: Colorless
 
 

@@ -631,6 +631,16 @@
 * Palette: Colorless
 
 
+### Pepicons
+* Number of icons: 316
+* Author: CyCraft
+* URL: https://github.com/CyCraft/pepicons
+* License: CC BY 4.0
+* License URL: https://github.com/CyCraft/pepicons/blob/dev/LICENSE
+* Version: 0.2.0
+* Palette: Colorless
+
+
 ### Maki
 * Number of icons: 204
 * Author: Mapbox
@@ -947,6 +957,16 @@
 * License: CC0 1.0
 * License URL: https://creativecommons.org/publicdomain/zero/1.0/
 * Version: 0.18.0
+* Palette: Colorless
+
+
+### Font-GIS
+* Number of icons: 325
+* Author: Jean-Marc Viglino
+* URL: https://github.com/viglino/font-gis
+* License: CC BY 4.0
+* License URL: https://github.com/Viglino/font-gis/blob/main/LICENSE-CC-BY.md
+* Version: 1.0.3
 * Palette: Colorless
 
 

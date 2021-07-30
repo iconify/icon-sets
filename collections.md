@@ -3,7 +3,7 @@
 
 
 ### Material Design Icons
-* Number of icons: 6029
+* Number of icons: 6031
 * Author: Austin Andrews
 * URL: https://github.com/Templarian/MaterialDesign
 * License: Open Font License
@@ -274,7 +274,7 @@
 * URL: https://gitlab.com/SUSE-UIUX/eos-icons
 * License: MIT
 * License URL: https://gitlab.com/SUSE-UIUX/eos-icons/-/blob/master/LICENSE
-* Version: 5.1.0
+* Version: 5.2.0
 * Palette: Colorless
 
 
@@ -321,7 +321,7 @@
 * URL: https://github.com/primer/octicons/
 * License: Open Font License
 * License URL: https://raw.githubusercontent.com/primer/octicons/main/LICENSE
-* Version: 14.2.2
+* Version: 15.0.0
 * Palette: Colorless
 
 
@@ -344,7 +344,7 @@
 
 
 ### Lucide
-* Number of icons: 487
+* Number of icons: 489
 * Author: Lucide Contributors
 * URL: https://github.com/lucide-icons/lucide
 * License: ISC
@@ -466,7 +466,7 @@
 * URL: https://github.com/tailwindlabs/heroicons
 * License: MIT
 * License URL: https://raw.githubusercontent.com/tailwindlabs/heroicons/master/LICENSE
-* Version: 1.0.2
+* Version: 1.0.3
 * Palette: Colorless
 
 
@@ -476,7 +476,7 @@
 * URL: https://github.com/tailwindlabs/heroicons
 * License: MIT
 * License URL: https://raw.githubusercontent.com/tailwindlabs/heroicons/master/LICENSE
-* Version: 1.0.2
+* Version: 1.0.3
 * Palette: Colorless
 
 
@@ -903,12 +903,12 @@
 
 
 ### Simple Icons
-* Number of icons: 1972
+* Number of icons: 1978
 * Author: Simple Icons Collaborators
 * URL: https://github.com/simple-icons/simple-icons
 * License: CC0 1.0
 * License URL: https://github.com/simple-icons/simple-icons/blob/develop/LICENSE.md
-* Version: 5.7.0
+* Version: 5.8.0
 * Palette: Colorless
 
 

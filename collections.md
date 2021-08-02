@@ -612,12 +612,12 @@
 
 
 ### Fluent UI System Icons
-* Number of icons: 8214
+* Number of icons: 8414
 * Author: Microsoft Corporation
 * URL: https://github.com/microsoft/fluentui-system-icons
 * License: MIT
 * License URL: https://github.com/microsoft/fluentui-system-icons/blob/master/LICENSE
-* Version: 1.1.135
+* Version: 1.1.136
 * Palette: Colorless
 
 
@@ -672,12 +672,12 @@
 
 
 ### VSCode Icons
-* Number of icons: 1082
+* Number of icons: 1084
 * Author: Roberto Huertas
 * URL: https://github.com/vscode-icons/vscode-icons
 * License: MIT
 * License URL: https://github.com/vscode-icons/vscode-icons/blob/master/LICENSE
-* Version: 11.5.0
+* Version: 11.6.0
 * Palette: Colorful
 
 
@@ -918,7 +918,7 @@
 * URL: https://github.com/simple-icons/simple-icons
 * License: CC0 1.0
 * License URL: https://github.com/simple-icons/simple-icons/blob/develop/LICENSE.md
-* Version: 5.8.0
+* Version: 5.8.1
 * Palette: Colorless
 
 
@@ -961,12 +961,12 @@
 
 
 ### Font-GIS
-* Number of icons: 325
+* Number of icons: 336
 * Author: Jean-Marc Viglino
 * URL: https://github.com/viglino/font-gis
 * License: CC BY 4.0
 * License URL: https://github.com/Viglino/font-gis/blob/main/LICENSE-CC-BY.md
-* Version: 1.0.3
+* Version: 1.0.4
 * Palette: Colorless
 
 

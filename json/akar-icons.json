@@ -2,7 +2,7 @@
 	"prefix": "akar-icons",
 	"info": {
 		"name": "Akar Icons",
-		"total": 325,
+		"total": 330,
 		"author": {
 			"name": "Arturo Wibawa",
 			"url": "https://github.com/artcoholic/akar-icons"
@@ -12,7 +12,7 @@
 			"spdx": "MIT",
 			"url": "https://github.com/artcoholic/akar-icons/blob/master/LICENSE"
 		},
-		"version": "1.7.12",
+		"version": "1.8.1",
 		"samples": [
 			"paper",
 			"pencil",
@@ -390,6 +390,9 @@
 		"diamond": {
 			"body": "<g fill=\"none\"><path d=\"M4.511 13.542c-.681-.852-.681-2.232 0-3.084l6.256-7.82c.68-.85 1.785-.85 2.466 0l6.256 7.82c.681.852.681 2.232 0 3.084l-6.256 7.82c-.68.85-1.785.85-2.466 0l-6.256-7.82z\" stroke=\"currentColor\" stroke-width=\"2\"/></g>"
 		},
+		"discord-fill": {
+			"body": "<g fill=\"none\"><path d=\"M20.317 4.492c-1.53-.69-3.17-1.2-4.885-1.49a.075.075 0 0 0-.079.036c-.21.369-.444.85-.608 1.23a18.566 18.566 0 0 0-5.487 0a12.36 12.36 0 0 0-.617-1.23A.077.077 0 0 0 8.562 3c-1.714.29-3.354.8-4.885 1.491a.07.07 0 0 0-.032.027C.533 9.093-.32 13.555.099 17.961a.08.08 0 0 0 .031.055a20.03 20.03 0 0 0 5.993 2.98a.078.078 0 0 0 .084-.026c.462-.62.874-1.275 1.226-1.963c.021-.04.001-.088-.041-.104a13.201 13.201 0 0 1-1.872-.878a.075.075 0 0 1-.008-.125c.126-.093.252-.19.372-.287a.075.075 0 0 1 .078-.01c3.927 1.764 8.18 1.764 12.061 0a.075.075 0 0 1 .079.009c.12.098.245.195.372.288a.075.075 0 0 1-.006.125c-.598.344-1.22.635-1.873.877a.075.075 0 0 0-.041.105c.36.687.772 1.341 1.225 1.962a.077.077 0 0 0 .084.028a19.963 19.963 0 0 0 6.002-2.981a.076.076 0 0 0 .032-.054c.5-5.094-.838-9.52-3.549-13.442a.06.06 0 0 0-.031-.028zM8.02 15.278c-1.182 0-2.157-1.069-2.157-2.38c0-1.312.956-2.38 2.157-2.38c1.21 0 2.176 1.077 2.157 2.38c0 1.312-.956 2.38-2.157 2.38zm7.975 0c-1.183 0-2.157-1.069-2.157-2.38c0-1.312.955-2.38 2.157-2.38c1.21 0 2.176 1.077 2.157 2.38c0 1.312-.946 2.38-2.157 2.38z\" fill=\"currentColor\"/></g>"
+		},
 		"door": {
 			"body": "<g fill=\"none\"><path d=\"M5 2h11a3 3 0 0 1 3 3v14a1 1 0 0 1-1 1h-3\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M5 2l7.588 1.518A3 3 0 0 1 15 6.459V20.78a1 1 0 0 1-1.196.98l-7.196-1.438A2 2 0 0 1 5 18.36V2z\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M12 12v2\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/></g>"
 		},
@@ -731,6 +734,18 @@
 		},
 		"plus": {
 			"body": "<g fill=\"none\"><path d=\"M12 20v-8m0 0V4m0 8h8m-8 0H4\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\"/></g>"
+		},
+		"pointer-down-fill": {
+			"body": "<g fill=\"none\"><path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M20.05 17.65a3 3 0 0 0 1.2-2.4v-11a3 3 0 0 0-3-3h-12a3 3 0 0 0-3 3v11a3 3 0 0 0 1.2 2.4l6 4.5a3 3 0 0 0 3.6 0l6-4.5z\" fill=\"currentColor\"/></g>"
+		},
+		"pointer-left-fill": {
+			"body": "<g fill=\"none\"><path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M6.6 4.2A3 3 0 0 1 9 3h11a3 3 0 0 1 3 3v12a3 3 0 0 1-3 3H9a3 3 0 0 1-2.4-1.2l-4.5-6a3 3 0 0 1 0-3.6l4.5-6z\" fill=\"currentColor\"/></g>"
+		},
+		"pointer-right-fill": {
+			"body": "<g fill=\"none\"><path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M17.9 4.2A3 3 0 0 0 15.5 3h-11a3 3 0 0 0-3 3v12a3 3 0 0 0 3 3h11a3 3 0 0 0 2.4-1.2l4.5-6a3 3 0 0 0 0-3.6l-4.5-6z\" fill=\"currentColor\"/></g>"
+		},
+		"pointer-up-fill": {
+			"body": "<g fill=\"none\"><path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M20.05 6.35a3 3 0 0 1 1.2 2.4v11a3 3 0 0 1-3 3h-12a3 3 0 0 1-3-3v-11a3 3 0 0 1 1.2-2.4l6-4.5a3 3 0 0 1 3.6 0l6 4.5z\" fill=\"currentColor\"/></g>"
 		},
 		"pointing-up": {
 			"body": "<g fill=\"none\"><path d=\"M19 16l.87-11.735a2.102 2.102 0 0 0-4.181-.433L15 9\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M8 15v-3a2 2 0 1 0-4 0v4\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M12 13v-1.5a2 2 0 1 0-4 0V15\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M16 13v-2a2 2 0 1 0-4 0v2\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M19 16c-.536 4-3.358 6-7.5 6C7.358 22 4 20 4 16\" stroke=\"currentColor\" stroke-width=\"2\"/><path d=\"M13.692 17H11a2 2 0 1 1 0-4h4c2.21 0 4.5 2 3.5 5\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/></g>"

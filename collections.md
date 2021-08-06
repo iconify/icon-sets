@@ -39,22 +39,22 @@
 
 
 ### IconPark Outline
-* Number of icons: 2420
+* Number of icons: 2422
 * Author: ByteDance
 * URL: https://github.com/bytedance/IconPark
 * License: Apache 2.0
 * License URL: https://github.com/bytedance/IconPark/blob/master/LICENSE
-* Version: 1.3.3
+* Version: 1.3.5
 * Palette: Colorless
 
 
 ### IconPark
-* Number of icons: 2420
+* Number of icons: 2422
 * Author: ByteDance
 * URL: https://github.com/bytedance/IconPark
 * License: Apache 2.0
 * License URL: https://github.com/bytedance/IconPark/blob/master/LICENSE
-* Version: 1.3.3
+* Version: 1.3.5
 * Palette: Colorful
 
 
@@ -146,7 +146,7 @@
 * Author: IBM
 * URL: https://github.com/carbon-design-system/carbon/tree/main/packages/icons
 * License: Apache 2.0
-* Version: 10.37.0-rc.0
+* Version: 10.37.0
 * Palette: Colorless
 
 
@@ -195,7 +195,7 @@
 * URL: http://fontawesome.io/
 * License: CC BY 4.0
 * License URL: https://creativecommons.org/licenses/by/4.0/
-* Version: 5.15.3
+* Version: 5.15.4
 * Palette: Colorless
 
 
@@ -205,7 +205,7 @@
 * URL: http://fontawesome.io/
 * License: CC BY 4.0
 * License URL: https://creativecommons.org/licenses/by/4.0/
-* Version: 5.15.3
+* Version: 5.15.4
 * Palette: Colorless
 
 
@@ -391,12 +391,12 @@
 
 
 ### Akar Icons
-* Number of icons: 325
+* Number of icons: 330
 * Author: Arturo Wibawa
 * URL: https://github.com/artcoholic/akar-icons
 * License: MIT
 * License URL: https://github.com/artcoholic/akar-icons/blob/master/LICENSE
-* Version: 1.7.12
+* Version: 1.8.1
 * Palette: Colorless
 
 
@@ -928,7 +928,7 @@
 * URL: http://fontawesome.io/
 * License: CC BY 4.0
 * License URL: https://creativecommons.org/licenses/by/4.0/
-* Version: 5.15.3
+* Version: 5.15.4
 * Palette: Colorless
 
 

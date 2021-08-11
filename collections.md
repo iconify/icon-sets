@@ -344,7 +344,7 @@
 
 
 ### Lucide
-* Number of icons: 490
+* Number of icons: 491
 * Author: Lucide Contributors
 * URL: https://github.com/lucide-icons/lucide
 * License: ISC
@@ -391,12 +391,12 @@
 
 
 ### Akar Icons
-* Number of icons: 330
+* Number of icons: 336
 * Author: Arturo Wibawa
 * URL: https://github.com/artcoholic/akar-icons
 * License: MIT
 * License URL: https://github.com/artcoholic/akar-icons/blob/master/LICENSE
-* Version: 1.8.2
+* Version: 1.8.5
 * Palette: Colorless
 
 
@@ -1019,7 +1019,7 @@
 
 
 ### Health Icons
-* Number of icons: 1302
+* Number of icons: 1485
 * Author: Resolve to Save Lives
 * URL: https://github.com/resolvetosavelives/healthicons
 * License: MIT

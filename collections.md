@@ -124,7 +124,7 @@
 
 
 ### Bootstrap Icons
-* Number of icons: 1370
+* Number of icons: 1386
 * Author: The Bootstrap Authors
 * URL: https://github.com/twbs/icons
 * License: MIT
@@ -316,12 +316,12 @@
 
 
 ### Octicons
-* Number of icons: 452
+* Number of icons: 454
 * Author: GitHub
 * URL: https://github.com/primer/octicons/
 * License: Open Font License
 * License URL: https://raw.githubusercontent.com/primer/octicons/main/LICENSE
-* Version: 15.0.0
+* Version: 15.0.1
 * Palette: Colorless
 
 
@@ -391,12 +391,12 @@
 
 
 ### Akar Icons
-* Number of icons: 336
+* Number of icons: 357
 * Author: Arturo Wibawa
 * URL: https://github.com/artcoholic/akar-icons
 * License: MIT
 * License URL: https://github.com/artcoholic/akar-icons/blob/master/LICENSE
-* Version: 1.8.5
+* Version: 1.8.8
 * Palette: Colorless
 
 

@@ -21,7 +21,7 @@
 
 
 ### Google Material Icons
-* Number of icons: 9320
+* Number of icons: 9520
 * Author: Material Design Authors
 * URL: https://github.com/cyberalien/google-material-design-icons-updated
 * License: Apache 2.0
@@ -142,7 +142,7 @@
 
 
 ### Carbon
-* Number of icons: 1751
+* Number of icons: 1840
 * Author: IBM
 * URL: https://github.com/carbon-design-system/carbon/tree/main/packages/icons
 * License: Apache 2.0
@@ -269,7 +269,7 @@
 
 
 ### EOS Icons
-* Number of icons: 237
+* Number of icons: 239
 * Author: SUSE UX/UI team
 * URL: https://gitlab.com/SUSE-UIUX/eos-icons
 * License: MIT
@@ -391,12 +391,12 @@
 
 
 ### Akar Icons
-* Number of icons: 357
+* Number of icons: 360
 * Author: Arturo Wibawa
 * URL: https://github.com/artcoholic/akar-icons
 * License: MIT
 * License URL: https://github.com/artcoholic/akar-icons/blob/master/LICENSE
-* Version: 1.8.9
+* Version: 1.8.10
 * Palette: Colorless
 
 

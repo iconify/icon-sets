@@ -134,7 +134,7 @@
 
 
 ### Clarity
-* Number of icons: 1096
+* Number of icons: 1099
 * Author: VMware
 * URL: https://github.com/vmware/clarity
 * License: MIT
@@ -146,7 +146,7 @@
 * Author: IBM
 * URL: https://github.com/carbon-design-system/carbon/tree/main/packages/icons
 * License: Apache 2.0
-* Version: 10.38.0-rc.0
+* Version: 10.38.0
 * Palette: Colorless
 
 
@@ -269,7 +269,7 @@
 
 
 ### EOS Icons
-* Number of icons: 239
+* Number of icons: 244
 * Author: SUSE UX/UI team
 * URL: https://gitlab.com/SUSE-UIUX/eos-icons
 * License: MIT
@@ -326,7 +326,7 @@
 
 
 ### Codicons
-* Number of icons: 374
+* Number of icons: 376
 * Author: Microsoft Corporation
 * URL: https://github.com/microsoft/vscode-codicons
 * License: CC BY 4.0
@@ -466,7 +466,7 @@
 * URL: https://github.com/tailwindlabs/heroicons
 * License: MIT
 * License URL: https://raw.githubusercontent.com/tailwindlabs/heroicons/master/LICENSE
-* Version: 1.0.3
+* Version: 1.0.4
 * Palette: Colorless
 
 
@@ -476,7 +476,7 @@
 * URL: https://github.com/tailwindlabs/heroicons
 * License: MIT
 * License URL: https://raw.githubusercontent.com/tailwindlabs/heroicons/master/LICENSE
-* Version: 1.0.3
+* Version: 1.0.4
 * Palette: Colorless
 
 

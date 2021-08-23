@@ -913,12 +913,12 @@
 
 
 ### Simple Icons
-* Number of icons: 1992
+* Number of icons: 1993
 * Author: Simple Icons Collaborators
 * URL: https://github.com/simple-icons/simple-icons
 * License: CC0 1.0
 * License URL: https://github.com/simple-icons/simple-icons/blob/develop/LICENSE.md
-* Version: 5.10.0
+* Version: 5.11.0
 * Palette: Colorless
 
 

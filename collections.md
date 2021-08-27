@@ -3,7 +3,7 @@
 
 
 ### Material Design Icons
-* Number of icons: 6083
+* Number of icons: 6141
 * Author: Austin Andrews
 * URL: https://github.com/Templarian/MaterialDesign
 * License: Open Font License
@@ -269,7 +269,7 @@
 
 
 ### EOS Icons
-* Number of icons: 246
+* Number of icons: 247
 * Author: SUSE UX/UI team
 * URL: https://gitlab.com/SUSE-UIUX/eos-icons
 * License: MIT
@@ -627,7 +627,7 @@
 * URL: https://github.com/grommet/grommet-icons
 * License: Apache 2.0
 * License URL: http://www.apache.org/licenses/LICENSE-2.0
-* Version: 4.6.1
+* Version: 4.6.2
 * Palette: Colorless
 
 

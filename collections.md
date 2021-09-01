@@ -3,7 +3,7 @@
 
 
 ### Material Design Icons
-* Number of icons: 6164
+* Number of icons: 6195
 * Author: Austin Andrews
 * URL: https://github.com/Templarian/MaterialDesign
 * License: Open Font License
@@ -316,12 +316,12 @@
 
 
 ### Octicons
-* Number of icons: 454
+* Number of icons: 455
 * Author: GitHub
 * URL: https://github.com/primer/octicons/
 * License: Open Font License
 * License URL: https://raw.githubusercontent.com/primer/octicons/main/LICENSE
-* Version: 15.0.1
+* Version: 15.1.0
 * Palette: Colorless
 
 
@@ -612,7 +612,7 @@
 
 
 ### Fluent UI System Icons
-* Number of icons: 8566
+* Number of icons: 8568
 * Author: Microsoft Corporation
 * URL: https://github.com/microsoft/fluentui-system-icons
 * License: MIT

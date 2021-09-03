@@ -3,7 +3,7 @@
 
 
 ### Material Design Icons
-* Number of icons: 6195
+* Number of icons: 6295
 * Author: Austin Andrews
 * URL: https://github.com/Templarian/MaterialDesign
 * License: Open Font License
@@ -21,7 +21,7 @@
 
 
 ### Google Material Icons
-* Number of icons: 9520
+* Number of icons: 9640
 * Author: Material Design Authors
 * URL: https://github.com/cyberalien/google-material-design-icons-updated
 * License: Apache 2.0
@@ -269,7 +269,7 @@
 
 
 ### EOS Icons
-* Number of icons: 247
+* Number of icons: 250
 * Author: SUSE UX/UI team
 * URL: https://gitlab.com/SUSE-UIUX/eos-icons
 * License: MIT
@@ -331,7 +331,7 @@
 * URL: https://github.com/microsoft/vscode-codicons
 * License: CC BY 4.0
 * License URL: https://raw.githubusercontent.com/microsoft/vscode-codicons/master/LICENSE
-* Version: 0.0.21
+* Version: 0.0.22
 * Palette: Colorless
 
 
@@ -445,8 +445,8 @@
 * Author: Automattic
 * URL: https://github.com/Automattic/gridicons
 * License: GPL 2.0
-* License URL: https://github.com/Automattic/gridicons/blob/master/LICENSE.md
-* Version: 3.3.1
+* License URL: https://github.com/Automattic/gridicons/blob/trunk/LICENSE.md
+* Version: 3.4.0
 * Palette: Colorless
 
 

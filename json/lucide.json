@@ -2,7 +2,7 @@
 	"prefix": "lucide",
 	"info": {
 		"name": "Lucide",
-		"total": 492,
+		"total": 495,
 		"author": {
 			"name": "Lucide Contributors",
 			"url": "https://github.com/lucide-icons/lucide"
@@ -579,6 +579,12 @@
 		},
 		"flag": {
 			"body": "<g fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M4 15s1-1 4-1s5 2 8 2s4-1 4-1V3s-1 1-4 1s-5-2-8-2s-4 1-4 1z\"/><path d=\"M4 22v-7\"/></g>"
+		},
+		"flag-triangle-left": {
+			"body": "<g fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M17 22V2L7 7l10 5\"/></g>"
+		},
+		"flag-triangle-right": {
+			"body": "<g fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M7 22V2l10 5l-10 5\"/></g>"
 		},
 		"flame": {
 			"body": "<g fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M8.5 14.5A2.5 2.5 0 0 0 11 12c0-1.38-.5-2-1-3c-1.072-2.143-.224-4.054 2-6c.5 2.5 2 4.9 4 6.5c2 1.6 3 3.5 3 5.5a7 7 0 1 1-14 0c0-1.153.433-2.294 1-3a2.5 2.5 0 0 0 2.5 2.5z\"/></g>"
@@ -1335,6 +1341,9 @@
 		},
 		"timer": {
 			"body": "<g fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M10 2h4\"/><path d=\"M12 14l3-3\"/><circle cx=\"12\" cy=\"14\" r=\"8\"/></g>"
+		},
+		"timer-reset": {
+			"body": "<g fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M10 2h4\"/><path d=\"M12 14v-4\"/><path d=\"M4 13a8 8 0 0 1 8-7a8 8 0 1 1-5.3 14L4 17.6\"/><path d=\"M9 17H4v5\"/></g>"
 		},
 		"toggle-left": {
 			"body": "<g fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><rect x=\"1\" y=\"5\" width=\"22\" height=\"14\" rx=\"7\" ry=\"7\"/><circle cx=\"8\" cy=\"12\" r=\"3\"/></g>"

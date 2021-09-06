@@ -3,7 +3,7 @@
 
 
 ### Material Design Icons
-* Number of icons: 6295
+* Number of icons: 6395
 * Author: Austin Andrews
 * URL: https://github.com/Templarian/MaterialDesign
 * License: Open Font License
@@ -344,7 +344,7 @@
 
 
 ### Lucide
-* Number of icons: 492
+* Number of icons: 495
 * Author: Lucide Contributors
 * URL: https://github.com/lucide-icons/lucide
 * License: ISC
@@ -612,12 +612,12 @@
 
 
 ### Fluent UI System Icons
-* Number of icons: 8568
+* Number of icons: 8692
 * Author: Microsoft Corporation
 * URL: https://github.com/microsoft/fluentui-system-icons
 * License: MIT
 * License URL: https://github.com/microsoft/fluentui-system-icons/blob/master/LICENSE
-* Version: 1.1.137
+* Version: 1.1.139
 * Palette: Colorless
 
 
@@ -672,7 +672,7 @@
 
 
 ### VSCode Icons
-* Number of icons: 1084
+* Number of icons: 1085
 * Author: Roberto Huertas
 * URL: https://github.com/vscode-icons/vscode-icons
 * License: MIT
@@ -913,12 +913,12 @@
 
 
 ### Simple Icons
-* Number of icons: 1999
+* Number of icons: 2004
 * Author: Simple Icons Collaborators
 * URL: https://github.com/simple-icons/simple-icons
 * License: CC0 1.0
 * License URL: https://github.com/simple-icons/simple-icons/blob/develop/LICENSE.md
-* Version: 5.12.0
+* Version: 5.13.0
 * Palette: Colorless
 
 

@@ -8,7 +8,7 @@
  * For the full copyright and license information, please view the license.txt
  * file that is available in this file's directory.
  */
-import { promises as fs } from 'fs'
+import { PathLike, promises as fs } from 'fs'
 import { fileURLToPath } from 'url'
 import { dirname, resolve } from 'upath'
 
@@ -401,7 +401,17 @@ export const rootDir = () => dir
  * @param {string} name Collection name
  * @returns {string} Path to collection json file
  */
-export const locate = (name: string) => `${dir}/json/${name}.json`
+export const locate = (name: string): PathLike => `${dir}/json/${name}.json`
+
+/**
+ * Loads a collection.
+ *
+ * @param {PathLike} path The path to locate the `json` collection file.
+ * @return {Promise<IconifyJSON>}
+ */
+export const loadCollection = async(path: PathLike): Promise<IconifyJSON> => {
+  return JSON.parse(await fs.readFile(path, 'utf8'))
+}
 
 /**
  * Get a collection.
@@ -410,7 +420,7 @@ export const locate = (name: string) => `${dir}/json/${name}.json`
  * @return {Promise<IconifyJSON>}
  */
 export const collection = async(name: string): Promise<IconifyJSON> => {
-  return JSON.parse(await fs.readFile(locate(name), 'utf8'))
+  return await loadCollection(locate(name))
 }
 
 /**

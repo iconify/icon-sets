@@ -3,11 +3,39 @@
 	"description": "Iconify icons collection in JSON format",
 	"license": "MIT",
 	"version": "1.1.401",
-	"homepage": "https://iconify.design/icon-sets/",
-	"main": "lib/finder.js",
-	"bugs": "https://github.com/iconify/collections-json/issues",
 	"repository": {
 		"type": "git",
 		"url": "git+ssh://git@github.com/iconify/collections-json.git"
+	},
+	"files": [
+		"dist",
+		"json",
+		"lib",
+		"collections.json",
+		"collections.md",
+		"composer.md",
+		"index.d.ts",
+		"readme.md"
+	],
+	"main": "dist/finder.js",
+	"module": "dist/finder.mjs",
+	"types": "index.d.ts",
+	"homepage": "https://iconify.design/icon-sets/",
+	"bugs": "https://github.com/iconify/collections-json/issues",
+	"scripts": {
+		"build": "rimraf dist && tsup lib/finder.ts --format cjs,esm --dts",
+		"test": "esno lib/test.ts"
+	},
+	"dependencies": {
+		"upath": "^2.0.1"
+	},
+	"devDependencies": {
+		"@antfu/eslint-config": "^0.8.2",
+		"@types/node": "^16.9.1",
+		"@typescript-eslint/eslint-plugin": "^4.31.0",
+		"eslint": "^7.32.0",
+		"esno": "^0.9.1",
+		"tsup": "^4.14.0",
+		"typescript": "^4.4.3"
 	}
 }

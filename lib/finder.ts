@@ -77,6 +77,30 @@ export interface IconifyTransformations {
 }
 
 /**
+ * Icon alignment.
+ */
+export interface IconifyAlignment {
+  /**
+   * Icon horizontal alignment.
+   *
+   * @default 'center'
+   */
+  horizontal: 'center' | 'left' | 'right'
+  /**
+   * Icon vertical alignment.
+   *
+   * @default 'middle'
+   */
+  vertical: 'middle' | 'top' | 'bottom'
+  /**
+   * Slice?
+   *
+   * @default false
+   */
+  slice: boolean
+}
+
+/**
  * Combination of dimensions and transformations.
  */
 export interface IconifyOptional extends IconifyDimensions, IconifyTransformations {

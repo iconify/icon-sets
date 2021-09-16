@@ -393,7 +393,7 @@ const dir = resolve(_dirname, '..')
  *
  * @returns {string}
  */
-export const rootDir = () => dir
+const rootDir = () => dir
 
 /**
  * Locate JSON file
@@ -401,7 +401,7 @@ export const rootDir = () => dir
  * @param {string} name Collection name
  * @returns {string} Path to collection json file
  */
-export const locate = (name: string): PathLike => `${dir}/json/${name}.json`
+const locate = (name: string): PathLike => `${dir}/json/${name}.json`
 
 /**
  * Loads a collection.

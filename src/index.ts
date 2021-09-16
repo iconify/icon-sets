@@ -383,17 +383,16 @@ export interface IconifyJSON extends IconifyOptional, IconifyMetaData {
   // This is used to reduce duplication.
 }
 
+/**
+ * Collection info map
+ */
+export type IconifyMetaDataCollection = {
+  [prefix: string]: IconifyMetaData
+}
+
 const _dirname = typeof __dirname !== 'undefined' ? __dirname : dirname(fileURLToPath(import.meta.url))
 
 const dir = resolve(_dirname, '..')
-
-/**
- * Get root directory of this package
- * (not really useful in Node.js because require can do it, but added anyway to match php code)
- *
- * @returns {string}
- */
-const rootDir = () => dir
 
 /**
  * Locate JSON file
@@ -401,7 +400,7 @@ const rootDir = () => dir
  * @param {string} name Collection name
  * @returns {string} Path to collection json file
  */
-const locate = (name: string): PathLike => `${dir}/json/${name}.json`
+export const locate = (name: string): PathLike => `${dir}/json/${name}.json`
 
 /**
  * Loads a collection.
@@ -419,15 +418,15 @@ export const loadCollection = async(path: PathLike): Promise<IconifyJSON> => {
  * @param {string} name The name of the collection
  * @return {Promise<IconifyJSON>}
  */
-export const collection = async(name: string): Promise<IconifyJSON> => {
+export const lookupCollection = async(name: string): Promise<IconifyJSON> => {
   return await loadCollection(locate(name))
 }
 
 /**
  * Get list of collections info.
  *
- * @return {Promise<IconifyMetaData[]>}
+ * @return {Promise<IconifyMetaDataCollection>}
  */
-export const collections = async(): Promise<IconifyMetaData[]> => {
+export const lookupCollections = async(): Promise<IconifyMetaDataCollection> => {
   return JSON.parse(await fs.readFile(`${dir}/collections.json`, 'utf8'))
 }

@@ -16,20 +16,20 @@
 		"composer.md",
 		"readme.md"
 	],
-	"main": "dist/finder.js",
-	"module": "dist/finder.mjs",
-	"types": "dist/finder.d.ts",
+	"main": "dist/index.js",
+	"module": "dist/index.mjs",
+	"types": "dist/index.d.ts",
 	"homepage": "https://iconify.design/icon-sets/",
 	"bugs": "https://github.com/iconify/collections-json/issues",
 	"scripts": {
-		"build": "rimraf dist && tsup lib/finder.ts --format cjs,esm --dts",
-		"test": "esno lib/test.ts"
+		"build": "rimraf dist && tsup src/index.ts --format cjs,esm --dts",
+		"test": "esno src/test.ts"
 	},
 	"dependencies": {
 		"upath": "^2.0.1"
 	},
 	"devDependencies": {
-		"@antfu/eslint-config": "^0.8.2",
+		"@antfu/eslint-config": "^0.9.0",
 		"@types/node": "^16.9.1",
 		"@typescript-eslint/eslint-plugin": "^4.31.0",
 		"eslint": "^7.32.0",

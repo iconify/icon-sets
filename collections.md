@@ -3,7 +3,7 @@
 
 
 ### Material Design Icons
-* Number of icons: 6472
+* Number of icons: 6487
 * Author: Austin Andrews
 * URL: https://github.com/Templarian/MaterialDesign
 * License: Open Font License
@@ -617,7 +617,7 @@
 * URL: https://github.com/microsoft/fluentui-system-icons
 * License: MIT
 * License URL: https://github.com/microsoft/fluentui-system-icons/blob/master/LICENSE
-* Version: 1.1.139
+* Version: 1.1.140
 * Palette: Colorless
 
 

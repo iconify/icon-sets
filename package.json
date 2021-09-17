@@ -23,7 +23,8 @@
 	"bugs": "https://github.com/iconify/collections-json/issues",
 	"scripts": {
 		"build": "rimraf dist && tsup src/index.ts --format cjs,esm --dts",
-		"test": "yarn build && jest --clearCache && cross-env NODE_OPTIONS=--experimental-vm-modules npx jest"
+		"test-esm": "yarn build && jest --clearCache && cross-env NODE_OPTIONS=--experimental-vm-modules npx jest --config=jest.config.esm.ts",
+		"test-cjs": "yarn build && jest --clearCache && jest --config=jest.config.cjs.ts"
 	},
 	"dependencies": {
 		"upath": "^2.0.1"

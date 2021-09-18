@@ -1,7 +1,12 @@
-import config from './jest/jest.shared.config'
+import { buildConfiguration } from './jest/jest.shared.config'
 
-config.testMatch = [
-  '**/?(*.)+(cjs).+(spec|test).+(ts|tsx|js)',
-]
-
-export default config
+export default buildConfiguration({
+  testMatch: [
+    '**/?(*.)+(cjs).+(spec|test).+(ts|tsx|js)',
+  ],
+  globals: {
+    'ts-jest': {
+      useESM: false,
+    },
+  },
+})

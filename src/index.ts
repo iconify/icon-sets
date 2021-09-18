@@ -10,7 +10,9 @@
  */
 import { PathLike, promises as fs } from 'fs'
 import { fileURLToPath } from 'url'
-import { dirname, resolve } from 'upath'
+import Upath from 'upath'
+
+const { dirname, resolve } = Upath
 
 /**
  * Icon dimensions.

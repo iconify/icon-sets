@@ -1,13 +1,21 @@
 {
 	"name": "@iconify/json",
-	"description": "Iconify icons collection in JSON format",
-	"license": "MIT",
 	"version": "1.1.401",
+	"description": "Iconify icons collection in JSON format",
+	"homepage": "https://iconify.design/icon-sets/",
+	"bugs": "https://github.com/iconify/collections-json/issues",
 	"repository": {
 		"type": "git",
 		"url": "git+ssh://git@github.com/iconify/collections-json.git"
 	},
-	"files": [
+	"license": "MIT",
+	"exports": {
+		".": {
+			"require": "./dist/index.js",
+			"import": "./dist/index.mjs"
+		}
+	},
+ 	"files": [
 		"dist",
 		"json",
 		"lib",
@@ -19,12 +27,10 @@
 	"main": "dist/index.js",
 	"module": "dist/index.mjs",
 	"types": "dist/index.d.ts",
-	"homepage": "https://iconify.design/icon-sets/",
-	"bugs": "https://github.com/iconify/collections-json/issues",
 	"scripts": {
 		"build": "rimraf dist && tsup src/index.ts --format cjs,esm --dts",
-		"test-esm": "yarn build && jest --clearCache && cross-env NODE_OPTIONS=--experimental-vm-modules npx jest --config=jest.config.esm.ts",
-		"test-cjs": "yarn build && jest --clearCache && jest --config=jest.config.cjs.ts"
+		"test-esm": "jest --clearCache && cross-env NODE_OPTIONS=--experimental-vm-modules npx jest --config=jest.esm.config.ts",
+		"test-cjs": "yarn build && jest --clearCache && jest --config=jest.cjs.config.ts"
 	},
 	"dependencies": {
 		"upath": "^2.0.1"

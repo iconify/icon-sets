@@ -5,10 +5,6 @@ import type { Config } from '@jest/types'
 // Sync object
 const config: Config.InitialOptions = {
   verbose: true,
-  testMatch: [
-    '**/__tests__/**/*.+(ts|tsx|js)',
-    '**/?(*.)+(spec|test).+(ts|tsx|js)',
-  ],
   moduleDirectories: [
     'node_modules',
     'src',

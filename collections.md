@@ -21,7 +21,7 @@
 
 
 ### Google Material Icons
-* Number of icons: 9640
+* Number of icons: 9645
 * Author: Material Design Authors
 * URL: https://github.com/cyberalien/google-material-design-icons-updated
 * License: Apache 2.0
@@ -612,12 +612,12 @@
 
 
 ### Fluent UI System Icons
-* Number of icons: 8692
+* Number of icons: 8832
 * Author: Microsoft Corporation
 * URL: https://github.com/microsoft/fluentui-system-icons
 * License: MIT
 * License URL: https://github.com/microsoft/fluentui-system-icons/blob/master/LICENSE
-* Version: 1.1.140
+* Version: 1.1.141
 * Palette: Colorless
 
 
@@ -913,12 +913,12 @@
 
 
 ### Simple Icons
-* Number of icons: 2007
+* Number of icons: 2012
 * Author: Simple Icons Collaborators
 * URL: https://github.com/simple-icons/simple-icons
 * License: CC0 1.0
 * License URL: https://github.com/simple-icons/simple-icons/blob/develop/LICENSE.md
-* Version: 5.14.0
+* Version: 5.15.0
 * Palette: Colorless
 
 

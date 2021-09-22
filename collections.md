@@ -3,7 +3,7 @@
 
 
 ### Material Design Icons
-* Number of icons: 6487
+* Number of icons: 6495
 * Author: Austin Andrews
 * URL: https://github.com/Templarian/MaterialDesign
 * License: Open Font License
@@ -269,7 +269,7 @@
 
 
 ### EOS Icons
-* Number of icons: 251
+* Number of icons: 252
 * Author: SUSE UX/UI team
 * URL: https://gitlab.com/SUSE-UIUX/eos-icons
 * License: MIT
@@ -316,12 +316,12 @@
 
 
 ### Octicons
-* Number of icons: 455
+* Number of icons: 461
 * Author: GitHub
 * URL: https://github.com/primer/octicons/
 * License: Open Font License
 * License URL: https://raw.githubusercontent.com/primer/octicons/main/LICENSE
-* Version: 15.1.0
+* Version: 15.2.0
 * Palette: Colorless
 
 
@@ -647,7 +647,7 @@
 * URL: https://github.com/mapbox/maki
 * License: CC0
 * License URL: http://creativecommons.org/publicdomain/zero/1.0/
-* Version: 7.0.0
+* Version: 7.1.0
 * Palette: Colorless
 
 

@@ -30,10 +30,12 @@
 	"scripts": {
 		"build": "rimraf dist && tsup src/index.ts --format cjs,esm --dts",
 		"test-esm": "jest --clearCache && cross-env NODE_OPTIONS=--experimental-vm-modules npx jest --config=jest.esm.config.ts",
-		"test-cjs": "yarn build && jest --clearCache && jest --config=jest.cjs.config.ts"
+		"test-cjs": "yarn build && jest --clearCache && jest --config=jest.cjs.config.ts",
+		"test-locate-esm": "jest --clearCache && cross-env NODE_OPTIONS=--experimental-vm-modules npx jest --config=jest.esm.config.ts src/locate.esm.test.ts -i",
+		"test-locate-cjs": "yarn build && jest --clearCache && jest --config=jest.cjs.config.ts src/locate.cjs.test.ts -i"
 	},
 	"dependencies": {
-		"upath": "^2.0.1"
+		"pathe": "^0.0.2"
 	},
 	"devDependencies": {
 		"@antfu/eslint-config": "^0.9.0",

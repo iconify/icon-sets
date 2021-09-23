@@ -10,9 +10,7 @@
  */
 import { PathLike, promises as fs } from 'fs'
 import { fileURLToPath } from 'url'
-import Upath from 'upath'
-
-const { dirname, resolve } = Upath
+import { dirname, join } from 'pathe'
 
 /**
  * Icon dimensions.
@@ -392,9 +390,29 @@ export type IconifyMetaDataCollection = {
   [prefix: string]: IconifyMetaData
 }
 
-const _dirname = typeof __dirname !== 'undefined' ? __dirname : dirname(fileURLToPath(import.meta.url))
+const _dirname = typeof __dirname !== 'undefined'
+  ? __dirname
+  : dirname(fileURLToPath(import.meta.url))
 
-const dir = resolve(_dirname, '..')
+const dir = join(_dirname, '/..')
+
+// todo@userquin: cleanup
+// console.log(`_dirname: ${_dirname}`)
+// if (typeof __dirname === 'undefined') {
+//   if (false/* process.platform === 'win32' */) {
+//     console.log(`_dirname3: ${dirname(import.meta.url)}`)
+//     console.log(`_dirname3: ${join(dirname(import.meta.url), '/..')}`)
+//     console.log(`_dirname3: ${resolve(join(dirname(import.meta.url), '/..'))}`)
+//   }
+//   else {
+//     console.log(`_dirname2: ${dirname(fileURLToPath(import.meta.url))}`)
+//     console.log(`_dirname2: ${join(fileURLToPath(dirname(import.meta.url)), '/..')}`)
+//     console.log(`_dirname2: ${normalize(join(dirname(fileURLToPath(import.meta.url)), '/..'))}`)
+//   }
+// }
+// console.log(`Normalized _dirname: ${normalize(_dirname)}`)
+// console.log(`Resolve _dirname: ${resolve(_dirname, '..')}`)
+// console.log(`Normalized _dirname: ${dir}`)
 
 /**
  * Locate JSON file
@@ -402,7 +420,7 @@ const dir = resolve(_dirname, '..')
  * @param {string} name Collection name
  * @returns {string} Path to collection json file
  */
-export const locate = (name: string): PathLike => `${dir}/json/${name}.json`
+export const locate = (name: string): PathLike => join(dir, `./json/${name}.json`)
 
 /**
  * Loads a collection.
@@ -430,5 +448,5 @@ export const lookupCollection = async(name: string): Promise<IconifyJSON> => {
  * @return {Promise<IconifyMetaDataCollection>}
  */
 export const lookupCollections = async(): Promise<IconifyMetaDataCollection> => {
-  return JSON.parse(await fs.readFile(`${dir}/collections.json`, 'utf8'))
+  return JSON.parse(await fs.readFile('./collections.json', 'utf8'))
 }

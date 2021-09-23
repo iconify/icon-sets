@@ -448,5 +448,5 @@ export const lookupCollection = async(name: string): Promise<IconifyJSON> => {
  * @return {Promise<IconifyMetaDataCollection>}
  */
 export const lookupCollections = async(): Promise<IconifyMetaDataCollection> => {
-  return JSON.parse(await fs.readFile('./collections.json', 'utf8'))
+  return JSON.parse(await fs.readFile(join(dir, './collections.json'), 'utf8'))
 }

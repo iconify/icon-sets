@@ -1,6 +1,6 @@
 {
-	"name": "@iconify/json",
-	"version": "1.1.401",
+	"name": "@iconify/internal-types",
+  "version": "1.1.401",
 	"description": "Iconify icons collection in JSON format",
 	"homepage": "https://iconify.design/icon-sets/",
 	"bugs": "https://github.com/iconify/collections-json/issues",
@@ -9,19 +9,27 @@
 		"url": "git+ssh://git@github.com/iconify/collections-json.git"
 	},
 	"license": "MIT",
-  "scripts": {
-    "clean": "pnpm recursive run clean",
-    "build": "npm -C @iconify/internal-types run build && npm -C @iconify/json run build && npm -C @iconify/icon-set-resolver run build"
+	"files": [
+		"dist"
+	],
+  "main": "dist/index.js",
+  "module": "dist/index.mjs",
+	"types": "dist/index.d.ts",
+	"scripts": {
+		"clean": "rimraf dist",
+		"build": "rimraf dist && tsup src/index.ts --format cjs,esm --dts"
+	},
+  "dependencies": {
+    "rimraf": "3.0.2"
   },
 	"devDependencies": {
 		"@antfu/eslint-config": "^0.9.0",
-		"@types/jest": "^27.0.1",
+		"@iconify/types": "^1.0.7",
 		"@types/node": "^16.9.1",
 		"@typescript-eslint/eslint-plugin": "^4.31.0",
-		"cross-env": "^7.0.3",
 		"eslint": "^7.32.0",
-		"jest": "^27.2.0",
-		"ts-jest": "^27.0.5",
+		"esno": "^0.9.1",
+		"tsup": "^4.14.0",
 		"typescript": "^4.4.3"
 	}
 }

@@ -1,0 +1,29 @@
+{
+	"name": "@iconify/cjs-example",
+  "type": "module",
+  "private": true,
+	"scripts": {
+    "clean": "rimraf dist",
+    "build-json": "tsup src/test-json.ts --external @iconify/json --format esm",
+		"test-json-node": "npm run build-json && node --experimental-specifier-resolution=node --loader ts-node/esm dist/test-json.js",
+    "build-iconset": "tsup src/test-iconset.ts --external @iconify/icon-set-resolver --format esm",
+		"test-iconset-node": "npm run build-iconset && node --experimental-specifier-resolution=node dist/test-iconset.js"
+	},
+  "dependencies": {
+    "rimraf": "3.0.2"
+  },
+	"devDependencies": {
+		"@antfu/eslint-config": "^0.9.0",
+    "@iconify/icon-set-resolver": "workspace:*",
+    "@iconify/json": "workspace:*",
+    "@iconify-json/carbon": "1.0.0",
+		"@types/node": "^16.9.1",
+		"@typescript-eslint/eslint-plugin": "^4.31.0",
+		"cross-env": "^7.0.3",
+		"eslint": "^7.32.0",
+		"esno": "^0.9.1",
+    "ts-node": "^10.2.1",
+    "tsup": "^4.14.0",
+    "typescript": "^4.4.3"
+  }
+}

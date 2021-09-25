@@ -1,4 +1,4 @@
-import { locateTest } from './locate.test'
-import { locate } from '.'
+import { locateTest } from './locate.test';
+import { locate } from '.';
 
-locateTest(locate)
+locateTest(locate);

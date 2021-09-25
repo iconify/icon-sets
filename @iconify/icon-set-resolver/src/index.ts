@@ -8,23 +8,16 @@
  * For the full copyright and license information, please view the license.txt
  * file that is available in this file's directory.
  */
-import { IconifyInfo, IconifyJSON, IconifyMetaData, IconifyChars } from '@iconify/internal-types'
+import { IconifyJSONPackageExports } from '@iconify/types'
 
-export * from '@iconify/internal-types'
-
-export type IconSetInfo = {
-  info: IconifyInfo
-  icons: IconifyJSON
-  metadata: IconifyMetaData
-  chars: IconifyChars
-}
+export * from '@iconify/types'
 
 /**
  * Get a collection.
  *
  * @param {string} name The name of the collection
- * @return {Promise<IconSetInfo>}
+ * @return {Promise<IconifyJSONPackageExports>}
  */
-export async function lookupCollection(name: string): Promise<IconSetInfo> {
+export async function lookupCollection(name: string): Promise<IconifyJSONPackageExports> {
   return await import(`@iconify-json/${name}`)
 }

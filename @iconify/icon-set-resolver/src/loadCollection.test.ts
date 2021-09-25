@@ -1,7 +1,7 @@
-import { IconSetInfo } from '.'
+import { IconifyJSONPackageExports } from '.'
 
 export const lookupCollectionTest = (
-  lookupCollection: (name: string) => Promise<IconSetInfo>,
+  lookupCollection: (name: string) => Promise<IconifyJSONPackageExports>,
 ) => {
   describe('lookupCollection', () => {
     test('mdi collection is missing', async() => {

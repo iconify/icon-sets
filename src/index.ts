@@ -8,9 +8,9 @@
  * For the full copyright and license information, please view the license.txt
  * file that is available in this file's directory.
  */
-import { PathLike, promises as fs } from 'fs'
-import { fileURLToPath } from 'url'
-import { dirname, join } from 'pathe'
+import { PathLike, promises as fs } from 'fs';
+import { fileURLToPath } from 'url';
+import { dirname, join } from 'pathe';
 
 /**
  * Icon dimensions.
@@ -26,25 +26,25 @@ export interface IconifyDimensions {
    *
    * @default 0
    */
-  left?: number
+  left?: number;
   /**
    * Top position of viewBox.
    *
    * @default 0
    */
-  top?: number
+  top?: number;
   /**
    * Width of viewBox.
    *
    * @default 16
    */
-  width?: number
+  width?: number;
   /**
    * height of viewBox.
    *
    * @default 16
    */
-  height?: number
+  height?: number;
 }
 
 /**
@@ -61,19 +61,19 @@ export interface IconifyTransformations {
    *
    * @default 0
    */
-  rotate?: 0 | 1 | 2 | 3
+  rotate?: 0 | 1 | 2 | 3;
   /**
    * horizontal flip
    *
    * @default false
    */
-  hFlip?: boolean
+  hFlip?: boolean;
   /**
    * vertical flip
    *
    * @default false
    */
-  vFlip?: boolean
+  vFlip?: boolean;
 }
 
 /**
@@ -85,26 +85,27 @@ export interface IconifyAlignment {
    *
    * @default 'center'
    */
-  horizontal: 'center' | 'left' | 'right'
+  horizontal: 'center' | 'left' | 'right';
   /**
    * Icon vertical alignment.
    *
    * @default 'middle'
    */
-  vertical: 'middle' | 'top' | 'bottom'
+  vertical: 'middle' | 'top' | 'bottom';
   /**
    * Slice?
    *
    * @default false
    */
-  slice: boolean
+  slice: boolean;
 }
 
 /**
  * Combination of dimensions and transformations.
  */
-export interface IconifyOptional extends IconifyDimensions, IconifyTransformations {
-}
+export interface IconifyOptional
+  extends IconifyDimensions,
+    IconifyTransformations {}
 
 /**
  * Alias.
@@ -113,7 +114,7 @@ export interface IconifyAlias extends IconifyOptional {
   /**
    * Parent icon index without prefix, required.
    */
-  parent: string
+  parent: string;
 
   // IconifyOptional properties.
   // Alias should have only properties that it overrides.
@@ -127,7 +128,7 @@ export interface IconifyIcon extends IconifyOptional {
   /**
    * Icon body: <path d="..." />, required.
    */
-  body: string
+  body: string;
 
   // IconifyOptional properties.
   // If property is missing in JSON file, look in root object for default value.
@@ -145,7 +146,7 @@ interface APIIconAttributes {
    *
    * @default false
    */
-  hidden?: boolean
+  hidden?: boolean;
 }
 
 export interface ExtendedIconifyIcon extends IconifyIcon, APIIconAttributes {}
@@ -158,7 +159,7 @@ export interface IconifyIcons {
   /**
    * Index is name of icon, without prefix. Value is ExtendedIconifyIcon object.
    */
-  [index: string]: ExtendedIconifyIcon
+  [index: string]: ExtendedIconifyIcon;
 }
 
 /**
@@ -168,7 +169,7 @@ export interface IconifyAliases {
   /**
    * Index is name of icon, without prefix. Value is ExtendedIconifyAlias object.
    */
-  [index: string]: ExtendedIconifyAlias
+  [index: string]: ExtendedIconifyAlias;
 }
 
 /**
@@ -178,78 +179,82 @@ export interface IconifyInfo {
   /**
    * Icon set name.
    */
-  name: string
+  name: string;
   /**
    * Total number of icons.
    */
-  total?: number
+  total?: number;
   /**
    * Version string.
    */
-  version?: string
+  version?: string;
   /**
    * Author information.
    */
-  author: string | {
-    /**
-     *  Author name.
-     */
-    name: string
-    /**
-     * Link to author's website or icon set website.
-     */
-    url?: string
-  }
+  author:
+    | string
+    | {
+        /**
+         *  Author name.
+         */
+        name: string;
+        /**
+         * Link to author's website or icon set website.
+         */
+        url?: string;
+      };
   /**
    * Link to author's website or icon set website.
    */
-  url?: string
+  url?: string;
   /**
    * License.
    */
-  license: string | {
-    /**
-     * Human readable license.
-     */
-    title: string
-    /**
-     * SPDX license identifier.
-     */
-    spdx?: string
-    /**
-     * License URL.
-     */
-    url?: string
-  }
+  license:
+    | string
+    | {
+        /**
+         * Human readable license.
+         */
+        title: string;
+        /**
+         * SPDX license identifier.
+         */
+        spdx?: string;
+        /**
+         * License URL.
+         */
+        url?: string;
+      };
   /**
    * License URL.
    */
-  licenseURL?: string
+  licenseURL?: string;
   /**
    * Array of icons that should be used for samples in icon sets list.
    */
-  samples: string[]
+  samples: string[];
   /**
    * Icon grid: number or array of numbers.
    */
-  height?: number | number[]
+  height?: number | number[];
   /**
    * Display height for samples: 16 - 24.
    *
    * @default 16
    */
-  displayHeight?: number
+  displayHeight?: number;
   /**
    *  Category on Iconify collections list.
    */
-  category?: string
+  category?: string;
   /**
    * Palette status.
    *
    * True if icons have predefined color scheme, false if icons use currentColor.
    * Icon set should not mix icons with and without palette to simplify search.
    */
-  palette: string | boolean
+  palette: string | boolean;
 }
 
 /**
@@ -265,7 +270,7 @@ export interface LegacyIconifyThemes {
     /**
      * Theme title.
      */
-    title: string
+    title: string;
     /**
      * Icon prefix or suffix, including dash.
      *
@@ -273,7 +278,7 @@ export interface LegacyIconifyThemes {
      *
      * Example: 'baseline-'
      */
-    prefix?: string
+    prefix?: string;
     /**
      * Icon suffix or suffix, including dash.
      *
@@ -281,8 +286,8 @@ export interface LegacyIconifyThemes {
      *
      * Example: '-filled'
      */
-    suffix?: string
-  }
+    suffix?: string;
+  };
 }
 
 /**
@@ -294,7 +299,7 @@ export interface IconifyChars {
    *
    * Value is icon name.
    */
-  [index: string]: string
+  [index: string]: string;
 }
 
 /**
@@ -307,7 +312,7 @@ export interface IconifyCategories {
    * Value is array of icons that belong to that category.
    * Each icon can belong to multiple categories or no categories.
    */
-  [index: string]: string[]
+  [index: string]: string[];
 }
 
 /**
@@ -319,35 +324,35 @@ export interface IconifyMetaData {
    *
    * Used for public icon sets, can be skipped for private icon sets.
    */
-  info?: IconifyInfo
+  info?: IconifyInfo;
   /**
    * Characters used in font.
    *
    * Used for searching by character for icon sets imported from font, exporting icon set to font.
    */
-  chars?: IconifyChars
+  chars?: IconifyChars;
   /**
    * Categories.
    *
    * Used for filtering icons.
    */
-  categories?: IconifyCategories
+  categories?: IconifyCategories;
   /**
    * Optional themes (old format).
    */
-  themes?: LegacyIconifyThemes
+  themes?: LegacyIconifyThemes;
   /**
    * Optional themes prefixes (new format).
    *
    * Key is prefix, value is title.
    */
-  prefixes?: Record<string, string>
+  prefixes?: Record<string, string>;
   /**
    * Optional themes suffixes (new format).
    *
    * Key is suffix, value is title.
    */
-  suffixes?: Record<string, string>
+  suffixes?: Record<string, string>;
 }
 
 /**
@@ -359,25 +364,25 @@ export interface IconifyJSON extends IconifyOptional, IconifyMetaData {
   /**
    * Prefix for icons in JSON file, required.
    */
-  prefix: string
+  prefix: string;
   /**
    * API provider, optional.
    */
-  provider?: string
+  provider?: string;
   /**
    * List of icons, required.
    */
-  icons: IconifyIcons
+  icons: IconifyIcons;
   /**
    * Optional aliases.
    */
-  aliases?: IconifyAliases
+  aliases?: IconifyAliases;
   /**
    * Optional list of missing icons.
    *
    * Returned by Iconify API when querying for icons that do not exist.
    */
-  not_found?: string[]
+  not_found?: string[];
   // IconifyOptional properties that are used as default values for icons when icon is missing value.
   // If property exists in both icon and root, use value from icon.
   // This is used to reduce duplication.
@@ -387,14 +392,15 @@ export interface IconifyJSON extends IconifyOptional, IconifyMetaData {
  * Collection info map
  */
 export type IconifyMetaDataCollection = {
-  [prefix: string]: IconifyMetaData
-}
+  [prefix: string]: IconifyMetaData;
+};
 
-const _dirname = typeof __dirname !== 'undefined'
-  ? __dirname
-  : dirname(fileURLToPath(import.meta.url))
+const _dirname =
+  typeof __dirname !== 'undefined'
+    ? __dirname
+    : dirname(fileURLToPath(import.meta.url));
 
-const dir = join(_dirname, '/..')
+const dir = join(_dirname, '/..');
 
 // todo@userquin: cleanup
 // console.log(`_dirname: ${_dirname}`)
@@ -420,7 +426,8 @@ const dir = join(_dirname, '/..')
  * @param {string} name Collection name
  * @returns {string} Path to collection json file
  */
-export const locate = (name: string): PathLike => join(dir, `./json/${name}.json`)
+export const locate = (name: string): PathLike =>
+  join(dir, `./json/${name}.json`);
 
 /**
  * Loads a collection.
@@ -428,9 +435,9 @@ export const locate = (name: string): PathLike => join(dir, `./json/${name}.json
  * @param {PathLike} path The path to locate the `json` collection file.
  * @return {Promise<IconifyJSON>}
  */
-export const loadCollection = async(path: PathLike): Promise<IconifyJSON> => {
-  return JSON.parse(await fs.readFile(path, 'utf8'))
-}
+export const loadCollection = async (path: PathLike): Promise<IconifyJSON> => {
+  return JSON.parse(await fs.readFile(path, 'utf8'));
+};
 
 /**
  * Get a collection.
@@ -438,15 +445,18 @@ export const loadCollection = async(path: PathLike): Promise<IconifyJSON> => {
  * @param {string} name The name of the collection
  * @return {Promise<IconifyJSON>}
  */
-export const lookupCollection = async(name: string): Promise<IconifyJSON> => {
-  return await loadCollection(locate(name))
-}
+export const lookupCollection = async (name: string): Promise<IconifyJSON> => {
+  return await loadCollection(locate(name));
+};
 
 /**
  * Get list of collections info.
  *
  * @return {Promise<IconifyMetaDataCollection>}
  */
-export const lookupCollections = async(): Promise<IconifyMetaDataCollection> => {
-  return JSON.parse(await fs.readFile(join(dir, './collections.json'), 'utf8'))
-}
+export const lookupCollections =
+  async (): Promise<IconifyMetaDataCollection> => {
+    return JSON.parse(
+      await fs.readFile(join(dir, './collections.json'), 'utf8')
+    );
+  };

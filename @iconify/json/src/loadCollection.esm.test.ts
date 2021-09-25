@@ -1,4 +1,4 @@
-import { lookupCollectionTest } from './loadCollection.test';
-import { lookupCollection, lookupCollections } from '.';
+import { lookupCollectionTest } from './loadCollection.test'
+import { lookupCollection, lookupCollections } from '.'
 
-lookupCollectionTest(lookupCollection, lookupCollections);
+lookupCollectionTest(lookupCollection, lookupCollections)

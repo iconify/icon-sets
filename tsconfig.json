@@ -1,0 +1,19 @@
+{
+  "compilerOptions": {
+    "target": "es2017",
+    "module": "ESNext",
+    "lib": ["ESNext"],
+    "esModuleInterop": true,
+    "strict": true,
+    "strictNullChecks": true,
+    "moduleResolution": "Node",
+    "resolveJsonModule": true,
+    "skipLibCheck": true,
+  },
+  "exclude": [
+    "**/dist",
+    "**/node_modules",
+    "**/test",
+    "dist"
+  ]
+}

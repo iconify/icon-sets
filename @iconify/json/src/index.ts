@@ -12,9 +12,16 @@ import { PathLike, promises as fs } from 'fs'
 import { fileURLToPath } from 'url'
 // todo@userquin: cleanup
 import { dirname, join/*, resolve, normalize */ } from 'pathe'
-import { IconifyJSON, IconifyMetaDataCollection, loadCollection } from '@iconify/internal-types'
+import { IconifyInfo, IconifyJSON } from '@iconify/types'
 
-export * from '@iconify/internal-types'
+export * from '@iconify/types'
+
+/**
+ * Collection info map
+ */
+export type IconifyMetaDataCollection = {
+  [prefix: string]: IconifyInfo
+}
 
 const _dirname = typeof __filename !== 'undefined'
   ? dirname(__filename)
@@ -50,6 +57,16 @@ console.log(`Normalized _dirname: ${dir}`)
  */
 export function locate(name: string): PathLike {
   return join(dir, `./json/${name}.json`)
+}
+
+/**
+ * Loads a collection.
+ *
+ * @param {PathLike} path The path to locate the `json` collection file.
+ * @return {Promise<IconifyJSON>}
+ */
+export async function loadCollection(path: PathLike): Promise<IconifyJSON> {
+  return JSON.parse(await fs.readFile(path, 'utf8'))
 }
 
 /**

@@ -146,7 +146,7 @@
 * Author: IBM
 * URL: https://github.com/carbon-design-system/carbon/tree/main/packages/icons
 * License: Apache 2.0
-* Version: 10.38.0
+* Version: 10.39.0
 * Palette: Colorless
 
 
@@ -326,7 +326,7 @@
 
 
 ### Codicons
-* Number of icons: 376
+* Number of icons: 381
 * Author: Microsoft Corporation
 * URL: https://github.com/microsoft/vscode-codicons
 * License: CC BY 4.0
@@ -336,7 +336,7 @@
 
 
 ### Ant Design Icons
-* Number of icons: 788
+* Number of icons: 789
 * Author: HeskeyBaozi
 * URL: https://github.com/ant-design/ant-design-icons
 * License: MIT

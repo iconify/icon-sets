@@ -344,7 +344,7 @@
 
 
 ### Lucide
-* Number of icons: 496
+* Number of icons: 498
 * Author: Lucide Contributors
 * URL: https://github.com/lucide-icons/lucide
 * License: ISC
@@ -913,12 +913,12 @@
 
 
 ### Simple Icons
-* Number of icons: 2012
+* Number of icons: 2020
 * Author: Simple Icons Collaborators
 * URL: https://github.com/simple-icons/simple-icons
 * License: CC0 1.0
 * License URL: https://github.com/simple-icons/simple-icons/blob/develop/LICENSE.md
-* Version: 5.15.0
+* Version: 5.16.0
 * Palette: Colorless
 
 

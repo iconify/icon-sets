@@ -316,12 +316,12 @@
 
 
 ### Octicons
-* Number of icons: 461
+* Number of icons: 463
 * Author: GitHub
 * URL: https://github.com/primer/octicons/
 * License: Open Font License
 * License URL: https://raw.githubusercontent.com/primer/octicons/main/LICENSE
-* Version: 15.2.0
+* Version: 16.0.0
 * Palette: Colorless
 
 
@@ -344,7 +344,7 @@
 
 
 ### Lucide
-* Number of icons: 498
+* Number of icons: 500
 * Author: Lucide Contributors
 * URL: https://github.com/lucide-icons/lucide
 * License: ISC
@@ -642,7 +642,7 @@
 
 
 ### Maki
-* Number of icons: 204
+* Number of icons: 205
 * Author: Mapbox
 * URL: https://github.com/mapbox/maki
 * License: CC0

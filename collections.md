@@ -3,7 +3,7 @@
 
 
 ### Material Design Icons
-* Number of icons: 6395
+* Number of icons: 6495
 * Author: Austin Andrews
 * URL: https://github.com/Templarian/MaterialDesign
 * License: Open Font License
@@ -21,7 +21,7 @@
 
 
 ### Google Material Icons
-* Number of icons: 9640
+* Number of icons: 9645
 * Author: Material Design Authors
 * URL: https://github.com/cyberalien/google-material-design-icons-updated
 * License: Apache 2.0
@@ -146,7 +146,7 @@
 * Author: IBM
 * URL: https://github.com/carbon-design-system/carbon/tree/main/packages/icons
 * License: Apache 2.0
-* Version: 10.38.0
+* Version: 10.39.0
 * Palette: Colorless
 
 
@@ -269,7 +269,7 @@
 
 
 ### EOS Icons
-* Number of icons: 250
+* Number of icons: 252
 * Author: SUSE UX/UI team
 * URL: https://gitlab.com/SUSE-UIUX/eos-icons
 * License: MIT
@@ -316,17 +316,17 @@
 
 
 ### Octicons
-* Number of icons: 455
+* Number of icons: 463
 * Author: GitHub
 * URL: https://github.com/primer/octicons/
 * License: Open Font License
 * License URL: https://raw.githubusercontent.com/primer/octicons/main/LICENSE
-* Version: 15.1.0
+* Version: 16.0.0
 * Palette: Colorless
 
 
 ### Codicons
-* Number of icons: 376
+* Number of icons: 381
 * Author: Microsoft Corporation
 * URL: https://github.com/microsoft/vscode-codicons
 * License: CC BY 4.0
@@ -336,7 +336,7 @@
 
 
 ### Ant Design Icons
-* Number of icons: 788
+* Number of icons: 789
 * Author: HeskeyBaozi
 * URL: https://github.com/ant-design/ant-design-icons
 * License: MIT
@@ -344,7 +344,7 @@
 
 
 ### Lucide
-* Number of icons: 496
+* Number of icons: 500
 * Author: Lucide Contributors
 * URL: https://github.com/lucide-icons/lucide
 * License: ISC
@@ -612,17 +612,17 @@
 
 
 ### Fluent UI System Icons
-* Number of icons: 8692
+* Number of icons: 8832
 * Author: Microsoft Corporation
 * URL: https://github.com/microsoft/fluentui-system-icons
 * License: MIT
 * License URL: https://github.com/microsoft/fluentui-system-icons/blob/master/LICENSE
-* Version: 1.1.139
+* Version: 1.1.141
 * Palette: Colorless
 
 
 ### Grommet Icons
-* Number of icons: 614
+* Number of icons: 615
 * Author: Grommet
 * URL: https://github.com/grommet/grommet-icons
 * License: Apache 2.0
@@ -642,12 +642,12 @@
 
 
 ### Maki
-* Number of icons: 204
+* Number of icons: 205
 * Author: Mapbox
 * URL: https://github.com/mapbox/maki
 * License: CC0
 * License URL: http://creativecommons.org/publicdomain/zero/1.0/
-* Version: 7.0.0
+* Version: 7.1.0
 * Palette: Colorless
 
 
@@ -913,12 +913,12 @@
 
 
 ### Simple Icons
-* Number of icons: 2007
+* Number of icons: 2020
 * Author: Simple Icons Collaborators
 * URL: https://github.com/simple-icons/simple-icons
 * License: CC0 1.0
 * License URL: https://github.com/simple-icons/simple-icons/blob/develop/LICENSE.md
-* Version: 5.14.0
+* Version: 5.16.0
 * Palette: Colorless
 
 

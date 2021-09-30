@@ -2,7 +2,7 @@
 	"name": "@iconify/json",
 	"description": "Iconify icons collection in JSON format",
 	"license": "MIT",
-	"version": "1.1.408",
+	"version": "2.0.0-beta.0",
 	"homepage": "https://iconify.design/icon-sets/",
 	"bugs": "https://github.com/iconify/collections-json/issues",
 	"repository": {
@@ -32,9 +32,11 @@
 		"test-esm": "jest --clearCache && cross-env NODE_OPTIONS=--experimental-vm-modules npx jest --config=jest.esm.config.ts",
 		"test-cjs": "yarn build && jest --clearCache && jest --config=jest.cjs.config.ts",
 		"test-locate-esm": "jest --clearCache && cross-env NODE_OPTIONS=--experimental-vm-modules npx jest --config=jest.esm.config.ts src/locate.esm.test.ts -i",
-		"test-locate-cjs": "yarn build && jest --clearCache && jest --config=jest.cjs.config.ts src/locate.cjs.test.ts -i"
+		"test-locate-cjs": "yarn build && jest --clearCache && jest --config=jest.cjs.config.ts src/locate.cjs.test.ts -i",
+		"test": "yarn test-esm && yarn test-cjs && yarn test-locate-esm && yarn test-locate-cjs"
 	},
 	"dependencies": {
+		"@iconify/types": "^1.0.9",
 		"pathe": "^0.0.2"
 	},
 	"devDependencies": {

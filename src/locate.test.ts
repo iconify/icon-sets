@@ -1,4 +1,4 @@
-import { PathLike } from 'fs';
+import type { PathLike } from 'fs';
 import { resolve, normalize } from 'pathe';
 
 export const locateTest = (locate: (name: string) => PathLike) => {

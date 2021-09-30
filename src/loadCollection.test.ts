@@ -1,5 +1,5 @@
+import type { IconifyJSON } from '@iconify/types';
 import type { IconifyMetaDataCollection } from '.';
-import { IconifyJSON } from '.';
 
 export const lookupCollectionTest = (
   lookupCollection: (name: string) => Promise<IconifyJSON>,

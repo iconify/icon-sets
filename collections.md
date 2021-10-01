@@ -146,7 +146,7 @@
 * Author: IBM
 * URL: https://github.com/carbon-design-system/carbon/tree/main/packages/icons
 * License: Apache 2.0
-* Version: 10.39.0
+* Version: 10.40.0
 * Palette: Colorless
 
 
@@ -269,12 +269,12 @@
 
 
 ### EOS Icons
-* Number of icons: 252
+* Number of icons: 253
 * Author: SUSE UX/UI team
 * URL: https://gitlab.com/SUSE-UIUX/eos-icons
 * License: MIT
 * License URL: https://gitlab.com/SUSE-UIUX/eos-icons/-/blob/master/LICENSE
-* Version: 5.2.1
+* Version: 5.3.1
 * Palette: Colorless
 
 
@@ -331,7 +331,7 @@
 * URL: https://github.com/microsoft/vscode-codicons
 * License: CC BY 4.0
 * License URL: https://raw.githubusercontent.com/microsoft/vscode-codicons/master/LICENSE
-* Version: 0.0.22
+* Version: 0.0.23
 * Palette: Colorless
 
 

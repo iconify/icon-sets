@@ -856,19 +856,19 @@
 ### Emoji One (Colored)
 * Number of icons: 1834
 * Author: Emoji One
-* URL: https://github.com/emojione/emojione
-* License: CC BY-SA 4.0
-* License URL: https://creativecommons.org/licenses/by-sa/4.0/
-* Version: 2.2.7
+* URL: https://github.com/EmojiTwo/emojitwo
+* License: CC BY 4.0
+* License URL: https://creativecommons.org/licenses/by/4.0/
+* Version: 2.3.0
 * Palette: Colorful
 
 
 ### Emoji One (Monotone)
 * Number of icons: 1403
 * Author: Emoji One
-* URL: https://github.com/emojione/emojione
-* License: CC BY-SA 4.0
-* License URL: https://creativecommons.org/licenses/by-sa/4.0/
+* URL: https://github.com/EmojiTwo/emojitwo
+* License: CC BY 4.0
+* License URL: https://creativecommons.org/licenses/by/4.0/
 * Version: 2.2.7
 * Palette: Colorless
 

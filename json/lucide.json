@@ -2,7 +2,7 @@
 	"prefix": "lucide",
 	"info": {
 		"name": "Lucide",
-		"total": 500,
+		"total": 505,
 		"author": {
 			"name": "Lucide Contributors",
 			"url": "https://github.com/lucide-icons/lucide"
@@ -850,8 +850,17 @@
 		"list-checks": {
 			"body": "<g fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M10 6h11\"/><path d=\"M10 12h11\"/><path d=\"M10 18h11\"/><path d=\"M3 6l1 1l2-2\"/><path d=\"M3 12l1 1l2-2\"/><path d=\"M3 18l1 1l2-2\"/></g>"
 		},
+		"list-minus": {
+			"body": "<g fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M11 12H3\"/><path d=\"M16 6H3\"/><path d=\"M16 18H3\"/><path d=\"M21 12h-6\"/></g>"
+		},
 		"list-ordered": {
 			"body": "<g fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M10 6h11\"/><path d=\"M10 12h11\"/><path d=\"M10 18h11\"/><path d=\"M4 6h1v4\"/><path d=\"M4 10h2\"/><path d=\"M6 18H4c0-1 2-2 2-3s-1-1.5-2-1\"/></g>"
+		},
+		"list-plus": {
+			"body": "<g fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M11 12H3\"/><path d=\"M16 6H3\"/><path d=\"M16 18H3\"/><path d=\"M18 9v6\"/><path d=\"M21 12h-6\"/></g>"
+		},
+		"list-x": {
+			"body": "<g fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M11 12H3\"/><path d=\"M16 6H3\"/><path d=\"M16 18H3\"/><path d=\"M19 10l-4 4\"/><path d=\"M15 10l4 4\"/></g>"
 		},
 		"loader": {
 			"body": "<g fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M12 2v4\"/><path d=\"M12 18v4\"/><path d=\"M4.93 4.93l2.83 2.83\"/><path d=\"M16.24 16.24l2.83 2.83\"/><path d=\"M2 12h4\"/><path d=\"M18 12h4\"/><path d=\"M4.93 19.07l2.83-2.83\"/><path d=\"M16.24 7.76l2.83-2.83\"/></g>"
@@ -1047,6 +1056,9 @@
 		},
 		"pie-chart": {
 			"body": "<g fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M21.21 15.89A10 10 0 1 1 8 2.83\"/><path d=\"M22 12A10 10 0 0 0 12 2v10z\"/></g>"
+		},
+		"piggy-bank": {
+			"body": "<g fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M19 5c-1.5 0-2.8 1.4-3 2c-3.5-1.5-11-.3-11 5c0 1.8 0 3 2 4.5V20h4v-2h3v2h4v-4c1-.5 1.7-1 2-2h2v-4h-2c0-1-.5-1.5-1-2h0V5z\"/><path d=\"M2 9v1c0 1.1.9 2 2 2h1\"/><path d=\"M16 11h0\"/></g>"
 		},
 		"pipette": {
 			"body": "<g fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M2 22l2-2h3l7-7\"/><path d=\"M4 20v-3l7-7\"/><path d=\"M14.29 13.3a1 1 0 0 0 1.41 0l.8-.8c.27-.27.27-.72 0-1s-.28-.72 0-1l4.08-4.08a2 2 0 0 0 0-2.83l-.17-.17a2 2 0 0 0-2.83 0L13.5 7.51c-.28.27-.73.27-1 0s-.73-.28-1 0l-.8.79a1 1 0 0 0 0 1.41l3.59 3.59z\"/></g>"
@@ -1446,6 +1458,9 @@
 		},
 		"users": {
 			"body": "<g fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M17 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2\"/><circle cx=\"9\" cy=\"7\" r=\"4\"/><path d=\"M23 21v-2a4 4 0 0 0-3-3.87\"/><path d=\"M16 3.13a4 4 0 0 1 0 7.75\"/></g>"
+		},
+		"verified": {
+			"body": "<g fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M12 3a3.6 3.6 0 0 0-3.05 1.68a3.6 3.6 0 0 0-.9-.1a3.6 3.6 0 0 0-2.42 1.06a3.6 3.6 0 0 0-.94 3.32A3.6 3.6 0 0 0 3 12a3.6 3.6 0 0 0 1.69 3.05a3.6 3.6 0 0 0 .95 3.32a3.6 3.6 0 0 0 3.35.96A3.6 3.6 0 0 0 12 21a3.6 3.6 0 0 0 3.04-1.67a3.6 3.6 0 0 0 4.3-4.3A3.6 3.6 0 0 0 21 12a3.6 3.6 0 0 0-1.67-3.04v0a3.6 3.6 0 0 0-4.3-4.3A3.6 3.6 0 0 0 12 3z\"/><path d=\"M15 10l-4 4\"/><path d=\"M9 12l2 2\"/></g>"
 		},
 		"vibrate": {
 			"body": "<g fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M2 8l2 2l-2 2l2 2l-2 2\"/><path d=\"M22 8l-2 2l2 2l-2 2l2 2\"/><rect x=\"8\" y=\"5\" width=\"8\" height=\"14\" rx=\"1\"/></g>"

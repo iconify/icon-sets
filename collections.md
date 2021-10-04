@@ -326,7 +326,7 @@
 
 
 ### Codicons
-* Number of icons: 381
+* Number of icons: 383
 * Author: Microsoft Corporation
 * URL: https://github.com/microsoft/vscode-codicons
 * License: CC BY 4.0
@@ -344,7 +344,7 @@
 
 
 ### Lucide
-* Number of icons: 500
+* Number of icons: 505
 * Author: Lucide Contributors
 * URL: https://github.com/lucide-icons/lucide
 * License: ISC
@@ -612,12 +612,12 @@
 
 
 ### Fluent UI System Icons
-* Number of icons: 8832
+* Number of icons: 8996
 * Author: Microsoft Corporation
 * URL: https://github.com/microsoft/fluentui-system-icons
 * License: MIT
 * License URL: https://github.com/microsoft/fluentui-system-icons/blob/master/LICENSE
-* Version: 1.1.141
+* Version: 1.1.142
 * Palette: Colorless
 
 
@@ -913,12 +913,12 @@
 
 
 ### Simple Icons
-* Number of icons: 2020
+* Number of icons: 2024
 * Author: Simple Icons Collaborators
 * URL: https://github.com/simple-icons/simple-icons
 * License: CC0 1.0
 * License URL: https://github.com/simple-icons/simple-icons/blob/develop/LICENSE.md
-* Version: 5.16.0
+* Version: 5.17.0
 * Palette: Colorless
 
 
@@ -1019,7 +1019,7 @@
 
 
 ### Health Icons
-* Number of icons: 1668
+* Number of icons: 1731
 * Author: Resolve to Save Lives
 * URL: https://github.com/resolvetosavelives/healthicons
 * License: MIT

@@ -607,22 +607,22 @@
 			"body": "<path d=\"M10.31 10.93c1.02 1.64.87 3.57-.35 4.35c-1.22.76-3.04.05-4.07-1.59c-1.02-1.64-.86-3.59.36-4.35c1.22-.76 3.04-.05 4.06 1.59M12 17.75c2 0 2.5-.75 2.5-.75s-.5 2-2.5 2s-2.5-1.97-2.5-2c0 0 .5.75 2.5.75m5.75-8.41c1.22.76 1.38 2.71.36 4.35c-1.03 1.64-2.85 2.35-4.07 1.59c-1.22-.78-1.37-2.71-.35-4.35c1.02-1.64 2.84-2.35 4.06-1.59M12 20c2.5 0 8-5.14 8-9c0-3.86-3.59-7-8-7s-8 3.14-8 7s5.5 9 8 9m0-18c5.5 0 10 4.04 10 9c0 4.08-5.68 11-10 11S2 15.08 2 11c0-4.96 4.5-9 10-9z\" fill=\"currentColor\"/>"
 		},
 		"align-horizontal-center": {
-			"body": "<path d=\"M20 19h-7v3h-2v-3H4v-6h7v-2H7V5h4V2h2v3h4v6h-4v2h7v6z\" fill=\"currentColor\"/>"
+			"body": "<path d=\"M11 2h2v5h8v3h-8v4h5v3h-5v5h-2v-5H6v-3h5v-4H3V7h8V2z\" fill=\"currentColor\"/>"
 		},
 		"align-horizontal-left": {
-			"body": "<path d=\"M22 13v6H6v-6h16M6 5v6h10V5H6M2 2v20h2V2H2\" fill=\"currentColor\"/>"
+			"body": "<path d=\"M4 22H2V2h2v20M22 7H6v3h16V7m-6 7H6v3h10v-3z\" fill=\"currentColor\"/>"
 		},
 		"align-horizontal-right": {
-			"body": "<path d=\"M18 13v6H2v-6h16M8 5v6h10V5H8m12-3v20h2V2h-2z\" fill=\"currentColor\"/>"
+			"body": "<path d=\"M20 2h2v20h-2V2M2 10h16V7H2v3m6 7h10v-3H8v3z\" fill=\"currentColor\"/>"
 		},
 		"align-vertical-bottom": {
-			"body": "<path d=\"M11 18H5V2h6v16m8-10h-6v10h6V8m3 12H2v2h20v-2z\" fill=\"currentColor\"/>"
+			"body": "<path d=\"M22 22H2v-2h20v2M10 2H7v16h3V2m7 6h-3v10h3V8z\" fill=\"currentColor\"/>"
 		},
 		"align-vertical-center": {
-			"body": "<path d=\"M5 20v-7H2v-2h3V4h6v7h2V7h6v4h3v2h-3v4h-6v-4h-2v7H5z\" fill=\"currentColor\"/>"
+			"body": "<path d=\"M22 11h-5V6h-3v5h-4V3H7v8H1.8v2H7v8h3v-8h4v5h3v-5h5v-2z\" fill=\"currentColor\"/>"
 		},
 		"align-vertical-top": {
-			"body": "<path d=\"M11 22H5V6h6v16m8-16h-6v10h6V6m3-4H2v2h20V2z\" fill=\"currentColor\"/>"
+			"body": "<path d=\"M22 2v2H2V2h20M7 22h3V6H7v16m7-6h3V6h-3v10z\" fill=\"currentColor\"/>"
 		},
 		"all-inclusive": {
 			"body": "<path d=\"M18.6 6.62c-1.44 0-2.8.56-3.77 1.53L7.8 14.39c-.64.64-1.49.99-2.4.99C3.53 15.38 2 13.87 2 12c0-1.87 1.53-3.38 3.4-3.38c.91 0 1.76.35 2.44 1.03l1.13 1l1.53-1.34L9.22 8.2A5.37 5.37 0 0 0 5.4 6.62C2.42 6.62 0 9.04 0 12s2.42 5.38 5.4 5.38c1.44 0 2.8-.56 3.77-1.53l7.03-6.24c.64-.64 1.49-.99 2.4-.99c1.87 0 3.4 1.51 3.4 3.38c0 1.87-1.53 3.38-3.4 3.38c-.9 0-1.76-.35-2.44-1.03L15 13.34l-1.5 1.34l1.28 1.12a5.386 5.386 0 0 0 3.82 1.57c2.98 0 5.4-2.41 5.4-5.37c0-3-2.42-5.38-5.4-5.38z\" fill=\"currentColor\"/>"
@@ -14153,13 +14153,13 @@
 		"panorama-fisheye": {
 			"body": "<path d=\"M12 20c-4.41 0-8-3.59-8-8s3.59-8 8-8s8 3.59 8 8s-3.59 8-8 8m0-18C6.47 2 2 6.47 2 12s4.47 10 10 10s10-4.47 10-10S17.53 2 12 2z\" fill=\"currentColor\"/>"
 		},
-		"panorama-horizontal": {
+		"panorama-horizontal-outline": {
 			"body": "<path d=\"M21.43 4c-.1 0-.2 0-.31.06C18.18 5.16 15.09 5.7 12 5.7c-3.09 0-6.18-.55-9.12-1.64C2.77 4 2.66 4 2.57 4c-.34 0-.57.23-.57.63v14.75c0 .39.23.62.57.62c.1 0 .2 0 .31-.06c2.94-1.1 6.03-1.64 9.12-1.64c3.09 0 6.18.55 9.12 1.64c.11.06.21.06.31.06c.33 0 .57-.23.57-.63V4.63c0-.4-.24-.63-.57-.63M20 6.54v10.91c-2.6-.77-5.28-1.16-8-1.16c-2.72 0-5.4.39-8 1.16V6.54c2.6.77 5.28 1.16 8 1.16c2.72.01 5.4-.38 8-1.16z\" fill=\"currentColor\"/>"
 		},
-		"panorama-vertical": {
+		"panorama-vertical-outline": {
 			"body": "<path d=\"M6.54 20c.77-2.6 1.16-5.28 1.16-8c0-2.72-.39-5.4-1.16-8h10.91c-.77 2.6-1.16 5.28-1.16 8c0 2.72.39 5.4 1.16 8m2.49 1.12c-1.1-2.94-1.64-6.03-1.64-9.12c0-3.09.55-6.18 1.64-9.12c.06-.11.06-.22.06-.31c0-.34-.23-.57-.63-.57H4.63c-.4 0-.63.23-.63.57c0 .1 0 .2.06.31C5.16 5.82 5.71 8.91 5.71 12c0 3.09-.55 6.18-1.64 9.12c-.07.11-.07.22-.07.31c0 .33.23.57.63.57h14.75c.39 0 .62-.24.62-.57c0-.1 0-.2-.06-.31z\" fill=\"currentColor\"/>"
 		},
-		"panorama-wide-angle": {
+		"panorama-wide-angle-outline": {
 			"body": "<path d=\"M12 4c-2.73 0-5.22.24-7.95.72l-.93.16l-.25.9C2.29 7.85 2 9.93 2 12c0 2.07.29 4.15.87 6.22l.25.89l.93.16c2.73.49 5.22.73 7.95.73c2.73 0 5.22-.24 7.95-.72l.93-.16l.25-.89c.58-2.08.87-4.16.87-6.23c0-2.07-.29-4.15-.87-6.22l-.25-.89l-.93-.16C17.22 4.24 14.73 4 12 4m0 2c2.45 0 4.71.2 7.29.64A21 21 0 0 1 20 12a21 21 0 0 1-.71 5.36c-2.58.44-4.84.64-7.29.64s-4.71-.2-7.29-.64A21 21 0 0 1 4 12a21 21 0 0 1 .71-5.36C7.29 6.2 9.55 6 12 6z\" fill=\"currentColor\"/>"
 		},
 		"paper-cut-vertical": {
@@ -20714,7 +20714,7 @@
 			"parent": "shield-lock-outline"
 		},
 		"alarm-arm-home": {
-			"parent": "shield-home"
+			"parent": "shield-home-outline"
 		},
 		"alarm-arm-home-outline": {
 			"parent": "shield-account-outline"
@@ -21284,10 +21284,10 @@
 			"parent": "application-import"
 		},
 		"approval": {
-			"parent": "check-decagram-outline"
+			"parent": "check-decagram"
 		},
 		"approve": {
-			"parent": "check-decagram-outline"
+			"parent": "check-decagram"
 		},
 		"aquarium": {
 			"parent": "fishbowl"
@@ -21611,7 +21611,7 @@
 			"parent": "paperclip"
 		},
 		"audio": {
-			"parent": "volume-medium"
+			"parent": "volume-low"
 		},
 		"audio-book": {
 			"parent": "book-music"
@@ -21692,7 +21692,7 @@
 			"parent": "audio-video-off"
 		},
 		"award": {
-			"parent": "seal-variant"
+			"parent": "seal"
 		},
 		"awning": {
 			"parent": "storefront"
@@ -21746,7 +21746,7 @@
 			"parent": "bank-plus"
 		},
 		"bar": {
-			"parent": "glass-wine"
+			"parent": "glass-stange"
 		},
 		"bar-chart": {
 			"parent": "poll"
@@ -21881,7 +21881,7 @@
 			"parent": "grill-outline"
 		},
 		"beacon": {
-			"parent": "lighthouse"
+			"parent": "lighthouse-on"
 		},
 		"beats-per-minute": {
 			"parent": "metronome"
@@ -21968,7 +21968,7 @@
 			"parent": "text-account"
 		},
 		"birthday-cake": {
-			"parent": "cake-variant"
+			"parent": "cake"
 		},
 		"birthday-cake-outline": {
 			"parent": "cake-variant-outline"
@@ -22298,7 +22298,7 @@
 			"parent": "archive-alert-outline"
 		},
 		"box-arrow-down": {
-			"parent": "archive-arrow-down-outline"
+			"parent": "archive-arrow-down"
 		},
 		"box-arrow-up": {
 			"parent": "archive-arrow-up"
@@ -22877,7 +22877,7 @@
 			"parent": "menorah-fire"
 		},
 		"canine": {
-			"parent": "dog-service"
+			"parent": "dog-side"
 		},
 		"capsule": {
 			"parent": "pill"
@@ -23717,7 +23717,7 @@
 			"parent": "spider-web"
 		},
 		"cocktail": {
-			"parent": "glass-wine"
+			"parent": "glass-stange"
 		},
 		"cod": {
 			"parent": "credit-card-marker-outline"
@@ -24212,7 +24212,7 @@
 			"parent": "bike"
 		},
 		"dad": {
-			"parent": "human-male-boy"
+			"parent": "human-male-girl"
 		},
 		"dagger": {
 			"parent": "knife-military"
@@ -24353,7 +24353,7 @@
 			"parent": "cancel"
 		},
 		"dentist": {
-			"parent": "tooth"
+			"parent": "toothbrush"
 		},
 		"departure-board": {
 			"parent": "bus-clock"
@@ -24608,7 +24608,7 @@
 			"parent": "curtains-closed"
 		},
 		"drink": {
-			"parent": "glass-wine"
+			"parent": "glass-stange"
 		},
 		"drink-ice": {
 			"parent": "delete-variant"
@@ -25781,7 +25781,7 @@
 			"parent": "rewind"
 		},
 		"father": {
-			"parent": "human-male-boy"
+			"parent": "human-male-girl"
 		},
 		"faucet": {
 			"parent": "water-pump"
@@ -28081,6 +28081,9 @@
 		"internet-explorer": {
 			"parent": "microsoft-internet-explorer"
 		},
+		"internet-protocol": {
+			"parent": "ip"
+		},
 		"internet-search": {
 			"parent": "search-web"
 		},
@@ -28091,7 +28094,7 @@
 			"parent": "invert-colors-off"
 		},
 		"invite": {
-			"parent": "account-plus-outline"
+			"parent": "account-plus"
 		},
 		"invoice": {
 			"parent": "receipt"
@@ -28100,7 +28103,7 @@
 			"parent": "export-variant"
 		},
 		"irrigation": {
-			"parent": "sprinkler"
+			"parent": "sprinkler-variant"
 		},
 		"islam": {
 			"parent": "star-crescent"
@@ -28160,7 +28163,7 @@
 			"parent": "scale-balance"
 		},
 		"k9": {
-			"parent": "dog-service"
+			"parent": "dog-side"
 		},
 		"karabiner": {
 			"parent": "carabiner"
@@ -29324,7 +29327,7 @@
 			"parent": "human-male"
 		},
 		"man-child": {
-			"parent": "human-male-boy"
+			"parent": "human-male-girl"
 		},
 		"man-man": {
 			"parent": "human-male-male"
@@ -30760,6 +30763,15 @@
 		"panorama-fish-eye": {
 			"parent": "panorama-fisheye"
 		},
+		"panorama-horizontal": {
+			"parent": "panorama-horizontal-outline"
+		},
+		"panorama-vertical": {
+			"parent": "panorama-vertical-outline"
+		},
+		"panorama-wide-angle": {
+			"parent": "panorama-wide-angle-outline"
+		},
 		"panties": {
 			"parent": "lingerie"
 		},
@@ -31919,7 +31931,7 @@
 			"parent": "printer-alert"
 		},
 		"prize": {
-			"parent": "seal-variant"
+			"parent": "seal"
 		},
 		"progress-spanner": {
 			"parent": "progress-wrench"
@@ -32363,7 +32375,7 @@
 			"parent": "turtle"
 		},
 		"reschedule": {
-			"parent": "calendar-arrow-right"
+			"parent": "calendar-arrow-left"
 		},
 		"resize-horizontal": {
 			"parent": "arrow-split-vertical"
@@ -33518,10 +33530,10 @@
 			"parent": "snowflake-alert"
 		},
 		"solar-electricity": {
-			"parent": "solar-panel"
+			"parent": "solar-power"
 		},
 		"solar-energy": {
-			"parent": "solar-panel"
+			"parent": "solar-power"
 		},
 		"solar-panel-electricity": {
 			"parent": "solar-panel-large"
@@ -37031,9 +37043,9 @@
 		"f03db": "pandora",
 		"f03dc": "panorama",
 		"f03dd": "panorama-fisheye",
-		"f03de": "panorama-horizontal",
-		"f03df": "panorama-vertical",
-		"f03e0": "panorama-wide-angle",
+		"f03de": "panorama-horizontal-outline",
+		"f03df": "panorama-vertical-outline",
+		"f03e0": "panorama-wide-angle-outline",
 		"f03e1": "paper-cut-vertical",
 		"f03e2": "paperclip",
 		"f03e3": "parking",
@@ -46892,6 +46904,9 @@
 			"image-multiple-outline",
 			"orbit-variant",
 			"panorama",
+			"panorama-horizontal-outline",
+			"panorama-vertical-outline",
+			"panorama-wide-angle-outline",
 			"white-balance-auto",
 			"white-balance-incandescent",
 			"white-balance-iridescent",

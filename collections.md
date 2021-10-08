@@ -344,7 +344,7 @@
 
 
 ### Lucide
-* Number of icons: 505
+* Number of icons: 506
 * Author: Lucide Contributors
 * URL: https://github.com/lucide-icons/lucide
 * License: ISC
@@ -816,7 +816,7 @@
 
 
 ### Noto Emoji
-* Number of icons: 3310
+* Number of icons: 3311
 * Author: Google Inc
 * URL: https://github.com/googlei18n/noto-emoji
 * License: Apache 2.0

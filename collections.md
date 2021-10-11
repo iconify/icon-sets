@@ -124,7 +124,7 @@
 
 
 ### Bootstrap Icons
-* Number of icons: 1386
+* Number of icons: 1406
 * Author: The Bootstrap Authors
 * URL: https://github.com/twbs/icons
 * License: MIT
@@ -612,12 +612,12 @@
 
 
 ### Fluent UI System Icons
-* Number of icons: 8996
+* Number of icons: 8822
 * Author: Microsoft Corporation
 * URL: https://github.com/microsoft/fluentui-system-icons
 * License: MIT
 * License URL: https://github.com/microsoft/fluentui-system-icons/blob/master/LICENSE
-* Version: 1.1.142
+* Version: 1.1.143
 * Palette: Colorless
 
 
@@ -913,12 +913,12 @@
 
 
 ### Simple Icons
-* Number of icons: 2024
+* Number of icons: 2055
 * Author: Simple Icons Collaborators
 * URL: https://github.com/simple-icons/simple-icons
 * License: CC0 1.0
 * License URL: https://github.com/simple-icons/simple-icons/blob/develop/LICENSE.md
-* Version: 5.17.0
+* Version: 5.18.0
 * Palette: Colorless
 
 

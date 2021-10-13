@@ -21,7 +21,7 @@
 
 
 ### Google Material Icons
-* Number of icons: 9645
+* Number of icons: 9905
 * Author: Material Design Authors
 * URL: https://github.com/cyberalien/google-material-design-icons-updated
 * License: Apache 2.0
@@ -96,7 +96,7 @@
 
 
 ### Iconoir
-* Number of icons: 941
+* Number of icons: 974
 * Author: Luca Burgio
 * URL: https://github.com/lucaburgio/iconoir
 * License: MIT
@@ -146,7 +146,7 @@
 * Author: IBM
 * URL: https://github.com/carbon-design-system/carbon/tree/main/packages/icons
 * License: Apache 2.0
-* Version: 10.40.0
+* Version: 10.41.0-rc.0
 * Palette: Colorless
 
 
@@ -326,7 +326,7 @@
 
 
 ### Codicons
-* Number of icons: 383
+* Number of icons: 387
 * Author: Microsoft Corporation
 * URL: https://github.com/microsoft/vscode-codicons
 * License: CC BY 4.0
@@ -612,12 +612,12 @@
 
 
 ### Fluent UI System Icons
-* Number of icons: 8822
+* Number of icons: 8838
 * Author: Microsoft Corporation
 * URL: https://github.com/microsoft/fluentui-system-icons
 * License: MIT
 * License URL: https://github.com/microsoft/fluentui-system-icons/blob/master/LICENSE
-* Version: 1.1.143
+* Version: 1.1.144
 * Palette: Colorless
 
 
@@ -844,7 +844,7 @@
 
 
 ### OpenMoji
-* Number of icons: 3914
+* Number of icons: 3915
 * Author: OpenMoji
 * URL: https://github.com/hfg-gmuend/openmoji
 * License: CC BY-SA 4.0

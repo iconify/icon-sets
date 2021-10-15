@@ -3,7 +3,7 @@
 
 
 ### Material Design Icons
-* Number of icons: 6495
+* Number of icons: 6585
 * Author: Austin Andrews
 * URL: https://github.com/Templarian/MaterialDesign
 * License: Open Font License
@@ -129,7 +129,7 @@
 * URL: https://github.com/twbs/icons
 * License: MIT
 * License URL: https://github.com/twbs/icons/blob/master/LICENSE.md
-* Version: 1.5.0
+* Version: 1.6.0
 * Palette: Colorless
 
 
@@ -146,7 +146,7 @@
 * Author: IBM
 * URL: https://github.com/carbon-design-system/carbon/tree/main/packages/icons
 * License: Apache 2.0
-* Version: 10.41.0-rc.0
+* Version: 10.41.0
 * Palette: Colorless
 
 
@@ -326,7 +326,7 @@
 
 
 ### Codicons
-* Number of icons: 387
+* Number of icons: 385
 * Author: Microsoft Corporation
 * URL: https://github.com/microsoft/vscode-codicons
 * License: CC BY 4.0
@@ -391,12 +391,12 @@
 
 
 ### Akar Icons
-* Number of icons: 363
+* Number of icons: 368
 * Author: Arturo Wibawa
 * URL: https://github.com/artcoholic/akar-icons
 * License: MIT
 * License URL: https://github.com/artcoholic/akar-icons/blob/master/LICENSE
-* Version: 1.8.11
+* Version: 1.9.0
 * Palette: Colorless
 
 

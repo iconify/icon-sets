@@ -21,7 +21,7 @@
 
 
 ### Google Material Icons
-* Number of icons: 9905
+* Number of icons: 10010
 * Author: Material Design Authors
 * URL: https://github.com/cyberalien/google-material-design-icons-updated
 * License: Apache 2.0
@@ -64,7 +64,7 @@
 * URL: https://github.com/Iconscout/unicons
 * License: Apache 2.0
 * License URL: https://raw.githubusercontent.com/Iconscout/unicons/master/LICENSE
-* Version: 4.0.0
+* Version: 4.0.1
 * Palette: Colorless
 
 
@@ -416,7 +416,7 @@
 * URL: https://github.com/Iconscout/unicons
 * License: Apache 2.0
 * License URL: https://raw.githubusercontent.com/Iconscout/unicons/master/LICENSE
-* Version: 4.0.0
+* Version: 4.0.1
 * Palette: Colorless
 
 
@@ -426,7 +426,7 @@
 * URL: https://github.com/Iconscout/unicons
 * License: Apache 2.0
 * License URL: https://raw.githubusercontent.com/Iconscout/unicons/master/LICENSE
-* Version: 4.0.0
+* Version: 4.0.1
 * Palette: Colorless
 
 
@@ -436,7 +436,7 @@
 * URL: https://github.com/Iconscout/unicons
 * License: Apache 2.0
 * License URL: https://raw.githubusercontent.com/Iconscout/unicons/master/LICENSE
-* Version: 4.0.0
+* Version: 4.0.1
 * Palette: Colorless
 
 
@@ -844,7 +844,7 @@
 
 
 ### OpenMoji
-* Number of icons: 3915
+* Number of icons: 3916
 * Author: OpenMoji
 * URL: https://github.com/hfg-gmuend/openmoji
 * License: CC BY-SA 4.0
@@ -961,7 +961,7 @@
 
 
 ### Font-GIS
-* Number of icons: 339
+* Number of icons: 341
 * Author: Jean-Marc Viglino
 * URL: https://github.com/viglino/font-gis
 * License: CC BY 4.0

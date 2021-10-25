@@ -316,12 +316,12 @@
 
 
 ### Octicons
-* Number of icons: 463
+* Number of icons: 467
 * Author: GitHub
 * URL: https://github.com/primer/octicons/
 * License: Open Font License
 * License URL: https://raw.githubusercontent.com/primer/octicons/main/LICENSE
-* Version: 16.0.0
+* Version: 16.1.0
 * Palette: Colorless
 
 
@@ -344,7 +344,7 @@
 
 
 ### Lucide
-* Number of icons: 508
+* Number of icons: 510
 * Author: Lucide Contributors
 * URL: https://github.com/lucide-icons/lucide
 * License: ISC
@@ -466,7 +466,7 @@
 * URL: https://github.com/tailwindlabs/heroicons
 * License: MIT
 * License URL: https://raw.githubusercontent.com/tailwindlabs/heroicons/master/LICENSE
-* Version: 1.0.4
+* Version: 1.0.5
 * Palette: Colorless
 
 
@@ -476,7 +476,7 @@
 * URL: https://github.com/tailwindlabs/heroicons
 * License: MIT
 * License URL: https://raw.githubusercontent.com/tailwindlabs/heroicons/master/LICENSE
-* Version: 1.0.4
+* Version: 1.0.5
 * Palette: Colorless
 
 
@@ -913,12 +913,12 @@
 
 
 ### Simple Icons
-* Number of icons: 2064
+* Number of icons: 2070
 * Author: Simple Icons Collaborators
 * URL: https://github.com/simple-icons/simple-icons
 * License: CC0 1.0
 * License URL: https://github.com/simple-icons/simple-icons/blob/develop/LICENSE.md
-* Version: 5.19.0
+* Version: 5.20.0
 * Palette: Colorless
 
 
@@ -961,7 +961,7 @@
 
 
 ### Font-GIS
-* Number of icons: 341
+* Number of icons: 344
 * Author: Jean-Marc Viglino
 * URL: https://github.com/viglino/font-gis
 * License: CC BY 4.0

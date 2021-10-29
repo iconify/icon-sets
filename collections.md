@@ -146,7 +146,7 @@
 * Author: IBM
 * URL: https://github.com/carbon-design-system/carbon/tree/main/packages/icons
 * License: Apache 2.0
-* Version: 10.41.0
+* Version: 10.42.0
 * Palette: Colorless
 
 
@@ -617,7 +617,7 @@
 * URL: https://github.com/microsoft/fluentui-system-icons
 * License: MIT
 * License URL: https://github.com/microsoft/fluentui-system-icons/blob/master/LICENSE
-* Version: 1.1.145
+* Version: 1.1.147
 * Palette: Colorless
 
 
@@ -844,7 +844,7 @@
 
 
 ### OpenMoji
-* Number of icons: 3916
+* Number of icons: 3949
 * Author: OpenMoji
 * URL: https://github.com/hfg-gmuend/openmoji
 * License: CC BY-SA 4.0

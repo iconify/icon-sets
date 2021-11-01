@@ -391,12 +391,12 @@
 
 
 ### Akar Icons
-* Number of icons: 368
+* Number of icons: 375
 * Author: Arturo Wibawa
 * URL: https://github.com/artcoholic/akar-icons
 * License: MIT
 * License URL: https://github.com/artcoholic/akar-icons/blob/master/LICENSE
-* Version: 1.9.0
+* Version: 1.9.1
 * Palette: Colorless
 
 
@@ -672,12 +672,12 @@
 
 
 ### VSCode Icons
-* Number of icons: 1085
+* Number of icons: 1088
 * Author: Roberto Huertas
 * URL: https://github.com/vscode-icons/vscode-icons
 * License: MIT
 * License URL: https://github.com/vscode-icons/vscode-icons/blob/master/LICENSE
-* Version: 11.6.0
+* Version: 11.7.0
 * Palette: Colorful
 
 
@@ -913,12 +913,12 @@
 
 
 ### Simple Icons
-* Number of icons: 2070
+* Number of icons: 2073
 * Author: Simple Icons Collaborators
 * URL: https://github.com/simple-icons/simple-icons
 * License: CC0 1.0
 * License URL: https://github.com/simple-icons/simple-icons/blob/develop/LICENSE.md
-* Version: 5.20.0
+* Version: 5.21.1
 * Palette: Colorless
 
 

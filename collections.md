@@ -119,17 +119,17 @@
 * URL: https://github.com/ionic-team/ionicons
 * License: MIT
 * License URL: https://github.com/ionic-team/ionicons/blob/master/LICENSE
-* Version: 5.5.3
+* Version: 5.5.4
 * Palette: Colorless
 
 
 ### Bootstrap Icons
-* Number of icons: 1406
+* Number of icons: 1521
 * Author: The Bootstrap Authors
 * URL: https://github.com/twbs/icons
 * License: MIT
 * License URL: https://github.com/twbs/icons/blob/master/LICENSE.md
-* Version: 1.6.1
+* Version: 1.7.0
 * Palette: Colorless
 
 
@@ -391,12 +391,12 @@
 
 
 ### Akar Icons
-* Number of icons: 375
+* Number of icons: 377
 * Author: Arturo Wibawa
 * URL: https://github.com/artcoholic/akar-icons
 * License: MIT
 * License URL: https://github.com/artcoholic/akar-icons/blob/master/LICENSE
-* Version: 1.9.1
+* Version: 1.9.2
 * Palette: Colorless
 
 

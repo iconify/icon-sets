@@ -2,7 +2,7 @@
 	"name": "@iconify/json",
 	"description": "Iconify icons collection in JSON format",
 	"license": "MIT",
-	"version": "2.0.0-beta.2",
+	"version": "2.0.0-beta.3",
 	"publishConfig": {
 		"tag": "next"
 	},
@@ -13,6 +13,7 @@
 		"url": "git+ssh://git@github.com/iconify/collections-json.git"
 	},
 	"exports": {
+		"./*": "./*",
 		".": {
 			"require": "./dist/index.js",
 			"import": "./dist/index.mjs"
@@ -24,7 +25,7 @@
 		"lib",
 		"collections.json",
 		"collections.md",
-		"composer.md",
+		"composer.json",
 		"readme.md"
 	],
 	"main": "dist/index.js",
@@ -37,7 +38,8 @@
 		"test-locate-esm": "jest --clearCache && cross-env NODE_OPTIONS=--experimental-vm-modules npx jest --config=jest.esm.config.ts src/locate.esm.test.ts -i",
 		"test-locate-cjs": "npm run build && jest --clearCache && jest --config=jest.cjs.config.ts src/locate.cjs.test.ts -i",
 		"test": "npm run test-esm && npm run test-cjs && npm run test-locate-esm && npm run test-locate-cjs",
-		"prepublishOnly": "npm run build"
+		"version": "node sync-version",
+		"prepublishOnly": "npm run build && npm run version"
 	},
 	"dependencies": {
 		"@iconify/types": "^1.0.9",

@@ -1,20 +1,28 @@
-# Iconify icons collection in JSON format
+# Iconify icon sets in JSON format
 
 This is collection of SVG icons created by various authors, released under various free licenses. Some collections require attribution when used for commercial purposes. See [collections.md](./collections.md) for list of collections and their licenses.
 
-All SVG icons have been cleaned up. Content has been optimized, colors for monotone icons have been replaced with currentColor, ready to be inserted in HTML. Tools used for creating this collection are available on [Iconify GitHub repository](https://github.com/iconify), more specifically [@iconify/tools](https://github.com/iconify/tools). You can use it to create your own JSON packages from custom icon sets.
+All icons have been normalized:
 
-This library is intended to be used in packages that build components, such as [Iconify Tools](https://github.com/iconify/tools) and [Iconify React](https://github.com/iconify/iconify-react).
+- Cleaned up, removing anything that is not needed to show icon.
+- Colors for monotone icons have been replaced with `currentColor`, making it easy to change icon color by changing text color.
+- Icon content has been optimised to reduce its size.
 
-Repository is updated daily by fully automated script, so it always contains latest icons from various sources.
+Repository is updated by fully automated script, so it always contains latest icons from various sources.
 
+## Format and usage
+
+Icon sets are stored in `IconifyJSON` format. TypeScript definition is available in `@iconify/types` package. Documentation is [available on Iconify Documentation website](https://docs.iconify.design/types/iconify-json.html).
+
+To work with icon sets, use [Iconify Utils](https://docs.iconify.design/tools/utils/). Utils package works in any JavaScript environment: Node.js, Deno, browsers, isolated JavaScript environments. For PHP applications use [Iconify JSON Tools](https://docs.iconify.design/tools/json/).
+
+To create icon sets, use [Iconify Tools](https://docs.iconify.design/tools/tools2/). Tools package works in Node.js, it can import icons from various sources, do cleanup, optimisation, export it in `IconifyJSON` format and generate NPM packages.
 
 ## How to get this repository
 
 Instructions below are for Node.js and PHP projects.
 
-
-#### Node.js
+### Node.js
 
 Run this command to add icons to your project:
 
@@ -24,17 +32,16 @@ npm install --save @iconify/json
 
 Icons will be available in node_modules/@iconify/json
 
-To resolve filename for any json file, use this:
+To resolve filename for any json file, use this if you are using CommonJS syntax:
 
 ```js
-const icons = require('@iconify/json');
+import { locate } from '@iconify/json';
 
-// returns location of fa.json
-let fa = icons.locate('fa');
+// returns location of mdi-light.json
+const mdiLightFilename = locate('mdi-light');
 ```
 
-
-#### PHP
+### PHP
 
 Install and initialize Composer project. See documentation at [https://getcomposer.org](https://getcomposer.org)
 
@@ -60,75 +67,191 @@ If you don't use Composer, clone GitHub repository and add necessary autoload co
 To resolve filename for any json file, use this:
 
 ```php
-// returns location of fa.json
-$fa = \Iconify\IconsJSON\Finder::locate('fa');
+// Returns location of mdi-light.json
+$mdiLightLocation = \Iconify\IconsJSON\Finder::locate('mdi-light');
 ```
 
-
-## Format
+## Data format
 
 Icons used by Iconify are in directory json, in Iconify JSON format.
 
-Why JSON instead of SVG? To load images in bulk. 
+Why JSON instead of SVG? There are several reasons for that:
 
-If you need individual SVG images, you can generate them using Iconify JSON Tools. See instructions for [PHP version](https://github.com/iconify/json-tools.php) or [Node.js version](https://github.com/iconify/json-tools.js).
+- Easy to store images in bulk.
+- Contains only content of icon without SVG element, making it easy to manipulate content without doing complex parsing. It also makes it easier to create components, such as React icon component, allowing to use framework native SVG element.
+- Data can contain additional content: aliases for icons, icon set information, categories/tags/themes.
 
+Why not XML?
+
+- JSON is much easier to parse without additional tools. All languages support it.
 
 Format of json file is very simple:
 
-```js
+```json
 {
-    "icons": {
-        "icon-name": {
-            "body": "svg body",
-            "width": width,
-            "height": height
-        }
-    },
-    "aliases": {
-        "icon-alias": {
-            "parent": "icon-name"
-        }
-    },
-    "width": default width,
-    "height": default height
+  "prefix": "mdi-light",
+  "icons": {
+    "icon-name": {
+      "body": "<g />",
+      "width": 24,
+      "height": 24
+    }
+  },
+  "aliases": {
+    "icon-alias": {
+      "parent": "icon-name"
+    }
+  }
 }
 ```
 
 "icons" object contains list of all icons.
 
 Each icon has following properties:
-* body - icon body
-* width - width in pixels
-* height - height in pixels
-* rotate - rotation. Default = 0. Values: 0 = 0deg, 1 = 90deg, 2 = 180deg, 3 = 270deg
-* hFlip - horizontal flip. Boolean value, default = false
-* vFlip - vertical flip. Boolean value, default = false
-* hidden - If set to true, icon is hidden. That means icon was removed from collection for some reason, but it is kept in JSON file to prevent applications that rely on old icon from breaking
 
-Width or height might be missing. If icon does not have width or height, use default width or height from root object.
-rotate, hFlip and vFlip are all optional.
+- body: icon body.
+- left, top: left and top coordinates of viewBox, default is 0.
+- width, height: dimensions of viewBox, default is 16.
+- rotate: rotation. Default = 0. Values: 0 = 0deg, 1 = 90deg, 2 = 180deg, 3 = 270deg.
+- hFlip: horizontal flip. Boolean value, default = false.
+- vFlip: vertical flip. Boolean value, default = false.
+- hidden: if set to true, icon is hidden. That means icon was removed from collection for some reason, but it is kept in JSON file to prevent applications that rely on old icon from breaking.
 
-Optional "aliases" object contains list of aliases for icons. Format is similar to "icons" object, with additional property "parent" that points to parent icon. Any other properties overwrite properties of parent icon.
+Optional "aliases" object contains list of aliases for icons. Format is similar to "icons" object, but without "body" property and with additional property "parent" that points to parent icon. Transformation properties (rotate, hFlip, vFlip) are merged with parent icon's properties. Any other properties overwrite properties of parent icon.
 
-For more information see developer documentation on [https://iconify.design/docs/json-icon-format/](https://iconify.design/docs/json-icon-format/)
+When multiple icons have the same value, it is moved to root object to reduce duplication:
 
+```json
+{
+  "prefix": "mdi-light",
+  "icons": {
+    "icon1": {
+      "body": "<g />"
+    },
+    "icon2": {
+      "body": "<g />"
+    },
+    "icon-20": {
+      "body": "<g />",
+      "width": 20,
+      "height": 20
+    }
+  },
+  "width": 24,
+  "height": 24
+}
+```
+
+In example above, "icon1" and "icon2" are 24x24, "icon-20" is 20x20.
+
+For more information see developer documentation on [https://docs.iconify.design/types/iconify-json.html](https://docs.iconify.design/types/iconify-json.html)
 
 ## Extracting individual SVG icons
 
-See JSON tools readme for instructions for [PHP](https://github.com/iconify/json-tools.php) or [Node.js](https://github.com/iconify/json-tools.js).
+For PHP use [Iconify JSON Tools](https://docs.iconify.design/tools/json/).
+
+For JavaScript use [Iconify Utils](https://docs.iconify.design/tools/utils/), though Iconify JSON Tools are also available (but deprecated).
+
+Example using Iconify Utils (TypeScript):
+
+```ts
+import { promises as fs } from 'fs';
+
+// Function to locate JSON file
+import { locate } from '@iconify/json';
+
+// Various functions from Iconify Utils
+import { parseIconSet } from '@iconify/utils/lib/icon-set/parse';
+import { iconToSVG } from '@iconify/utils/lib/svg/build';
+import { defaults } from '@iconify/utils/lib/customisations';
+
+(async () => {
+  // Locate icons
+  const filename = locate('mdi');
+
+  // Load icon set
+  const icons = JSON.parse(await fs.readFile(filename, 'utf8'));
+
+  // Parse all icons
+  const exportedSVG: Record<string, string> = Object.create(null);
+  parseIconSet(icons, (iconName, iconData) => {
+    if (!iconData) {
+      // Invalid icon
+      console.error(`Error parsing icon ${iconName}`);
+      return;
+    }
+
+    // Render icon
+    const renderData = iconToSVG(iconData, {
+      ...defaults,
+      height: 'auto',
+    });
+
+    // Generate attributes for SVG element
+    const svgAttributes: Record<string, string> = {
+      'xmlns': 'http://www.w3.org/2000/svg',
+      'xmlns:xlink': 'http://www.w3.org/1999/xlink',
+      ...renderData.attributes,
+    };
+    const svgAttributesStr = Object.keys(svgAttributes)
+      .map(
+        (attr) =>
+          // No need to check attributes for special characters, such as quotes,
+          // they cannot contain anything that needs escaping.
+          `${attr}="${svgAttributes[attr as keyof typeof svgAttributes]}"`
+      )
+      .join(' ');
+
+    // Generate SVG
+    const svg = `<svg ${svgAttributesStr}>${renderData.body}</svg>`;
+    exportedSVG[iconName] = svg;
+  });
+
+  // Output directory
+  const outputDir = 'mdi-export';
+  try {
+    await fs.mkdir(outputDir, {
+      recursive: true,
+    });
+  } catch (err) {
+    //
+  }
+
+  // Save all files
+  const filenames = Object.keys(exportedSVG);
+  for (let i = 0; i < filenames.length; i++) {
+    const filename = filenames[i];
+    const svg = exportedSVG[filename];
+    await fs.writeFile(outputDir + '/' + filename + '.svg', svg, 'utf8');
+  }
+})();
+```
+
+Example using Iconify JSON Tools:
 
 ```js
 const fs = require('fs');
-const {SVG, Collection} = require('@iconify/json-tools');
+const { SVG, Collection } = require('@iconify/json-tools');
 
-let collection = new Collection();
+const outputDir = 'mdi-export';
+try {
+  fs.mkdirSync(outputDir, {
+    recursive: true,
+  });
+} catch (err) {
+  //
+}
+
+const collection = new Collection();
 collection.loadIconifyCollection('mdi');
-collection.listIcons(true).forEach(icon => {
-    let svg = new SVG(collection.getIconData(icon));
-    fs.writeFileSync('mdi-' + icon + '.svg', svg.getSVG({
-        height: 'auto'
-    }));
+collection.listIcons(true).forEach((icon) => {
+  let svg = new SVG(collection.getIconData(icon));
+  fs.writeFileSync(
+    outputDir + '/' + icon + '.svg',
+    svg.getSVG({
+      height: 'auto',
+    })
+  );
 });
 ```
 
@@ -136,16 +259,18 @@ collection.listIcons(true).forEach(icon => {
 use \Iconify\JSONTools\Collection;
 use \Iconify\JSONTools\SVG;
 
+$outputDir = 'mdi-export';
+@mkdir($outputDir, 0777, true);
+
 $collection = new Collection();
 $collection->loadIconifyCollection('mdi');
 foreach ($collection->listIcons(true) as $icon) {
     $svg = new SVG($collection->getIconData($icon));
-    file_put_contents('mdi-' . $icon . '.svg', $svg->getSVG([
+    file_put_contents($outputDir . '/' . $icon . '.svg', $svg->getSVG([
         'height'    => 'auto'
     ]));
 }
 ```
-
 
 ## License
 

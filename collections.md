@@ -124,7 +124,7 @@
 
 
 ### Bootstrap Icons
-* Number of icons: 1521
+* Number of icons: 1522
 * Author: The Bootstrap Authors
 * URL: https://github.com/twbs/icons
 * License: MIT
@@ -344,7 +344,7 @@
 
 
 ### Lucide
-* Number of icons: 510
+* Number of icons: 511
 * Author: Lucide Contributors
 * URL: https://github.com/lucide-icons/lucide
 * License: ISC
@@ -617,7 +617,7 @@
 * URL: https://github.com/microsoft/fluentui-system-icons
 * License: MIT
 * License URL: https://github.com/microsoft/fluentui-system-icons/blob/master/LICENSE
-* Version: 1.1.147
+* Version: 1.1.150
 * Palette: Colorless
 
 

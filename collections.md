@@ -371,6 +371,15 @@
 * Palette: Colorless
 
 
+### Prime Icons
+* Number of icons: 238
+* Author: PrimeTek
+* URL: https://github.com/primefaces/primeicons
+* License: MIT
+* License URL: https://github.com/primefaces/primeicons/blob/master/LICENSE
+* Palette: Colorless
+
+
 ### Material Line Icons
 * Number of icons: 250
 * Author: Vjacheslav Trushkin
@@ -496,6 +505,15 @@
 * License: MIT
 * License URL: https://github.com/mono-company/mono-icons/blob/master/LICENSE.md
 * Version: 1.3.1
+* Palette: Colorless
+
+
+### Gala Icons
+* Number of icons: 51
+* Author: Jake Wells
+* URL: https://github.com/sisyphusion/gala-icons
+* License: GPL
+* License URL: https://github.com/sisyphusion/gala-icons/blob/main/LICENSE
 * Palette: Colorless
 
 

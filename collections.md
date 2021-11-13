@@ -118,8 +118,8 @@
 * Author: Ben Sperry
 * URL: https://github.com/ionic-team/ionicons
 * License: MIT
-* License URL: https://github.com/ionic-team/ionicons/blob/master/LICENSE
-* Version: 5.5.4
+* License URL: https://github.com/ionic-team/ionicons/blob/main/LICENSE
+* Version: 6.0.0
 * Palette: Colorless
 
 
@@ -146,7 +146,7 @@
 * Author: IBM
 * URL: https://github.com/carbon-design-system/carbon/tree/main/packages/icons
 * License: Apache 2.0
-* Version: 10.42.0
+* Version: 10.43.0
 * Palette: Colorless
 
 

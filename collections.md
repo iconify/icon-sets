@@ -3,7 +3,7 @@
 
 
 ### Material Design Icons
-* Number of icons: 6623
+* Number of icons: 6628
 * Author: Austin Andrews
 * URL: https://github.com/Templarian/MaterialDesign
 * License: Open Font License
@@ -21,7 +21,7 @@
 
 
 ### Google Material Icons
-* Number of icons: 10140
+* Number of icons: 10285
 * Author: Material Design Authors
 * URL: https://github.com/cyberalien/google-material-design-icons-updated
 * License: Apache 2.0
@@ -344,7 +344,7 @@
 
 
 ### Lucide
-* Number of icons: 511
+* Number of icons: 512
 * Author: Lucide Contributors
 * URL: https://github.com/lucide-icons/lucide
 * License: ISC
@@ -931,12 +931,12 @@
 
 
 ### Simple Icons
-* Number of icons: 2090
+* Number of icons: 2104
 * Author: Simple Icons Collaborators
 * URL: https://github.com/simple-icons/simple-icons
 * License: CC0 1.0
 * License URL: https://github.com/simple-icons/simple-icons/blob/develop/LICENSE.md
-* Version: 5.22.0
+* Version: 5.23.0
 * Palette: Colorless
 
 

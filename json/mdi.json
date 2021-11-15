@@ -2,7 +2,7 @@
 	"prefix": "mdi",
 	"info": {
 		"name": "Material Design Icons",
-		"total": 6623,
+		"total": 6628,
 		"author": {
 			"name": "Austin Andrews",
 			"url": "https://github.com/Templarian/MaterialDesign"
@@ -2890,6 +2890,9 @@
 		},
 		"bone": {
 			"body": "<path d=\"M8 14a3 3 0 0 1-3 3a3 3 0 0 1-3-3c0-.77.29-1.47.76-2c-.47-.53-.76-1.23-.76-2a3 3 0 0 1 3-3a3 3 0 0 1 3 3c1.33.08 2.67.17 4 .17s2.67-.09 4-.17a3 3 0 0 1 3-3a3 3 0 0 1 3 3c0 .77-.29 1.47-.76 2c.47.53.76 1.23.76 2a3 3 0 0 1-3 3a3 3 0 0 1-3-3c-1.33-.08-2.67-.17-4-.17s-2.67.09-4 .17z\" fill=\"currentColor\"/>"
+		},
+		"bone-off": {
+			"body": "<path d=\"M22.1 21.5L2.4 1.7L1.1 3l4 4H5c-1.7 0-3 1.3-3 3c0 .8.3 1.5.8 2c-.5.5-.8 1.2-.8 2c0 1.7 1.3 3 3 3s3-1.3 3-3c1.3-.1 2.6-.2 3.9-.2l8.9 8.9l1.3-1.2M20 16.8l-6.7-6.7c.9 0 1.8-.1 2.7-.1c0-1.7 1.3-3 3-3s3 1.3 3 3c0 .8-.3 1.5-.8 2c.5.5.8 1.2.8 2c0 1.3-.8 2.4-2 2.8z\" fill=\"currentColor\"/>"
 		},
 		"book": {
 			"body": "<path d=\"M18 22a2 2 0 0 0 2-2V4a2 2 0 0 0-2-2h-6v7L9.5 7.5L7 9V2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12z\" fill=\"currentColor\"/>"
@@ -11944,6 +11947,12 @@
 		"lightbulb": {
 			"body": "<path d=\"M12 2a7 7 0 0 0-7 7c0 2.38 1.19 4.47 3 5.74V17a1 1 0 0 0 1 1h6a1 1 0 0 0 1-1v-2.26c1.81-1.27 3-3.36 3-5.74a7 7 0 0 0-7-7M9 21a1 1 0 0 0 1 1h4a1 1 0 0 0 1-1v-1H9v1z\" fill=\"currentColor\"/>"
 		},
+		"lightbulb-alert": {
+			"body": "<path d=\"M10 2C6.1 2 3 5.1 3 9c0 2.4 1.2 4.5 3 5.7V17c0 .6.4 1 1 1h6c.6 0 1-.4 1-1v-2.3c1.8-1.3 3-3.4 3-5.7c0-3.9-3.1-7-7-7M7 21c0 .6.4 1 1 1h4c.6 0 1-.4 1-1v-1H7v1m12-9V7h2v6h-2m0 4v-2h2v2h-2z\" fill=\"currentColor\"/>"
+		},
+		"lightbulb-alert-outline": {
+			"body": "<path d=\"M10 2c3.9 0 7 3.1 7 7c0 2.4-1.2 4.5-3 5.7V17c0 .6-.4 1-1 1H7c-.6 0-1-.4-1-1v-2.3C4.2 13.5 3 11.4 3 9c0-3.9 3.1-7 7-7M7 21v-1h6v1c0 .6-.4 1-1 1H8c-.6 0-1-.4-1-1m3-17C7.2 4 5 6.2 5 9c0 2.1 1.2 3.8 3 4.6V16h4v-2.4c1.8-.8 3-2.5 3-4.6c0-2.8-2.2-5-5-5m9 8V7h2v6h-2m0 4v-2h2v2h-2z\" fill=\"currentColor\"/>"
+		},
 		"lightbulb-auto": {
 			"body": "<path d=\"M9 2C5.13 2 2 5.13 2 9c0 2.38 1.19 4.47 3 5.74V17c0 .55.45 1 1 1h6c.55 0 1-.45 1-1v-2.26c1.81-1.27 3-3.36 3-5.74c0-3.87-3.13-7-7-7M6 21c0 .55.45 1 1 1h4c.55 0 1-.45 1-1v-1H6v1m13-8h-2l-3.2 9h1.9l.7-2h3.2l.7 2h1.9L19 13m-2.15 5.65L18 15l1.15 3.65h-2.3z\" fill=\"currentColor\"/>"
 		},
@@ -12006,6 +12015,12 @@
 		},
 		"lightbulb-outline": {
 			"body": "<path d=\"M12 2a7 7 0 0 1 7 7c0 2.38-1.19 4.47-3 5.74V17a1 1 0 0 1-1 1H9a1 1 0 0 1-1-1v-2.26C6.19 13.47 5 11.38 5 9a7 7 0 0 1 7-7M9 21v-1h6v1a1 1 0 0 1-1 1h-4a1 1 0 0 1-1-1m3-17a5 5 0 0 0-5 5c0 2.05 1.23 3.81 3 4.58V16h4v-2.42c1.77-.77 3-2.53 3-4.58a5 5 0 0 0-5-5z\" fill=\"currentColor\"/>"
+		},
+		"lightbulb-question": {
+			"body": "<path d=\"M8 2C4.1 2 1 5.1 1 9c0 2.4 1.2 4.5 3 5.7V17c0 .6.4 1 1 1h6c.6 0 1-.4 1-1v-2.3c1.8-1.3 3-3.4 3-5.7c0-3.9-3.1-7-7-7M5 21c0 .6.4 1 1 1h4c.6 0 1-.4 1-1v-1H5v1m15.5-6.5V16H19v-1.5h1.5m-2-5H17V9c0-1.7 1.3-3 3-3s3 1.3 3 3c0 1-.5 1.9-1.3 2.4l-.3.2c-.6.4-.9 1-.9 1.7v.2H19v-.2c0-1.2.6-2.3 1.6-2.9l.3-.2c.4-.3.6-.7.6-1.2c0-.8-.7-1.5-1.5-1.5s-1.5.7-1.5 1.5v.5z\" fill=\"currentColor\"/>"
+		},
+		"lightbulb-question-outline": {
+			"body": "<path d=\"M8 2c3.9 0 7 3.1 7 7c0 2.4-1.2 4.5-3 5.7V17c0 .6-.4 1-1 1H5c-.6 0-1-.4-1-1v-2.3C2.2 13.5 1 11.4 1 9c0-3.9 3.1-7 7-7M5 21v-1h6v1c0 .6-.4 1-1 1H6c-.6 0-1-.4-1-1M8 4C5.2 4 3 6.2 3 9c0 2.1 1.2 3.8 3 4.6V16h4v-2.4c1.8-.8 3-2.5 3-4.6c0-2.8-2.2-5-5-5m12.5 10.5V16H19v-1.5h1.5m-2-5H17V9c0-1.7 1.3-3 3-3s3 1.3 3 3c0 1-.5 1.9-1.3 2.4l-.3.2c-.6.4-.9 1-.9 1.7v.2H19v-.2c0-1.2.6-2.3 1.6-2.9l.3-.2c.4-.3.6-.7.6-1.2c0-.8-.7-1.5-1.5-1.5s-1.5.7-1.5 1.5v.5z\" fill=\"currentColor\"/>"
 		},
 		"lightbulb-spot": {
 			"body": "<path d=\"M9 19h2v3H9v-3m4 3h2v-3h-2v3M2 2v2h20V2H2m7 12v3h6v-3c2.5-1.43 5-3 5-8H4c0 5 2.5 6.57 5 8z\" fill=\"currentColor\"/>"
@@ -21111,7 +21126,7 @@
 			"parent": "shield-lock-outline"
 		},
 		"alarm-arm-home": {
-			"parent": "shield-home"
+			"parent": "shield-home-outline"
 		},
 		"alarm-arm-home-outline": {
 			"parent": "shield-account-outline"
@@ -21681,10 +21696,10 @@
 			"parent": "application-import"
 		},
 		"approval": {
-			"parent": "check-decagram"
+			"parent": "check-decagram-outline"
 		},
 		"approve": {
-			"parent": "check-decagram"
+			"parent": "check-decagram-outline"
 		},
 		"aquarium": {
 			"parent": "fishbowl"
@@ -21768,7 +21783,7 @@
 			"parent": "scent-off"
 		},
 		"arrow": {
-			"parent": "undo"
+			"parent": "undo-variant"
 		},
 		"arrow-back": {
 			"parent": "arrow-left"
@@ -22089,10 +22104,10 @@
 			"parent": "audio-video-off"
 		},
 		"award": {
-			"parent": "seal-variant"
+			"parent": "seal"
 		},
 		"awning": {
-			"parent": "storefront"
+			"parent": "storefront-outline"
 		},
 		"azure": {
 			"parent": "microsoft-azure"
@@ -22143,7 +22158,7 @@
 			"parent": "bank-plus"
 		},
 		"bar": {
-			"parent": "glass-tulip"
+			"parent": "glass-wine"
 		},
 		"bar-chart": {
 			"parent": "poll"
@@ -22278,7 +22293,7 @@
 			"parent": "grill-outline"
 		},
 		"beacon": {
-			"parent": "lighthouse"
+			"parent": "lighthouse-on"
 		},
 		"beats-per-minute": {
 			"parent": "metronome"
@@ -22365,7 +22380,7 @@
 			"parent": "text-account"
 		},
 		"birthday-cake": {
-			"parent": "cake"
+			"parent": "cake-variant"
 		},
 		"birthday-cake-outline": {
 			"parent": "cake-variant-outline"
@@ -22695,7 +22710,7 @@
 			"parent": "archive-alert-outline"
 		},
 		"box-arrow-down": {
-			"parent": "archive-arrow-down"
+			"parent": "archive-arrow-down-outline"
 		},
 		"box-arrow-up": {
 			"parent": "archive-arrow-up"
@@ -24165,7 +24180,7 @@
 			"parent": "spider-web"
 		},
 		"cocktail": {
-			"parent": "glass-tulip"
+			"parent": "glass-wine"
 		},
 		"cod": {
 			"parent": "credit-card-marker-outline"
@@ -24507,7 +24522,7 @@
 			"parent": "cookie-settings-outline"
 		},
 		"couch": {
-			"parent": "sofa"
+			"parent": "sofa-single"
 		},
 		"couch-outline": {
 			"parent": "sofa-single-outline"
@@ -25083,7 +25098,7 @@
 			"parent": "curtains-closed"
 		},
 		"drink": {
-			"parent": "glass-tulip"
+			"parent": "glass-wine"
 		},
 		"drink-ice": {
 			"parent": "delete-variant"
@@ -25791,7 +25806,7 @@
 			"parent": "tune-vertical-variant"
 		},
 		"equestrian": {
-			"parent": "horse-human"
+			"parent": "horse"
 		},
 		"equestrian-variant": {
 			"parent": "horse-variant"
@@ -27528,7 +27543,7 @@
 			"parent": "crosshairs-question"
 		},
 		"gpu": {
-			"parent": "expansion-card-variant"
+			"parent": "expansion-card"
 		},
 		"grade": {
 			"parent": "star"
@@ -27621,7 +27636,7 @@
 			"parent": "chart-timeline-variant-shimmer"
 		},
 		"graphics-processing-unit": {
-			"parent": "expansion-card-variant"
+			"parent": "expansion-card"
 		},
 		"graveyard": {
 			"parent": "grave-stone"
@@ -27936,19 +27951,19 @@
 			"parent": "home-thermometer-outline"
 		},
 		"home-electricity": {
-			"parent": "home-lightning-bolt"
+			"parent": "home-lightning-bolt-outline"
 		},
 		"home-electricity-outline": {
 			"parent": "home-battery-outline"
 		},
 		"home-energy": {
-			"parent": "home-lightning-bolt"
+			"parent": "home-lightning-bolt-outline"
 		},
 		"home-energy-outline": {
 			"parent": "home-battery-outline"
 		},
 		"home-flash": {
-			"parent": "home-lightning-bolt"
+			"parent": "home-lightning-bolt-outline"
 		},
 		"home-floor-attic": {
 			"parent": "home-floor-a"
@@ -27999,7 +28014,7 @@
 			"parent": "home-map-marker"
 		},
 		"home-power": {
-			"parent": "home-lightning-bolt"
+			"parent": "home-lightning-bolt-outline"
 		},
 		"home-power-outline": {
 			"parent": "home-battery-outline"
@@ -28635,7 +28650,7 @@
 			"parent": "invert-colors-off"
 		},
 		"invite": {
-			"parent": "account-plus"
+			"parent": "account-plus-outline"
 		},
 		"invoice": {
 			"parent": "receipt"
@@ -28647,7 +28662,7 @@
 			"parent": "export-variant"
 		},
 		"irrigation": {
-			"parent": "sprinkler"
+			"parent": "sprinkler-variant"
 		},
 		"islam": {
 			"parent": "star-crescent"
@@ -29793,7 +29808,7 @@
 			"parent": "truck-fast"
 		},
 		"loudspeaker": {
-			"parent": "bullhorn-variant"
+			"parent": "bullhorn"
 		},
 		"loudspeaker-outline": {
 			"parent": "bullhorn-variant-outline"
@@ -30036,7 +30051,7 @@
 			"parent": "quality-medium"
 		},
 		"megaphone": {
-			"parent": "bullhorn-variant"
+			"parent": "bullhorn"
 		},
 		"megaphone-outline": {
 			"parent": "bullhorn-variant-outline"
@@ -30576,7 +30591,7 @@
 			"parent": "wifi-star"
 		},
 		"network-interface-card": {
-			"parent": "expansion-card-variant"
+			"parent": "expansion-card"
 		},
 		"network-router": {
 			"parent": "router-network"
@@ -31335,7 +31350,7 @@
 			"parent": "format-color-fill"
 		},
 		"paint-outline": {
-			"parent": "palette-swatch-outline"
+			"parent": "palette-outline"
 		},
 		"paintbrush": {
 			"parent": "brush"
@@ -32145,7 +32160,7 @@
 			"parent": "notebook-outline"
 		},
 		"plant": {
-			"parent": "tree"
+			"parent": "tree-outline"
 		},
 		"plant-outline": {
 			"parent": "sprout-outline"
@@ -32553,7 +32568,7 @@
 			"parent": "printer-alert"
 		},
 		"prize": {
-			"parent": "seal-variant"
+			"parent": "seal"
 		},
 		"progress-spanner": {
 			"parent": "progress-wrench"
@@ -32661,7 +32676,7 @@
 			"parent": "help-network-outline"
 		},
 		"queue": {
-			"parent": "tray"
+			"parent": "tray-remove"
 		},
 		"queue-music": {
 			"parent": "playlist-music"
@@ -32805,7 +32820,7 @@
 			"parent": "account-plus-outline"
 		},
 		"registration-mark": {
-			"parent": "target"
+			"parent": "target-variant"
 		},
 		"regular-expression": {
 			"parent": "regex"
@@ -33006,7 +33021,7 @@
 			"parent": "turtle"
 		},
 		"reschedule": {
-			"parent": "calendar-arrow-right"
+			"parent": "calendar-arrow-left"
 		},
 		"resize-horizontal": {
 			"parent": "arrow-split-vertical"
@@ -33348,7 +33363,7 @@
 			"parent": "set-left-right"
 		},
 		"settings": {
-			"parent": "tune"
+			"parent": "tune-variant"
 		},
 		"settings-applications": {
 			"parent": "cog-box"
@@ -36261,7 +36276,7 @@
 			"parent": "air-filter"
 		},
 		"water-flow": {
-			"parent": "waves-arrow-left"
+			"parent": "waves-arrow-right"
 		},
 		"water-heater": {
 			"parent": "water-boiler"
@@ -43448,7 +43463,12 @@
 		"f19dc": "receipt-outline",
 		"f19dd": "transmission-tower-off",
 		"f19de": "truck-alert",
-		"f19df": "truck-alert-outline"
+		"f19df": "truck-alert-outline",
+		"f19e0": "bone-off",
+		"f19e1": "lightbulb-alert",
+		"f19e2": "lightbulb-alert-outline",
+		"f19e3": "lightbulb-question",
+		"f19e4": "lightbulb-question-outline"
 	},
 	"categories": {
 		"Account / User": [

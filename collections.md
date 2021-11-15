@@ -3,7 +3,7 @@
 
 
 ### Material Design Icons
-* Number of icons: 6595
+* Number of icons: 6628
 * Author: Austin Andrews
 * URL: https://github.com/Templarian/MaterialDesign
 * License: Open Font License
@@ -21,7 +21,7 @@
 
 
 ### Google Material Icons
-* Number of icons: 10010
+* Number of icons: 10285
 * Author: Material Design Authors
 * URL: https://github.com/cyberalien/google-material-design-icons-updated
 * License: Apache 2.0
@@ -118,13 +118,13 @@
 * Author: Ben Sperry
 * URL: https://github.com/ionic-team/ionicons
 * License: MIT
-* License URL: https://github.com/ionic-team/ionicons/blob/master/LICENSE
-* Version: 5.5.4
+* License URL: https://github.com/ionic-team/ionicons/blob/main/LICENSE
+* Version: 6.0.0
 * Palette: Colorless
 
 
 ### Bootstrap Icons
-* Number of icons: 1521
+* Number of icons: 1522
 * Author: The Bootstrap Authors
 * URL: https://github.com/twbs/icons
 * License: MIT
@@ -146,7 +146,7 @@
 * Author: IBM
 * URL: https://github.com/carbon-design-system/carbon/tree/main/packages/icons
 * License: Apache 2.0
-* Version: 10.42.0
+* Version: 10.43.0
 * Palette: Colorless
 
 
@@ -170,12 +170,12 @@
 
 
 ### Tabler Icons
-* Number of icons: 1298
+* Number of icons: 1318
 * Author: Paweł Kuna
 * URL: https://github.com/tabler/tabler-icons
 * License: MIT
 * License URL: https://github.com/tabler/tabler-icons/blob/master/LICENSE
-* Version: 1.41.2
+* Version: 1.42.0
 * Palette: Colorless
 
 
@@ -326,12 +326,12 @@
 
 
 ### Codicons
-* Number of icons: 386
+* Number of icons: 387
 * Author: Microsoft Corporation
 * URL: https://github.com/microsoft/vscode-codicons
 * License: CC BY 4.0
 * License URL: https://raw.githubusercontent.com/microsoft/vscode-codicons/master/LICENSE
-* Version: 0.0.25
+* Version: 0.0.26
 * Palette: Colorless
 
 
@@ -344,7 +344,7 @@
 
 
 ### Lucide
-* Number of icons: 510
+* Number of icons: 512
 * Author: Lucide Contributors
 * URL: https://github.com/lucide-icons/lucide
 * License: ISC
@@ -368,6 +368,15 @@
 * URL: https://github.com/modulz/radix-icons
 * License: MIT
 * Version: 1.0.3
+* Palette: Colorless
+
+
+### Prime Icons
+* Number of icons: 238
+* Author: PrimeTek
+* URL: https://github.com/primefaces/primeicons
+* License: MIT
+* License URL: https://github.com/primefaces/primeicons/blob/master/LICENSE
 * Palette: Colorless
 
 
@@ -499,6 +508,15 @@
 * Palette: Colorless
 
 
+### Gala Icons
+* Number of icons: 51
+* Author: Jake Wells
+* URL: https://github.com/sisyphusion/gala-icons
+* License: GPL
+* License URL: https://github.com/sisyphusion/gala-icons/blob/main/LICENSE
+* Palette: Colorless
+
+
 ### PrestaShop Icons
 * Number of icons: 479
 * Author: PrestaShop
@@ -612,12 +630,12 @@
 
 
 ### Fluent UI System Icons
-* Number of icons: 9016
+* Number of icons: 9284
 * Author: Microsoft Corporation
 * URL: https://github.com/microsoft/fluentui-system-icons
 * License: MIT
 * License URL: https://github.com/microsoft/fluentui-system-icons/blob/master/LICENSE
-* Version: 1.1.147
+* Version: 1.1.150
 * Palette: Colorless
 
 
@@ -913,12 +931,12 @@
 
 
 ### Simple Icons
-* Number of icons: 2073
+* Number of icons: 2104
 * Author: Simple Icons Collaborators
 * URL: https://github.com/simple-icons/simple-icons
 * License: CC0 1.0
 * License URL: https://github.com/simple-icons/simple-icons/blob/develop/LICENSE.md
-* Version: 5.21.1
+* Version: 5.23.0
 * Palette: Colorless
 
 

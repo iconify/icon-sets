@@ -129,7 +129,7 @@
 * URL: https://github.com/twbs/icons
 * License: MIT
 * License URL: https://github.com/twbs/icons/blob/master/LICENSE.md
-* Version: 1.7.0
+* Version: 1.7.1
 * Palette: Colorless
 
 
@@ -170,12 +170,12 @@
 
 
 ### Tabler Icons
-* Number of icons: 1318
+* Number of icons: 1336
 * Author: Paweł Kuna
 * URL: https://github.com/tabler/tabler-icons
 * License: MIT
 * License URL: https://github.com/tabler/tabler-icons/blob/master/LICENSE
-* Version: 1.42.0
+* Version: 1.43.0
 * Palette: Colorless
 
 
@@ -400,12 +400,12 @@
 
 
 ### Akar Icons
-* Number of icons: 377
+* Number of icons: 382
 * Author: Arturo Wibawa
 * URL: https://github.com/artcoholic/akar-icons
 * License: MIT
 * License URL: https://github.com/artcoholic/akar-icons/blob/master/LICENSE
-* Version: 1.9.2
+* Version: 1.9.3
 * Palette: Colorless
 
 

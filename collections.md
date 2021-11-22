@@ -620,12 +620,12 @@
 
 
 ### Fluent UI System Icons
-* Number of icons: 9284
+* Number of icons: 9500
 * Author: Microsoft Corporation
 * URL: https://github.com/microsoft/fluentui-system-icons
 * License: MIT
 * License URL: https://github.com/microsoft/fluentui-system-icons/blob/master/LICENSE
-* Version: 1.1.150
+* Version: 1.1.151
 * Palette: Colorless
 
 
@@ -921,12 +921,12 @@
 
 
 ### Simple Icons
-* Number of icons: 2104
+* Number of icons: 2110
 * Author: Simple Icons Collaborators
 * URL: https://github.com/simple-icons/simple-icons
 * License: CC0 1.0
 * License URL: https://github.com/simple-icons/simple-icons/blob/develop/LICENSE.md
-* Version: 5.23.0
+* Version: 5.24.0
 * Palette: Colorless
 
 

@@ -790,7 +790,7 @@
 		"italic": {
 			"body": "<g fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M19 4h-9\"/><path d=\"M14 20H5\"/><path d=\"M15 4L9 20\"/></g>"
 		},
-		"jersey-pound": {
+		"japanese-yen": {
 			"body": "<g fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M12 9.5V21m0-11.5L6 3m6 6.5L18 3\"/><path d=\"M6 15h12\"/><path d=\"M6 11h12\"/></g>"
 		},
 		"key": {
@@ -1567,6 +1567,11 @@
 		},
 		"zoom-out": {
 			"body": "<g fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><circle cx=\"11\" cy=\"11\" r=\"8\"/><path d=\"M21 21l-4.35-4.35\"/><path d=\"M8 11h6\"/></g>"
+		}
+	},
+	"aliases": {
+		"jersey-pound": {
+			"parent": "japanese-yen"
 		}
 	},
 	"width": 24,

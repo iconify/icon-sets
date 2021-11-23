@@ -129,7 +129,7 @@
 * URL: https://github.com/twbs/icons
 * License: MIT
 * License URL: https://github.com/twbs/icons/blob/master/LICENSE.md
-* Version: 1.7.0
+* Version: 1.7.1
 * Palette: Colorless
 
 
@@ -142,7 +142,7 @@
 
 
 ### Carbon
-* Number of icons: 1840
+* Number of icons: 1898
 * Author: IBM
 * URL: https://github.com/carbon-design-system/carbon/tree/main/packages/icons
 * License: Apache 2.0
@@ -170,12 +170,12 @@
 
 
 ### Tabler Icons
-* Number of icons: 1318
+* Number of icons: 1354
 * Author: Paweł Kuna
 * URL: https://github.com/tabler/tabler-icons
 * License: MIT
 * License URL: https://github.com/tabler/tabler-icons/blob/master/LICENSE
-* Version: 1.42.0
+* Version: 1.44.0
 * Palette: Colorless
 
 
@@ -344,7 +344,7 @@
 
 
 ### Lucide
-* Number of icons: 512
+* Number of icons: 514
 * Author: Lucide Contributors
 * URL: https://github.com/lucide-icons/lucide
 * License: ISC
@@ -400,12 +400,12 @@
 
 
 ### Akar Icons
-* Number of icons: 377
+* Number of icons: 382
 * Author: Arturo Wibawa
 * URL: https://github.com/artcoholic/akar-icons
 * License: MIT
 * License URL: https://github.com/artcoholic/akar-icons/blob/master/LICENSE
-* Version: 1.9.2
+* Version: 1.9.3
 * Palette: Colorless
 
 
@@ -456,16 +456,6 @@
 * License: GPL 2.0
 * License URL: https://github.com/Automattic/gridicons/blob/trunk/LICENSE.md
 * Version: 3.4.0
-* Palette: Colorless
-
-
-### Mono Icons
-* Number of icons: 180
-* Author: Mono
-* URL: https://github.com/mono-company/mono-icons
-* License: MIT
-* License URL: https://github.com/mono-company/mono-icons/blob/master/LICENSE.md
-* Version: 1.3.1
 * Palette: Colorless
 
 
@@ -630,12 +620,12 @@
 
 
 ### Fluent UI System Icons
-* Number of icons: 9284
+* Number of icons: 9500
 * Author: Microsoft Corporation
 * URL: https://github.com/microsoft/fluentui-system-icons
 * License: MIT
 * License URL: https://github.com/microsoft/fluentui-system-icons/blob/master/LICENSE
-* Version: 1.1.150
+* Version: 1.1.151
 * Palette: Colorless
 
 
@@ -645,7 +635,7 @@
 * URL: https://github.com/grommet/grommet-icons
 * License: Apache 2.0
 * License URL: http://www.apache.org/licenses/LICENSE-2.0
-* Version: 4.6.2
+* Version: 4.7.0
 * Palette: Colorless
 
 
@@ -931,12 +921,12 @@
 
 
 ### Simple Icons
-* Number of icons: 2104
+* Number of icons: 2110
 * Author: Simple Icons Collaborators
 * URL: https://github.com/simple-icons/simple-icons
 * License: CC0 1.0
 * License URL: https://github.com/simple-icons/simple-icons/blob/develop/LICENSE.md
-* Version: 5.23.0
+* Version: 5.24.0
 * Palette: Colorless
 
 

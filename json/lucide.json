@@ -2,7 +2,7 @@
 	"prefix": "lucide",
 	"info": {
 		"name": "Lucide",
-		"total": 512,
+		"total": 514,
 		"author": {
 			"name": "Lucide Contributors",
 			"url": "https://github.com/lucide-icons/lucide"
@@ -790,7 +790,7 @@
 		"italic": {
 			"body": "<g fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M19 4h-9\"/><path d=\"M14 20H5\"/><path d=\"M15 4L9 20\"/></g>"
 		},
-		"jersey-pound": {
+		"japanese-yen": {
 			"body": "<g fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M12 9.5V21m0-11.5L6 3m6 6.5L18 3\"/><path d=\"M6 15h12\"/><path d=\"M6 11h12\"/></g>"
 		},
 		"key": {
@@ -1190,7 +1190,14 @@
 			"body": "<g fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M13 3H4a2 2 0 0 0-2 2v10a2 2 0 0 0 2 2h16a2 2 0 0 0 2-2v-3\"/><path d=\"M8 21h8\"/><path d=\"M12 17v4\"/><path d=\"M22 3l-5 5\"/><path d=\"M17 3l5 5\"/></g>"
 		},
 		"search": {
-			"body": "<g fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><circle cx=\"11\" cy=\"11\" r=\"8\"/><path d=\"M21 21l-4.35-4.35\"/></g>"
+			"body": "<g fill=\"none\"><path clip-rule=\"evenodd\" d=\"M18.397 18.605a4.552 4.552 0 1 1 .707-.707l3.25 3.249l-.708.707zm.706-3.553a3.552 3.552 0 1 1-7.103 0a3.552 3.552 0 0 1 7.103 0z\" fill=\"currentColor\" fill-rule=\"evenodd\"/></g>",
+			"width": 32,
+			"height": 32
+		},
+		"search-large": {
+			"body": "<g fill=\"none\"><path clip-rule=\"evenodd\" d=\"M18.874 19.581a6 6 0 1 1 .707-.707l4.273 4.272l-.708.708zM20 15a5 5 0 1 1-10 0a5 5 0 0 1 10 0z\" fill=\"currentColor\" fill-rule=\"evenodd\"/></g>",
+			"width": 32,
+			"height": 32
 		},
 		"send": {
 			"body": "<g fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M22 2L11 13\"/><path d=\"M22 2l-7 20l-4-9l-9-4l20-7z\"/></g>"
@@ -1384,6 +1391,9 @@
 		"timer": {
 			"body": "<g fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M10 2h4\"/><path d=\"M12 14l3-3\"/><circle cx=\"12\" cy=\"14\" r=\"8\"/></g>"
 		},
+		"timer-off": {
+			"body": "<g fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M10 2h4\"/><path d=\"M7.43 7.433A8 8 0 0 1 18.566 18.57M4.582 11A8 8 0 0 0 15 21.419\"/><path d=\"M2 2l20 20\"/><path d=\"M12 12v-2\"/></g>"
+		},
 		"timer-reset": {
 			"body": "<g fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M10 2h4\"/><path d=\"M12 14v-4\"/><path d=\"M4 13a8 8 0 0 1 8-7a8 8 0 1 1-5.3 14L4 17.6\"/><path d=\"M9 17H4v5\"/></g>"
 		},
@@ -1557,6 +1567,11 @@
 		},
 		"zoom-out": {
 			"body": "<g fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><circle cx=\"11\" cy=\"11\" r=\"8\"/><path d=\"M21 21l-4.35-4.35\"/><path d=\"M8 11h6\"/></g>"
+		}
+	},
+	"aliases": {
+		"jersey-pound": {
+			"parent": "japanese-yen"
 		}
 	},
 	"width": 24,

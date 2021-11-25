@@ -3,7 +3,7 @@
 
 
 ### Material Design Icons
-* Number of icons: 6628
+* Number of icons: 6630
 * Author: Austin Andrews
 * URL: https://github.com/Templarian/MaterialDesign
 * License: Open Font License
@@ -170,12 +170,12 @@
 
 
 ### Tabler Icons
-* Number of icons: 1354
+* Number of icons: 1371
 * Author: Paweł Kuna
 * URL: https://github.com/tabler/tabler-icons
 * License: MIT
 * License URL: https://github.com/tabler/tabler-icons/blob/master/LICENSE
-* Version: 1.44.0
+* Version: 1.45.0
 * Palette: Colorless
 
 
@@ -974,7 +974,7 @@
 * URL: https://github.com/viglino/font-gis
 * License: CC BY 4.0
 * License URL: https://github.com/Viglino/font-gis/blob/main/LICENSE-CC-BY.md
-* Version: 1.0.4
+* Version: 1.0.5
 * Palette: Colorless
 
 

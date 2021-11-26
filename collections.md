@@ -244,7 +244,7 @@
 * URL: https://github.com/halfmage/pixelarticons
 * License: MIT
 * License URL: https://github.com/halfmage/pixelarticons/blob/master/LICENSE
-* Version: 1.4.0
+* Version: 1.5.0
 * Palette: Colorless
 
 

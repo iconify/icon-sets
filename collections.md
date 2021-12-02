@@ -352,6 +352,16 @@
 * Palette: Colorless
 
 
+### Element Plus
+* Number of icons: 280
+* Author: Element Plus
+* URL: https://github.com/element-plus/element-plus-icons
+* License: MIT
+* License URL: https://github.com/element-plus/element-plus-icons/blob/main/packages/svg/package.json
+* Version: 0.2.2
+* Palette: Colorless
+
+
 ### Feather Icon
 * Number of icons: 255
 * Author: Megumi Hano

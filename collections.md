@@ -69,7 +69,7 @@
 
 
 ### BoxIcons
-* Number of icons: 1525
+* Number of icons: 1548
 * Author: Atisa
 * URL: https://github.com/atisawd/boxicons
 * License: CC BY 4.0
@@ -146,7 +146,7 @@
 * Author: IBM
 * URL: https://github.com/carbon-design-system/carbon/tree/main/packages/icons
 * License: Apache 2.0
-* Version: 10.43.0
+* Version: 10.44.0
 * Palette: Colorless
 
 
@@ -326,7 +326,7 @@
 
 
 ### Codicons
-* Number of icons: 387
+* Number of icons: 388
 * Author: Microsoft Corporation
 * URL: https://github.com/microsoft/vscode-codicons
 * License: CC BY 4.0
@@ -410,12 +410,12 @@
 
 
 ### Akar Icons
-* Number of icons: 385
+* Number of icons: 386
 * Author: Arturo Wibawa
 * URL: https://github.com/artcoholic/akar-icons
 * License: MIT
 * License URL: https://github.com/artcoholic/akar-icons/blob/master/LICENSE
-* Version: 1.9.4
+* Version: 1.9.5
 * Palette: Colorless
 
 
@@ -630,12 +630,12 @@
 
 
 ### Fluent UI System Icons
-* Number of icons: 9500
+* Number of icons: 9706
 * Author: Microsoft Corporation
 * URL: https://github.com/microsoft/fluentui-system-icons
 * License: MIT
 * License URL: https://github.com/microsoft/fluentui-system-icons/blob/master/LICENSE
-* Version: 1.1.152
+* Version: 1.1.153
 * Palette: Colorless
 
 

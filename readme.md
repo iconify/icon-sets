@@ -6,7 +6,7 @@ All SVG icons have been cleaned up. Content has been optimized, colors for monot
 
 This library is intended to be used in packages that build components, such as [Iconify Tools](https://github.com/iconify/tools) and [Iconify React](https://github.com/iconify/iconify-react).
 
-Repository is updated daily by fully automated script, so it always contains latest icons from various sources.
+Repository is updated 3 times a week by fully automated script, so it always contains latest icons from various sources.
 
 
 ## How to get this repository

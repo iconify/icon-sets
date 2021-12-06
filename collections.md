@@ -21,7 +21,7 @@
 
 
 ### Google Material Icons
-* Number of icons: 10290
+* Number of icons: 10365
 * Author: Material Design Authors
 * URL: https://github.com/cyberalien/google-material-design-icons-updated
 * License: Apache 2.0
@@ -69,7 +69,7 @@
 
 
 ### BoxIcons
-* Number of icons: 1548
+* Number of icons: 1578
 * Author: Atisa
 * URL: https://github.com/atisawd/boxicons
 * License: CC BY 4.0
@@ -129,7 +129,7 @@
 * URL: https://github.com/twbs/icons
 * License: MIT
 * License URL: https://github.com/twbs/icons/blob/master/LICENSE.md
-* Version: 1.7.1
+* Version: 1.7.2
 * Palette: Colorless
 
 
@@ -358,7 +358,7 @@
 * URL: https://github.com/element-plus/element-plus-icons
 * License: MIT
 * License URL: https://github.com/element-plus/element-plus-icons/blob/main/packages/svg/package.json
-* Version: 0.2.2
+* Version: 0.2.4
 * Palette: Colorless
 
 
@@ -690,12 +690,12 @@
 
 
 ### VSCode Icons
-* Number of icons: 1088
+* Number of icons: 1098
 * Author: Roberto Huertas
 * URL: https://github.com/vscode-icons/vscode-icons
 * License: MIT
 * License URL: https://github.com/vscode-icons/vscode-icons/blob/master/LICENSE
-* Version: 11.7.0
+* Version: 11.8.0
 * Palette: Colorful
 
 
@@ -931,12 +931,12 @@
 
 
 ### Simple Icons
-* Number of icons: 2110
+* Number of icons: 2116
 * Author: Simple Icons Collaborators
 * URL: https://github.com/simple-icons/simple-icons
 * License: CC0 1.0
 * License URL: https://github.com/simple-icons/simple-icons/blob/develop/LICENSE.md
-* Version: 6.0.0
+* Version: 6.1.0
 * Palette: Colorless
 
 

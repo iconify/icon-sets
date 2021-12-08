@@ -344,7 +344,7 @@
 
 
 ### Lucide
-* Number of icons: 514
+* Number of icons: 515
 * Author: Lucide Contributors
 * URL: https://github.com/lucide-icons/lucide
 * License: ISC
@@ -635,7 +635,7 @@
 * URL: https://github.com/microsoft/fluentui-system-icons
 * License: MIT
 * License URL: https://github.com/microsoft/fluentui-system-icons/blob/master/LICENSE
-* Version: 1.1.153
+* Version: 1.1.154
 * Palette: Colorless
 
 

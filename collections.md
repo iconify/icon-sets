@@ -912,7 +912,7 @@
 
 
 ### SVG Logos
-* Number of icons: 1236
+* Number of icons: 1291
 * Author: Gil Barbara
 * URL: https://github.com/gilbarbara/logos
 * License: CC0
@@ -931,12 +931,12 @@
 
 
 ### Simple Icons
-* Number of icons: 2116
+* Number of icons: 2121
 * Author: Simple Icons Collaborators
 * URL: https://github.com/simple-icons/simple-icons
 * License: CC0 1.0
 * License URL: https://github.com/simple-icons/simple-icons/blob/develop/LICENSE.md
-* Version: 6.1.0
+* Version: 6.2.0
 * Palette: Colorless
 
 

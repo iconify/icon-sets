@@ -170,12 +170,12 @@
 
 
 ### Tabler Icons
-* Number of icons: 1406
+* Number of icons: 1424
 * Author: Paweł Kuna
 * URL: https://github.com/tabler/tabler-icons
 * License: MIT
 * License URL: https://github.com/tabler/tabler-icons/blob/master/LICENSE
-* Version: 1.47.0
+* Version: 1.48.0
 * Palette: Colorless
 
 
@@ -316,12 +316,12 @@
 
 
 ### Octicons
-* Number of icons: 467
+* Number of icons: 469
 * Author: GitHub
 * URL: https://github.com/primer/octicons/
 * License: Open Font License
 * License URL: https://raw.githubusercontent.com/primer/octicons/main/LICENSE
-* Version: 16.1.1
+* Version: 16.2.0
 * Palette: Colorless
 
 
@@ -331,7 +331,7 @@
 * URL: https://github.com/microsoft/vscode-codicons
 * License: CC BY 4.0
 * License URL: https://raw.githubusercontent.com/microsoft/vscode-codicons/master/LICENSE
-* Version: 0.0.26
+* Version: 0.0.27
 * Palette: Colorless
 
 
@@ -655,7 +655,7 @@
 * URL: https://github.com/CyCraft/pepicons
 * License: CC BY 4.0
 * License URL: https://github.com/CyCraft/pepicons/blob/dev/LICENSE
-* Version: 0.2.0
+* Version: 0.2.1
 * Palette: Colorless
 
 

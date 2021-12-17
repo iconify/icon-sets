@@ -344,7 +344,7 @@
 
 
 ### Lucide
-* Number of icons: 515
+* Number of icons: 529
 * Author: Lucide Contributors
 * URL: https://github.com/lucide-icons/lucide
 * License: ISC
@@ -655,7 +655,7 @@
 * URL: https://github.com/CyCraft/pepicons
 * License: CC BY 4.0
 * License URL: https://github.com/CyCraft/pepicons/blob/dev/LICENSE
-* Version: 0.2.1
+* Version: 1.0.4
 * Palette: Colorless
 
 

@@ -655,7 +655,7 @@
 * URL: https://github.com/CyCraft/pepicons
 * License: CC BY 4.0
 * License URL: https://github.com/CyCraft/pepicons/blob/dev/LICENSE
-* Version: 1.0.4
+* Version: 1.0.9
 * Palette: Colorless
 
 
@@ -931,12 +931,12 @@
 
 
 ### Simple Icons
-* Number of icons: 2121
+* Number of icons: 2124
 * Author: Simple Icons Collaborators
 * URL: https://github.com/simple-icons/simple-icons
 * License: CC0 1.0
 * License URL: https://github.com/simple-icons/simple-icons/blob/develop/LICENSE.md
-* Version: 6.2.0
+* Version: 6.3.0
 * Palette: Colorless
 
 

@@ -44,7 +44,7 @@
 * URL: https://github.com/bytedance/IconPark
 * License: Apache 2.0
 * License URL: https://github.com/bytedance/IconPark/blob/master/LICENSE
-* Version: 1.3.5
+* Version: 1.3.6
 * Palette: Colorless
 
 
@@ -54,7 +54,7 @@
 * URL: https://github.com/bytedance/IconPark
 * License: Apache 2.0
 * License URL: https://github.com/bytedance/IconPark/blob/master/LICENSE
-* Version: 1.3.5
+* Version: 1.3.6
 * Palette: Colorful
 
 
@@ -316,7 +316,7 @@
 
 
 ### Octicons
-* Number of icons: 469
+* Number of icons: 476
 * Author: GitHub
 * URL: https://github.com/primer/octicons/
 * License: Open Font License

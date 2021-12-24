@@ -30,11 +30,11 @@
 
 
 ### Phosphor
-* Number of icons: 5206
+* Number of icons: 5982
 * Author: Phosphor Icons
 * URL: https://github.com/phosphor-icons/phosphor-icons
 * License: MIT
-* Version: 1.3.2
+* Version: 1.4.1
 * Palette: Colorless
 
 

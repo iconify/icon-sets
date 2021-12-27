@@ -34,7 +34,7 @@
 * Author: Phosphor Icons
 * URL: https://github.com/phosphor-icons/phosphor-icons
 * License: MIT
-* Version: 1.4.1
+* Version: 1.4.2
 * Palette: Colorless
 
 
@@ -170,12 +170,12 @@
 
 
 ### Tabler Icons
-* Number of icons: 1424
+* Number of icons: 1442
 * Author: Paweł Kuna
 * URL: https://github.com/tabler/tabler-icons
 * License: MIT
 * License URL: https://github.com/tabler/tabler-icons/blob/master/LICENSE
-* Version: 1.48.0
+* Version: 1.49.0
 * Palette: Colorless
 
 
@@ -931,12 +931,12 @@
 
 
 ### Simple Icons
-* Number of icons: 2124
+* Number of icons: 2134
 * Author: Simple Icons Collaborators
 * URL: https://github.com/simple-icons/simple-icons
 * License: CC0 1.0
 * License URL: https://github.com/simple-icons/simple-icons/blob/develop/LICENSE.md
-* Version: 6.3.0
+* Version: 6.4.0
 * Palette: Colorless
 
 

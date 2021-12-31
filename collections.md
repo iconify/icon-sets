@@ -353,7 +353,7 @@
 
 
 ### Element Plus
-* Number of icons: 280
+* Number of icons: 281
 * Author: Element Plus
 * URL: https://github.com/element-plus/element-plus-icons
 * License: MIT

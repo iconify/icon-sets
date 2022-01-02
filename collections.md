@@ -344,7 +344,7 @@
 
 
 ### Lucide
-* Number of icons: 530
+* Number of icons: 533
 * Author: Lucide Contributors
 * URL: https://github.com/lucide-icons/lucide
 * License: ISC
@@ -912,7 +912,7 @@
 
 
 ### SVG Logos
-* Number of icons: 1291
+* Number of icons: 1302
 * Author: Gil Barbara
 * URL: https://github.com/gilbarbara/logos
 * License: CC0

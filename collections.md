@@ -410,12 +410,12 @@
 
 
 ### Akar Icons
-* Number of icons: 386
+* Number of icons: 389
 * Author: Arturo Wibawa
 * URL: https://github.com/artcoholic/akar-icons
 * License: MIT
 * License URL: https://github.com/artcoholic/akar-icons/blob/master/LICENSE
-* Version: 1.9.5
+* Version: 1.9.6
 * Palette: Colorless
 
 
@@ -912,7 +912,7 @@
 
 
 ### SVG Logos
-* Number of icons: 1302
+* Number of icons: 1327
 * Author: Gil Barbara
 * URL: https://github.com/gilbarbara/logos
 * License: CC0
@@ -931,12 +931,12 @@
 
 
 ### Simple Icons
-* Number of icons: 2134
+* Number of icons: 2135
 * Author: Simple Icons Collaborators
 * URL: https://github.com/simple-icons/simple-icons
 * License: CC0 1.0
 * License URL: https://github.com/simple-icons/simple-icons/blob/develop/LICENSE.md
-* Version: 6.4.0
+* Version: 6.5.0
 * Palette: Colorless
 
 

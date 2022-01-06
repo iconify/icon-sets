@@ -344,7 +344,7 @@
 
 
 ### Lucide
-* Number of icons: 533
+* Number of icons: 534
 * Author: Lucide Contributors
 * URL: https://github.com/lucide-icons/lucide
 * License: ISC

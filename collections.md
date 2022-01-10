@@ -96,7 +96,7 @@
 
 
 ### Iconoir
-* Number of icons: 974
+* Number of icons: 1007
 * Author: Luca Burgio
 * URL: https://github.com/lucaburgio/iconoir
 * License: MIT
@@ -170,12 +170,12 @@
 
 
 ### Tabler Icons
-* Number of icons: 1460
+* Number of icons: 1478
 * Author: Paweł Kuna
 * URL: https://github.com/tabler/tabler-icons
 * License: MIT
 * License URL: https://github.com/tabler/tabler-icons/blob/master/LICENSE
-* Version: 1.50.0
+* Version: 1.51.0
 * Palette: Colorless
 
 
@@ -931,12 +931,12 @@
 
 
 ### Simple Icons
-* Number of icons: 2135
+* Number of icons: 2141
 * Author: Simple Icons Collaborators
 * URL: https://github.com/simple-icons/simple-icons
 * License: CC0 1.0
 * License URL: https://github.com/simple-icons/simple-icons/blob/develop/LICENSE.md
-* Version: 6.5.0
+* Version: 6.6.0
 * Palette: Colorless
 
 

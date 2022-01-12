@@ -25,14 +25,14 @@
 		"1st-medal": {
 			"body": "<g stroke-width=\"1.5\" fill=\"none\"><path d=\"M14.272 10.445L18 2m-8.684 8.632L5 2m7.761 8.048L8.835 2m5.525 0l-1.04 2.5M6 16a6 6 0 1 0 12 0a6 6 0 0 0-12 0z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M10.5 15l2-1.5v5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/></g>"
 		},
+		"2x2-cell": {
+			"body": "<g stroke-width=\"1.5\" fill=\"none\"><path d=\"M21 3.6V12h-9V3h8.4a.6.6 0 0 1 .6.6z\" stroke=\"currentColor\"/><path d=\"M21 20.4V12h-9v9h8.4a.6.6 0 0 0 .6-.6z\" stroke=\"currentColor\"/><path d=\"M3 12V3.6a.6.6 0 0 1 .6-.6H12v9H3z\" stroke=\"currentColor\"/><path d=\"M3 12v8.4a.6.6 0 0 0 .6.6H12v-9H3z\" stroke=\"currentColor\"/></g>"
+		},
 		"360-view": {
 			"body": "<g stroke-width=\"1.5\" fill=\"none\"><path d=\"M4 8.5h1.75m0 0a1.75 1.75 0 1 1 0 3.5H3m2.75-3.5a1.75 1.75 0 1 0 0-3.5H3\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M21 15c0 3.314-4.03 6-9 6s-9-2.686-9-6\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M14 5h-1a3 3 0 0 0-3 3v2m4.5-.5v.5a2 2 0 0 1-2 2H12a2 2 0 0 1-2-2v-.5a2 2 0 0 1 2-2h.5a2 2 0 0 1 2 2z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M17 8.5V7a2 2 0 0 1 2-2h.5a2 2 0 0 1 2 2v3a2 2 0 0 1-2 2H19a2 2 0 0 1-2-2V8.5z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/></g>"
 		},
 		"4k-display": {
 			"body": "<g stroke-width=\"1.5\" fill=\"none\"><path d=\"M13.5 9v4m0 2v-2m0 0l1.37-1.566M17 9l-2.13 2.434m0 0L17 15\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M9.5 9l-3 4.5H10V15\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M2 18.4V5.6a.6.6 0 0 1 .6-.6h18.8a.6.6 0 0 1 .6.6v12.8a.6.6 0 0 1-.6.6H2.6a.6.6 0 0 1-.6-.6z\" stroke=\"currentColor\"/></g>"
-		},
-		"4x4-cell": {
-			"body": "<g stroke-width=\"1.5\" fill=\"none\"><path d=\"M21 3.6V12h-9V3h8.4a.6.6 0 0 1 .6.6z\" stroke=\"currentColor\"/><path d=\"M21 20.4V12h-9v9h8.4a.6.6 0 0 0 .6-.6z\" stroke=\"currentColor\"/><path d=\"M3 12V3.6a.6.6 0 0 1 .6-.6H12v9H3z\" stroke=\"currentColor\"/><path d=\"M3 12v8.4a.6.6 0 0 0 .6.6H12v-9H3z\" stroke=\"currentColor\"/></g>"
 		},
 		"accessibility": {
 			"body": "<g stroke-width=\"1.5\" fill=\"none\"><path d=\"M12 22c5.523 0 10-4.477 10-10S17.523 2 12 2S2 6.477 2 12s4.477 10 10 10z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M7 9l5 1m5-1l-5 1m0 0v3m0 0l-2 5m2-5l2 5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M12 7a.5.5 0 1 1 0-1a.5.5 0 0 1 0 1z\" fill=\"currentColor\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/></g>"
@@ -1495,7 +1495,7 @@
 		"keyframe-align-horizontal": {
 			"body": "<g stroke-width=\"1.5\" fill=\"none\"><path d=\"M15.7 12.375l-3.231 4.04a.6.6 0 0 1-.938 0L8.3 12.374a.6.6 0 0 1 0-.75l3.231-4.04a.6.6 0 0 1 .938 0l3.231 4.04a.6.6 0 0 1 0 .75z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M4 12H2\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M22 12h-2\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/></g>"
 		},
-		"keyframe-align-horizontal-1": {
+		"keyframe-align-vertical": {
 			"body": "<g stroke-width=\"1.5\" fill=\"none\"><path d=\"M15.7 12.375l-3.231 4.04a.6.6 0 0 1-.938 0L8.3 12.374a.6.6 0 0 1 0-.75l3.231-4.04a.6.6 0 0 1 .938 0l3.231 4.04a.6.6 0 0 1 0 .75z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M12 22v-2\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M12 4V2\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/></g>"
 		},
 		"keyframe-position": {
@@ -3045,11 +3045,17 @@
 		}
 	},
 	"aliases": {
+		"4x4-cell": {
+			"parent": "2x2-cell"
+		},
 		"basket-ball": {
 			"parent": "basketball"
 		},
 		"basket-ball-alt": {
 			"parent": "basketball-alt"
+		},
+		"keyframe-align-horizontal-1": {
+			"parent": "keyframe-align-vertical"
 		}
 	},
 	"width": 24,

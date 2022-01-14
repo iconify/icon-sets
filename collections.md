@@ -21,7 +21,7 @@
 
 
 ### Google Material Icons
-* Number of icons: 10365
+* Number of icons: 10575
 * Author: Material Design Authors
 * URL: https://github.com/cyberalien/google-material-design-icons-updated
 * License: Apache 2.0
@@ -146,7 +146,7 @@
 * Author: IBM
 * URL: https://github.com/carbon-design-system/carbon/tree/main/packages/icons
 * License: Apache 2.0
-* Version: 10.44.0
+* Version: 10.45.0-rc.0
 * Palette: Colorless
 
 

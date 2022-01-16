@@ -146,7 +146,7 @@
 * Author: IBM
 * URL: https://github.com/carbon-design-system/carbon/tree/main/packages/icons
 * License: Apache 2.0
-* Version: 10.45.0-rc.0
+* Version: 10.45.0
 * Palette: Colorless
 
 
@@ -344,7 +344,7 @@
 
 
 ### Lucide
-* Number of icons: 534
+* Number of icons: 535
 * Author: Lucide Contributors
 * URL: https://github.com/lucide-icons/lucide
 * License: ISC
@@ -640,12 +640,12 @@
 
 
 ### Fluent UI System Icons
-* Number of icons: 9706
+* Number of icons: 9872
 * Author: Microsoft Corporation
 * URL: https://github.com/microsoft/fluentui-system-icons
 * License: MIT
 * License URL: https://github.com/microsoft/fluentui-system-icons/blob/master/LICENSE
-* Version: 1.1.154
+* Version: 1.1.155
 * Palette: Colorless
 
 
@@ -941,12 +941,12 @@
 
 
 ### Simple Icons
-* Number of icons: 2141
+* Number of icons: 2152
 * Author: Simple Icons Collaborators
 * URL: https://github.com/simple-icons/simple-icons
 * License: CC0 1.0
 * License URL: https://github.com/simple-icons/simple-icons/blob/develop/LICENSE.md
-* Version: 6.6.0
+* Version: 6.7.0
 * Palette: Colorless
 
 

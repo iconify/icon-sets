@@ -390,6 +390,16 @@
 * Palette: Colorless
 
 
+### Charm Icons
+* Number of icons: 237
+* Author: Jay Newey
+* URL: https://github.com/jaynewey/charm-icons
+* License: MIT
+* License URL: https://github.com/jaynewey/charm-icons/blob/main/LICENSE
+* Version: 0.12.1
+* Palette: Colorless
+
+
 ### Material Line Icons
 * Number of icons: 250
 * Author: Vjacheslav Trushkin

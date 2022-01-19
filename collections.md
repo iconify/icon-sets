@@ -170,12 +170,12 @@
 
 
 ### Tabler Icons
-* Number of icons: 1478
+* Number of icons: 1518
 * Author: Paweł Kuna
 * URL: https://github.com/tabler/tabler-icons
 * License: MIT
 * License URL: https://github.com/tabler/tabler-icons/blob/master/LICENSE
-* Version: 1.51.0
+* Version: 1.53.0
 * Palette: Colorless
 
 
@@ -274,7 +274,7 @@
 * URL: https://gitlab.com/SUSE-UIUX/eos-icons
 * License: MIT
 * License URL: https://gitlab.com/SUSE-UIUX/eos-icons/-/blob/master/LICENSE
-* Version: 5.3.1
+* Version: 5.4.0
 * Palette: Colorless
 
 
@@ -358,7 +358,7 @@
 * URL: https://github.com/element-plus/element-plus-icons
 * License: MIT
 * License URL: https://github.com/element-plus/element-plus-icons/blob/main/packages/svg/package.json
-* Version: 0.2.4
+* Version: 0.2.5
 * Palette: Colorless
 
 
@@ -645,7 +645,7 @@
 * URL: https://github.com/microsoft/fluentui-system-icons
 * License: MIT
 * License URL: https://github.com/microsoft/fluentui-system-icons/blob/master/LICENSE
-* Version: 1.1.155
+* Version: 1.1.156
 * Palette: Colorless
 
 

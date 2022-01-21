@@ -358,7 +358,7 @@
 * URL: https://github.com/element-plus/element-plus-icons
 * License: MIT
 * License URL: https://github.com/element-plus/element-plus-icons/blob/main/packages/svg/package.json
-* Version: 0.2.5
+* Version: 0.2.6
 * Palette: Colorless
 
 
@@ -640,12 +640,12 @@
 
 
 ### Fluent UI System Icons
-* Number of icons: 9872
+* Number of icons: 9804
 * Author: Microsoft Corporation
 * URL: https://github.com/microsoft/fluentui-system-icons
 * License: MIT
 * License URL: https://github.com/microsoft/fluentui-system-icons/blob/master/LICENSE
-* Version: 1.1.156
+* Version: 1.1.157
 * Palette: Colorless
 
 

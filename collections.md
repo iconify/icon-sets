@@ -3,7 +3,7 @@
 
 
 ### Material Design Icons
-* Number of icons: 6630
+* Number of icons: 6673
 * Author: Austin Andrews
 * URL: https://github.com/Templarian/MaterialDesign
 * License: Open Font License
@@ -344,7 +344,7 @@
 
 
 ### Lucide
-* Number of icons: 535
+* Number of icons: 540
 * Author: Lucide Contributors
 * URL: https://github.com/lucide-icons/lucide
 * License: ISC

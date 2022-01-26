@@ -8,7 +8,7 @@ All icons have been normalized:
 - Colors for monotone icons have been replaced with `currentColor`, making it easy to change icon color by changing text color.
 - Icon content has been optimised to reduce its size.
 
-Repository is updated by fully automated script, so it always contains latest icons from various sources.
+Repository is frequently updated by fully automated script, so it always contains latest icons from various sources.
 
 ## Format and usage
 

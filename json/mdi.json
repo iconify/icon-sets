@@ -2,7 +2,7 @@
 	"prefix": "mdi",
 	"info": {
 		"name": "Material Design Icons",
-		"total": 6673,
+		"total": 6675,
 		"author": {
 			"name": "Austin Andrews",
 			"url": "https://github.com/Templarian/MaterialDesign"
@@ -10888,6 +10888,12 @@
 		},
 		"home-city-outline": {
 			"body": "<path d=\"M10 2v2.26l2 1.33V4h10v15h-5v2h7V2H10M7.5 5L0 10v11h15V10L7.5 5M14 6v.93L15.61 8H16V6h-2m4 0v2h2V6h-2M7.5 7.5L13 11v8h-3v-6H5v6H2v-8l5.5-3.5M18 10v2h2v-2h-2m0 4v2h2v-2h-2z\" fill=\"currentColor\"/>"
+		},
+		"home-clock": {
+			"body": "<path d=\"M16.5 16.25l2.86 1.69l-.75 1.22L15 17v-5h1.5v4.25M23 16c0 3.87-3.13 7-7 7c-2.38 0-4.47-1.19-5.74-3H4v-8H1l10-9l7 6.29c2.89.86 5 3.54 5 6.71m-2 0c0-2.76-2.24-5-5-5s-5 2.24-5 5s2.24 5 5 5s5-2.24 5-5z\" fill=\"currentColor\"/>"
+		},
+		"home-clock-outline": {
+			"body": "<path d=\"M16.5 16.25l2.86 1.69l-.75 1.22L15 17v-5h1.5v4.25M23 16c0 3.87-3.13 7-7 7c-2.38 0-4.47-1.19-5.74-3H4v-8H1l10-9l7 6.29c2.89.86 5 3.54 5 6.71M9.29 18c-.18-.63-.29-1.3-.29-2c0-3.46 2.5-6.32 5.8-6.89L11 5.69l-5 4.5V18h3.29M21 16c0-2.76-2.24-5-5-5s-5 2.24-5 5s2.24 5 5 5s5-2.24 5-5z\" fill=\"currentColor\"/>"
 		},
 		"home-currency-usd": {
 			"body": "<path d=\"M12 3l10 9h-3v8H5v-8H2l10-9M9.22 8.93c-.47.47-.72 1.1-.72 1.82c0 1.68 2.04 2.32 3.26 2.71c1.5.47 1.71.75 1.74.79c0 .75-1.35.75-1.5.75c-.63 0-.97-.12-1.14-.22c-.19-.11-.36-.28-.36-.78h-2c0 1.43.74 2.16 1.35 2.5c.33.2.72.34 1.15.42V18h2v-1.09c1.53-.3 2.5-1.29 2.5-2.66c0-1.58-1.62-2.22-3.14-2.7c-1.56-.49-1.83-.78-1.86-.8c0-.25.07-.34.14-.41c.21-.21.72-.34 1.36-.34c.68 0 1.5.13 1.5.75h2c0-1.41-.94-2.38-2.5-2.66V7h-2v1.08c-.74.13-1.35.42-1.78.85z\" fill=\"currentColor\"/>",
@@ -22527,7 +22533,7 @@
 			"parent": "text-account"
 		},
 		"birthday-cake": {
-			"parent": "cake-variant"
+			"parent": "cake"
 		},
 		"birthday-cake-outline": {
 			"parent": "cake-variant-outline"
@@ -22857,7 +22863,7 @@
 			"parent": "archive-alert-outline"
 		},
 		"box-arrow-down": {
-			"parent": "archive-arrow-down-outline"
+			"parent": "archive-arrow-down"
 		},
 		"box-arrow-up": {
 			"parent": "archive-arrow-up"
@@ -23418,7 +23424,7 @@
 			"parent": "close-box"
 		},
 		"cancel-box-multiple": {
-			"parent": "close-box-multiple-outline"
+			"parent": "close-box-multiple"
 		},
 		"cancel-box-outline": {
 			"parent": "close-box-outline"
@@ -24270,7 +24276,7 @@
 			"parent": "update"
 		},
 		"clock-warning": {
-			"parent": "clock-alert-outline"
+			"parent": "clock-alert"
 		},
 		"clockwise": {
 			"parent": "update"
@@ -24678,7 +24684,7 @@
 			"parent": "cookie-settings-outline"
 		},
 		"couch": {
-			"parent": "sofa-single"
+			"parent": "sofa"
 		},
 		"couch-outline": {
 			"parent": "sofa-outline"
@@ -24852,7 +24858,7 @@
 			"parent": "silverware-variant"
 		},
 		"cycling": {
-			"parent": "bike"
+			"parent": "bicycle"
 		},
 		"dad": {
 			"parent": "human-male-girl"
@@ -24996,7 +25002,7 @@
 			"parent": "cancel"
 		},
 		"dentist": {
-			"parent": "toothbrush-paste"
+			"parent": "toothbrush"
 		},
 		"departure-board": {
 			"parent": "bus-clock"
@@ -26184,7 +26190,7 @@
 			"parent": "map-marker-circle"
 		},
 		"extension": {
-			"parent": "toy-brick-search"
+			"parent": "toy-brick"
 		},
 		"extension-outline": {
 			"parent": "toy-brick-marker-outline"
@@ -28107,19 +28113,19 @@
 			"parent": "home-thermometer-outline"
 		},
 		"home-electricity": {
-			"parent": "home-lightning-bolt-outline"
+			"parent": "home-lightning-bolt"
 		},
 		"home-electricity-outline": {
 			"parent": "home-battery-outline"
 		},
 		"home-energy": {
-			"parent": "home-lightning-bolt-outline"
+			"parent": "home-lightning-bolt"
 		},
 		"home-energy-outline": {
 			"parent": "home-battery-outline"
 		},
 		"home-flash": {
-			"parent": "home-lightning-bolt-outline"
+			"parent": "home-lightning-bolt"
 		},
 		"home-floor-attic": {
 			"parent": "home-floor-a"
@@ -28170,7 +28176,7 @@
 			"parent": "home-map-marker"
 		},
 		"home-power": {
-			"parent": "home-lightning-bolt-outline"
+			"parent": "home-lightning-bolt"
 		},
 		"home-power-outline": {
 			"parent": "home-battery-outline"
@@ -28818,7 +28824,7 @@
 			"parent": "export-variant"
 		},
 		"irrigation": {
-			"parent": "sprinkler-variant"
+			"parent": "sprinkler"
 		},
 		"islam": {
 			"parent": "star-crescent"
@@ -29058,7 +29064,7 @@
 			"parent": "scale-balance"
 		},
 		"lego": {
-			"parent": "toy-brick-search"
+			"parent": "toy-brick"
 		},
 		"lego-location": {
 			"parent": "toy-brick-marker"
@@ -30144,7 +30150,7 @@
 			"parent": "ruler-square-compass"
 		},
 		"material": {
-			"parent": "palette-swatch"
+			"parent": "palette-swatch-variant"
 		},
 		"math-compass-variant": {
 			"parent": "android-studio"
@@ -30498,7 +30504,7 @@
 			"parent": "monitor-small"
 		},
 		"monitor-download": {
-			"parent": "monitor-arrow-down"
+			"parent": "monitor-arrow-down-variant"
 		},
 		"monitor-favorite": {
 			"parent": "monitor-star"
@@ -31431,7 +31437,7 @@
 			"parent": "ocr"
 		},
 		"oral-hygiene": {
-			"parent": "toothbrush-paste"
+			"parent": "toothbrush"
 		},
 		"order-checkbox-ascending": {
 			"parent": "order-bool-ascending-variant"
@@ -32322,7 +32328,7 @@
 			"parent": "notebook-outline"
 		},
 		"plant": {
-			"parent": "tree"
+			"parent": "tree-outline"
 		},
 		"plant-outline": {
 			"parent": "sprout-outline"
@@ -32394,7 +32400,7 @@
 			"parent": "power-socket-us"
 		},
 		"plugin": {
-			"parent": "toy-brick-search"
+			"parent": "toy-brick"
 		},
 		"plugin-outline": {
 			"parent": "toy-brick-marker-outline"
@@ -33024,7 +33030,7 @@
 			"parent": "close-box"
 		},
 		"remove-box-multiple": {
-			"parent": "close-box-multiple-outline"
+			"parent": "close-box-multiple"
 		},
 		"remove-box-outline": {
 			"parent": "close-box-outline"
@@ -34365,10 +34371,10 @@
 			"parent": "sun-compass"
 		},
 		"solar-electricity": {
-			"parent": "solar-panel"
+			"parent": "solar-power"
 		},
 		"solar-energy": {
-			"parent": "solar-panel"
+			"parent": "solar-power"
 		},
 		"solar-panel-electricity": {
 			"parent": "solar-panel-large"
@@ -34776,7 +34782,7 @@
 			"parent": "baby-carriage-off"
 		},
 		"style": {
-			"parent": "palette-swatch"
+			"parent": "palette-swatch-variant"
 		},
 		"style-outline": {
 			"parent": "palette-swatch-outline"
@@ -36450,7 +36456,7 @@
 			"parent": "air-filter"
 		},
 		"water-flow": {
-			"parent": "waves-arrow-left"
+			"parent": "waves-arrow-right"
 		},
 		"water-heater": {
 			"parent": "water-boiler"
@@ -43687,7 +43693,9 @@
 		"f1a0e": "fruit-pear",
 		"f1a0f": "raw",
 		"f1a10": "raw-off",
-		"f1a11": "wall-fire"
+		"f1a11": "wall-fire",
+		"f1a12": "home-clock",
+		"f1a13": "home-clock-outline"
 	},
 	"categories": {
 		"Account / User": [

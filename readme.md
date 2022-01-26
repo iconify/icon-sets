@@ -1,18 +1,25 @@
 # Iconify icons collection in JSON format
 
-This is collection of SVG icons created by various authors, released under various free licenses. Some collections require attribution when used for commercial purposes. See [collections.md](./collections.md) for list of collections and their licenses.
+This is collection of SVG icons created by various authors, released under various open source licenses. Some collections require attribution when used for commercial purposes. See [collections.md](./collections.md) for list of collections and their licenses.
 
 All SVG icons have been cleaned up. Content has been optimized, colors for monotone icons have been replaced with currentColor, ready to be inserted in HTML. Tools used for creating this collection are available on [Iconify GitHub repository](https://github.com/iconify), more specifically [@iconify/tools](https://github.com/iconify/tools). You can use it to create your own JSON packages from custom icon sets.
 
-This library is intended to be used in packages that build components, such as [Iconify Tools](https://github.com/iconify/tools) and [Iconify React](https://github.com/iconify/iconify-react).
+This library is intended to be used in packages that generate icons. See [Iconify icon sets documentation](https://docs.iconify.design/icons/all.html).
 
-Repository is updated 3 times a week by fully automated script, so it always contains latest icons from various sources.
+## Archive
 
+This branch is archived version 1, which is no longer maintained.
+
+See `master` branch for updated version.
+
+Difference from updated version is:
+
+- In new version `collections.json` uses slightly different format, see [IconifyInfo type documentation](https://docs.iconify.design/types/iconify-json-metadata.html).
+- In new version Node.js functions are asynchronous.
 
 ## How to get this repository
 
 Instructions below are for Node.js and PHP projects.
-
 
 #### Node.js
 
@@ -27,12 +34,11 @@ Icons will be available in node_modules/@iconify/json
 To resolve filename for any json file, use this:
 
 ```js
-const icons = require('@iconify/json');
+const icons = require("@iconify/json");
 
-// returns location of fa.json
-let fa = icons.locate('fa');
+// returns location of mdi.json
+let fa = icons.locate("mdi");
 ```
-
 
 #### PHP
 
@@ -61,18 +67,16 @@ To resolve filename for any json file, use this:
 
 ```php
 // returns location of fa.json
-$fa = \Iconify\IconsJSON\Finder::locate('fa');
+$fa = \Iconify\IconsJSON\Finder::locate('mdi');
 ```
-
 
 ## Format
 
 Icons used by Iconify are in directory json, in Iconify JSON format.
 
-Why JSON instead of SVG? To load images in bulk. 
+Why JSON instead of SVG? To load images in bulk.
 
 If you need individual SVG images, you can generate them using Iconify JSON Tools. See instructions for [PHP version](https://github.com/iconify/json-tools.php) or [Node.js version](https://github.com/iconify/json-tools.js).
-
 
 Format of json file is very simple:
 
@@ -98,37 +102,40 @@ Format of json file is very simple:
 "icons" object contains list of all icons.
 
 Each icon has following properties:
-* body - icon body
-* width - width in pixels
-* height - height in pixels
-* rotate - rotation. Default = 0. Values: 0 = 0deg, 1 = 90deg, 2 = 180deg, 3 = 270deg
-* hFlip - horizontal flip. Boolean value, default = false
-* vFlip - vertical flip. Boolean value, default = false
-* hidden - If set to true, icon is hidden. That means icon was removed from collection for some reason, but it is kept in JSON file to prevent applications that rely on old icon from breaking
+
+- body - icon body
+- width - width in pixels
+- height - height in pixels
+- rotate - rotation. Default = 0. Values: 0 = 0deg, 1 = 90deg, 2 = 180deg, 3 = 270deg
+- hFlip - horizontal flip. Boolean value, default = false
+- vFlip - vertical flip. Boolean value, default = false
+- hidden - If set to true, icon is hidden. That means icon was removed from collection for some reason, but it is kept in JSON file to prevent applications that rely on old icon from breaking
 
 Width or height might be missing. If icon does not have width or height, use default width or height from root object.
 rotate, hFlip and vFlip are all optional.
 
 Optional "aliases" object contains list of aliases for icons. Format is similar to "icons" object, with additional property "parent" that points to parent icon. Any other properties overwrite properties of parent icon.
 
-For more information see developer documentation on [https://iconify.design/docs/json-icon-format/](https://iconify.design/docs/json-icon-format/)
-
+For more information see developer documentation on [IconifyJSON documentation](https://docs.iconify.design/types/iconify-json.html)
 
 ## Extracting individual SVG icons
 
 See JSON tools readme for instructions for [PHP](https://github.com/iconify/json-tools.php) or [Node.js](https://github.com/iconify/json-tools.js).
 
 ```js
-const fs = require('fs');
-const {SVG, Collection} = require('@iconify/json-tools');
+const fs = require("fs");
+const { SVG, Collection } = require("@iconify/json-tools");
 
 let collection = new Collection();
-collection.loadIconifyCollection('mdi');
-collection.listIcons(true).forEach(icon => {
-    let svg = new SVG(collection.getIconData(icon));
-    fs.writeFileSync('mdi-' + icon + '.svg', svg.getSVG({
-        height: 'auto'
-    }));
+collection.loadIconifyCollection("mdi");
+collection.listIcons(true).forEach((icon) => {
+  let svg = new SVG(collection.getIconData(icon));
+  fs.writeFileSync(
+    "mdi-" + icon + ".svg",
+    svg.getSVG({
+      height: "auto",
+    })
+  );
 });
 ```
 
@@ -145,7 +152,6 @@ foreach ($collection->listIcons(true) as $icon) {
     ]));
 }
 ```
-
 
 ## License
 

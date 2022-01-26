@@ -2,7 +2,7 @@
 	"prefix": "codicon",
 	"info": {
 		"name": "Codicons",
-		"total": 388,
+		"total": 398,
 		"author": {
 			"name": "Microsoft Corporation",
 			"url": "https://github.com/microsoft/vscode-codicons"
@@ -622,6 +622,36 @@
 			"body": "<g fill=\"currentColor\"><path d=\"M1 0L0 1v11l1 1h4l1-1V1L5 0H1zm0 12V1h4v11H1z\"/><path d=\"M7 1l1-1h4l1 1v4l-1 1H8L7 5V1zm1 0v4h4V1H8z\"/><path d=\"M7 8l1-1h4l1 1v4l-1 1H8l-1-1V8zm1 0v4h4V8H8z\"/></g>",
 			"width": 13,
 			"height": 13
+		},
+		"layout-activitybar-left": {
+			"body": "<g fill=\"currentColor\"><path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M2 1L1 2v12l1 1h12l1-1V2l-1-1H2zm12 13H4V2h10v12z\"/></g>"
+		},
+		"layout-activitybar-right": {
+			"body": "<g fill=\"currentColor\"><path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M2 1L1 2v12l1 1h12l1-1V2l-1-1H2zm0 13V2h10v12H2z\"/></g>"
+		},
+		"layout-panel": {
+			"body": "<g fill=\"currentColor\"><path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M2 1L1 2v12l1 1h12l1-1V2l-1-1H2zm0 9V2h12v8H2z\"/></g>"
+		},
+		"layout-panel-center": {
+			"body": "<g fill=\"currentColor\"><path d=\"M2 1L1 2v12l1 1h12l1-1V2l-1-1H2zm0 13V2h2v12H2zm3-4V2h6v8H5zm7-8h2v12h-2V2z\"/></g>"
+		},
+		"layout-panel-justify": {
+			"body": "<g fill=\"currentColor\"><path d=\"M2 1L1 2v12l1 1h12l1-1V2l-1-1H2zm0 9V2h2v8H2zm3 0V2h6v8H5zm7 0V2h2v8h-2z\"/></g>"
+		},
+		"layout-panel-left": {
+			"body": "<g fill=\"currentColor\"><path d=\"M1 2l1-1h12l1 1v12l-1 1H2l-1-1V2zm1 0v8h8V2H2zm9 0v12h3V2h-3z\"/></g>"
+		},
+		"layout-panel-right": {
+			"body": "<g fill=\"currentColor\"><path d=\"M1 2l1-1h12l1 1v12l-1 1H2l-1-1V2zm1 0v12h3V2H2zm4 0v8h8V2H6z\"/></g>"
+		},
+		"layout-sidebar-left": {
+			"body": "<g fill=\"currentColor\"><path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M2 1L1 2v12l1 1h12l1-1V2l-1-1H2zm12 13H7V2h7v12z\"/></g>"
+		},
+		"layout-sidebar-right": {
+			"body": "<g fill=\"currentColor\"><path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M2 1L1 2v12l1 1h12l1-1V2l-1-1H2zm0 13V2h7v12H2z\"/></g>"
+		},
+		"layout-statusbar": {
+			"body": "<g fill=\"currentColor\"><path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M2 1L1 2v12l1 1h12l1-1V2l-1-1H2zm0 11V2h12v10H2z\"/></g>"
 		},
 		"library": {
 			"body": "<g fill=\"currentColor\"><path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M5 2.5l.5-.5h2l.5.5v11l-.5.5h-2l-.5-.5v-11zM6 3v10h1V3H6zm3.171.345l.299-.641l1.88-.684l.64.299l3.762 10.336l-.299.641l-1.879.684l-.64-.299L9.17 3.345zm1.11.128l3.42 9.396l.94-.341l-3.42-9.397l-.94.342zM1 2.5l.5-.5h2l.5.5v11l-.5.5h-2l-.5-.5v-11zM2 3v10h1V3H2z\"/></g>"

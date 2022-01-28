@@ -2,7 +2,7 @@
 	"prefix": "codicon",
 	"info": {
 		"name": "Codicons",
-		"total": 398,
+		"total": 401,
 		"author": {
 			"name": "Microsoft Corporation",
 			"url": "https://github.com/microsoft/vscode-codicons"
@@ -629,6 +629,12 @@
 		"layout-activitybar-right": {
 			"body": "<g fill=\"currentColor\"><path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M2 1L1 2v12l1 1h12l1-1V2l-1-1H2zm0 13V2h10v12H2z\"/></g>"
 		},
+		"layout-centered": {
+			"body": "<g fill=\"currentColor\"><path d=\"M2 1L1 2v12l1 1h12l1-1V2l-1-1H2zm0 13V2h4v12H2zm8 0V2h4v12h-4z\"/></g>"
+		},
+		"layout-menubar": {
+			"body": "<g fill=\"currentColor\"><path d=\"M6 3H3v1h3V3z\"/><path d=\"M3 5h3v1H3V5z\"/><path d=\"M6 7H3v1h3V7z\"/><path d=\"M2 1L1 2v12l1 1h12l1-1V2l-1-1H2zm0 13V2h12v12H2z\"/></g>"
+		},
 		"layout-panel": {
 			"body": "<g fill=\"currentColor\"><path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M2 1L1 2v12l1 1h12l1-1V2l-1-1H2zm0 9V2h12v8H2z\"/></g>"
 		},
@@ -1112,6 +1118,9 @@
 		},
 		"tag": {
 			"body": "<g fill=\"currentColor\"><path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M13.2 2H8.017l-.353.146L1 8.81v.707L6.183 14.7h.707l2.215-2.215A4.48 4.48 0 0 0 15.65 9c.027-.166.044-.332.051-.5a4.505 4.505 0 0 0-2-3.74V2.5l-.5-.5zm-.5 2.259A4.504 4.504 0 0 0 11.2 4a.5.5 0 1 0 0 1a3.5 3.5 0 0 1 1.5.338v2.138L8.775 11.4a.506.506 0 0 0-.217.217l-2.022 2.022l-4.475-4.476L8.224 3H12.7v1.259zm1 1.792a3.5 3.5 0 0 1 1 2.449a3.438 3.438 0 0 1-.051.5a3.487 3.487 0 0 1-4.793 2.735l3.698-3.698l.146-.354V6.051z\"/></g>"
+		},
+		"target": {
+			"body": "<g fill=\"currentColor\"><path d=\"M8 9a1 1 0 1 0 0-2a1 1 0 0 0 0 2z\"/><path d=\"M12 8a4 4 0 1 1-8 0a4 4 0 0 1 8 0zm-4 3a3 3 0 1 0 0-6a3 3 0 0 0 0 6z\"/><path d=\"M15 8A7 7 0 1 1 1 8a7 7 0 0 1 14 0zm-7 6A6 6 0 1 0 8 2a6 6 0 0 0 0 12z\"/></g>"
 		},
 		"tasklist": {
 			"body": "<g fill=\"currentColor\"><path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M3.57 6.699l5.693-4.936L8.585 1L3.273 5.596l-1.51-1.832L1 4.442l1.85 2.214l.72.043zM15 5H6.824l2.307-2H15v2zM6 7h9v2H6V7zm9 4H6v2h9v-2z\"/></g>"

@@ -326,7 +326,7 @@
 
 
 ### Codicons
-* Number of icons: 398
+* Number of icons: 401
 * Author: Microsoft Corporation
 * URL: https://github.com/microsoft/vscode-codicons
 * License: CC BY 4.0
@@ -344,7 +344,7 @@
 
 
 ### Lucide
-* Number of icons: 540
+* Number of icons: 542
 * Author: Lucide Contributors
 * URL: https://github.com/lucide-icons/lucide
 * License: ISC

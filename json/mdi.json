@@ -2,7 +2,7 @@
 	"prefix": "mdi",
 	"info": {
 		"name": "Material Design Icons",
-		"total": 6675,
+		"total": 6682,
 		"author": {
 			"name": "Austin Andrews",
 			"url": "https://github.com/Templarian/MaterialDesign"
@@ -3895,6 +3895,12 @@
 		},
 		"camera-iris": {
 			"body": "<path d=\"M13.73 15l-3.9 6.76a9.984 9.984 0 0 0 8.49-2.01l-3.66-6.35M2.46 15c.92 2.92 3.15 5.26 5.99 6.34L12.12 15m-3.58-3l-3.9-6.75A9.855 9.855 0 0 0 2 12c0 .68.07 1.35.2 2h7.49m12.11-4h-7.49l.29.5l4.76 8.25A9.93 9.93 0 0 0 22 12c0-.69-.07-1.36-.2-2m-.26-1c-.92-2.93-3.15-5.26-5.99-6.34L11.88 9M9.4 10.5l4.77-8.26C13.47 2.09 12.75 2 12 2c-2.4 0-4.6.84-6.32 2.25l3.66 6.35l.06-.1z\" fill=\"currentColor\"/>"
+		},
+		"camera-lock": {
+			"body": "<path d=\"M4 4h3l2-2h6l2 2h3c1.11 0 2 .89 2 2v6c-.84-.63-1.87-1-3-1c-.79 0-1.54.18-2.21.5C16.18 9.22 14.27 7 12 7c-2.76 0-5 2.24-5 5s2.24 5 5 5c.42 0 .84-.05 1.23-.15c-.15.35-.23.74-.23 1.15v2H4a2 2 0 0 1-2-2V6a2 2 0 0 1 2-2m8 5c1.66 0 3 1.34 3 3s-1.34 3-3 3s-3-1.34-3-3s1.34-3 3-3m11 9.3v3.5c0 .6-.6 1.2-1.3 1.2h-5.5c-.6 0-1.2-.6-1.2-1.3v-3.5c0-.6.6-1.2 1.2-1.2v-1.5c0-1.4 1.4-2.5 2.8-2.5s2.8 1.1 2.8 2.5V17c.6 0 1.2.6 1.2 1.3m-2.5-2.8c0-.8-.7-1.3-1.5-1.3s-1.5.5-1.5 1.3V17h3v-1.5z\" fill=\"currentColor\"/>"
+		},
+		"camera-lock-outline": {
+			"body": "<path d=\"M23 18.3v3.5c0 .6-.6 1.2-1.3 1.2h-5.5c-.6 0-1.2-.6-1.2-1.3v-3.5c0-.6.6-1.2 1.2-1.2v-1.5c0-1.4 1.4-2.5 2.8-2.5s2.8 1.1 2.8 2.5V17c.6 0 1.2.6 1.2 1.3m-2.5-2.8c0-.8-.7-1.3-1.5-1.3s-1.5.5-1.5 1.3V17h3v-1.5M20 4c1.1 0 2 .9 2 2v6c-.58-.44-1.26-.75-2-.9V6h-4.05l-1.83-2H9.88L8.05 6H4v12h9v2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2h3.17L9 2h6l1.83 2H20m-8 3a5.01 5.01 0 0 1 4.97 4.43c-1.68.75-2.87 2.4-2.97 4.33c-.33.3-.6.67-.77 1.09c-.39.1-.81.15-1.23.15c-2.76 0-5-2.24-5-5s2.24-5 5-5m0 8c1.65 0 3-1.35 3-3s-1.35-3-3-3s-3 1.35-3 3s1.35 3 3 3z\" fill=\"currentColor\"/>"
 		},
 		"camera-marker": {
 			"body": "<path d=\"M18.5 16.8c-.7 0-1.2-.6-1.2-1.2c0-.7.6-1.2 1.2-1.2s1.2.6 1.2 1.2c.1.6-.5 1.2-1.2 1.2m0-4.8c-1.9 0-3.5 1.6-3.5 3.5c0 2.6 3.5 6.5 3.5 6.5s3.5-3.9 3.5-6.5c0-1.9-1.6-3.5-3.5-3.5M9 2L7 4H4c-1.1 0-2 .9-2 2v12c0 1.1.9 2 2 2h10.5c-.6-.9-1.1-1.9-1.4-3.1c-.3.1-.7.1-1.1.1c-2.8 0-5-2.2-5-5s2.2-5 5-5c2.1 0 4 1.3 4.7 3.3c.6-.2 1.2-.3 1.8-.3c1.3 0 2.5.5 3.5 1.3V6c0-1.1-.9-2-2-2h-3l-2-2H9m2.9 7C10.3 9 9 10.4 9 12c0 1.7 1.3 3 3 3c.4 0 .7-.1 1-.2c.2-1.4.9-2.6 1.9-3.5c-.3-1.3-1.5-2.3-3-2.3c.1 0 .1 0 0 0z\" fill=\"currentColor\"/>"
@@ -15074,6 +15080,18 @@
 		"play-box": {
 			"body": "<path d=\"M19 3H5c-1.11 0-2 .89-2 2v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2V5a2 2 0 0 0-2-2m-9 13V8l5 4\" fill=\"currentColor\"/>"
 		},
+		"play-box-lock": {
+			"body": "<path d=\"M23 17.3v3.5c0 .6-.6 1.2-1.3 1.2h-5.5c-.6 0-1.2-.6-1.2-1.3v-3.5c0-.6.6-1.2 1.2-1.2v-1.5c0-1.4 1.4-2.5 2.8-2.5s2.8 1.1 2.8 2.5V16c.6 0 1.2.6 1.2 1.3M13 19v2H4a2 2 0 0 1-2-2V5c0-1.11.89-2 2-2h14a2 2 0 0 1 2 2v5.1l-1-.1l-1 .1a5.019 5.019 0 0 0-4 4.66c-.61.55-1 1.35-1 2.24v2m7.5-4.5c0-.8-.7-1.3-1.5-1.3s-1.5.5-1.5 1.3V16h3v-1.5M9 8v8l5-4l-5-4z\" fill=\"currentColor\"/>"
+		},
+		"play-box-lock-open": {
+			"body": "<path d=\"M23 17.3v3.5c0 .6-.6 1.2-1.3 1.2h-5.5c-.6 0-1.2-.6-1.2-1.3v-3.5c0-.6.6-1.2 1.2-1.2v-2.5c0-1.4 1.4-2.5 2.8-2.5s2.8 1.1 2.8 2.5v.5h-1.3v-.5c0-.8-.7-1.3-1.5-1.3s-1.5.5-1.5 1.3V16h4.3c.6 0 1.2.6 1.2 1.3M9 8v8l5-4l-5-4m4 11v2H4a2 2 0 0 1-2-2V5c0-1.11.89-2 2-2h14a2 2 0 0 1 2 2v4.1L19 9c-2.76 0-5 2.24-5 5v.76c-.61.55-1 1.35-1 2.24v2z\" fill=\"currentColor\"/>"
+		},
+		"play-box-lock-open-outline": {
+			"body": "<path d=\"M23 17.3v3.5c0 .6-.6 1.2-1.3 1.2h-5.5c-.6 0-1.2-.6-1.2-1.3v-3.5c0-.6.6-1.2 1.2-1.2v-2.5c0-1.4 1.4-2.5 2.8-2.5s2.8 1.1 2.8 2.5v.5h-1.3v-.5c0-.8-.7-1.3-1.5-1.3s-1.5.5-1.5 1.3V16h4.3c.6 0 1.2.6 1.2 1.3M18 5H4v14h9v2H4a2 2 0 0 1-2-2V5c0-1.11.89-2 2-2h14a2 2 0 0 1 2 2v4.1L19 9l-1 .1V5M9 8l5 4l-5 4V8z\" fill=\"currentColor\"/>"
+		},
+		"play-box-lock-outline": {
+			"body": "<path d=\"M23 17.3v3.5c0 .6-.6 1.2-1.3 1.2h-5.5c-.6 0-1.2-.6-1.2-1.3v-3.5c0-.6.6-1.2 1.2-1.2v-1.5c0-1.4 1.4-2.5 2.8-2.5s2.8 1.1 2.8 2.5V16c.6 0 1.2.6 1.2 1.3m-2.5-2.8c0-.8-.7-1.3-1.5-1.3s-1.5.5-1.5 1.3V16h3v-1.5M18 5H4v14h9v2H4a2 2 0 0 1-2-2V5c0-1.11.89-2 2-2h14a2 2 0 0 1 2 2v5.1l-1-.1l-1 .1V5M9 8l5 4l-5 4V8z\" fill=\"currentColor\"/>"
+		},
 		"play-box-multiple": {
 			"body": "<path d=\"M4 6H2v14a2 2 0 0 0 2 2h14v-2H4V6m16-4H8a2 2 0 0 0-2 2v12a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V4a2 2 0 0 0-2-2m-8 12.5v-9l6 4.5l-6 4.5z\" fill=\"currentColor\"/>"
 		},
@@ -16113,6 +16131,9 @@
 		},
 		"robot-industrial": {
 			"body": "<path d=\"M18.41 4L16 6.41v.18L18.41 9H22v2h-4.41L16 9.41V12h-1a2 2 0 0 1-2-2V7.5H9.86c-.09.37-.24.72-.44 1.05L15.18 19H20a2 2 0 0 1 2 2v1H2v-1a2 2 0 0 1 2-2h6.61l-4.69-8.5a4.006 4.006 0 0 1-3.81-3A4 4 0 0 1 5 2.63c2.13-.55 4.31.73 4.86 2.87H13V3a2 2 0 0 1 2-2h1v2.59L17.59 2H22v2h-3.59M6 4.5a2 2 0 0 0-2 2a2 2 0 0 0 2 2a2 2 0 0 0 2-2a2 2 0 0 0-2-2z\" fill=\"currentColor\"/>"
+		},
+		"robot-industrial-outline": {
+			"body": "<path d=\"M4 19h4.6L2.62 8.64C2.23 8 2 7.29 2 6.5a3.999 3.999 0 0 1 7.87-1H14V3c0-1.1.9-2 2-2v2.59L17.59 2H22v2h-3.59L16 6.41v.18L18.41 9H22v2h-4.41L16 9.41V12a2 2 0 0 1-2-2V7.5H9.87c-.1.39-.26.76-.46 1.1l6 10.4H20a2 2 0 0 1 2 2v1H2v-1c0-1.1.9-2 2-2m3.91-9c-.56.32-1.21.5-1.91.5l4.91 8.5h2.19l-5.19-9M6 4.5a2 2 0 0 0-2 2c0 1.11.89 2 2 2c1.11 0 2-.89 2-2a2 2 0 0 0-2-2z\" fill=\"currentColor\"/>"
 		},
 		"robot-love": {
 			"body": "<path d=\"M22 14h-1c0-3.87-3.13-7-7-7h-1V5.73A2 2 0 1 0 10 4c0 .74.4 1.39 1 1.73V7h-1c-3.87 0-7 3.13-7 7H2c-.55 0-1 .45-1 1v3c0 .55.45 1 1 1h1v1a2 2 0 0 0 2 2h14c1.11 0 2-.89 2-2v-1h1c.55 0 1-.45 1-1v-3c0-.55-.45-1-1-1M9.7 15.45l-.73.73l-1.47 1.47l-2.2-2.2c-.4-.4-.4-1.06 0-1.45c.41-.42 1.06-.42 1.47 0l.73.72l.73-.72c.41-.42 1.06-.42 1.47 0c.4.39.4 1.05 0 1.45m9 0l-.73.73l-1.47 1.47l-2.2-2.2c-.4-.4-.4-1.06 0-1.45c.41-.42 1.06-.42 1.47 0l.73.72l.73-.72c.41-.42 1.06-.42 1.47 0c.4.39.4 1.05 0 1.45z\" fill=\"currentColor\"/>"
@@ -21837,10 +21858,10 @@
 			"parent": "application-import"
 		},
 		"approval": {
-			"parent": "check-decagram-outline"
+			"parent": "check-decagram"
 		},
 		"approve": {
-			"parent": "check-decagram-outline"
+			"parent": "check-decagram"
 		},
 		"aquarium": {
 			"parent": "fishbowl"
@@ -22164,7 +22185,7 @@
 			"parent": "paperclip"
 		},
 		"audio": {
-			"parent": "volume-medium"
+			"parent": "volume-low"
 		},
 		"audio-book": {
 			"parent": "book-music"
@@ -22299,7 +22320,7 @@
 			"parent": "bank-plus"
 		},
 		"bar": {
-			"parent": "glass-tulip"
+			"parent": "glass-wine"
 		},
 		"bar-chart": {
 			"parent": "poll"
@@ -22533,7 +22554,7 @@
 			"parent": "text-account"
 		},
 		"birthday-cake": {
-			"parent": "cake"
+			"parent": "cake-variant"
 		},
 		"birthday-cake-outline": {
 			"parent": "cake-variant-outline"
@@ -24342,7 +24363,7 @@
 			"parent": "spider-web"
 		},
 		"cocktail": {
-			"parent": "glass-tulip"
+			"parent": "glass-wine"
 		},
 		"cod": {
 			"parent": "credit-card-marker-outline"
@@ -24687,7 +24708,7 @@
 			"parent": "sofa"
 		},
 		"couch-outline": {
-			"parent": "sofa-outline"
+			"parent": "sofa-single-outline"
 		},
 		"counterclockwise": {
 			"parent": "history"
@@ -24858,7 +24879,7 @@
 			"parent": "silverware-variant"
 		},
 		"cycling": {
-			"parent": "bicycle"
+			"parent": "bike"
 		},
 		"dad": {
 			"parent": "human-male-girl"
@@ -25260,7 +25281,7 @@
 			"parent": "curtains-closed"
 		},
 		"drink": {
-			"parent": "glass-tulip"
+			"parent": "glass-wine"
 		},
 		"drink-ice": {
 			"parent": "delete-variant"
@@ -30150,7 +30171,7 @@
 			"parent": "ruler-square-compass"
 		},
 		"material": {
-			"parent": "palette-swatch-variant"
+			"parent": "palette-swatch"
 		},
 		"math-compass-variant": {
 			"parent": "android-studio"
@@ -30504,7 +30525,7 @@
 			"parent": "monitor-small"
 		},
 		"monitor-download": {
-			"parent": "monitor-arrow-down-variant"
+			"parent": "monitor-arrow-down"
 		},
 		"monitor-favorite": {
 			"parent": "monitor-star"
@@ -31521,7 +31542,7 @@
 			"parent": "palette-swatch-outline"
 		},
 		"paintbrush": {
-			"parent": "brush-variant"
+			"parent": "brush"
 		},
 		"pan-down-left": {
 			"parent": "pan-bottom-left"
@@ -32328,7 +32349,7 @@
 			"parent": "notebook-outline"
 		},
 		"plant": {
-			"parent": "tree-outline"
+			"parent": "tree"
 		},
 		"plant-outline": {
 			"parent": "sprout-outline"
@@ -33750,7 +33771,7 @@
 			"parent": "store-cog-outline"
 		},
 		"shop-complete": {
-			"parent": "store-check"
+			"parent": "store-check-outline"
 		},
 		"shop-delete": {
 			"parent": "store-remove"
@@ -34479,7 +34500,7 @@
 			"parent": "radius-outline"
 		},
 		"spicy": {
-			"parent": "chili-mild"
+			"parent": "chili-hot"
 		},
 		"spicy-off": {
 			"parent": "chili-off"
@@ -34782,7 +34803,7 @@
 			"parent": "baby-carriage-off"
 		},
 		"style": {
-			"parent": "palette-swatch-variant"
+			"parent": "palette-swatch"
 		},
 		"style-outline": {
 			"parent": "palette-swatch-outline"
@@ -35172,7 +35193,7 @@
 			"parent": "thermometer-chevron-up"
 		},
 		"temperature-decrease": {
-			"parent": "thermometer-minus"
+			"parent": "thermometer-chevron-down"
 		},
 		"temperature-high": {
 			"parent": "thermometer-high"
@@ -35271,7 +35292,7 @@
 			"parent": "thermometer-plus"
 		},
 		"thermometer-decrease": {
-			"parent": "thermometer-minus"
+			"parent": "thermometer-chevron-down"
 		},
 		"thermometer-increase": {
 			"parent": "thermometer-plus"
@@ -43695,7 +43716,14 @@
 		"f1a10": "raw-off",
 		"f1a11": "wall-fire",
 		"f1a12": "home-clock",
-		"f1a13": "home-clock-outline"
+		"f1a13": "home-clock-outline",
+		"f1a14": "camera-lock",
+		"f1a15": "camera-lock-outline",
+		"f1a16": "play-box-lock",
+		"f1a17": "play-box-lock-open",
+		"f1a18": "play-box-lock-open-outline",
+		"f1a19": "play-box-lock-outline",
+		"f1a1a": "robot-industrial-outline"
 	},
 	"categories": {
 		"Account / User": [
@@ -48114,6 +48142,8 @@
 			"camera-gopro",
 			"camera-image",
 			"camera-iris",
+			"camera-lock",
+			"camera-lock-outline",
 			"camera-marker",
 			"camera-marker-outline",
 			"camera-metering-center",

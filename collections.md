@@ -3,7 +3,7 @@
 
 
 ### Material Design Icons
-* Number of icons: 6682
+* Number of icons: 6686
 * Author: Austin Andrews
 * URL: https://github.com/Templarian/MaterialDesign
 * License: Open Font License
@@ -129,12 +129,12 @@
 * URL: https://github.com/twbs/icons
 * License: MIT
 * License URL: https://github.com/twbs/icons/blob/master/LICENSE.md
-* Version: 1.7.2
+* Version: 1.8.0
 * Palette: Colorless
 
 
 ### Clarity
-* Number of icons: 1099
+* Number of icons: 1101
 * Author: VMware
 * URL: https://github.com/vmware/clarity
 * License: MIT
@@ -640,12 +640,12 @@
 
 
 ### Fluent UI System Icons
-* Number of icons: 10082
+* Number of icons: 10070
 * Author: Microsoft Corporation
 * URL: https://github.com/microsoft/fluentui-system-icons
 * License: MIT
 * License URL: https://github.com/microsoft/fluentui-system-icons/blob/master/LICENSE
-* Version: 1.1.158
+* Version: 1.1.159
 * Palette: Colorless
 
 

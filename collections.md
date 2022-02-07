@@ -391,7 +391,7 @@
 
 
 ### Charm Icons
-* Number of icons: 237
+* Number of icons: 244
 * Author: Jay Newey
 * URL: https://github.com/jaynewey/charm-icons
 * License: MIT
@@ -645,7 +645,7 @@
 * URL: https://github.com/microsoft/fluentui-system-icons
 * License: MIT
 * License URL: https://github.com/microsoft/fluentui-system-icons/blob/master/LICENSE
-* Version: 1.1.159
+* Version: 1.1.160
 * Palette: Colorless
 
 
@@ -665,7 +665,7 @@
 * URL: https://github.com/CyCraft/pepicons
 * License: CC BY 4.0
 * License URL: https://github.com/CyCraft/pepicons/blob/dev/LICENSE
-* Version: 1.0.9
+* Version: 1.0.12
 * Palette: Colorless
 
 
@@ -700,7 +700,7 @@
 
 
 ### VSCode Icons
-* Number of icons: 1098
+* Number of icons: 1099
 * Author: Roberto Huertas
 * URL: https://github.com/vscode-icons/vscode-icons
 * License: MIT
@@ -941,12 +941,12 @@
 
 
 ### Simple Icons
-* Number of icons: 2163
+* Number of icons: 2169
 * Author: Simple Icons Collaborators
 * URL: https://github.com/simple-icons/simple-icons
 * License: CC0 1.0
 * License URL: https://github.com/simple-icons/simple-icons/blob/develop/LICENSE.md
-* Version: 6.8.0
+* Version: 6.9.0
 * Palette: Colorless
 
 

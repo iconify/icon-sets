@@ -3,7 +3,7 @@
 
 
 ### Material Design Icons
-* Number of icons: 6686
+* Number of icons: 6689
 * Author: Austin Andrews
 * URL: https://github.com/Templarian/MaterialDesign
 * License: Open Font License
@@ -129,7 +129,7 @@
 * URL: https://github.com/twbs/icons
 * License: MIT
 * License URL: https://github.com/twbs/icons/blob/master/LICENSE.md
-* Version: 1.8.0
+* Version: 1.8.1
 * Palette: Colorless
 
 
@@ -321,7 +321,7 @@
 * URL: https://github.com/primer/octicons/
 * License: Open Font License
 * License URL: https://raw.githubusercontent.com/primer/octicons/main/LICENSE
-* Version: 16.3.0
+* Version: 16.3.1
 * Palette: Colorless
 
 
@@ -358,7 +358,7 @@
 * URL: https://github.com/element-plus/element-plus-icons
 * License: MIT
 * License URL: https://github.com/element-plus/element-plus-icons/blob/main/packages/svg/package.json
-* Version: 0.2.6
+* Version: 0.2.7
 * Palette: Colorless
 
 
@@ -373,7 +373,7 @@
 
 
 ### Radix Icons
-* Number of icons: 297
+* Number of icons: 298
 * Author: Modulz
 * URL: https://github.com/modulz/radix-icons
 * License: MIT
@@ -700,7 +700,7 @@
 
 
 ### VSCode Icons
-* Number of icons: 1099
+* Number of icons: 1100
 * Author: Roberto Huertas
 * URL: https://github.com/vscode-icons/vscode-icons
 * License: MIT

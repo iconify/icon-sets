@@ -146,7 +146,7 @@
 * Author: IBM
 * URL: https://github.com/carbon-design-system/carbon/tree/main/packages/icons
 * License: Apache 2.0
-* Version: 10.45.0
+* Version: 10.46.0-rc.0
 * Palette: Colorless
 
 
@@ -420,12 +420,12 @@
 
 
 ### Akar Icons
-* Number of icons: 389
+* Number of icons: 392
 * Author: Arturo Wibawa
 * URL: https://github.com/artcoholic/akar-icons
 * License: MIT
 * License URL: https://github.com/artcoholic/akar-icons/blob/master/LICENSE
-* Version: 1.9.6
+* Version: 1.9.8
 * Palette: Colorless
 
 
@@ -435,7 +435,7 @@
 * URL: https://github.com/uiwjs/icons
 * License: MIT
 * License URL: https://github.com/uiwjs/icons/blob/master/LICENSE
-* Version: 2.5.3
+* Version: 2.6.6
 * Palette: Colorless
 
 
@@ -700,12 +700,12 @@
 
 
 ### VSCode Icons
-* Number of icons: 1100
+* Number of icons: 1108
 * Author: Roberto Huertas
 * URL: https://github.com/vscode-icons/vscode-icons
 * License: MIT
 * License URL: https://github.com/vscode-icons/vscode-icons/blob/master/LICENSE
-* Version: 11.8.0
+* Version: 11.9.0
 * Palette: Colorful
 
 

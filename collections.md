@@ -46,7 +46,7 @@
 * Author: IBM
 * URL: https://github.com/carbon-design-system/carbon/tree/main/packages/icons
 * License: Apache 2.0
-* Version: 10.45.0
+* Version: 10.46.0
 * Palette: Colorless
 
 
@@ -474,12 +474,12 @@
 
 
 ### Codicons
-* Number of icons: 401
+* Number of icons: 402
 * Author: Microsoft Corporation
 * URL: https://github.com/microsoft/vscode-codicons
 * License: CC BY 4.0
 * License URL: https://github.com/microsoft/vscode-codicons/blob/main/LICENSE
-* Version: 0.0.27
+* Version: 0.0.28
 * Palette: Colorless
 
 
@@ -534,7 +534,7 @@
 
 
 ### Octicons
-* Number of icons: 483
+* Number of icons: 484
 * Author: GitHub
 * URL: https://github.com/primer/octicons/
 * License: Open Font License

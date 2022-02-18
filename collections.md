@@ -415,6 +415,15 @@
 * Palette: Colorless
 
 
+### Quill Icons
+* Number of icons: 140
+* Author: Casper Lourens
+* URL: https://www.figma.com/community/file/1034432054377533052/Quill-Iconset
+* License: MIT
+* License URL: https://github.com/yourtempo/tempo-quill-icons/blob/main/LICENSE
+* Palette: Colorless
+
+
 ### Gala Icons
 * Number of icons: 51
 * Author: Jake Wells
@@ -474,7 +483,7 @@
 
 
 ### Codicons
-* Number of icons: 402
+* Number of icons: 408
 * Author: Microsoft Corporation
 * URL: https://github.com/microsoft/vscode-codicons
 * License: CC BY 4.0
@@ -550,6 +559,16 @@
 * License: MIT
 * License URL: https://github.com/wikimedia/oojs-ui/blob/master/LICENSE-MIT
 * Version: 0.43.0
+* Palette: Colorless
+
+
+### Nimbus
+* Number of icons: 134
+* Author: Linkedstore S.A.
+* URL: https://github.com/TiendaNube/nimbus-icons
+* License: MIT
+* License URL: https://github.com/TiendaNube/nimbus-icons/blob/develop/LICENSE
+* Version: 0.2.5
 * Palette: Colorless
 
 
@@ -678,6 +697,15 @@
 * Palette: Colorless
 
 
+### Arcticons
+* Number of icons: 3731
+* Author: Donno
+* URL: https://github.com/Donno/Arcticons
+* License: CC BY-SA 4.0
+* License URL: https://creativecommons.org/licenses/by-sa/4.0/
+* Palette: Colorless
+
+
 ### File Icons
 * Number of icons: 930
 * Author: John Gardner
@@ -722,6 +750,16 @@
 * License: MIT
 * License URL: https://github.com/lipis/flag-icons/blob/main/LICENSE
 * Version: 6.1.1
+* Palette: Colorful
+
+
+### Circle Flags
+* Number of icons: 296
+* Author: HatScripts
+* URL: https://github.com/HatScripts/circle-flags
+* License: MIT
+* License URL: https://github.com/HatScripts/circle-flags/blob/gh-pages/LICENSE
+* Version: 1.0.0
 * Palette: Colorful
 
 

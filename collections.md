@@ -3,12 +3,12 @@
 
 
 ### Google Material Icons
-* Number of icons: 10575
+* Number of icons: 10705
 * Author: Material Design Authors
 * URL: https://github.com/material-icons/material-icons
 * License: Apache 2.0
 * License URL: https://github.com/material-icons/material-icons/blob/master/LICENSE
-* Version: 1.0.24
+* Version: 1.0.25
 * Palette: Colorless
 
 
@@ -61,12 +61,12 @@
 
 
 ### Tabler Icons
-* Number of icons: 1518
+* Number of icons: 1536
 * Author: Paweł Kuna
 * URL: https://github.com/tabler/tabler-icons
 * License: MIT
 * License URL: https://github.com/tabler/tabler-icons/blob/master/LICENSE
-* Version: 1.53.0
+* Version: 1.54.0
 * Palette: Colorless
 
 
@@ -659,7 +659,7 @@
 
 
 ### SVG Logos
-* Number of icons: 1326
+* Number of icons: 1389
 * Author: Gil Barbara
 * URL: https://github.com/gilbarbara/logos
 * License: CC0
@@ -668,12 +668,12 @@
 
 
 ### Simple Icons
-* Number of icons: 2172
+* Number of icons: 2176
 * Author: Simple Icons Collaborators
 * URL: https://github.com/simple-icons/simple-icons
 * License: CC0 1.0
 * License URL: https://github.com/simple-icons/simple-icons/blob/develop/LICENSE.md
-* Version: 6.10.0
+* Version: 6.11.0
 * Palette: Colorless
 
 

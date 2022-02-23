@@ -248,12 +248,12 @@
 
 
 ### Radix Icons
-* Number of icons: 298
+* Number of icons: 318
 * Author: Modulz
 * URL: https://github.com/modulz/radix-icons
 * License: MIT
 * License URL: https://github.com/radix-ui/icons/blob/master/LICENSE
-* Version: 1.0.3
+* Version: 1.1.0
 * Palette: Colorless
 
 

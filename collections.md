@@ -190,7 +190,7 @@
 
 
 ### Lucide
-* Number of icons: 546
+* Number of icons: 547
 * Author: Lucide Contributors
 * URL: https://github.com/lucide-icons/lucide
 * License: ISC
@@ -228,12 +228,12 @@
 
 
 ### Akar Icons
-* Number of icons: 392
+* Number of icons: 393
 * Author: Arturo Wibawa
 * URL: https://github.com/artcoholic/akar-icons
 * License: MIT
 * License URL: https://github.com/artcoholic/akar-icons/blob/master/LICENSE
-* Version: 1.9.8
+* Version: 1.9.9
 * Palette: Colorless
 
 

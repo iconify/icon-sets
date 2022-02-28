@@ -46,7 +46,7 @@
 * Author: IBM
 * URL: https://github.com/carbon-design-system/carbon/tree/main/packages/icons
 * License: Apache 2.0
-* Version: 10.46.0
+* Version: 10.47.0
 * Palette: Colorless
 
 
@@ -263,7 +263,7 @@
 * URL: https://github.com/element-plus/element-plus-icons
 * License: MIT
 * License URL: https://github.com/element-plus/element-plus-icons/blob/main/packages/svg/package.json
-* Version: 0.2.7
+* Version: 1.0.0
 * Palette: Colorless
 
 
@@ -434,12 +434,12 @@
 
 
 ### Fluent UI System Icons
-* Number of icons: 10352
+* Number of icons: 10826
 * Author: Microsoft Corporation
 * URL: https://github.com/microsoft/fluentui-system-icons
 * License: MIT
 * License URL: https://github.com/microsoft/fluentui-system-icons/blob/master/LICENSE
-* Version: 1.1.161
+* Version: 1.1.162
 * Palette: Colorless
 
 
@@ -543,7 +543,7 @@
 
 
 ### Octicons
-* Number of icons: 484
+* Number of icons: 487
 * Author: GitHub
 * URL: https://github.com/primer/octicons/
 * License: Open Font License
@@ -668,12 +668,12 @@
 
 
 ### Simple Icons
-* Number of icons: 2176
+* Number of icons: 2181
 * Author: Simple Icons Collaborators
 * URL: https://github.com/simple-icons/simple-icons
 * License: CC0 1.0
 * License URL: https://github.com/simple-icons/simple-icons/blob/develop/LICENSE.md
-* Version: 6.11.0
+* Version: 6.12.0
 * Palette: Colorless
 
 
@@ -698,7 +698,7 @@
 
 
 ### Arcticons
-* Number of icons: 3731
+* Number of icons: 3777
 * Author: Donno
 * URL: https://github.com/Donno/Arcticons
 * License: CC BY-SA 4.0

@@ -233,7 +233,7 @@
 * URL: https://github.com/artcoholic/akar-icons
 * License: MIT
 * License URL: https://github.com/artcoholic/akar-icons/blob/master/LICENSE
-* Version: 1.9.9
+* Version: 1.9.10
 * Palette: Colorless
 
 
@@ -307,7 +307,7 @@
 
 
 ### Charm Icons
-* Number of icons: 244
+* Number of icons: 250
 * Author: Jay Newey
 * URL: https://github.com/jaynewey/charm-icons
 * License: MIT
@@ -543,7 +543,7 @@
 
 
 ### Octicons
-* Number of icons: 487
+* Number of icons: 490
 * Author: GitHub
 * URL: https://github.com/primer/octicons/
 * License: Open Font License

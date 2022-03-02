@@ -190,7 +190,7 @@
 
 
 ### Lucide
-* Number of icons: 547
+* Number of icons: 563
 * Author: Lucide Contributors
 * URL: https://github.com/lucide-icons/lucide
 * License: ISC
@@ -331,7 +331,7 @@
 * URL: https://github.com/tailwindlabs/heroicons
 * License: MIT
 * License URL: https://github.com/tailwindlabs/heroicons/blob/master/LICENSE
-* Version: 1.0.5
+* Version: 1.0.6
 * Palette: Colorless
 
 
@@ -341,7 +341,7 @@
 * URL: https://github.com/tailwindlabs/heroicons
 * License: MIT
 * License URL: https://github.com/tailwindlabs/heroicons/blob/master/LICENSE
-* Version: 1.0.5
+* Version: 1.0.6
 * Palette: Colorless
 
 

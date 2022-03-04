@@ -190,7 +190,7 @@
 
 
 ### Lucide
-* Number of icons: 563
+* Number of icons: 571
 * Author: Lucide Contributors
 * URL: https://github.com/lucide-icons/lucide
 * License: ISC
@@ -548,7 +548,7 @@
 * URL: https://github.com/primer/octicons/
 * License: Open Font License
 * License URL: https://github.com/primer/octicons/blob/main/LICENSE
-* Version: 16.3.1
+* Version: 17.0.0
 * Palette: Colorless
 
 

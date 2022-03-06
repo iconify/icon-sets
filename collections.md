@@ -190,7 +190,7 @@
 
 
 ### Lucide
-* Number of icons: 571
+* Number of icons: 572
 * Author: Lucide Contributors
 * URL: https://github.com/lucide-icons/lucide
 * License: ISC
@@ -258,12 +258,12 @@
 
 
 ### Element Plus
-* Number of icons: 281
+* Number of icons: 282
 * Author: Element Plus
 * URL: https://github.com/element-plus/element-plus-icons
 * License: MIT
 * License URL: https://github.com/element-plus/element-plus-icons/blob/main/packages/svg/package.json
-* Version: 1.0.0
+* Version: 1.0.1
 * Palette: Colorless
 
 
@@ -668,12 +668,12 @@
 
 
 ### Simple Icons
-* Number of icons: 2181
+* Number of icons: 2190
 * Author: Simple Icons Collaborators
 * URL: https://github.com/simple-icons/simple-icons
 * License: CC0 1.0
 * License URL: https://github.com/simple-icons/simple-icons/blob/develop/LICENSE.md
-* Version: 6.12.0
+* Version: 6.13.0
 * Palette: Colorless
 
 
@@ -698,7 +698,7 @@
 
 
 ### Arcticons
-* Number of icons: 3777
+* Number of icons: 3831
 * Author: Donno
 * URL: https://github.com/Donno/Arcticons
 * License: CC BY-SA 4.0

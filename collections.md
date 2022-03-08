@@ -150,22 +150,22 @@
 
 
 ### BoxIcons
-* Number of icons: 783
+* Number of icons: 797
 * Author: Atisa
 * URL: https://github.com/atisawd/boxicons
 * License: CC BY 4.0
 * License URL: https://creativecommons.org/licenses/by/4.0/
-* Version: 2.1.1
+* Version: 2.1.2
 * Palette: Colorless
 
 
 ### BoxIcons Solid
-* Number of icons: 646
+* Number of icons: 650
 * Author: Atisa
 * URL: https://github.com/atisawd/boxicons
 * License: CC BY 4.0
 * License URL: https://creativecommons.org/licenses/by/4.0/
-* Version: 2.1.1
+* Version: 2.1.2
 * Palette: Colorless
 
 
@@ -190,7 +190,7 @@
 
 
 ### Lucide
-* Number of icons: 572
+* Number of icons: 574
 * Author: Lucide Contributors
 * URL: https://github.com/lucide-icons/lucide
 * License: ISC
@@ -258,12 +258,12 @@
 
 
 ### Element Plus
-* Number of icons: 282
+* Number of icons: 283
 * Author: Element Plus
 * URL: https://github.com/element-plus/element-plus-icons
 * License: MIT
 * License URL: https://github.com/element-plus/element-plus-icons/blob/main/packages/svg/package.json
-* Version: 1.0.1
+* Version: 1.1.1
 * Palette: Colorless
 
 
@@ -573,7 +573,7 @@
 
 
 ### OpenMoji
-* Number of icons: 3944
+* Number of icons: 3949
 * Author: OpenMoji
 * URL: https://github.com/hfg-gmuend/openmoji
 * License: CC BY-SA 4.0
@@ -649,12 +649,12 @@
 
 
 ### BoxIcons Logo
-* Number of icons: 149
+* Number of icons: 153
 * Author: Atisa
 * URL: https://github.com/atisawd/boxicons
 * License: CC BY 4.0
 * License URL: https://creativecommons.org/licenses/by/4.0/
-* Version: 2.1.1
+* Version: 2.1.2
 * Palette: Colorless
 
 

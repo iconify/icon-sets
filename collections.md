@@ -110,7 +110,7 @@
 
 
 ### Iconoir
-* Number of icons: 1007
+* Number of icons: 1017
 * Author: Luca Burgio
 * URL: https://github.com/lucaburgio/iconoir
 * License: MIT
@@ -351,7 +351,7 @@
 * URL: https://github.com/uiwjs/icons
 * License: MIT
 * License URL: https://github.com/uiwjs/icons/blob/master/LICENSE
-* Version: 2.6.6
+* Version: 2.6.7
 * Palette: Colorless
 
 
@@ -823,7 +823,7 @@
 
 
 ### Academicons
-* Number of icons: 147
+* Number of icons: 149
 * Author: James Walsh
 * URL: https://github.com/jpswalsh/academicons
 * License: Open Font License

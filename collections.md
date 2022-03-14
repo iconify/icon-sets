@@ -42,11 +42,11 @@
 
 
 ### Carbon
-* Number of icons: 1765
+* Number of icons: 1801
 * Author: IBM
 * URL: https://github.com/carbon-design-system/carbon/tree/main/packages/icons
 * License: Apache 2.0
-* Version: 10.47.0
+* Version: 10.48.0
 * Palette: Colorless
 
 
@@ -61,12 +61,12 @@
 
 
 ### Tabler Icons
-* Number of icons: 1536
+* Number of icons: 1553
 * Author: Paweł Kuna
 * URL: https://github.com/tabler/tabler-icons
 * License: MIT
 * License URL: https://github.com/tabler/tabler-icons/blob/master/LICENSE
-* Version: 1.54.0
+* Version: 1.55.0
 * Palette: Colorless
 
 
@@ -233,7 +233,7 @@
 * URL: https://github.com/artcoholic/akar-icons
 * License: MIT
 * License URL: https://github.com/artcoholic/akar-icons/blob/master/LICENSE
-* Version: 1.9.10
+* Version: 1.9.14
 * Palette: Colorless
 
 
@@ -434,12 +434,12 @@
 
 
 ### Fluent UI System Icons
-* Number of icons: 10826
+* Number of icons: 10940
 * Author: Microsoft Corporation
 * URL: https://github.com/microsoft/fluentui-system-icons
 * License: MIT
 * License URL: https://github.com/microsoft/fluentui-system-icons/blob/master/LICENSE
-* Version: 1.1.162
+* Version: 1.1.163
 * Palette: Colorless
 
 
@@ -488,7 +488,7 @@
 * URL: https://github.com/microsoft/vscode-codicons
 * License: CC BY 4.0
 * License URL: https://github.com/microsoft/vscode-codicons/blob/main/LICENSE
-* Version: 0.0.28
+* Version: 0.0.29
 * Palette: Colorless
 
 
@@ -582,7 +582,7 @@
 
 
 ### Twitter Emoji
-* Number of icons: 3556
+* Number of icons: 3668
 * Author: Twitter
 * URL: https://github.com/twitter/twemoji
 * License: CC BY 4.0
@@ -668,12 +668,12 @@
 
 
 ### Simple Icons
-* Number of icons: 2190
+* Number of icons: 2192
 * Author: Simple Icons Collaborators
 * URL: https://github.com/simple-icons/simple-icons
 * License: CC0 1.0
 * License URL: https://github.com/simple-icons/simple-icons/blob/develop/LICENSE.md
-* Version: 6.13.0
+* Version: 6.14.0
 * Palette: Colorless
 
 
@@ -698,7 +698,7 @@
 
 
 ### Arcticons
-* Number of icons: 3831
+* Number of icons: 3861
 * Author: Donno
 * URL: https://github.com/Donno/Arcticons
 * License: CC BY-SA 4.0
@@ -828,7 +828,7 @@
 * URL: https://github.com/jpswalsh/academicons
 * License: Open Font License
 * License URL: https://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL
-* Version: 1.9.1
+* Version: 1.9.2
 * Palette: Colorless
 
 

@@ -13,7 +13,7 @@
 
 
 ### Material Design Icons
-* Number of icons: 6689
+* Number of icons: 6691
 * Author: Austin Andrews
 * URL: https://github.com/Templarian/MaterialDesign
 * License: Apache 2.0
@@ -190,7 +190,7 @@
 
 
 ### Lucide
-* Number of icons: 574
+* Number of icons: 576
 * Author: Lucide Contributors
 * URL: https://github.com/lucide-icons/lucide
 * License: ISC
@@ -263,7 +263,7 @@
 * URL: https://github.com/element-plus/element-plus-icons
 * License: MIT
 * License URL: https://github.com/element-plus/element-plus-icons/blob/main/packages/svg/package.json
-* Version: 1.1.1
+* Version: 1.1.3
 * Palette: Colorless
 
 
@@ -523,27 +523,27 @@
 
 
 ### Font Awesome Solid
-* Number of icons: 1128
+* Number of icons: 1385
 * Author: Dave Gandy
 * URL: https://github.com/FortAwesome/Font-Awesome
 * License: CC BY 4.0
 * License URL: https://creativecommons.org/licenses/by/4.0/
-* Version: 6.0.0
+* Version: 6.1.0
 * Palette: Colorless
 
 
 ### Font Awesome Regular
-* Number of icons: 161
+* Number of icons: 162
 * Author: Dave Gandy
 * URL: https://github.com/FortAwesome/Font-Awesome
 * License: CC BY 4.0
 * License URL: https://creativecommons.org/licenses/by/4.0/
-* Version: 6.0.0
+* Version: 6.1.0
 * Palette: Colorless
 
 
 ### Octicons
-* Number of icons: 490
+* Number of icons: 494
 * Author: GitHub
 * URL: https://github.com/primer/octicons/
 * License: Open Font License
@@ -688,12 +688,12 @@
 
 
 ### Font Awesome Brands
-* Number of icons: 459
+* Number of icons: 462
 * Author: Dave Gandy
 * URL: https://github.com/FortAwesome/Font-Awesome
 * License: CC BY 4.0
 * License URL: https://creativecommons.org/licenses/by/4.0/
-* Version: 6.0.0
+* Version: 6.1.0
 * Palette: Colorless
 
 

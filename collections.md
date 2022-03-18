@@ -3,12 +3,12 @@
 
 
 ### Google Material Icons
-* Number of icons: 10705
+* Number of icons: 10760
 * Author: Material Design Authors
 * URL: https://github.com/material-icons/material-icons
 * License: Apache 2.0
 * License URL: https://github.com/material-icons/material-icons/blob/master/LICENSE
-* Version: 1.0.25
+* Version: 1.0.26
 * Palette: Colorless
 
 
@@ -61,12 +61,12 @@
 
 
 ### Tabler Icons
-* Number of icons: 1553
+* Number of icons: 1571
 * Author: Paweł Kuna
 * URL: https://github.com/tabler/tabler-icons
 * License: MIT
 * License URL: https://github.com/tabler/tabler-icons/blob/master/LICENSE
-* Version: 1.55.0
+* Version: 1.56.0
 * Palette: Colorless
 
 

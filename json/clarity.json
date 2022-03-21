@@ -2,7 +2,7 @@
 	"prefix": "clarity",
 	"info": {
 		"name": "Clarity",
-		"total": 1099,
+		"total": 1101,
 		"author": {
 			"name": "VMware",
 			"url": "https://github.com/vmware/clarity"
@@ -2148,7 +2148,13 @@
 			"body": "<path fill=\"currentColor\" d=\"M31.68 6.16c-1.92-3.3-10.6-4-11.58-4.09L19 2v20.29a5.88 5.88 0 0 0-.81-.55a8.33 8.33 0 0 0-6.53-.41c-4.12 1.33-6.77 5.13-5.91 8.47a5.33 5.33 0 0 0 2.66 3.32a7.48 7.48 0 0 0 3.61.88a9.54 9.54 0 0 0 2.98-.48c3.7-1.19 6.2-4.37 6.06-7.42V8.49c1 .12 2.37.33 3.82.64a11.17 11.17 0 0 1 4.06 1.46c1 .66.38 1.9.33 2a11.8 11.8 0 0 1-1.66 2a1 1 0 0 0 1.33 1.49c.21-.23 5.56-5.08 2.74-9.92Z\" class=\"clr-i-solid clr-i-solid-path-1\"/><path fill=\"none\" d=\"M0 0h36v36H0z\"/>"
 		},
 		"namespace-line": {
-			"body": "<path fill=\"currentColor\" d=\"M27 4.18a1 1 0 1 0-1 1.73l6 3.47v17.24l-6 3.47a1 1 0 0 0-.37 1.36a1 1 0 0 0 1.37.37l7-4.05V8.23Z\" class=\"clr-i-outline clr-i-outline-path-1\"/><path fill=\"currentColor\" d=\"M9.68 29.9L4 26.62V9.38L9.68 6.1a1 1 0 1 0-1-1.73L2 8.23v19.54l6.68 3.86a1 1 0 0 0 1.37-.37a1 1 0 0 0-.37-1.36Z\" class=\"clr-i-outline clr-i-outline-path-2\"/><path fill=\"currentColor\" d=\"M10 12v12a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V12a2 2 0 0 0-2-2H12a2 2 0 0 0-2 2Zm7 0v5h-5v-5Zm-5 7h5v5h-5Zm7 5v-5h5v5Zm5-7h-5v-5h5Z\" class=\"clr-i-outline clr-i-outline-path-3\"/><path fill=\"none\" d=\"M0 0h36v36H0z\"/>"
+			"body": "<path fill=\"currentColor\" d=\"M27 4.18a1 1 0 1 0-1 1.73l6 3.47v17.24l-6 3.47a1 1 0 0 0-.37 1.36a1 1 0 0 0 1.37.37l7-4.05V8.23ZM9.68 29.9L4 26.62V9.38L9.68 6.1a1 1 0 1 0-1-1.73L2 8.23v19.54l6.68 3.86a1 1 0 0 0 1.37-.37a1 1 0 0 0-.37-1.36Z\"/><path fill=\"currentColor\" d=\"M10 12v12a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V12a2 2 0 0 0-2-2H12a2 2 0 0 0-2 2Zm7 0v5h-5v-5Zm-5 7h5v5h-5Zm7 5v-5h5v5Zm5-7h-5v-5h5Z\"/>"
+		},
+		"namespace-outline-alerted": {
+			"body": "<path fill=\"currentColor\" d=\"M9.68 29.9L4 26.62V9.38L9.68 6.1a1 1 0 1 0-.93-1.77h-.07L2 8.23v19.54l6.68 3.86a1 1 0 0 0 1.37-.36a1 1 0 0 0-.37-1.37Z\"/><path fill=\"currentColor\" d=\"M26 15.4h-2V17h-5v-3.54A3.69 3.69 0 0 1 19 10h-7a2 2 0 0 0-2 2v12a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2ZM17 24h-5v-5h5Zm0-7h-5v-5h5Zm7 7h-5v-5h5Zm8-8.6v11.22l-6 3.47a1 1 0 1 0 1 1.73l7-4.05V15.38h-.32Z\"/><path fill=\"currentColor\" d=\"m34.78 11.05l-5.72-9.91a1.28 1.28 0 0 0-2.21 0l-5.72 9.91a1.27 1.27 0 0 0 1.1 1.95h11.45a1.27 1.27 0 0 0 1.1-1.95Z\"/>"
+		},
+		"namespace-outline-badged": {
+			"body": "<path fill=\"currentColor\" d=\"M9.68 29.9L4 26.62V9.38L9.68 6.1a1 1 0 1 0-.93-1.77h-.07L2 8.23v19.54l6.68 3.86a1 1 0 0 0 1.37-.36a1 1 0 0 0-.37-1.37Z\"/><path fill=\"currentColor\" d=\"M26 12.34A7.68 7.68 0 0 1 23.66 10H12a2 2 0 0 0-2 2v12a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2ZM17 24h-5v-5h5Zm0-7h-5v-5h5Zm7 7h-5v-5h5Zm0-7h-5v-5h5Zm8 9.62l-6 3.47a1 1 0 1 0 1 1.73l7-4.05V12.34a7.65 7.65 0 0 1-2 .88Z\"/><circle cx=\"30\" cy=\"6\" r=\"5\" fill=\"currentColor\"/>"
 		},
 		"network-globe-line": {
 			"body": "<path fill=\"currentColor\" d=\"M26.58 32h-18a1 1 0 1 0 0 2h18a1 1 0 0 0 0-2Z\" class=\"clr-i-outline clr-i-outline-path-1\"/><path fill=\"currentColor\" d=\"M17.75 2a14 14 0 0 0-14 14c0 .45 0 .89.07 1.33A14 14 0 1 0 17.75 2Zm0 2a12 12 0 0 1 8.44 3.48v1A18.51 18.51 0 0 0 14 8.53a2.33 2.33 0 0 0-1.14-.61h-.25c-.12-.42-.23-.84-.32-1.27s-.14-.81-.19-1.22A11.92 11.92 0 0 1 17.75 4Zm-3 5.87a17 17 0 0 1 11.17.13a16.9 16.9 0 0 1-3.11 7a2.28 2.28 0 0 0-2.58.57c-.35-.2-.7-.4-1-.63a16 16 0 0 1-4.93-5.23a2.25 2.25 0 0 0 .47-1.77Zm-4-3.6c0 .21.06.43.1.64c.09.44.21.87.33 1.3a2.28 2.28 0 0 0-1.1 2.25a18.32 18.32 0 0 0-4.18 3.76a12 12 0 0 1 4.86-7.95Zm0 15.71a2.34 2.34 0 0 0-1.55 1.76h-.64a11.94 11.94 0 0 1-2.76-6.82l.11-.19a16.9 16.9 0 0 1 4.81-4.89a2.31 2.31 0 0 0 2.28.63a17.53 17.53 0 0 0 5.35 5.65c.41.27.83.52 1.25.76a2.32 2.32 0 0 0 .18 1.12a16.94 16.94 0 0 1-6.2 3.11A2.34 2.34 0 0 0 10.76 22Zm7 6a11.92 11.92 0 0 1-5.81-1.51l.28-.06a2.34 2.34 0 0 0 1.57-1.79a18.43 18.43 0 0 0 7-3.5a2.29 2.29 0 0 0 3-.62a17.41 17.41 0 0 0 4.32.56h.53A12 12 0 0 1 17.75 28Zm6.51-8.9a2.33 2.33 0 0 0-.33-1.19a18.4 18.4 0 0 0 3.39-7.37q.75.35 1.48.78a12 12 0 0 1 .42 8.2a16 16 0 0 1-4.95-.39Z\" class=\"clr-i-outline clr-i-outline-path-2\"/><path fill=\"none\" d=\"M0 0h36v36H0z\"/>"
@@ -4271,6 +4277,8 @@
 			"mouse-line",
 			"mouse-solid",
 			"namespace-line",
+			"namespace-outline-alerted",
+			"namespace-outline-badged",
 			"network-globe-line",
 			"network-globe-outline-alerted",
 			"network-globe-outline-badged",

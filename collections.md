@@ -13,7 +13,7 @@
 
 
 ### Material Design Icons
-* Number of icons: 6691
+* Number of icons: 6695
 * Author: Austin Andrews
 * URL: https://github.com/Templarian/MaterialDesign
 * License: Apache 2.0
@@ -101,7 +101,7 @@
 
 
 ### Clarity
-* Number of icons: 1099
+* Number of icons: 1101
 * Author: VMware
 * URL: https://github.com/vmware/clarity
 * License: MIT
@@ -546,7 +546,7 @@
 * Number of icons: 494
 * Author: GitHub
 * URL: https://github.com/primer/octicons/
-* License: Open Font License
+* License: MIT
 * License URL: https://github.com/primer/octicons/blob/main/LICENSE
 * Version: 17.0.0
 * Palette: Colorless
@@ -668,12 +668,12 @@
 
 
 ### Simple Icons
-* Number of icons: 2192
+* Number of icons: 2213
 * Author: Simple Icons Collaborators
 * URL: https://github.com/simple-icons/simple-icons
 * License: CC0 1.0
 * License URL: https://github.com/simple-icons/simple-icons/blob/develop/LICENSE.md
-* Version: 6.14.0
+* Version: 6.15.0
 * Palette: Colorless
 
 
@@ -698,7 +698,7 @@
 
 
 ### Arcticons
-* Number of icons: 3861
+* Number of icons: 3901
 * Author: Donno
 * URL: https://github.com/Donno/Arcticons
 * License: CC BY-SA 4.0

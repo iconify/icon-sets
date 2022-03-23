@@ -70,13 +70,13 @@
 		"align-end-vertical": {
 			"body": "<g fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\"><rect width=\"16\" height=\"6\" x=\"2\" y=\"4\" rx=\"2\"/><rect width=\"9\" height=\"6\" x=\"9\" y=\"14\" rx=\"2\"/><path d=\"M22 22V2\"/></g>"
 		},
-		"align-horizonal-distribute-center": {
+		"align-horizontal-distribute-center": {
 			"body": "<g fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\"><rect width=\"6\" height=\"14\" x=\"4\" y=\"5\" rx=\"2\"/><rect width=\"6\" height=\"10\" x=\"14\" y=\"7\" rx=\"2\"/><path d=\"M17 22v-5m0-10V2M7 22v-3M7 5V2\"/></g>"
 		},
-		"align-horizonal-distribute-end": {
+		"align-horizontal-distribute-end": {
 			"body": "<g fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\"><rect width=\"6\" height=\"14\" x=\"4\" y=\"5\" rx=\"2\"/><rect width=\"6\" height=\"10\" x=\"14\" y=\"7\" rx=\"2\"/><path d=\"M10 2v20M20 2v20\"/></g>"
 		},
-		"align-horizonal-distribute-start": {
+		"align-horizontal-distribute-start": {
 			"body": "<g fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\"><rect width=\"6\" height=\"14\" x=\"4\" y=\"5\" rx=\"2\"/><rect width=\"6\" height=\"10\" x=\"14\" y=\"7\" rx=\"2\"/><path d=\"M4 2v20M14 2v20\"/></g>"
 		},
 		"align-horizontal-justify-center": {
@@ -1758,6 +1758,15 @@
 		}
 	},
 	"aliases": {
+		"align-horizonal-distribute-center": {
+			"parent": "align-horizontal-distribute-center"
+		},
+		"align-horizonal-distribute-end": {
+			"parent": "align-horizontal-distribute-end"
+		},
+		"align-horizonal-distribute-start": {
+			"parent": "align-horizontal-distribute-start"
+		},
 		"jersey-pound": {
 			"parent": "japanese-yen"
 		}

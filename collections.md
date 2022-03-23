@@ -61,12 +61,12 @@
 
 
 ### Tabler Icons
-* Number of icons: 1571
+* Number of icons: 1595
 * Author: Paweł Kuna
 * URL: https://github.com/tabler/tabler-icons
 * License: MIT
 * License URL: https://github.com/tabler/tabler-icons/blob/master/LICENSE
-* Version: 1.56.0
+* Version: 1.57.0
 * Palette: Colorless
 
 
@@ -263,7 +263,7 @@
 * URL: https://github.com/element-plus/element-plus-icons
 * License: MIT
 * License URL: https://github.com/element-plus/element-plus-icons/blob/main/packages/svg/package.json
-* Version: 1.1.3
+* Version: 1.1.4
 * Palette: Colorless
 
 
@@ -386,7 +386,7 @@
 
 
 ### Maki
-* Number of icons: 205
+* Number of icons: 206
 * Author: Mapbox
 * URL: https://github.com/mapbox/maki
 * License: CC0
@@ -523,12 +523,12 @@
 
 
 ### Font Awesome Solid
-* Number of icons: 1385
+* Number of icons: 1387
 * Author: Dave Gandy
 * URL: https://github.com/FortAwesome/Font-Awesome
 * License: CC BY 4.0
 * License URL: https://creativecommons.org/licenses/by/4.0/
-* Version: 6.1.0
+* Version: 6.1.1
 * Palette: Colorless
 
 
@@ -538,12 +538,12 @@
 * URL: https://github.com/FortAwesome/Font-Awesome
 * License: CC BY 4.0
 * License URL: https://creativecommons.org/licenses/by/4.0/
-* Version: 6.1.0
+* Version: 6.1.1
 * Palette: Colorless
 
 
 ### Octicons
-* Number of icons: 494
+* Number of icons: 495
 * Author: GitHub
 * URL: https://github.com/primer/octicons/
 * License: MIT
@@ -693,7 +693,7 @@
 * URL: https://github.com/FortAwesome/Font-Awesome
 * License: CC BY 4.0
 * License URL: https://creativecommons.org/licenses/by/4.0/
-* Version: 6.1.0
+* Version: 6.1.1
 * Palette: Colorless
 
 

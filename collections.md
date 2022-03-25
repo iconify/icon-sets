@@ -13,7 +13,7 @@
 
 
 ### Material Design Icons
-* Number of icons: 6695
+* Number of icons: 6896
 * Author: Austin Andrews
 * URL: https://github.com/Templarian/MaterialDesign
 * License: Apache 2.0
@@ -61,12 +61,12 @@
 
 
 ### Tabler Icons
-* Number of icons: 1595
+* Number of icons: 1613
 * Author: Paweł Kuna
 * URL: https://github.com/tabler/tabler-icons
 * License: MIT
 * License URL: https://github.com/tabler/tabler-icons/blob/master/LICENSE
-* Version: 1.57.0
+* Version: 1.58.0
 * Palette: Colorless
 
 
@@ -101,7 +101,7 @@
 
 
 ### Clarity
-* Number of icons: 1101
+* Number of icons: 1103
 * Author: VMware
 * URL: https://github.com/vmware/clarity
 * License: MIT
@@ -190,7 +190,7 @@
 
 
 ### Lucide
-* Number of icons: 576
+* Number of icons: 577
 * Author: Lucide Contributors
 * URL: https://github.com/lucide-icons/lucide
 * License: ISC
@@ -386,7 +386,7 @@
 
 
 ### Maki
-* Number of icons: 206
+* Number of icons: 207
 * Author: Mapbox
 * URL: https://github.com/mapbox/maki
 * License: CC0
@@ -449,7 +449,7 @@
 * URL: https://github.com/bytedance/IconPark
 * License: Apache 2.0
 * License URL: https://github.com/bytedance/IconPark/blob/master/LICENSE
-* Version: 1.0.0
+* Version: 1.3.5
 * Palette: Colorless
 
 
@@ -459,7 +459,7 @@
 * URL: https://github.com/bytedance/IconPark
 * License: Apache 2.0
 * License URL: https://github.com/bytedance/IconPark/blob/master/LICENSE
-* Version: 1.0.0
+* Version: 1.3.5
 * Palette: Colorful
 
 

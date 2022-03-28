@@ -61,12 +61,12 @@
 
 
 ### Tabler Icons
-* Number of icons: 1613
+* Number of icons: 1631
 * Author: Paweł Kuna
 * URL: https://github.com/tabler/tabler-icons
 * License: MIT
 * License URL: https://github.com/tabler/tabler-icons/blob/master/LICENSE
-* Version: 1.58.0
+* Version: 1.59.0
 * Palette: Colorless
 
 
@@ -190,7 +190,7 @@
 
 
 ### Lucide
-* Number of icons: 577
+* Number of icons: 583
 * Author: Lucide Contributors
 * URL: https://github.com/lucide-icons/lucide
 * License: ISC
@@ -434,12 +434,12 @@
 
 
 ### Fluent UI System Icons
-* Number of icons: 10940
+* Number of icons: 11026
 * Author: Microsoft Corporation
 * URL: https://github.com/microsoft/fluentui-system-icons
 * License: MIT
 * License URL: https://github.com/microsoft/fluentui-system-icons/blob/master/LICENSE
-* Version: 1.1.163
+* Version: 1.1.164
 * Palette: Colorless
 
 
@@ -668,12 +668,12 @@
 
 
 ### Simple Icons
-* Number of icons: 2213
+* Number of icons: 2219
 * Author: Simple Icons Collaborators
 * URL: https://github.com/simple-icons/simple-icons
 * License: CC0 1.0
 * License URL: https://github.com/simple-icons/simple-icons/blob/develop/LICENSE.md
-* Version: 6.15.0
+* Version: 6.16.0
 * Palette: Colorless
 
 

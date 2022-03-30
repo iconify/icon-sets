@@ -13,7 +13,7 @@
 
 
 ### Material Design Icons
-* Number of icons: 6896
+* Number of icons: 6913
 * Author: Austin Andrews
 * URL: https://github.com/Templarian/MaterialDesign
 * License: Apache 2.0
@@ -61,12 +61,12 @@
 
 
 ### Tabler Icons
-* Number of icons: 1631
+* Number of icons: 1649
 * Author: Paweł Kuna
 * URL: https://github.com/tabler/tabler-icons
 * License: MIT
 * License URL: https://github.com/tabler/tabler-icons/blob/master/LICENSE
-* Version: 1.59.0
+* Version: 1.60.0
 * Palette: Colorless
 
 
@@ -558,7 +558,7 @@
 * URL: https://github.com/wikimedia/oojs-ui
 * License: MIT
 * License URL: https://github.com/wikimedia/oojs-ui/blob/master/LICENSE-MIT
-* Version: 0.43.0
+* Version: 0.43.2
 * Palette: Colorless
 
 
@@ -698,7 +698,7 @@
 
 
 ### Arcticons
-* Number of icons: 3901
+* Number of icons: 4001
 * Author: Donno
 * URL: https://github.com/Donno/Arcticons
 * License: CC BY-SA 4.0

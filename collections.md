@@ -190,7 +190,7 @@
 
 
 ### Lucide
-* Number of icons: 583
+* Number of icons: 584
 * Author: Lucide Contributors
 * URL: https://github.com/lucide-icons/lucide
 * License: ISC
@@ -698,7 +698,7 @@
 
 
 ### Arcticons
-* Number of icons: 4001
+* Number of icons: 4000
 * Author: Donno
 * URL: https://github.com/Donno/Arcticons
 * License: CC BY-SA 4.0

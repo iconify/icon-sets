@@ -731,7 +731,7 @@
 		"asciicam": {
 			"body": "<path fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M8.26 12.79h2.08m11.04 0h18.36m1.48.94l1.98 3.76m-.95 1.72v15.64m1.25 1.8l-1.63 3.26m-1.69.94H8.26m-1.33-.94L4.75 36.3m1.09-1.47V19M4.5 17.64l1.98-3.41m22.77 10.09v5.3m-4.17 3.21h2.32m-8.2-3.21v-5.3m-4.9-11.53h2.97m2.03 0V7.15m1.58 0h-9.8m1.29 0v5.64m8.67 20.04h2.33m1.71-11.13h2.32m-6.36 0h2.33\"/>"
 		},
-		"asnbankieren": {
+		"asn-bankieren": {
 			"body": "<path fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M27.41 43.47a13.35 13.35 0 0 1-13.12-12.74a13.76 13.76 0 0 1 .28-3.33a13.55 13.55 0 0 1 1.2-3.4a7.73 7.73 0 0 0 .73-2a4.06 4.06 0 0 0 .12-.91a5.15 5.15 0 0 0-9.92-2a11.34 11.34 0 0 1-.35-2.9a11.54 11.54 0 1 1 23.07-.48a11.94 11.94 0 0 1-2.2 7.29c-1.83 2.82-3.92 5.43-3.92 9a11.52 11.52 0 0 0 8 11a13.29 13.29 0 0 1-3.87.52Zm13.43-13.12a4.62 4.62 0 0 0-1.91 6.84a13.57 13.57 0 0 1-5.73 5.09a7.66 7.66 0 0 1 6.24-12.11a7.33 7.33 0 0 1 1.47.15Zm.7-7.71a7.26 7.26 0 0 1-1.35 3.24a13.37 13.37 0 0 0-3.31-5.24a14.53 14.53 0 0 0-1.19-1h0a8 8 0 0 1-3.31-6.48a8.37 8.37 0 0 1 .34-2.33A5.24 5.24 0 0 0 35.15 14a8 8 0 0 0 .94.55l1.36.64v-.09a8.75 8.75 0 0 0 1.77-4.23a6.69 6.69 0 0 1 .48 5.86h0a5.78 5.78 0 0 1 1.94 4.73a6.22 6.22 0 0 1-.1 1.22Z\"/><path fill=\"currentColor\" d=\"M32.53 21.51a1.13 1.13 0 1 1 2.26 0a1.14 1.14 0 0 1-2.27 0Z\"/>"
 		},
 		"asr": {
@@ -2912,7 +2912,7 @@
 		"droidfs": {
 			"body": "<path fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M5.506 27.25v12.79a1.947 1.947 0 0 0 1.947 1.947h33.1A1.947 1.947 0 0 0 42.5 40.04V27.25Zm33.499-13.534l2.59-2.551a3.022 3.022 0 0 0-4.282-4.266l-.002.002L34.76 9.5a18.41 18.41 0 0 0-21.515 0l-2.57-2.57a3.174 3.174 0 0 0-2.17-.915a2.979 2.979 0 0 0-2.123.876a3.018 3.018 0 0 0 0 4.264l2.6 2.55a18.497 18.497 0 0 0-3.476 10.807v2.738H42.5v-2.738a18.497 18.497 0 0 0-3.495-10.796Zm-19.87 6.98a2.92 2.92 0 1 1-2.92-2.921a2.92 2.92 0 0 1 2.92 2.92Zm12.656 2.92a2.92 2.92 0 1 1 2.92-2.92a2.92 2.92 0 0 1-2.92 2.92Z\"/><path fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M21.367 33.614v-1.4a2.633 2.633 0 0 1 5.266 0v1.4m-6.63 0h7.994v5.967h-7.994zM24 37.209v-1.223\"/>"
 		},
-		"droidify": {
+		"droidify-alt": {
 			"body": "<circle cx=\"16.427\" cy=\"12.512\" r=\"3.776\" fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><circle cx=\"31.551\" cy=\"12.512\" r=\"3.776\" fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><rect width=\"33.785\" height=\"15.085\" x=\"7.107\" y=\"5.5\" fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" rx=\"6.135\"/><rect width=\"33.785\" height=\"18.673\" x=\"7.107\" y=\"23.827\" fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" rx=\"6.638\"/><path fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M21.709 16.92a2.996 2.996 0 0 0 4.726 0\"/>"
 		},
 		"droidshows": {
@@ -12029,8 +12029,14 @@
 		}
 	},
 	"aliases": {
+		"asnbankieren": {
+			"parent": "asn-bankieren"
+		},
 		"bubleupnp": {
 			"parent": "bubbleupnp"
+		},
+		"droidify": {
+			"parent": "droidify-alt"
 		},
 		"duolingo": {
 			"parent": "duolingo-alt"

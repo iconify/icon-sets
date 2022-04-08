@@ -46,7 +46,7 @@
 * Author: IBM
 * URL: https://github.com/carbon-design-system/carbon/tree/main/packages/icons
 * License: Apache 2.0
-* Version: 11.0.1
+* Version: 11.0.2
 * Palette: Colorless
 
 
@@ -190,7 +190,7 @@
 
 
 ### Lucide
-* Number of icons: 584
+* Number of icons: 585
 * Author: Lucide Contributors
 * URL: https://github.com/lucide-icons/lucide
 * License: ISC
@@ -228,12 +228,12 @@
 
 
 ### Akar Icons
-* Number of icons: 393
+* Number of icons: 396
 * Author: Arturo Wibawa
 * URL: https://github.com/artcoholic/akar-icons
 * License: MIT
 * License URL: https://github.com/artcoholic/akar-icons/blob/master/LICENSE
-* Version: 1.9.14
+* Version: 1.9.15
 * Palette: Colorless
 
 
@@ -493,12 +493,12 @@
 
 
 ### Pepicons
-* Number of icons: 316
+* Number of icons: 410
 * Author: CyCraft
 * URL: https://github.com/CyCraft/pepicons
 * License: CC BY 4.0
 * License URL: https://github.com/CyCraft/pepicons/blob/dev/LICENSE
-* Version: 1.0.12
+* Version: 1.1.0
 * Palette: Colorless
 
 
@@ -749,7 +749,7 @@
 * URL: https://github.com/lipis/flag-icons
 * License: MIT
 * License URL: https://github.com/lipis/flag-icons/blob/main/LICENSE
-* Version: 6.1.1
+* Version: 6.2.0
 * Palette: Colorful
 
 

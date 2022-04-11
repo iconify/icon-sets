@@ -434,12 +434,12 @@
 
 
 ### Fluent UI System Icons
-* Number of icons: 11026
+* Number of icons: 11166
 * Author: Microsoft Corporation
 * URL: https://github.com/microsoft/fluentui-system-icons
 * License: MIT
 * License URL: https://github.com/microsoft/fluentui-system-icons/blob/master/LICENSE
-* Version: 1.1.164
+* Version: 1.1.166
 * Palette: Colorless
 
 
@@ -659,7 +659,7 @@
 
 
 ### SVG Logos
-* Number of icons: 1401
+* Number of icons: 1415
 * Author: Gil Barbara
 * URL: https://github.com/gilbarbara/logos
 * License: CC0
@@ -668,12 +668,12 @@
 
 
 ### Simple Icons
-* Number of icons: 2223
+* Number of icons: 2228
 * Author: Simple Icons Collaborators
 * URL: https://github.com/simple-icons/simple-icons
 * License: CC0 1.0
 * License URL: https://github.com/simple-icons/simple-icons/blob/develop/LICENSE.md
-* Version: 6.17.0
+* Version: 6.18.0
 * Palette: Colorless
 
 

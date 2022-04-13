@@ -61,12 +61,12 @@
 
 
 ### Tabler Icons
-* Number of icons: 1719
+* Number of icons: 1747
 * Author: Paweł Kuna
 * URL: https://github.com/tabler/tabler-icons
 * License: MIT
 * License URL: https://github.com/tabler/tabler-icons/blob/master/LICENSE
-* Version: 1.63.0
+* Version: 1.64.0
 * Palette: Colorless
 
 
@@ -190,7 +190,7 @@
 
 
 ### Lucide
-* Number of icons: 585
+* Number of icons: 588
 * Author: Lucide Contributors
 * URL: https://github.com/lucide-icons/lucide
 * License: ISC
@@ -698,7 +698,7 @@
 
 
 ### Arcticons
-* Number of icons: 4000
+* Number of icons: 4102
 * Author: Donno
 * URL: https://github.com/Donno/Arcticons
 * License: CC BY-SA 4.0

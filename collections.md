@@ -61,12 +61,12 @@
 
 
 ### Tabler Icons
-* Number of icons: 1747
+* Number of icons: 1807
 * Author: Paweł Kuna
 * URL: https://github.com/tabler/tabler-icons
 * License: MIT
 * License URL: https://github.com/tabler/tabler-icons/blob/master/LICENSE
-* Version: 1.64.0
+* Version: 1.65.0
 * Palette: Colorless
 
 
@@ -190,7 +190,7 @@
 
 
 ### Lucide
-* Number of icons: 588
+* Number of icons: 589
 * Author: Lucide Contributors
 * URL: https://github.com/lucide-icons/lucide
 * License: ISC
@@ -464,7 +464,7 @@
 
 
 ### VSCode Icons
-* Number of icons: 1110
+* Number of icons: 1115
 * Author: Roberto Huertas
 * URL: https://github.com/vscode-icons/vscode-icons
 * License: MIT
@@ -659,7 +659,7 @@
 
 
 ### SVG Logos
-* Number of icons: 1415
+* Number of icons: 1438
 * Author: Gil Barbara
 * URL: https://github.com/gilbarbara/logos
 * License: CC0
@@ -668,12 +668,12 @@
 
 
 ### Simple Icons
-* Number of icons: 2228
+* Number of icons: 2231
 * Author: Simple Icons Collaborators
 * URL: https://github.com/simple-icons/simple-icons
 * License: CC0 1.0
 * License URL: https://github.com/simple-icons/simple-icons/blob/develop/LICENSE.md
-* Version: 6.18.0
+* Version: 6.19.0
 * Palette: Colorless
 
 
@@ -698,7 +698,7 @@
 
 
 ### Arcticons
-* Number of icons: 4102
+* Number of icons: 4149
 * Author: Donno
 * URL: https://github.com/Donno/Arcticons
 * License: CC BY-SA 4.0

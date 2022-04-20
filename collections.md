@@ -46,7 +46,7 @@
 * Author: IBM
 * URL: https://github.com/carbon-design-system/carbon/tree/main/packages/icons
 * License: Apache 2.0
-* Version: 11.0.2
+* Version: 11.1.0
 * Palette: Colorless
 
 
@@ -190,7 +190,7 @@
 
 
 ### Lucide
-* Number of icons: 589
+* Number of icons: 591
 * Author: Lucide Contributors
 * URL: https://github.com/lucide-icons/lucide
 * License: ISC
@@ -464,12 +464,12 @@
 
 
 ### VSCode Icons
-* Number of icons: 1115
+* Number of icons: 1123
 * Author: Roberto Huertas
 * URL: https://github.com/vscode-icons/vscode-icons
 * License: MIT
 * License URL: https://github.com/vscode-icons/vscode-icons/blob/master/LICENSE
-* Version: 11.10.0
+* Version: 11.11.0
 * Palette: Colorful
 
 

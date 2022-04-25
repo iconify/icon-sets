@@ -2,6 +2,15 @@
 
 
 
+### Material Symbols
+* Number of icons: 6953
+* Author: Google
+* URL: https://github.com/google/material-design-icons
+* License: Apache 2.0
+* License URL: https://github.com/google/material-design-icons/blob/master/LICENSE
+* Palette: Colorless
+
+
 ### Google Material Icons
 * Number of icons: 10760
 * Author: Material Design Authors
@@ -110,12 +119,12 @@
 
 
 ### Iconoir
-* Number of icons: 1049
+* Number of icons: 1091
 * Author: Luca Burgio
 * URL: https://github.com/lucaburgio/iconoir
 * License: MIT
 * License URL: https://github.com/lucaburgio/iconoir/blob/master/LICENSE
-* Version: 4.6.0
+* Version: 4.9.1
 * Palette: Colorless
 
 
@@ -190,7 +199,7 @@
 
 
 ### Lucide
-* Number of icons: 593
+* Number of icons: 595
 * Author: Lucide Contributors
 * URL: https://github.com/lucide-icons/lucide
 * License: ISC
@@ -434,12 +443,12 @@
 
 
 ### Fluent UI System Icons
-* Number of icons: 11166
+* Number of icons: 11286
 * Author: Microsoft Corporation
 * URL: https://github.com/microsoft/fluentui-system-icons
 * License: MIT
 * License URL: https://github.com/microsoft/fluentui-system-icons/blob/master/LICENSE
-* Version: 1.1.166
+* Version: 1.1.167
 * Palette: Colorless
 
 

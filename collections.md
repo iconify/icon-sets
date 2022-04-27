@@ -22,7 +22,7 @@
 
 
 ### Material Design Icons
-* Number of icons: 6921
+* Number of icons: 6938
 * Author: Austin Andrews
 * URL: https://github.com/Templarian/MaterialDesign
 * License: Apache 2.0
@@ -70,12 +70,12 @@
 
 
 ### Tabler Icons
-* Number of icons: 1919
+* Number of icons: 1960
 * Author: Paweł Kuna
 * URL: https://github.com/tabler/tabler-icons
 * License: MIT
 * License URL: https://github.com/tabler/tabler-icons/blob/master/LICENSE
-* Version: 1.66.0
+* Version: 1.67.0
 * Palette: Colorless
 
 
@@ -199,7 +199,7 @@
 
 
 ### Lucide
-* Number of icons: 595
+* Number of icons: 596
 * Author: Lucide Contributors
 * URL: https://github.com/lucide-icons/lucide
 * License: ISC
@@ -242,7 +242,7 @@
 * URL: https://github.com/artcoholic/akar-icons
 * License: MIT
 * License URL: https://github.com/artcoholic/akar-icons/blob/master/LICENSE
-* Version: 1.9.15
+* Version: 1.9.16
 * Palette: Colorless
 
 
@@ -582,7 +582,7 @@
 
 
 ### OpenMoji
-* Number of icons: 3949
+* Number of icons: 3950
 * Author: OpenMoji
 * URL: https://github.com/hfg-gmuend/openmoji
 * License: CC BY-SA 4.0
@@ -763,7 +763,7 @@
 
 
 ### Circle Flags
-* Number of icons: 296
+* Number of icons: 307
 * Author: HatScripts
 * URL: https://github.com/HatScripts/circle-flags
 * License: MIT

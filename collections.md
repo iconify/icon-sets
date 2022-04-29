@@ -3,7 +3,7 @@
 
 
 ### Material Symbols
-* Number of icons: 6953
+* Number of icons: 7702
 * Author: Google
 * URL: https://github.com/google/material-design-icons
 * License: Apache 2.0
@@ -707,7 +707,7 @@
 
 
 ### Arcticons
-* Number of icons: 4149
+* Number of icons: 4193
 * Author: Donno
 * URL: https://github.com/Donno/Arcticons
 * License: CC BY-SA 4.0
@@ -763,7 +763,7 @@
 
 
 ### Circle Flags
-* Number of icons: 307
+* Number of icons: 351
 * Author: HatScripts
 * URL: https://github.com/HatScripts/circle-flags
 * License: MIT

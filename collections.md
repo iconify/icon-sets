@@ -12,12 +12,12 @@
 
 
 ### Google Material Icons
-* Number of icons: 10760
+* Number of icons: 10945
 * Author: Material Design Authors
 * URL: https://github.com/material-icons/material-icons
 * License: Apache 2.0
 * License URL: https://github.com/material-icons/material-icons/blob/master/LICENSE
-* Version: 1.0.26
+* Version: 1.0.27
 * Palette: Colorless
 
 
@@ -55,7 +55,7 @@
 * Author: IBM
 * URL: https://github.com/carbon-design-system/carbon/tree/main/packages/icons
 * License: Apache 2.0
-* Version: 11.1.0
+* Version: 11.2.0
 * Palette: Colorless
 
 
@@ -70,12 +70,12 @@
 
 
 ### Tabler Icons
-* Number of icons: 1960
+* Number of icons: 1978
 * Author: Paweł Kuna
 * URL: https://github.com/tabler/tabler-icons
 * License: MIT
 * License URL: https://github.com/tabler/tabler-icons/blob/master/LICENSE
-* Version: 1.67.0
+* Version: 1.68.0
 * Palette: Colorless
 
 
@@ -677,12 +677,12 @@
 
 
 ### Simple Icons
-* Number of icons: 2231
+* Number of icons: 2240
 * Author: Simple Icons Collaborators
 * URL: https://github.com/simple-icons/simple-icons
 * License: CC0 1.0
 * License URL: https://github.com/simple-icons/simple-icons/blob/develop/LICENSE.md
-* Version: 6.19.0
+* Version: 6.20.0
 * Palette: Colorless
 
 
@@ -763,7 +763,7 @@
 
 
 ### Circle Flags
-* Number of icons: 351
+* Number of icons: 354
 * Author: HatScripts
 * URL: https://github.com/HatScripts/circle-flags
 * License: MIT

@@ -199,7 +199,7 @@
 
 
 ### Lucide
-* Number of icons: 596
+* Number of icons: 598
 * Author: Lucide Contributors
 * URL: https://github.com/lucide-icons/lucide
 * License: ISC
@@ -758,12 +758,12 @@
 * URL: https://github.com/lipis/flag-icons
 * License: MIT
 * License URL: https://github.com/lipis/flag-icons/blob/main/LICENSE
-* Version: 6.2.0
+* Version: 6.3.0
 * Palette: Colorful
 
 
 ### Circle Flags
-* Number of icons: 354
+* Number of icons: 355
 * Author: HatScripts
 * URL: https://github.com/HatScripts/circle-flags
 * License: MIT

@@ -262,7 +262,7 @@
 * URL: https://github.com/modulz/radix-icons
 * License: MIT
 * License URL: https://github.com/radix-ui/icons/blob/master/LICENSE
-* Version: 1.1.0
+* Version: 1.1.1
 * Palette: Colorless
 
 
@@ -552,12 +552,12 @@
 
 
 ### Octicons
-* Number of icons: 495
+* Number of icons: 496
 * Author: GitHub
 * URL: https://github.com/primer/octicons/
 * License: MIT
 * License URL: https://github.com/primer/octicons/blob/main/LICENSE
-* Version: 17.0.0
+* Version: 17.1.0
 * Palette: Colorless
 
 

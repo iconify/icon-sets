@@ -462,6 +462,26 @@
 * Palette: Colorless
 
 
+### IconPark Solid
+* Number of icons: 1786
+* Author: ByteDance
+* URL: https://github.com/bytedance/IconPark
+* License: Apache 2.0
+* License URL: https://github.com/bytedance/IconPark/blob/master/LICENSE
+* Version: 1.3.5
+* Palette: Colorless
+
+
+### IconPark TwoTone
+* Number of icons: 1767
+* Author: ByteDance
+* URL: https://github.com/bytedance/IconPark
+* License: Apache 2.0
+* License URL: https://github.com/bytedance/IconPark/blob/master/LICENSE
+* Version: 1.3.5
+* Palette: Colorless
+
+
 ### IconPark
 * Number of icons: 2437
 * Author: ByteDance

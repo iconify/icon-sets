@@ -199,7 +199,7 @@
 
 
 ### Lucide
-* Number of icons: 598
+* Number of icons: 601
 * Author: Lucide Contributors
 * URL: https://github.com/lucide-icons/lucide
 * License: ISC
@@ -443,12 +443,12 @@
 
 
 ### Fluent UI System Icons
-* Number of icons: 11286
+* Number of icons: 11378
 * Author: Microsoft Corporation
 * URL: https://github.com/microsoft/fluentui-system-icons
 * License: MIT
 * License URL: https://github.com/microsoft/fluentui-system-icons/blob/master/LICENSE
-* Version: 1.1.167
+* Version: 1.1.169
 * Palette: Colorless
 
 
@@ -697,12 +697,12 @@
 
 
 ### Simple Icons
-* Number of icons: 2240
+* Number of icons: 2246
 * Author: Simple Icons Collaborators
 * URL: https://github.com/simple-icons/simple-icons
 * License: CC0 1.0
 * License URL: https://github.com/simple-icons/simple-icons/blob/develop/LICENSE.md
-* Version: 6.20.0
+* Version: 6.21.0
 * Palette: Colorless
 
 
@@ -727,7 +727,7 @@
 
 
 ### Arcticons
-* Number of icons: 4193
+* Number of icons: 4238
 * Author: Donno
 * URL: https://github.com/Donno/Arcticons
 * License: CC BY-SA 4.0
@@ -783,7 +783,7 @@
 
 
 ### Circle Flags
-* Number of icons: 355
+* Number of icons: 356
 * Author: HatScripts
 * URL: https://github.com/HatScripts/circle-flags
 * License: MIT

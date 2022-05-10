@@ -199,7 +199,7 @@
 
 
 ### Lucide
-* Number of icons: 601
+* Number of icons: 607
 * Author: Lucide Contributors
 * URL: https://github.com/lucide-icons/lucide
 * License: ISC
@@ -306,12 +306,12 @@
 
 
 ### Material Line Icons
-* Number of icons: 250
+* Number of icons: 252
 * Author: Vjacheslav Trushkin
 * URL: https://github.com/cyberalien/line-md
 * License: MIT
 * License URL: https://github.com/cyberalien/line-md/blob/master/license.txt
-* Version: 0.1.0
+* Version: 0.2.0
 * Palette: Colorless
 
 
@@ -602,7 +602,7 @@
 
 
 ### OpenMoji
-* Number of icons: 3950
+* Number of icons: 4027
 * Author: OpenMoji
 * URL: https://github.com/hfg-gmuend/openmoji
 * License: CC BY-SA 4.0

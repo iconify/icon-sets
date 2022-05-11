@@ -2,8 +2,8 @@
 	"prefix": "codicon",
 	"info": {
 		"name": "Codicons",
-		"total": 408,
-		"version": "0.0.29",
+		"total": 411,
+		"version": "0.0.30",
 		"author": {
 			"name": "Microsoft Corporation",
 			"url": "https://github.com/microsoft/vscode-codicons"
@@ -659,14 +659,23 @@
 		"layout-panel-left": {
 			"body": "<path fill=\"currentColor\" d=\"m1 2l1-1h12l1 1v12l-1 1H2l-1-1V2Zm1 0v8h8V2H2Zm9 0v12h3V2h-3Z\"/>"
 		},
+		"layout-panel-off": {
+			"body": "<path fill=\"currentColor\" d=\"M2 1L1 2v12l1 1h12l1-1V2l-1-1H2Zm0 9V2h12v8H2Zm0 1h12v3H2v-3Z\"/>"
+		},
 		"layout-panel-right": {
 			"body": "<path fill=\"currentColor\" d=\"m1 2l1-1h12l1 1v12l-1 1H2l-1-1V2Zm1 0v12h3V2H2Zm4 0v8h8V2H6Z\"/>"
 		},
 		"layout-sidebar-left": {
 			"body": "<path fill=\"currentColor\" fill-rule=\"evenodd\" d=\"M2 1L1 2v12l1 1h12l1-1V2l-1-1H2Zm12 13H7V2h7v12Z\" clip-rule=\"evenodd\"/>"
 		},
+		"layout-sidebar-left-off": {
+			"body": "<path fill=\"currentColor\" d=\"M2 1L1 2v12l1 1h12l1-1V2l-1-1H2Zm0 13V2h4v12H2Zm5 0V2h7v12H7Z\"/>"
+		},
 		"layout-sidebar-right": {
 			"body": "<path fill=\"currentColor\" fill-rule=\"evenodd\" d=\"M2 1L1 2v12l1 1h12l1-1V2l-1-1H2Zm0 13V2h7v12H2Z\" clip-rule=\"evenodd\"/>"
+		},
+		"layout-sidebar-right-off": {
+			"body": "<path fill=\"currentColor\" d=\"M2 1L1 2v12l1 1h12l1-1V2l-1-1H2Zm0 13V2h7v12H2Zm8 0V2h4v12h-4Z\"/>"
 		},
 		"layout-statusbar": {
 			"body": "<path fill=\"currentColor\" fill-rule=\"evenodd\" d=\"M2 1L1 2v12l1 1h12l1-1V2l-1-1H2Zm0 12V2h12v11H2Z\" clip-rule=\"evenodd\"/>"

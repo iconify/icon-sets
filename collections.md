@@ -237,12 +237,12 @@
 
 
 ### Akar Icons
-* Number of icons: 396
+* Number of icons: 398
 * Author: Arturo Wibawa
 * URL: https://github.com/artcoholic/akar-icons
 * License: MIT
 * License URL: https://github.com/artcoholic/akar-icons/blob/master/LICENSE
-* Version: 1.9.16
+* Version: 1.9.17
 * Palette: Colorless
 
 
@@ -306,7 +306,7 @@
 
 
 ### Material Line Icons
-* Number of icons: 252
+* Number of icons: 254
 * Author: Vjacheslav Trushkin
 * URL: https://github.com/cyberalien/line-md
 * License: MIT
@@ -587,7 +587,7 @@
 * URL: https://github.com/wikimedia/oojs-ui
 * License: MIT
 * License URL: https://github.com/wikimedia/oojs-ui/blob/master/LICENSE-MIT
-* Version: 0.43.2
+* Version: 0.44.0
 * Palette: Colorless
 
 
@@ -783,7 +783,7 @@
 
 
 ### Circle Flags
-* Number of icons: 356
+* Number of icons: 357
 * Author: HatScripts
 * URL: https://github.com/HatScripts/circle-flags
 * License: MIT

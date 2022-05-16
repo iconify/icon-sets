@@ -17,7 +17,7 @@
 * URL: https://github.com/material-icons/material-icons
 * License: Apache 2.0
 * License URL: https://github.com/material-icons/material-icons/blob/master/LICENSE
-* Version: 1.0.27
+* Version: 1.0.28
 * Palette: Colorless
 
 
@@ -65,7 +65,7 @@
 * URL: https://github.com/twbs/icons
 * License: MIT
 * License URL: https://github.com/twbs/icons/blob/main/LICENSE.md
-* Version: 1.8.1
+* Version: 1.8.2
 * Palette: Colorless
 
 
@@ -199,7 +199,7 @@
 
 
 ### Lucide
-* Number of icons: 607
+* Number of icons: 611
 * Author: Lucide Contributors
 * URL: https://github.com/lucide-icons/lucide
 * License: ISC
@@ -572,12 +572,12 @@
 
 
 ### Octicons
-* Number of icons: 496
+* Number of icons: 499
 * Author: GitHub
 * URL: https://github.com/primer/octicons/
 * License: MIT
 * License URL: https://github.com/primer/octicons/blob/main/LICENSE
-* Version: 17.1.0
+* Version: 17.2.0
 * Palette: Colorless
 
 
@@ -783,7 +783,7 @@
 
 
 ### Circle Flags
-* Number of icons: 357
+* Number of icons: 373
 * Author: HatScripts
 * URL: https://github.com/HatScripts/circle-flags
 * License: MIT

@@ -3843,6 +3843,12 @@
 		"calendar-export": {
 			"body": "<path fill=\"currentColor\" d=\"m12 22l4-4h-3v-6h-2v6H8M19 4h-1V2h-2v2H8V2H6v2H5a2 2 0 0 0-2 2v14a2 2 0 0 0 2 2h3v-2H5V9h14v11h-3v2h3a2 2 0 0 0 2-2V6a2 2 0 0 0-2-2Z\"/>"
 		},
+		"calendar-filter": {
+			"body": "<path fill=\"currentColor\" d=\"M19 21.44c0 .15-.03.31-.14.42l-.17.1l-.19.04l-.19-.04l-.16-.11l-1-1l-.12-.19l-.03-.22V17.5l-2.9-3.69c-.07-.1-.1-.24-.1-.37s.09-.25.19-.33l.31-.11h7l.31.11c.11.08.19.2.19.33s0 .27-.1.37L19 17.5v3.94M6 1h2v2h8V1h2v2h1a2 2 0 0 1 2 2v6h-2V8H5v11h10v2H5a2 2 0 0 1-2-2V5c0-1.1.9-2 2-2h1V1Z\"/>"
+		},
+		"calendar-filter-outline": {
+			"body": "<path fill=\"currentColor\" d=\"M18 3c1.11 0 2 .89 2 2v6h-2V9H4v10h10v2H3.75c-.44-.07-.85-.27-1.17-.58c-.31-.32-.51-.73-.58-1.17V4.75c.07-.44.27-.85.58-1.17c.32-.31.73-.51 1.17-.58H5V1h2v2h8V1h2v2h1m0 4V5H4v2h14m0 14.44c0 .15-.03.31-.14.42l-.17.1l-.19.04l-.19-.04l-.16-.11l-1-1l-.12-.19l-.03-.22V17.5l-2.9-3.69c-.07-.1-.1-.24-.1-.37s.09-.25.19-.33l.31-.11h7l.31.11c.11.08.19.2.19.33s0 .27-.1.37L18 17.5v3.94Z\"/>"
+		},
 		"calendar-heart": {
 			"body": "<path fill=\"currentColor\" d=\"M19 20V9H5v11h14M16 2h2v2h1a2 2 0 0 1 2 2v14a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V6a2 2 0 0 1 2-2h1V2h2v2h8V2m-4 16.17l-.58-.53C9.36 15.77 8 14.54 8 13.03c0-1.23.97-2.2 2.2-2.2c.7 0 1.36.32 1.8.83c.44-.51 1.1-.83 1.8-.83c1.23 0 2.2.97 2.2 2.2c0 1.51-1.36 2.74-3.42 4.61l-.58.53Z\"/>"
 		},
@@ -3941,10 +3947,12 @@
 			"body": "<path fill=\"currentColor\" d=\"M19 4c1.11 0 2 .89 2 2v14c0 1.11-.89 2-2 2H5a2 2 0 0 1-2-2V6a2 2 0 0 1 2-2h1V2h2v2h8V2h2v2h1m0 16V10H5v10h14m0-12V6H5v2h14M7 12h2v6H7v-6\"/>"
 		},
 		"calendar-week-end": {
-			"body": "<path fill=\"currentColor\" d=\"M5 8h14v11H5M6 1v2H5a2 2 0 0 0-2 2v14a2 2 0 0 0 2 2h14c1.11 0 2-.89 2-2V5c0-1.11-.89-2-2-2h-1V1h-2v2H8V1m7 16h2v-7h-2v7Z\"/>"
+			"body": "<path fill=\"currentColor\" d=\"M5 8h14v11H5M6 1v2H5a2 2 0 0 0-2 2v14a2 2 0 0 0 2 2h14c1.11 0 2-.89 2-2V5c0-1.11-.89-2-2-2h-1V1h-2v2H8V1m7 16h2v-7h-2v7Z\"/>",
+			"hidden": true
 		},
 		"calendar-week-end-outline": {
-			"body": "<path fill=\"currentColor\" d=\"M5 4h1V2h2v2h8V2h2v2h1c1.11 0 2 .89 2 2v14a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V6a2 2 0 0 1 2-2m0 16h14V10H5v10M5 8h14V6H5v2m12 4v6h-2v-6h2\"/>"
+			"body": "<path fill=\"currentColor\" d=\"M5 4h1V2h2v2h8V2h2v2h1c1.11 0 2 .89 2 2v14a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V6a2 2 0 0 1 2-2m0 16h14V10H5v10M5 8h14V6H5v2m12 4v6h-2v-6h2\"/>",
+			"hidden": true
 		},
 		"calendar-week-outline": {
 			"body": "<path fill=\"currentColor\" d=\"M5 4h1V2h2v2h8V2h2v2h1c1.11 0 2 .89 2 2v14a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V6a2 2 0 0 1 2-2m0 16h14V10H5v10M5 8h14V6H5v2m12 4v2H7v-2h10\"/>"
@@ -27237,7 +27245,7 @@
 			"parent": "calendar-week-end"
 		},
 		"event-week-end-outline": {
-			"parent": "calendar-week-end-outline"
+			"parent": "calendar-filter-outline"
 		},
 		"event-week-outline": {
 			"parent": "calendar-week-outline"
@@ -40271,6 +40279,8 @@
 		"f166c": "calendar-end",
 		"f189e": "calendar-expand-horizontal",
 		"f0b24": "calendar-export",
+		"f1a32": "calendar-filter",
+		"f1a33": "calendar-filter-outline",
 		"f09d2": "calendar-heart",
 		"f0b25": "calendar-import",
 		"f1641": "calendar-lock",
@@ -40302,8 +40312,6 @@
 		"f0a33": "calendar-week",
 		"f0a34": "calendar-week-begin",
 		"f1a31": "calendar-week-begin-outline",
-		"f1a32": "calendar-week-end",
-		"f1a33": "calendar-week-end-outline",
 		"f1a34": "calendar-week-outline",
 		"f0ed9": "calendar-weekend",
 		"f0eda": "calendar-weekend-outline",
@@ -48022,6 +48030,8 @@
 			"calendar-end",
 			"calendar-expand-horizontal",
 			"calendar-export",
+			"calendar-filter",
+			"calendar-filter-outline",
 			"calendar-heart",
 			"calendar-import",
 			"calendar-lock",
@@ -48053,8 +48063,6 @@
 			"calendar-week",
 			"calendar-week-begin",
 			"calendar-week-begin-outline",
-			"calendar-week-end",
-			"calendar-week-end-outline",
 			"calendar-week-outline",
 			"calendar-weekend",
 			"calendar-weekend-outline",

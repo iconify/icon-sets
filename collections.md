@@ -22,7 +22,7 @@
 
 
 ### Material Design Icons
-* Number of icons: 6938
+* Number of icons: 6944
 * Author: Austin Andrews
 * URL: https://github.com/Templarian/MaterialDesign
 * License: Apache 2.0
@@ -51,11 +51,11 @@
 
 
 ### Carbon
-* Number of icons: 1782
+* Number of icons: 1798
 * Author: IBM
 * URL: https://github.com/carbon-design-system/carbon/tree/main/packages/icons
 * License: Apache 2.0
-* Version: 11.2.0
+* Version: 11.3.0
 * Palette: Colorless
 
 
@@ -218,7 +218,7 @@
 
 
 ### System UIcons
-* Number of icons: 420
+* Number of icons: 430
 * Author: Corey Ginnivan
 * URL: https://github.com/CoreyGinnivan/system-uicons
 * License: Unlicense
@@ -448,47 +448,47 @@
 * URL: https://github.com/microsoft/fluentui-system-icons
 * License: MIT
 * License URL: https://github.com/microsoft/fluentui-system-icons/blob/master/LICENSE
-* Version: 1.1.169
+* Version: 1.1.170
 * Palette: Colorless
 
 
 ### IconPark Outline
-* Number of icons: 2437
+* Number of icons: 2657
 * Author: ByteDance
 * URL: https://github.com/bytedance/IconPark
 * License: Apache 2.0
 * License URL: https://github.com/bytedance/IconPark/blob/master/LICENSE
-* Version: 1.3.5
+* Version: 1.4.0
 * Palette: Colorless
 
 
 ### IconPark Solid
-* Number of icons: 1786
+* Number of icons: 1937
 * Author: ByteDance
 * URL: https://github.com/bytedance/IconPark
 * License: Apache 2.0
 * License URL: https://github.com/bytedance/IconPark/blob/master/LICENSE
-* Version: 1.3.5
+* Version: 1.4.0
 * Palette: Colorless
 
 
 ### IconPark TwoTone
-* Number of icons: 1767
+* Number of icons: 1915
 * Author: ByteDance
 * URL: https://github.com/bytedance/IconPark
 * License: Apache 2.0
 * License URL: https://github.com/bytedance/IconPark/blob/master/LICENSE
-* Version: 1.3.5
+* Version: 1.4.0
 * Palette: Colorless
 
 
 ### IconPark
-* Number of icons: 2437
+* Number of icons: 2657
 * Author: ByteDance
 * URL: https://github.com/bytedance/IconPark
 * License: Apache 2.0
 * License URL: https://github.com/bytedance/IconPark/blob/master/LICENSE
-* Version: 1.3.5
+* Version: 1.4.0
 * Palette: Colorful
 
 
@@ -697,12 +697,12 @@
 
 
 ### Simple Icons
-* Number of icons: 2246
+* Number of icons: 2251
 * Author: Simple Icons Collaborators
 * URL: https://github.com/simple-icons/simple-icons
 * License: CC0 1.0
 * License URL: https://github.com/simple-icons/simple-icons/blob/develop/LICENSE.md
-* Version: 6.21.0
+* Version: 6.22.0
 * Palette: Colorless
 
 
@@ -773,17 +773,17 @@
 
 
 ### Flag Icons
-* Number of icons: 526
+* Number of icons: 530
 * Author: Panayiotis Lipiridis
 * URL: https://github.com/lipis/flag-icons
 * License: MIT
 * License URL: https://github.com/lipis/flag-icons/blob/main/LICENSE
-* Version: 6.3.0
+* Version: 6.4.3
 * Palette: Colorful
 
 
 ### Circle Flags
-* Number of icons: 373
+* Number of icons: 389
 * Author: HatScripts
 * URL: https://github.com/HatScripts/circle-flags
 * License: MIT

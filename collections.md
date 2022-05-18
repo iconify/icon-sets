@@ -199,7 +199,7 @@
 
 
 ### Lucide
-* Number of icons: 611
+* Number of icons: 613
 * Author: Lucide Contributors
 * URL: https://github.com/lucide-icons/lucide
 * License: ISC
@@ -783,7 +783,7 @@
 
 
 ### Circle Flags
-* Number of icons: 389
+* Number of icons: 394
 * Author: HatScripts
 * URL: https://github.com/HatScripts/circle-flags
 * License: MIT

@@ -22,7 +22,7 @@
 
 
 ### Material Design Icons
-* Number of icons: 6944
+* Number of icons: 6945
 * Author: Austin Andrews
 * URL: https://github.com/Templarian/MaterialDesign
 * License: Apache 2.0
@@ -124,7 +124,7 @@
 * URL: https://github.com/lucaburgio/iconoir
 * License: MIT
 * License URL: https://github.com/lucaburgio/iconoir/blob/master/LICENSE
-* Version: 4.9.1
+* Version: 4.9.2
 * Palette: Colorless
 
 
@@ -199,7 +199,7 @@
 
 
 ### Lucide
-* Number of icons: 613
+* Number of icons: 624
 * Author: Lucide Contributors
 * URL: https://github.com/lucide-icons/lucide
 * License: ISC
@@ -443,7 +443,7 @@
 
 
 ### Fluent UI System Icons
-* Number of icons: 11378
+* Number of icons: 11422
 * Author: Microsoft Corporation
 * URL: https://github.com/microsoft/fluentui-system-icons
 * License: MIT
@@ -493,12 +493,12 @@
 
 
 ### VSCode Icons
-* Number of icons: 1123
+* Number of icons: 1138
 * Author: Roberto Huertas
 * URL: https://github.com/vscode-icons/vscode-icons
 * License: MIT
 * License URL: https://github.com/vscode-icons/vscode-icons/blob/master/LICENSE
-* Version: 11.11.0
+* Version: 11.12.0
 * Palette: Colorful
 
 
@@ -697,12 +697,12 @@
 
 
 ### Simple Icons
-* Number of icons: 2251
+* Number of icons: 2255
 * Author: Simple Icons Collaborators
 * URL: https://github.com/simple-icons/simple-icons
 * License: CC0 1.0
 * License URL: https://github.com/simple-icons/simple-icons/blob/develop/LICENSE.md
-* Version: 6.22.0
+* Version: 6.23.0
 * Palette: Colorless
 
 
@@ -783,7 +783,7 @@
 
 
 ### Circle Flags
-* Number of icons: 394
+* Number of icons: 413
 * Author: HatScripts
 * URL: https://github.com/HatScripts/circle-flags
 * License: MIT

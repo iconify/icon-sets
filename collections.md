@@ -22,7 +22,7 @@
 
 
 ### Material Design Icons
-* Number of icons: 6945
+* Number of icons: 6980
 * Author: Austin Andrews
 * URL: https://github.com/Templarian/MaterialDesign
 * License: Apache 2.0
@@ -272,7 +272,7 @@
 * URL: https://github.com/element-plus/element-plus-icons
 * License: MIT
 * License URL: https://github.com/element-plus/element-plus-icons/blob/main/packages/svg/package.json
-* Version: 1.1.4
+* Version: 2.0.0-beta.0
 * Palette: Colorless
 
 

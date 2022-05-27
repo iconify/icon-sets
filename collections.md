@@ -22,7 +22,7 @@
 
 
 ### Material Design Icons
-* Number of icons: 6980
+* Number of icons: 6990
 * Author: Austin Andrews
 * URL: https://github.com/Templarian/MaterialDesign
 * License: Apache 2.0
@@ -512,7 +512,7 @@
 
 
 ### Codicons
-* Number of icons: 411
+* Number of icons: 412
 * Author: Microsoft Corporation
 * URL: https://github.com/microsoft/vscode-codicons
 * License: CC BY 4.0
@@ -727,7 +727,7 @@
 
 
 ### Arcticons
-* Number of icons: 4238
+* Number of icons: 4274
 * Author: Donno
 * URL: https://github.com/Donno/Arcticons
 * License: CC BY-SA 4.0

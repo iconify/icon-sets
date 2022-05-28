@@ -2,7 +2,7 @@
 	"prefix": "line-md",
 	"info": {
 		"name": "Material Line Icons",
-		"total": 254,
+		"total": 256,
 		"version": "0.2.0",
 		"author": {
 			"name": "Vjacheslav Trushkin",
@@ -479,6 +479,12 @@
 		},
 		"list-indented": {
 			"body": "<g fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-width=\"2\"><path stroke-dasharray=\"14\" stroke-dashoffset=\"14\" d=\"M8 5H20\"><animate fill=\"freeze\" attributeName=\"stroke-dashoffset\" begin=\"0.1s\" dur=\"0.2s\" values=\"14;0\"/></path><path stroke-dasharray=\"12\" stroke-dashoffset=\"12\" d=\"M10 10H20\"><animate fill=\"freeze\" attributeName=\"stroke-dashoffset\" begin=\"0.4s\" dur=\"0.2s\" values=\"12;0\"/></path><path stroke-dasharray=\"10\" stroke-dashoffset=\"10\" d=\"M12 15H20\"><animate fill=\"freeze\" attributeName=\"stroke-dashoffset\" begin=\"0.7s\" dur=\"0.2s\" values=\"10;0\"/></path><path stroke-dasharray=\"8\" stroke-dashoffset=\"8\" d=\"M14 20H20\"><animate fill=\"freeze\" attributeName=\"stroke-dashoffset\" begin=\"1s\" dur=\"0.2s\" values=\"8;0\"/></path></g><g fill=\"currentColor\" fill-opacity=\"0\"><circle cx=\"4\" cy=\"5\" r=\"1\"><animate fill=\"freeze\" attributeName=\"fill-opacity\" dur=\"0.2s\" values=\"0;1\"/></circle><circle cx=\"6\" cy=\"10\" r=\"1\"><animate fill=\"freeze\" attributeName=\"fill-opacity\" begin=\"0.3s\" dur=\"0.2s\" values=\"0;1\"/></circle><circle cx=\"8\" cy=\"15\" r=\"1\"><animate fill=\"freeze\" attributeName=\"fill-opacity\" begin=\"0.6s\" dur=\"0.2s\" values=\"0;1\"/></circle><circle cx=\"10\" cy=\"20\" r=\"1\"><animate fill=\"freeze\" attributeName=\"fill-opacity\" begin=\"0.9s\" dur=\"0.2s\" values=\"0;1\"/></circle></g>"
+		},
+		"loading-loop": {
+			"body": "<path fill=\"none\" stroke=\"currentColor\" stroke-dasharray=\"15\" stroke-dashoffset=\"15\" stroke-linecap=\"round\" stroke-width=\"2\" d=\"M12 3C16.9706 3 21 7.02944 21 12\"><animate fill=\"freeze\" attributeName=\"stroke-dashoffset\" dur=\"0.3s\" values=\"15;0\"/><animateTransform attributeName=\"transform\" dur=\"1.5s\" repeatCount=\"indefinite\" type=\"rotate\" values=\"0 12 12;360 12 12\"/></path>"
+		},
+		"loading-twotone-loop": {
+			"body": "<g fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-width=\"2\"><path stroke-dasharray=\"60\" stroke-dashoffset=\"60\" stroke-opacity=\".3\" d=\"M12 3C16.9706 3 21 7.02944 21 12C21 16.9706 16.9706 21 12 21C7.02944 21 3 16.9706 3 12C3 7.02944 7.02944 3 12 3Z\"><animate fill=\"freeze\" attributeName=\"stroke-dashoffset\" dur=\"1.3s\" values=\"60;0\"/></path><path stroke-dasharray=\"15\" stroke-dashoffset=\"15\" d=\"M12 3C16.9706 3 21 7.02944 21 12\"><animate fill=\"freeze\" attributeName=\"stroke-dashoffset\" dur=\"0.3s\" values=\"15;0\"/><animateTransform attributeName=\"transform\" dur=\"1.5s\" repeatCount=\"indefinite\" type=\"rotate\" values=\"0 12 12;360 12 12\"/></path></g>"
 		},
 		"marker": {
 			"body": "<g fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path stroke-dasharray=\"44\" stroke-dashoffset=\"44\" stroke-width=\"2\" d=\"M6 14L17 3L21 7L10 18L6 14Z\"><animate fill=\"freeze\" attributeName=\"stroke-dashoffset\" dur=\"0.5s\" values=\"44;0\"/></path><path stroke-dasharray=\"20\" stroke-dashoffset=\"20\" d=\"M9 17L6.5 19.5H2.5L7 15\"><animate fill=\"freeze\" attributeName=\"stroke-dashoffset\" begin=\"0.6s\" dur=\"0.2s\" values=\"20;0\"/></path></g>"
@@ -1003,6 +1009,8 @@
 			"confirm-circle-twotone",
 			"construction",
 			"construction-twotone",
+			"loading-loop",
+			"loading-twotone-loop",
 			"minus",
 			"minus-circle",
 			"minus-circle-twotone",
@@ -1080,6 +1088,11 @@
 			"laptop",
 			"laptop-twotone"
 		]
+	},
+	"suffixes": {
+		"": "Fade In",
+		"out": "Fade Out",
+		"loop": "Loop"
 	},
 	"width": 24,
 	"height": 24

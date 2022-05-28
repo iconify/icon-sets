@@ -55,7 +55,7 @@
 * Author: IBM
 * URL: https://github.com/carbon-design-system/carbon/tree/main/packages/icons
 * License: Apache 2.0
-* Version: 11.3.0
+* Version: 11.4.0
 * Palette: Colorless
 
 
@@ -272,7 +272,7 @@
 * URL: https://github.com/element-plus/element-plus-icons
 * License: MIT
 * License URL: https://github.com/element-plus/element-plus-icons/blob/main/packages/svg/package.json
-* Version: 2.0.0-beta.0
+* Version: 2.0.0-beta.1
 * Palette: Colorless
 
 
@@ -306,7 +306,7 @@
 
 
 ### Material Line Icons
-* Number of icons: 254
+* Number of icons: 256
 * Author: Vjacheslav Trushkin
 * URL: https://github.com/cyberalien/line-md
 * License: MIT
@@ -778,7 +778,7 @@
 * URL: https://github.com/lipis/flag-icons
 * License: MIT
 * License URL: https://github.com/lipis/flag-icons/blob/main/LICENSE
-* Version: 6.4.3
+* Version: 6.4.4
 * Palette: Colorful
 
 

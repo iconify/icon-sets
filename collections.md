@@ -783,7 +783,7 @@
 
 
 ### Circle Flags
-* Number of icons: 413
+* Number of icons: 348
 * Author: HatScripts
 * URL: https://github.com/HatScripts/circle-flags
 * License: MIT

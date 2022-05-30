@@ -272,7 +272,7 @@
 * URL: https://github.com/element-plus/element-plus-icons
 * License: MIT
 * License URL: https://github.com/element-plus/element-plus-icons/blob/main/packages/svg/package.json
-* Version: 2.0.0-beta.1
+* Version: 2.0.1
 * Palette: Colorless
 
 
@@ -493,7 +493,7 @@
 
 
 ### VSCode Icons
-* Number of icons: 1138
+* Number of icons: 1139
 * Author: Roberto Huertas
 * URL: https://github.com/vscode-icons/vscode-icons
 * License: MIT
@@ -697,12 +697,12 @@
 
 
 ### Simple Icons
-* Number of icons: 2255
+* Number of icons: 2261
 * Author: Simple Icons Collaborators
 * URL: https://github.com/simple-icons/simple-icons
 * License: CC0 1.0
 * License URL: https://github.com/simple-icons/simple-icons/blob/develop/LICENSE.md
-* Version: 6.23.0
+* Version: 7.0.0
 * Palette: Colorless
 
 
@@ -783,7 +783,7 @@
 
 
 ### Circle Flags
-* Number of icons: 348
+* Number of icons: 349
 * Author: HatScripts
 * URL: https://github.com/HatScripts/circle-flags
 * License: MIT

@@ -3,7 +3,7 @@
 
 
 ### Material Symbols
-* Number of icons: 7702
+* Number of icons: 7988
 * Author: Google
 * URL: https://github.com/google/material-design-icons
 * License: Apache 2.0
@@ -85,7 +85,7 @@
 * URL: https://github.com/ionic-team/ionicons
 * License: MIT
 * License URL: https://github.com/ionic-team/ionicons/blob/main/LICENSE
-* Version: 6.0.0
+* Version: 6.0.2
 * Palette: Colorless
 
 

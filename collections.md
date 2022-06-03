@@ -199,7 +199,7 @@
 
 
 ### Lucide
-* Number of icons: 624
+* Number of icons: 646
 * Author: Lucide Contributors
 * URL: https://github.com/lucide-icons/lucide
 * License: ISC
@@ -316,7 +316,7 @@
 
 
 ### Charm Icons
-* Number of icons: 250
+* Number of icons: 255
 * Author: Jay Newey
 * URL: https://github.com/jaynewey/charm-icons
 * License: MIT

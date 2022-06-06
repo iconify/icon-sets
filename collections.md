@@ -272,7 +272,7 @@
 * URL: https://github.com/element-plus/element-plus-icons
 * License: MIT
 * License URL: https://github.com/element-plus/element-plus-icons/blob/main/packages/svg/package.json
-* Version: 2.0.1
+* Version: 2.0.5
 * Palette: Colorless
 
 
@@ -443,12 +443,12 @@
 
 
 ### Fluent UI System Icons
-* Number of icons: 11422
+* Number of icons: 11468
 * Author: Microsoft Corporation
 * URL: https://github.com/microsoft/fluentui-system-icons
 * License: MIT
 * License URL: https://github.com/microsoft/fluentui-system-icons/blob/master/LICENSE
-* Version: 1.1.170
+* Version: 1.1.172
 * Palette: Colorless
 
 
@@ -572,12 +572,12 @@
 
 
 ### Octicons
-* Number of icons: 499
+* Number of icons: 506
 * Author: GitHub
 * URL: https://github.com/primer/octicons/
 * License: MIT
 * License URL: https://github.com/primer/octicons/blob/main/LICENSE
-* Version: 17.2.0
+* Version: 17.3.0
 * Palette: Colorless
 
 
@@ -592,7 +592,7 @@
 
 
 ### Nimbus
-* Number of icons: 134
+* Number of icons: 135
 * Author: Linkedstore S.A.
 * URL: https://github.com/TiendaNube/nimbus-icons
 * License: MIT

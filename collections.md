@@ -199,7 +199,7 @@
 
 
 ### Lucide
-* Number of icons: 646
+* Number of icons: 647
 * Author: Lucide Contributors
 * URL: https://github.com/lucide-icons/lucide
 * License: ISC
@@ -395,7 +395,7 @@
 
 
 ### Maki
-* Number of icons: 207
+* Number of icons: 208
 * Author: Mapbox
 * URL: https://github.com/mapbox/maki
 * License: CC0
@@ -727,9 +727,9 @@
 
 
 ### Arcticons
-* Number of icons: 4274
-* Author: Donno
-* URL: https://github.com/Donno/Arcticons
+* Number of icons: 4304
+* Author: Donnnno
+* URL: https://github.com/Donnnno/Arcticons
 * License: CC BY-SA 4.0
 * License URL: https://creativecommons.org/licenses/by-sa/4.0/
 * Palette: Colorless

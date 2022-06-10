@@ -119,12 +119,12 @@
 
 
 ### Iconoir
-* Number of icons: 1091
+* Number of icons: 1151
 * Author: Luca Burgio
 * URL: https://github.com/lucaburgio/iconoir
 * License: MIT
 * License URL: https://github.com/lucaburgio/iconoir/blob/master/LICENSE
-* Version: 4.9.2
+* Version: 5.0.0
 * Palette: Colorless
 
 
@@ -199,7 +199,7 @@
 
 
 ### Lucide
-* Number of icons: 647
+* Number of icons: 648
 * Author: Lucide Contributors
 * URL: https://github.com/lucide-icons/lucide
 * License: ISC
@@ -208,7 +208,7 @@
 
 
 ### Pixelarticons
-* Number of icons: 460
+* Number of icons: 474
 * Author: Gerrit Halfmann
 * URL: https://github.com/halfmage/pixelarticons
 * License: MIT
@@ -778,7 +778,7 @@
 * URL: https://github.com/lipis/flag-icons
 * License: MIT
 * License URL: https://github.com/lipis/flag-icons/blob/main/LICENSE
-* Version: 6.4.4
+* Version: 6.4.5
 * Palette: Colorful
 
 

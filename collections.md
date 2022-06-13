@@ -55,7 +55,7 @@
 * Author: IBM
 * URL: https://github.com/carbon-design-system/carbon/tree/main/packages/icons
 * License: Apache 2.0
-* Version: 11.4.0
+* Version: 11.5.0
 * Palette: Colorless
 
 
@@ -199,7 +199,7 @@
 
 
 ### Lucide
-* Number of icons: 648
+* Number of icons: 655
 * Author: Lucide Contributors
 * URL: https://github.com/lucide-icons/lucide
 * License: ISC
@@ -306,7 +306,7 @@
 
 
 ### Material Line Icons
-* Number of icons: 256
+* Number of icons: 260
 * Author: Vjacheslav Trushkin
 * URL: https://github.com/cyberalien/line-md
 * License: MIT
@@ -602,7 +602,7 @@
 
 
 ### OpenMoji
-* Number of icons: 4027
+* Number of icons: 4053
 * Author: OpenMoji
 * URL: https://github.com/hfg-gmuend/openmoji
 * License: CC BY-SA 4.0
@@ -697,12 +697,12 @@
 
 
 ### Simple Icons
-* Number of icons: 2261
+* Number of icons: 2263
 * Author: Simple Icons Collaborators
 * URL: https://github.com/simple-icons/simple-icons
 * License: CC0 1.0
 * License URL: https://github.com/simple-icons/simple-icons/blob/develop/LICENSE.md
-* Version: 7.0.0
+* Version: 7.1.0
 * Palette: Colorless
 
 

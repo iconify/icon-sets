@@ -306,7 +306,7 @@
 
 
 ### Material Line Icons
-* Number of icons: 260
+* Number of icons: 277
 * Author: Vjacheslav Trushkin
 * URL: https://github.com/cyberalien/line-md
 * License: MIT
@@ -512,12 +512,12 @@
 
 
 ### Codicons
-* Number of icons: 412
+* Number of icons: 413
 * Author: Microsoft Corporation
 * URL: https://github.com/microsoft/vscode-codicons
 * License: CC BY 4.0
 * License URL: https://github.com/microsoft/vscode-codicons/blob/main/LICENSE
-* Version: 0.0.30
+* Version: 0.0.31
 * Palette: Colorless
 
 

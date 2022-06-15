@@ -3,7 +3,7 @@
 
 
 ### Material Symbols
-* Number of icons: 7988
+* Number of icons: 8001
 * Author: Google
 * URL: https://github.com/google/material-design-icons
 * License: Apache 2.0
@@ -70,12 +70,12 @@
 
 
 ### Tabler Icons
-* Number of icons: 1978
+* Number of icons: 1998
 * Author: Paweł Kuna
 * URL: https://github.com/tabler/tabler-icons
 * License: MIT
 * License URL: https://github.com/tabler/tabler-icons/blob/master/LICENSE
-* Version: 1.68.0
+* Version: 1.69.0
 * Palette: Colorless
 
 
@@ -199,7 +199,7 @@
 
 
 ### Lucide
-* Number of icons: 655
+* Number of icons: 625
 * Author: Lucide Contributors
 * URL: https://github.com/lucide-icons/lucide
 * License: ISC
@@ -302,16 +302,6 @@
 * License: MIT
 * License URL: https://gitlab.com/SUSE-UIUX/eos-icons/-/blob/master/LICENSE
 * Version: 5.4.0
-* Palette: Colorless
-
-
-### Material Line Icons
-* Number of icons: 277
-* Author: Vjacheslav Trushkin
-* URL: https://github.com/cyberalien/line-md
-* License: MIT
-* License URL: https://github.com/cyberalien/line-md/blob/master/license.txt
-* Version: 0.2.0
 * Palette: Colorless
 
 
@@ -601,6 +591,16 @@
 * Palette: Colorless
 
 
+### Material Line Icons
+* Number of icons: 298
+* Author: Vjacheslav Trushkin
+* URL: https://github.com/cyberalien/line-md
+* License: MIT
+* License URL: https://github.com/cyberalien/line-md/blob/master/license.txt
+* Version: 0.2.0
+* Palette: Colorless
+
+
 ### OpenMoji
 * Number of icons: 4053
 * Author: OpenMoji
@@ -778,7 +778,7 @@
 * URL: https://github.com/lipis/flag-icons
 * License: MIT
 * License URL: https://github.com/lipis/flag-icons/blob/main/LICENSE
-* Version: 6.4.5
+* Version: 6.4.6
 * Palette: Colorful
 
 

@@ -22,7 +22,7 @@
 
 
 ### Material Design Icons
-* Number of icons: 6990
+* Number of icons: 7001
 * Author: Austin Andrews
 * URL: https://github.com/Templarian/MaterialDesign
 * License: Apache 2.0
@@ -70,12 +70,12 @@
 
 
 ### Tabler Icons
-* Number of icons: 1998
+* Number of icons: 2016
 * Author: Paweł Kuna
 * URL: https://github.com/tabler/tabler-icons
 * License: MIT
 * License URL: https://github.com/tabler/tabler-icons/blob/master/LICENSE
-* Version: 1.69.0
+* Version: 1.70.0
 * Palette: Colorless
 
 
@@ -778,7 +778,7 @@
 * URL: https://github.com/lipis/flag-icons
 * License: MIT
 * License URL: https://github.com/lipis/flag-icons/blob/main/LICENSE
-* Version: 6.4.6
+* Version: 6.5.1
 * Palette: Colorful
 
 

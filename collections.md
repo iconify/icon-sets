@@ -237,12 +237,12 @@
 
 
 ### Akar Icons
-* Number of icons: 398
+* Number of icons: 402
 * Author: Arturo Wibawa
 * URL: https://github.com/artcoholic/akar-icons
 * License: MIT
 * License URL: https://github.com/artcoholic/akar-icons/blob/master/LICENSE
-* Version: 1.9.17
+* Version: 1.9.18
 * Palette: Colorless
 
 
@@ -433,52 +433,52 @@
 
 
 ### Fluent UI System Icons
-* Number of icons: 11468
+* Number of icons: 11546
 * Author: Microsoft Corporation
 * URL: https://github.com/microsoft/fluentui-system-icons
 * License: MIT
 * License URL: https://github.com/microsoft/fluentui-system-icons/blob/master/LICENSE
-* Version: 1.1.172
+* Version: 1.1.173
 * Palette: Colorless
 
 
 ### IconPark Outline
-* Number of icons: 2657
+* Number of icons: 2658
 * Author: ByteDance
 * URL: https://github.com/bytedance/IconPark
 * License: Apache 2.0
 * License URL: https://github.com/bytedance/IconPark/blob/master/LICENSE
-* Version: 1.4.0
+* Version: 1.4.1
 * Palette: Colorless
 
 
 ### IconPark Solid
-* Number of icons: 1937
+* Number of icons: 1965
 * Author: ByteDance
 * URL: https://github.com/bytedance/IconPark
 * License: Apache 2.0
 * License URL: https://github.com/bytedance/IconPark/blob/master/LICENSE
-* Version: 1.4.0
+* Version: 1.4.1
 * Palette: Colorless
 
 
 ### IconPark TwoTone
-* Number of icons: 1915
+* Number of icons: 1944
 * Author: ByteDance
 * URL: https://github.com/bytedance/IconPark
 * License: Apache 2.0
 * License URL: https://github.com/bytedance/IconPark/blob/master/LICENSE
-* Version: 1.4.0
+* Version: 1.4.1
 * Palette: Colorless
 
 
 ### IconPark
-* Number of icons: 2657
+* Number of icons: 2658
 * Author: ByteDance
 * URL: https://github.com/bytedance/IconPark
 * License: Apache 2.0
 * License URL: https://github.com/bytedance/IconPark/blob/master/LICENSE
-* Version: 1.4.0
+* Version: 1.4.1
 * Palette: Colorful
 
 
@@ -502,7 +502,7 @@
 
 
 ### Codicons
-* Number of icons: 413
+* Number of icons: 417
 * Author: Microsoft Corporation
 * URL: https://github.com/microsoft/vscode-codicons
 * License: CC BY 4.0
@@ -697,12 +697,12 @@
 
 
 ### Simple Icons
-* Number of icons: 2263
+* Number of icons: 2271
 * Author: Simple Icons Collaborators
 * URL: https://github.com/simple-icons/simple-icons
 * License: CC0 1.0
 * License URL: https://github.com/simple-icons/simple-icons/blob/develop/LICENSE.md
-* Version: 7.1.0
+* Version: 7.2.0
 * Palette: Colorless
 
 

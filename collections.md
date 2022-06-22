@@ -22,7 +22,7 @@
 
 
 ### Material Design Icons
-* Number of icons: 7001
+* Number of icons: 7008
 * Author: Austin Andrews
 * URL: https://github.com/Templarian/MaterialDesign
 * License: Apache 2.0
@@ -70,12 +70,12 @@
 
 
 ### Tabler Icons
-* Number of icons: 2016
+* Number of icons: 2034
 * Author: Paweł Kuna
 * URL: https://github.com/tabler/tabler-icons
 * License: MIT
 * License URL: https://github.com/tabler/tabler-icons/blob/master/LICENSE
-* Version: 1.70.0
+* Version: 1.71.0
 * Palette: Colorless
 
 
@@ -272,7 +272,7 @@
 * URL: https://github.com/element-plus/element-plus-icons
 * License: MIT
 * License URL: https://github.com/element-plus/element-plus-icons/blob/main/packages/svg/package.json
-* Version: 2.0.5
+* Version: 2.0.6
 * Palette: Colorless
 
 
@@ -385,7 +385,7 @@
 
 
 ### Maki
-* Number of icons: 208
+* Number of icons: 210
 * Author: Mapbox
 * URL: https://github.com/mapbox/maki
 * License: CC0
@@ -582,12 +582,12 @@
 
 
 ### Nimbus
-* Number of icons: 135
+* Number of icons: 136
 * Author: Linkedstore S.A.
 * URL: https://github.com/TiendaNube/nimbus-icons
 * License: MIT
 * License URL: https://github.com/TiendaNube/nimbus-icons/blob/develop/LICENSE
-* Version: 0.2.5
+* Version: 0.2.6
 * Palette: Colorless
 
 
@@ -778,7 +778,7 @@
 * URL: https://github.com/lipis/flag-icons
 * License: MIT
 * License URL: https://github.com/lipis/flag-icons/blob/main/LICENSE
-* Version: 6.5.1
+* Version: 6.6.0
 * Palette: Colorful
 
 

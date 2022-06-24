@@ -12,17 +12,17 @@
 
 
 ### Google Material Icons
-* Number of icons: 10945
+* Number of icons: 10950
 * Author: Material Design Authors
 * URL: https://github.com/material-icons/material-icons
 * License: Apache 2.0
 * License URL: https://github.com/material-icons/material-icons/blob/master/LICENSE
-* Version: 1.0.28
+* Version: 1.0.29
 * Palette: Colorless
 
 
 ### Material Design Icons
-* Number of icons: 7008
+* Number of icons: 7028
 * Author: Austin Andrews
 * URL: https://github.com/Templarian/MaterialDesign
 * License: Apache 2.0
@@ -778,12 +778,12 @@
 * URL: https://github.com/lipis/flag-icons
 * License: MIT
 * License URL: https://github.com/lipis/flag-icons/blob/main/LICENSE
-* Version: 6.6.0
+* Version: 6.6.2
 * Palette: Colorful
 
 
 ### Circle Flags
-* Number of icons: 349
+* Number of icons: 351
 * Author: HatScripts
 * URL: https://github.com/HatScripts/circle-flags
 * License: MIT

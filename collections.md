@@ -629,7 +629,7 @@
 
 
 ### Noto Emoji (v1)
-* Number of icons: 2157
+* Number of icons: 2162
 * Author: Google Inc
 * URL: https://github.com/googlefonts/noto-emoji
 * License: Apache 2.0

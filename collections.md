@@ -3,7 +3,7 @@
 
 
 ### Material Symbols
-* Number of icons: 8001
+* Number of icons: 8074
 * Author: Google
 * URL: https://github.com/google/material-design-icons
 * License: Apache 2.0
@@ -70,12 +70,12 @@
 
 
 ### Tabler Icons
-* Number of icons: 2034
+* Number of icons: 2052
 * Author: Paweł Kuna
 * URL: https://github.com/tabler/tabler-icons
 * License: MIT
 * License URL: https://github.com/tabler/tabler-icons/blob/master/LICENSE
-* Version: 1.71.0
+* Version: 1.72.0
 * Palette: Colorless
 
 
@@ -438,7 +438,7 @@
 * URL: https://github.com/microsoft/fluentui-system-icons
 * License: MIT
 * License URL: https://github.com/microsoft/fluentui-system-icons/blob/master/LICENSE
-* Version: 1.1.173
+* Version: 1.1.174
 * Palette: Colorless
 
 
@@ -587,12 +587,12 @@
 * URL: https://github.com/TiendaNube/nimbus-icons
 * License: MIT
 * License URL: https://github.com/TiendaNube/nimbus-icons/blob/develop/LICENSE
-* Version: 0.2.6
+* Version: 0.2.7
 * Palette: Colorless
 
 
 ### Material Line Icons
-* Number of icons: 298
+* Number of icons: 310
 * Author: Vjacheslav Trushkin
 * URL: https://github.com/cyberalien/line-md
 * License: MIT

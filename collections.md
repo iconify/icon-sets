@@ -502,7 +502,7 @@
 
 
 ### Codicons
-* Number of icons: 417
+* Number of icons: 418
 * Author: Microsoft Corporation
 * URL: https://github.com/microsoft/vscode-codicons
 * License: CC BY 4.0
@@ -688,7 +688,7 @@
 
 
 ### SVG Logos
-* Number of icons: 1438
+* Number of icons: 1449
 * Author: Gil Barbara
 * URL: https://github.com/gilbarbara/logos
 * License: CC0

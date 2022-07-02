@@ -3,7 +3,7 @@
 
 
 ### Material Symbols
-* Number of icons: 8074
+* Number of icons: 8087
 * Author: Google
 * URL: https://github.com/google/material-design-icons
 * License: Apache 2.0
@@ -433,12 +433,12 @@
 
 
 ### Fluent UI System Icons
-* Number of icons: 11546
+* Number of icons: 11648
 * Author: Microsoft Corporation
 * URL: https://github.com/microsoft/fluentui-system-icons
 * License: MIT
 * License URL: https://github.com/microsoft/fluentui-system-icons/blob/master/LICENSE
-* Version: 1.1.174
+* Version: 1.1.175
 * Palette: Colorless
 
 
@@ -512,12 +512,12 @@
 
 
 ### Pepicons
-* Number of icons: 410
+* Number of icons: 416
 * Author: CyCraft
 * URL: https://github.com/CyCraft/pepicons
 * License: CC BY 4.0
 * License URL: https://github.com/CyCraft/pepicons/blob/dev/LICENSE
-* Version: 1.1.0
+* Version: 1.1.2
 * Palette: Colorless
 
 
@@ -602,7 +602,7 @@
 
 
 ### OpenMoji
-* Number of icons: 4053
+* Number of icons: 4064
 * Author: OpenMoji
 * URL: https://github.com/hfg-gmuend/openmoji
 * License: CC BY-SA 4.0
@@ -688,7 +688,7 @@
 
 
 ### SVG Logos
-* Number of icons: 1449
+* Number of icons: 1478
 * Author: Gil Barbara
 * URL: https://github.com/gilbarbara/logos
 * License: CC0

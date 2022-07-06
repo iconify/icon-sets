@@ -12,17 +12,17 @@
 
 
 ### Google Material Icons
-* Number of icons: 10950
+* Number of icons: 10955
 * Author: Material Design Authors
 * URL: https://github.com/material-icons/material-icons
 * License: Apache 2.0
 * License URL: https://github.com/material-icons/material-icons/blob/master/LICENSE
-* Version: 1.0.29
+* Version: 1.0.30
 * Palette: Colorless
 
 
 ### Material Design Icons
-* Number of icons: 7028
+* Number of icons: 7033
 * Author: Austin Andrews
 * URL: https://github.com/Templarian/MaterialDesign
 * License: Apache 2.0
@@ -124,7 +124,7 @@
 * URL: https://github.com/lucaburgio/iconoir
 * License: MIT
 * License URL: https://github.com/lucaburgio/iconoir/blob/master/LICENSE
-* Version: 5.0.0
+* Version: 5.1.4
 * Palette: Colorless
 
 
@@ -134,7 +134,7 @@
 * URL: https://github.com/halfmage/majesticons
 * License: MIT
 * License URL: https://github.com/halfmage/majesticons/blob/main/LICENSE
-* Version: 2.1.1
+* Version: 2.1.2
 * Palette: Colorless
 
 
@@ -213,7 +213,7 @@
 * URL: https://github.com/halfmage/pixelarticons
 * License: MIT
 * License URL: https://github.com/halfmage/pixelarticons/blob/master/LICENSE
-* Version: 1.5.0
+* Version: 1.6.0
 * Palette: Colorless
 
 
@@ -385,12 +385,12 @@
 
 
 ### Maki
-* Number of icons: 210
+* Number of icons: 211
 * Author: Mapbox
 * URL: https://github.com/mapbox/maki
 * License: CC0
 * License URL: https://creativecommons.org/publicdomain/zero/1.0/
-* Version: 7.1.0
+* Version: 7.2.0
 * Palette: Colorless
 
 
@@ -448,7 +448,7 @@
 * URL: https://github.com/bytedance/IconPark
 * License: Apache 2.0
 * License URL: https://github.com/bytedance/IconPark/blob/master/LICENSE
-* Version: 1.4.1
+* Version: 1.4.2
 * Palette: Colorless
 
 
@@ -458,7 +458,7 @@
 * URL: https://github.com/bytedance/IconPark
 * License: Apache 2.0
 * License URL: https://github.com/bytedance/IconPark/blob/master/LICENSE
-* Version: 1.4.1
+* Version: 1.4.2
 * Palette: Colorless
 
 
@@ -468,7 +468,7 @@
 * URL: https://github.com/bytedance/IconPark
 * License: Apache 2.0
 * License URL: https://github.com/bytedance/IconPark/blob/master/LICENSE
-* Version: 1.4.1
+* Version: 1.4.2
 * Palette: Colorless
 
 
@@ -478,7 +478,7 @@
 * URL: https://github.com/bytedance/IconPark
 * License: Apache 2.0
 * License URL: https://github.com/bytedance/IconPark/blob/master/LICENSE
-* Version: 1.4.1
+* Version: 1.4.2
 * Palette: Colorful
 
 
@@ -592,12 +592,12 @@
 
 
 ### Material Line Icons
-* Number of icons: 310
+* Number of icons: 323
 * Author: Vjacheslav Trushkin
 * URL: https://github.com/cyberalien/line-md
 * License: MIT
 * License URL: https://github.com/cyberalien/line-md/blob/master/license.txt
-* Version: 0.2.0
+* Version: 0.2.2
 * Palette: Colorless
 
 
@@ -727,7 +727,7 @@
 
 
 ### Arcticons
-* Number of icons: 4304
+* Number of icons: 4310
 * Author: Donnnno
 * URL: https://github.com/Donnnno/Arcticons
 * License: CC BY-SA 4.0
@@ -778,7 +778,7 @@
 * URL: https://github.com/lipis/flag-icons
 * License: MIT
 * License URL: https://github.com/lipis/flag-icons/blob/main/LICENSE
-* Version: 6.6.2
+* Version: 6.6.3
 * Palette: Colorful
 
 

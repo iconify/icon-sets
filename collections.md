@@ -727,7 +727,7 @@
 
 
 ### Arcticons
-* Number of icons: 4310
+* Number of icons: 4436
 * Author: Donnnno
 * URL: https://github.com/Donnnno/Arcticons
 * License: CC BY-SA 4.0

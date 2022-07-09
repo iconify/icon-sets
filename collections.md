@@ -22,7 +22,7 @@
 
 
 ### Material Design Icons
-* Number of icons: 7033
+* Number of icons: 7070
 * Author: Austin Andrews
 * URL: https://github.com/Templarian/MaterialDesign
 * License: Apache 2.0
@@ -341,6 +341,16 @@
 * License: MIT
 * License URL: https://github.com/tailwindlabs/heroicons/blob/master/LICENSE
 * Version: 1.0.6
+* Palette: Colorless
+
+
+### Humbleicons
+* Number of icons: 223
+* Author: Jiří Zralý
+* URL: https://github.com/zraly/humbleicons
+* License: MIT
+* License URL: https://github.com/zraly/humbleicons/blob/master/license
+* Version: 1.7.0
 * Palette: Colorless
 
 

@@ -70,12 +70,12 @@
 
 
 ### Tabler Icons
-* Number of icons: 2052
+* Number of icons: 2088
 * Author: Paweł Kuna
 * URL: https://github.com/tabler/tabler-icons
 * License: MIT
 * License URL: https://github.com/tabler/tabler-icons/blob/master/LICENSE
-* Version: 1.72.0
+* Version: 1.74.0
 * Palette: Colorless
 
 
@@ -493,12 +493,12 @@
 
 
 ### VSCode Icons
-* Number of icons: 1139
+* Number of icons: 1144
 * Author: Roberto Huertas
 * URL: https://github.com/vscode-icons/vscode-icons
 * License: MIT
 * License URL: https://github.com/vscode-icons/vscode-icons/blob/master/LICENSE
-* Version: 11.12.0
+* Version: 11.13.0
 * Palette: Colorful
 
 

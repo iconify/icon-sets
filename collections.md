@@ -3,7 +3,7 @@
 
 
 ### Material Symbols
-* Number of icons: 8087
+* Number of icons: 8046
 * Author: Google
 * URL: https://github.com/google/material-design-icons
 * License: Apache 2.0
@@ -22,7 +22,7 @@
 
 
 ### Material Design Icons
-* Number of icons: 7070
+* Number of icons: 7096
 * Author: Austin Andrews
 * URL: https://github.com/Templarian/MaterialDesign
 * License: Apache 2.0
@@ -400,7 +400,7 @@
 * URL: https://github.com/mapbox/maki
 * License: CC0
 * License URL: https://creativecommons.org/publicdomain/zero/1.0/
-* Version: 7.2.0
+* Version: 8.0.0
 * Palette: Colorless
 
 
@@ -512,7 +512,7 @@
 
 
 ### Codicons
-* Number of icons: 418
+* Number of icons: 419
 * Author: Microsoft Corporation
 * URL: https://github.com/microsoft/vscode-codicons
 * License: CC BY 4.0
@@ -582,7 +582,7 @@
 
 
 ### OOUI
-* Number of icons: 322
+* Number of icons: 328
 * Author: OOUI Team
 * URL: https://github.com/wikimedia/oojs-ui
 * License: MIT
@@ -602,12 +602,12 @@
 
 
 ### Material Line Icons
-* Number of icons: 323
+* Number of icons: 332
 * Author: Vjacheslav Trushkin
 * URL: https://github.com/cyberalien/line-md
 * License: MIT
 * License URL: https://github.com/cyberalien/line-md/blob/master/license.txt
-* Version: 0.2.2
+* Version: 0.2.3
 * Palette: Colorless
 
 
@@ -698,7 +698,7 @@
 
 
 ### SVG Logos
-* Number of icons: 1478
+* Number of icons: 1475
 * Author: Gil Barbara
 * URL: https://github.com/gilbarbara/logos
 * License: CC0

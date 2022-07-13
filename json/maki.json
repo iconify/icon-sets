@@ -3,7 +3,7 @@
 	"info": {
 		"name": "Maki",
 		"total": 211,
-		"version": "7.2.0",
+		"version": "8.0.0",
 		"author": {
 			"name": "Mapbox",
 			"url": "https://github.com/mapbox/maki"
@@ -22,7 +22,7 @@
 		"category": "General",
 		"palette": false
 	},
-	"lastModified": 1657087357,
+	"lastModified": 1657691543,
 	"icons": {
 		"aerialway": {
 			"body": "<path fill=\"currentColor\" d=\"M13 5H8V2.6a1 1 0 0 0 .42-.46l5.08-.64a.5.5 0 0 0 0-1l-5.22.65a1 1 0 0 0-.78-.4a1 1 0 0 0-.92.62L1.5 2a.5.5 0 0 0 0 1l5.22-.65c.077.1.172.185.28.25V5H2a1 1 0 0 0-1 1v7a1 1 0 0 0 1 1h11a1 1 0 0 0 1-1V6a1 1 0 0 0-1-1zm-6 6H3V7h4v4zm5 0H8V7h4v4z\"/>"
@@ -1654,7 +1654,7 @@
 			"height": 11,
 			"hidden": true
 		},
-		"toll-booth": {
+		"toll": {
 			"body": "<path fill=\"currentColor\" d=\"M2.5 1a.5.5 0 0 0-.5.5V13h-.5a.5.5 0 0 0 0 1h7a.5.5 0 0 0 0-1H7v-2.901l6.776-4.553a.5.5 0 0 0 .136-.694l-.279-.415a.5.5 0 0 0-.693-.136L7 8.29V2h.5a.5.5 0 0 0 0-1h-5ZM3 3.5a.5.5 0 0 1 .5-.5h2a.5.5 0 0 1 .5.5v4a.5.5 0 0 1-.5.5h-2a.5.5 0 0 1-.5-.5v-4Z\"/>"
 		},
 		"town": {
@@ -2351,6 +2351,9 @@
 		},
 		"toilet-15": {
 			"parent": "toilet"
+		},
+		"toll-booth": {
+			"parent": "toll"
 		},
 		"town-15": {
 			"parent": "town"

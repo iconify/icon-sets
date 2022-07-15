@@ -21,7 +21,7 @@
 		"category": "General",
 		"palette": false
 	},
-	"lastModified": 1657692886,
+	"lastModified": 1657864188,
 	"icons": {
 		"ab-testing": {
 			"body": "<path fill=\"currentColor\" d=\"M4 2a2 2 0 0 0-2 2v8h2V8h2v4h2V4a2 2 0 0 0-2-2H4m0 2h2v2H4m18 9.5V14a2 2 0 0 0-2-2h-4v10h4a2 2 0 0 0 2-2v-1.5a1.54 1.54 0 0 0-1.5-1.5a1.54 1.54 0 0 0 1.5-1.5M20 20h-2v-2h2v2m0-4h-2v-2h2M5.79 21.61l-1.58-1.22l14-18l1.58 1.22Z\"/>"
@@ -24783,6 +24783,12 @@
 		"calendar-favorite": {
 			"parent": "calendar-star"
 		},
+		"calendar-help": {
+			"parent": "calendar-question"
+		},
+		"calendar-help-outline": {
+			"parent": "calendar-question-outline"
+		},
 		"calendar-multiple-tick": {
 			"parent": "calendar-multiple-check"
 		},
@@ -25292,6 +25298,12 @@
 		},
 		"chat-delete-outline": {
 			"parent": "forum-remove-outline"
+		},
+		"chat-help": {
+			"parent": "chat-question"
+		},
+		"chat-help-outline": {
+			"parent": "chat-question-outline"
 		},
 		"chat-subtract": {
 			"parent": "forum-minus"
@@ -26007,6 +26019,12 @@
 		"comment-add-outline": {
 			"parent": "comment-plus-outline"
 		},
+		"comment-help": {
+			"parent": "comment-question"
+		},
+		"comment-help-outline": {
+			"parent": "comment-question-outline"
+		},
 		"comment-next": {
 			"parent": "comment-arrow-right"
 		},
@@ -26147,6 +26165,9 @@
 		},
 		"control-point-duplicate": {
 			"parent": "plus-circle-multiple-outline"
+		},
+		"controlled-burn": {
+			"parent": "pine-tree-fire"
 		},
 		"controller-circle": {
 			"parent": "gamepad-circle"
@@ -28997,6 +29018,9 @@
 		},
 		"foreign-key": {
 			"parent": "key-link"
+		},
+		"forestry": {
+			"parent": "forest"
 		},
 		"forever": {
 			"parent": "all-inclusive"
@@ -33912,6 +33936,12 @@
 		"order-checkbox-descending": {
 			"parent": "order-bool-descending"
 		},
+		"organic": {
+			"parent": "leaf-circle"
+		},
+		"organic-outline": {
+			"parent": "leaf-circle-outline"
+		},
 		"outdoor-light": {
 			"parent": "outdoor-lamp"
 		},
@@ -34746,6 +34776,9 @@
 		"pill-tablet-outline": {
 			"parent": "minus-circle-outline"
 		},
+		"pine-tree-multiple": {
+			"parent": "forest"
+		},
 		"ping-pong": {
 			"parent": "table-tennis"
 		},
@@ -35537,6 +35570,12 @@
 		},
 		"refrigerator-top": {
 			"parent": "fridge-top"
+		},
+		"regeneration": {
+			"parent": "compost"
+		},
+		"regenerative-agriculture": {
+			"parent": "compost"
 		},
 		"register": {
 			"parent": "account-plus"
@@ -39728,6 +39767,9 @@
 		},
 		"wiiu": {
 			"parent": "nintendo-wiiu"
+		},
+		"wildfire": {
+			"parent": "pine-tree-fire"
 		},
 		"wind-electricity": {
 			"parent": "wind-power"
@@ -47319,6 +47361,8 @@
 			"beehive-off-outline",
 			"beehive-outline",
 			"beekeeper",
+			"car-lifted-pickup",
+			"car-pickup",
 			"carrot",
 			"chili-mild",
 			"compost",
@@ -47330,8 +47374,18 @@
 			"egg-off",
 			"egg-off-outline",
 			"egg-outline",
+			"fence",
+			"fence-electric",
+			"flower",
+			"flower-outline",
+			"flower-pollen",
+			"flower-pollen-outline",
+			"flower-poppy",
+			"flower-tulip",
+			"flower-tulip-outline",
 			"food-apple",
 			"food-apple-outline",
+			"forest",
 			"fruit-cherries",
 			"fruit-cherries-off",
 			"fruit-citrus",
@@ -47340,8 +47394,10 @@
 			"fruit-grapes-outline",
 			"fruit-pineapple",
 			"fruit-watermelon",
+			"grain",
 			"grass",
 			"greenhouse",
+			"heat-wave",
 			"home-silo",
 			"home-silo-outline",
 			"hoop-house",
@@ -47351,6 +47407,7 @@
 			"horse-variant",
 			"horse-variant-fast",
 			"horseshoe",
+			"hydro-power",
 			"land-fields",
 			"land-plots",
 			"land-plots-circle",
@@ -47372,6 +47429,9 @@
 			"pig",
 			"pig-variant",
 			"pig-variant-outline",
+			"pine-tree",
+			"pine-tree-box",
+			"pine-tree-fire",
 			"seed",
 			"seed-off",
 			"seed-off-outline",
@@ -47390,12 +47450,27 @@
 			"tire",
 			"tractor",
 			"tractor-variant",
+			"tree",
+			"tree-outline",
 			"turkey",
+			"water",
+			"water-alert",
+			"water-alert-outline",
 			"water-pump",
 			"water-pump-off",
 			"water-sync",
 			"watering-can",
-			"watering-can-outline"
+			"watering-can-outline",
+			"waves",
+			"weather-cloudy",
+			"weather-dust",
+			"weather-fog",
+			"weather-hail",
+			"weather-hazy",
+			"weather-hurricane",
+			"weather-lightning",
+			"weather-pouring",
+			"weather-rainy"
 		],
 		"Alert / Error": [
 			"account-alert",

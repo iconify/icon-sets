@@ -60,12 +60,12 @@
 
 
 ### Bootstrap Icons
-* Number of icons: 1668
+* Number of icons: 1805
 * Author: The Bootstrap Authors
 * URL: https://github.com/twbs/icons
 * License: MIT
 * License URL: https://github.com/twbs/icons/blob/main/LICENSE.md
-* Version: 1.8.3
+* Version: 1.9.0
 * Palette: Colorless
 
 
@@ -587,7 +587,7 @@
 * URL: https://github.com/wikimedia/oojs-ui
 * License: MIT
 * License URL: https://github.com/wikimedia/oojs-ui/blob/master/LICENSE-MIT
-* Version: 0.44.0
+* Version: 0.44.1
 * Palette: Colorless
 
 
@@ -698,7 +698,7 @@
 
 
 ### SVG Logos
-* Number of icons: 1475
+* Number of icons: 1488
 * Author: Gil Barbara
 * URL: https://github.com/gilbarbara/logos
 * License: CC0
@@ -788,7 +788,7 @@
 * URL: https://github.com/lipis/flag-icons
 * License: MIT
 * License URL: https://github.com/lipis/flag-icons/blob/main/LICENSE
-* Version: 6.6.3
+* Version: 6.6.4
 * Palette: Colorful
 
 

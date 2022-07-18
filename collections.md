@@ -22,7 +22,7 @@
 
 
 ### Material Design Icons
-* Number of icons: 7096
+* Number of icons: 7099
 * Author: Austin Andrews
 * URL: https://github.com/Templarian/MaterialDesign
 * License: Apache 2.0
@@ -60,22 +60,22 @@
 
 
 ### Bootstrap Icons
-* Number of icons: 1805
+* Number of icons: 1811
 * Author: The Bootstrap Authors
 * URL: https://github.com/twbs/icons
 * License: MIT
 * License URL: https://github.com/twbs/icons/blob/main/LICENSE.md
-* Version: 1.9.0
+* Version: 1.9.1
 * Palette: Colorless
 
 
 ### Tabler Icons
-* Number of icons: 2088
+* Number of icons: 2124
 * Author: Paweł Kuna
 * URL: https://github.com/tabler/tabler-icons
 * License: MIT
 * License URL: https://github.com/tabler/tabler-icons/blob/master/LICENSE
-* Version: 1.74.0
+* Version: 1.76.0
 * Palette: Colorless
 
 
@@ -443,12 +443,12 @@
 
 
 ### Fluent UI System Icons
-* Number of icons: 11648
+* Number of icons: 11676
 * Author: Microsoft Corporation
 * URL: https://github.com/microsoft/fluentui-system-icons
 * License: MIT
 * License URL: https://github.com/microsoft/fluentui-system-icons/blob/master/LICENSE
-* Version: 1.1.175
+* Version: 1.1.176
 * Palette: Colorless
 
 

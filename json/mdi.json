@@ -2,7 +2,7 @@
 	"prefix": "mdi",
 	"info": {
 		"name": "Material Design Icons",
-		"total": 7096,
+		"total": 7099,
 		"author": {
 			"name": "Austin Andrews",
 			"url": "https://github.com/Templarian/MaterialDesign"
@@ -21,7 +21,7 @@
 		"category": "General",
 		"palette": false
 	},
-	"lastModified": 1657864188,
+	"lastModified": 1658119761,
 	"icons": {
 		"ab-testing": {
 			"body": "<path fill=\"currentColor\" d=\"M4 2a2 2 0 0 0-2 2v8h2V8h2v4h2V4a2 2 0 0 0-2-2H4m0 2h2v2H4m18 9.5V14a2 2 0 0 0-2-2h-4v10h4a2 2 0 0 0 2-2v-1.5a1.54 1.54 0 0 0-1.5-1.5a1.54 1.54 0 0 0 1.5-1.5M20 20h-2v-2h2v2m0-4h-2v-2h2M5.79 21.61l-1.58-1.22l14-18l1.58 1.22Z\"/>"
@@ -2037,6 +2037,9 @@
 		},
 		"augmented-reality": {
 			"body": "<path fill=\"currentColor\" d=\"M5 3a2 2 0 0 0-2 2v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2V5a2 2 0 0 0-2-2H5m2 6h3c.6 0 1 .5 1 1v5H9.5v-1.5h-2V15H6v-5c0-.5.4-1 1-1m6 0h3.5c.85 0 1.5.65 1.5 1.5v1c0 .6-.4 1.15-.9 1.4L18 15h-1.5l-.85-2H14.5v2H13V9m-5.5 1.5V12h2v-1.5h-2m7 0v1h2v-1h-2\"/>"
+		},
+		"aurora": {
+			"body": "<path fill=\"currentColor\" d=\"M2 3c.55 0 1 .45 1 1v9h2V5c0-.55.45-1 1-1s1 .45 1 1v8h2V6c0-.55.45-1 1-1s1 .45 1 1v7h1.5c.17 0 .34 0 .5.05V7c0-.55.45-1 1-1s1 .45 1 1v8.5a2.5 2.5 0 0 1-2.5 2.5h-1c-.28 0-.5.22-.5.5s.22.5.5.5H17V8c0-.55.45-1 1-1s1 .45 1 1v11h2V9c0-.55.45-1 1-1s1 .45 1 1v11c0 .55-.45 1-1 1H11.5a2.5 2.5 0 0 1 0-5h1c.28 0 .5-.22.5-.5s-.22-.5-.5-.5H2c-.55 0-1-.45-1-1V4c0-.55.45-1 1-1Z\"/>"
 		},
 		"auto-download": {
 			"body": "<path fill=\"currentColor\" d=\"M22 17v2H11v-2h11M19 4.5v5h3L16.5 15L11 9.5h3v-5h5M10.7 15H8.8l-.7-2H4.9l-.7 2H2.3l3.2-9h2l3.2 9m-3.05-3.35L6.5 8l-1.15 3.65h2.3Z\"/>"
@@ -20159,6 +20162,12 @@
 		"tooltip-plus-outline": {
 			"body": "<path fill=\"currentColor\" d=\"M4 2h16a2 2 0 0 1 2 2v12a2 2 0 0 1-2 2h-4l-4 4l-4-4H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2m0 2v12h4.83L12 19.17L15.17 16H20V4H4m7 2h2v3h3v2h-3v3h-2v-3H8V9h3V6Z\"/>"
 		},
+		"tooltip-question": {
+			"body": "<path fill=\"currentColor\" d=\"M20 2H4c-.53 0-1.04.21-1.41.59C2.21 2.96 2 3.47 2 4v12c0 .53.21 1.04.59 1.41c.37.38.88.59 1.41.59h4l4 4l4-4h4c.53 0 1.04-.21 1.41-.59S22 16.53 22 16V4c0-.53-.21-1.04-.59-1.41C21.04 2.21 20.53 2 20 2m-9.95 4.04c.54-.36 1.25-.54 2.14-.54c.94 0 1.69.21 2.23.62c.54.42.81.98.81 1.68c0 .44-.15.83-.44 1.2c-.29.36-.67.64-1.13.85c-.26.15-.43.3-.52.47c-.09.18-.14.4-.14.68h-2c0-.5.1-.84.29-1.08c.21-.24.55-.52 1.07-.84c.26-.14.47-.32.64-.54c.14-.21.22-.46.22-.74c0-.3-.09-.52-.27-.69c-.18-.18-.45-.26-.76-.26c-.27 0-.49.07-.69.21c-.16.14-.26.35-.26.63H9.27c-.05-.69.23-1.29.78-1.65M11 14v-2h2v2Z\"/>"
+		},
+		"tooltip-question-outline": {
+			"body": "<path fill=\"currentColor\" d=\"M20 2H4c-.53 0-1.04.21-1.41.59C2.21 2.96 2 3.47 2 4v12c0 .53.21 1.04.59 1.41c.37.38.88.59 1.41.59h4l4 4l4-4h4c.53 0 1.04-.21 1.41-.59S22 16.53 22 16V4c0-.53-.21-1.04-.59-1.41C21.04 2.21 20.53 2 20 2M4 16V4h16v12h-4.83L12 19.17L8.83 16m1.22-9.96c.54-.36 1.25-.54 2.14-.54c.94 0 1.69.21 2.23.62c.54.42.81.98.81 1.68c0 .44-.15.83-.44 1.2c-.29.36-.67.64-1.13.85c-.26.15-.43.3-.52.47c-.09.18-.14.4-.14.68h-2c0-.5.1-.84.29-1.08c.21-.24.55-.52 1.07-.84c.26-.14.47-.32.64-.54c.14-.21.22-.46.22-.74c0-.3-.09-.52-.27-.69c-.18-.18-.45-.26-.76-.26c-.27 0-.49.07-.69.21c-.16.14-.26.35-.26.63H9.27c-.05-.69.23-1.29.78-1.65M11 14v-2h2v2Z\"/>"
+		},
 		"tooltip-remove": {
 			"body": "<path fill=\"currentColor\" d=\"M20 2H4c-1.1 0-2 .9-2 2v12a2 2 0 0 0 2 2h4l4 4l4-4h4c1.11 0 2-.89 2-2V4a2 2 0 0 0-2-2m-4.46 10.12l-1.42 1.42L12 11.41l-2.12 2.13l-1.41-1.42L10.59 10L8.46 7.88l1.42-1.41L12 8.59l2.12-2.12l1.42 1.41L13.41 10l2.13 2.12Z\"/>"
 		},
@@ -23522,6 +23531,12 @@
 		},
 		"audiobook": {
 			"parent": "book-music"
+		},
+		"aurora-australis": {
+			"parent": "aurora"
+		},
+		"aurora-borealis": {
+			"parent": "aurora"
 		},
 		"auto-awesome": {
 			"parent": "creation"
@@ -33270,6 +33285,9 @@
 		"nordic-walking": {
 			"parent": "ski-cross-country"
 		},
+		"northern-lights": {
+			"parent": "aurora"
+		},
 		"not-protected": {
 			"parent": "lock-off"
 		},
@@ -34275,6 +34293,12 @@
 		"password-warning-outline": {
 			"parent": "lock-alert-outline"
 		},
+		"patient": {
+			"parent": "account-injury"
+		},
+		"patient-outline": {
+			"parent": "account-injury-outline"
+		},
 		"patio": {
 			"parent": "balcony"
 		},
@@ -34988,6 +35012,9 @@
 		},
 		"poker-spade": {
 			"parent": "cards-spade"
+		},
+		"polar-lights": {
+			"parent": "aurora"
 		},
 		"poll-box": {
 			"parent": "chart-box"
@@ -37104,6 +37131,9 @@
 		"source-repositories": {
 			"parent": "source-repository-multiple"
 		},
+		"southern-lights": {
+			"parent": "aurora"
+		},
 		"soya-sauce": {
 			"parent": "soy-sauce"
 		},
@@ -38384,6 +38414,12 @@
 		},
 		"tooltip-add-outline": {
 			"parent": "tooltip-plus-outline"
+		},
+		"tooltip-help": {
+			"parent": "tooltip-question"
+		},
+		"tooltip-help-outline": {
+			"parent": "tooltip-question-outline"
 		},
 		"tooltip-outline-plus": {
 			"parent": "tooltip-plus-outline"
@@ -40723,6 +40759,7 @@
 		"f093d": "audio-video",
 		"f11b6": "audio-video-off",
 		"f0850": "augmented-reality",
+		"f1bb9": "aurora",
 		"f137e": "auto-download",
 		"f0068": "auto-fix",
 		"f0069": "auto-upload",
@@ -46554,6 +46591,8 @@
 		"f0526": "tooltip-outline",
 		"f0bd6": "tooltip-plus",
 		"f0527": "tooltip-plus-outline",
+		"f1bba": "tooltip-question",
+		"f1bbb": "tooltip-question-outline",
 		"f1560": "tooltip-remove",
 		"f1561": "tooltip-remove-outline",
 		"f0528": "tooltip-text",
@@ -52534,6 +52573,7 @@
 		"Science": [
 			"atom",
 			"atom-variant",
+			"aurora",
 			"bacteria",
 			"bacteria-outline",
 			"beaker",
@@ -53249,6 +53289,8 @@
 			"tooltip-outline",
 			"tooltip-plus",
 			"tooltip-plus-outline",
+			"tooltip-question",
+			"tooltip-question-outline",
 			"tooltip-remove",
 			"tooltip-remove-outline",
 			"tooltip-text",
@@ -53695,6 +53737,7 @@
 			"view-week-outline"
 		],
 		"Weather": [
+			"aurora",
 			"broadcast",
 			"broadcast-off",
 			"cloud",

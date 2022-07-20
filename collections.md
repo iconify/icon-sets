@@ -3,7 +3,7 @@
 
 
 ### Material Symbols
-* Number of icons: 8046
+* Number of icons: 8065
 * Author: Google
 * URL: https://github.com/google/material-design-icons
 * License: Apache 2.0
@@ -698,7 +698,7 @@
 
 
 ### SVG Logos
-* Number of icons: 1488
+* Number of icons: 1493
 * Author: Gil Barbara
 * URL: https://github.com/gilbarbara/logos
 * License: CC0

@@ -51,11 +51,11 @@
 
 
 ### Carbon
-* Number of icons: 1798
+* Number of icons: 1799
 * Author: IBM
 * URL: https://github.com/carbon-design-system/carbon/tree/main/packages/icons
 * License: Apache 2.0
-* Version: 11.5.0
+* Version: 11.6.0
 * Palette: Colorless
 
 
@@ -70,12 +70,12 @@
 
 
 ### Tabler Icons
-* Number of icons: 2124
+* Number of icons: 2160
 * Author: Paweł Kuna
 * URL: https://github.com/tabler/tabler-icons
 * License: MIT
 * License URL: https://github.com/tabler/tabler-icons/blob/master/LICENSE
-* Version: 1.76.0
+* Version: 1.78.0
 * Palette: Colorless
 
 
@@ -345,7 +345,7 @@
 
 
 ### Humbleicons
-* Number of icons: 223
+* Number of icons: 227
 * Author: Jiří Zralý
 * URL: https://github.com/zraly/humbleicons
 * License: MIT
@@ -448,7 +448,7 @@
 * URL: https://github.com/microsoft/fluentui-system-icons
 * License: MIT
 * License URL: https://github.com/microsoft/fluentui-system-icons/blob/master/LICENSE
-* Version: 1.1.176
+* Version: 1.1.177
 * Palette: Colorless
 
 
@@ -512,7 +512,7 @@
 
 
 ### Codicons
-* Number of icons: 419
+* Number of icons: 421
 * Author: Microsoft Corporation
 * URL: https://github.com/microsoft/vscode-codicons
 * License: CC BY 4.0
@@ -572,7 +572,7 @@
 
 
 ### Octicons
-* Number of icons: 506
+* Number of icons: 507
 * Author: GitHub
 * URL: https://github.com/primer/octicons/
 * License: MIT
@@ -707,12 +707,12 @@
 
 
 ### Simple Icons
-* Number of icons: 2287
+* Number of icons: 2299
 * Author: Simple Icons Collaborators
 * URL: https://github.com/simple-icons/simple-icons
 * License: CC0 1.0
 * License URL: https://github.com/simple-icons/simple-icons/blob/develop/LICENSE.md
-* Version: 7.4.0
+* Version: 7.5.0
 * Palette: Colorless
 
 

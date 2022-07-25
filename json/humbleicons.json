@@ -2,7 +2,7 @@
 	"prefix": "humbleicons",
 	"info": {
 		"name": "Humbleicons",
-		"total": 223,
+		"total": 227,
 		"version": "1.7.0",
 		"author": {
 			"name": "Jiří Zralý",
@@ -22,7 +22,7 @@
 		"category": "General",
 		"palette": false
 	},
-	"lastModified": 1657347392,
+	"lastModified": 1658727015,
 	"icons": {
 		"activity": {
 			"body": "<path fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" d=\"M3 12h4l3-9l4 18l3-9h4\"/>"
@@ -384,6 +384,9 @@
 		"flag": {
 			"body": "<g fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-width=\"2\"><path d=\"M6 5v15\"/><path stroke-linejoin=\"round\" d=\"M13 5.5V4H7a1 1 0 0 0-1 1v8h7v1.5h7v-9h-7zm0 0v3\"/></g>"
 		},
+		"flash": {
+			"body": "<path fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" d=\"m12 3l-3 8l6.5-1L12 21m0 0l3.5-2.5M12 21l-1.5-4\"/>"
+		},
 		"flask": {
 			"body": "<g fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\"><path stroke-linejoin=\"round\" d=\"M9.5 10V4h5v6l4.743 5.174A2.88 2.88 0 0 1 17.12 20H6.88a2.88 2.88 0 0 1-2.123-4.826L9.5 10z\"/><path stroke-linecap=\"round\" d=\"M8.5 4h7\"/><path d=\"M6 14c3.5 2 4 0 6 0s2.5 2 6 0\"/></g>"
 		},
@@ -500,6 +503,9 @@
 		},
 		"navigation": {
 			"body": "<path fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" d=\"m5 11l14-6l-6 14l-2-6l-6-2Z\"/>"
+		},
+		"package": {
+			"body": "<path fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" d=\"m4 8l8 4M4 8v8l8 4M4 8l4-2m4 6l4-2m-4 2v8m8-12l-8-4l-4 2m12 2v8l-8 4m8-12l-4 2m0 0L8 6\"/>"
 		},
 		"pause": {
 			"body": "<path fill=\"none\" stroke=\"currentColor\" stroke-linejoin=\"round\" stroke-width=\"2\" d=\"M6 6h4v12H6V6Zm8 0h4v12h-4V6Z\"/>"
@@ -665,6 +671,12 @@
 		},
 		"verified": {
 			"body": "<path fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" d=\"M8.5 12.5L11 15l4.5-4.5m-.595-5.512l-.48-.659a3 3 0 0 0-4.85 0l-.48.659l-.804-.127a3 3 0 0 0-3.43 3.43l.127.804l-.659.48a3 3 0 0 0 0 4.85l.659.48l-.127.804a3 3 0 0 0 3.43 3.43l.804-.127l.48.659a3 3 0 0 0 4.85 0l.48-.659l.804.127a3 3 0 0 0 3.43-3.43l-.127-.804l.659-.48a3 3 0 0 0 0-4.85l-.659-.48l.127-.804a3 3 0 0 0-3.43-3.43l-.804.127z\"/>"
+		},
+		"view-grid": {
+			"body": "<path fill=\"none\" stroke=\"currentColor\" stroke-linejoin=\"round\" stroke-width=\"2\" d=\"M4 10.5V4h6v6.5H4Zm10 0V4h6v6.5h-6Zm-10 10V14h6v6.5H4Zm10 0V14h6v6.5h-6Z\"/>"
+		},
+		"view-list": {
+			"body": "<path fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" d=\"M4 6h16M4 10h16M4 14h16M4 18h16\"/>"
 		},
 		"volume": {
 			"body": "<path fill=\"none\" stroke=\"currentColor\" stroke-linejoin=\"round\" stroke-width=\"2\" d=\"M10 9H7v6h3l5 4V5l-5 4z\"/>"

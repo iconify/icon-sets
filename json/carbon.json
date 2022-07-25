@@ -2,8 +2,8 @@
 	"prefix": "carbon",
 	"info": {
 		"name": "Carbon",
-		"total": 1798,
-		"version": "11.5.0",
+		"total": 1799,
+		"version": "11.6.0",
 		"author": {
 			"name": "IBM",
 			"url": "https://github.com/carbon-design-system/carbon/tree/main/packages/icons"
@@ -22,7 +22,7 @@
 		"category": "General",
 		"palette": false
 	},
-	"lastModified": 1656181516,
+	"lastModified": 1658726829,
 	"icons": {
 		"3d-cursor": {
 			"body": "<path d=\"M13 4H4v9.01h2V6h7V4z\" fill=\"currentColor\"/><path d=\"M29.49 13.12l-9-5a1 1 0 0 0-1 0l-9 5A1 1 0 0 0 10 14v10a1 1 0 0 0 .52.87l9 5A1 1 0 0 0 20 30a1.05 1.05 0 0 0 .49-.13l9-5A1 1 0 0 0 30 24V14a1 1 0 0 0-.51-.88zM19 27.3l-7-3.89v-7.72l7 3.89zm1-9.45L13.06 14L20 10.14L26.94 14zm8 5.56l-7 3.89v-7.72l7-3.89z\" fill=\"currentColor\"/>",
@@ -2621,6 +2621,9 @@
 		},
 		"ibm-cloud-internet-services": {
 			"body": "<path fill=\"currentColor\" d=\"M27.798 10a10 10 0 0 0-19.62.124A7.496 7.496 0 0 0 9.5 25H11v-2H9.5a5.496 5.496 0 0 1-.377-10.98l.837-.057l.09-.833A7.993 7.993 0 0 1 25.736 10Z\"/><path fill=\"currentColor\" d=\"M27 24a2.972 2.972 0 0 0-1.925.719l-4.101-2.461c.007-.086.026-.17.026-.258s-.019-.17-.026-.257l4.102-2.46A2.971 2.971 0 0 0 27 20a3.021 3.021 0 1 0-2.943-2.438l-3.912 2.347a3 3 0 1 0-.001 4.183l3.913 2.348A2.998 2.998 0 1 0 27 24Zm0-8a1 1 0 1 1-1 1a1 1 0 0 1 1-1Zm-9 7a1 1 0 1 1 1-1a1 1 0 0 1-1 1Zm9 5a1 1 0 1 1 1-1a1 1 0 0 1-1 1Z\"/>"
+		},
+		"ibm-cloud-kubernetes-service": {
+			"body": "<path fill=\"currentColor\" d=\"M16 23c-.2 0-.4 0-.5-.1l-5-3c-.3-.2-.5-.5-.5-.9v-6c0-.4.2-.7.5-.9l5-3c.1-.1.3-.1.5-.1s.4 0 .5.1l5 3c.3.2.5.5.5.9v6c0 .4-.2.7-.5.9l-5 3c-.1.1-.3.1-.5.1zm-4-4.6l4 2.4l4-2.4v-4.9l-4-2.4l-4 2.4v4.9z\"/><path fill=\"currentColor\" d=\"M16 31c-.2 0-.3 0-.5-.1l-12-7c-.3-.2-.5-.5-.5-.9V9c0-.4.2-.7.5-.9l12-7c.2-.1.3-.1.5-.1s.3 0 .5.1l12 7l-1 1.7L16 3.2L5 9.6v12.9l11 6.4l11-6.4V15h2v8c0 .4-.2.7-.5.9l-12 7c-.2.1-.3.1-.5.1z\"/>"
 		},
 		"ibm-cloud-pak-applications": {
 			"body": "<path fill=\"currentColor\" d=\"M21 22h-6a2.002 2.002 0 0 1-2-2v-4a2.002 2.002 0 0 1 2-2h6a2.002 2.002 0 0 1 2 2v4a2.002 2.002 0 0 1-2 2Zm-6-6v4h6v-4Z\"/><path fill=\"currentColor\" d=\"M11 17H9v-5a2.002 2.002 0 0 1 2-2h6v2h-6Z\"/><path fill=\"currentColor\" d=\"M16 31a.999.999 0 0 1-.504-.136l-12-7A1 1 0 0 1 3 23V9a1 1 0 0 1 .496-.864l12-7a1 1 0 0 1 1.008 0l12 7l-1.008 1.728L16 3.158L5 9.574v12.852l11 6.417l11-6.417V15h2v8a1 1 0 0 1-.496.864l-12 7A.999.999 0 0 1 16 31Z\"/>"
@@ -6593,6 +6596,7 @@
 			"health-cross",
 			"ibm-cloud-dedicated-host",
 			"ibm-cloud-internet-services",
+			"ibm-cloud-kubernetes-service",
 			"ibm-cloud-pak-applications",
 			"ibm-cloud-pak-business-automation",
 			"ibm-cloud-pak-data",

@@ -75,7 +75,7 @@
 * URL: https://github.com/tabler/tabler-icons
 * License: MIT
 * License URL: https://github.com/tabler/tabler-icons/blob/master/LICENSE
-* Version: 1.78.0
+* Version: 1.78.1
 * Palette: Colorless
 
 
@@ -552,22 +552,22 @@
 
 
 ### Font Awesome Solid
-* Number of icons: 1387
+* Number of icons: 1394
 * Author: Dave Gandy
 * URL: https://github.com/FortAwesome/Font-Awesome
 * License: CC BY 4.0
 * License URL: https://creativecommons.org/licenses/by/4.0/
-* Version: 6.1.1
+* Version: 6.1.2
 * Palette: Colorless
 
 
 ### Font Awesome Regular
-* Number of icons: 162
+* Number of icons: 164
 * Author: Dave Gandy
 * URL: https://github.com/FortAwesome/Font-Awesome
 * License: CC BY 4.0
 * License URL: https://creativecommons.org/licenses/by/4.0/
-* Version: 6.1.1
+* Version: 6.1.2
 * Palette: Colorless
 
 
@@ -698,7 +698,7 @@
 
 
 ### SVG Logos
-* Number of icons: 1516
+* Number of icons: 1534
 * Author: Gil Barbara
 * URL: https://github.com/gilbarbara/logos
 * License: CC0
@@ -727,12 +727,12 @@
 
 
 ### Font Awesome Brands
-* Number of icons: 462
+* Number of icons: 488
 * Author: Dave Gandy
 * URL: https://github.com/FortAwesome/Font-Awesome
 * License: CC BY 4.0
 * License URL: https://creativecommons.org/licenses/by/4.0/
-* Version: 6.1.1
+* Version: 6.1.2
 * Palette: Colorless
 
 

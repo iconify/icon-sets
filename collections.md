@@ -199,11 +199,11 @@
 
 
 ### Lucide
-* Number of icons: 625
+* Number of icons: 821
 * Author: Lucide Contributors
 * URL: https://github.com/lucide-icons/lucide
 * License: ISC
-* License URL: https://github.com/lucide-icons/lucide/blob/master/LICENSE
+* License URL: https://github.com/lucide-icons/lucide/blob/main/LICENSE
 * Palette: Colorless
 
 
@@ -237,12 +237,12 @@
 
 
 ### Akar Icons
-* Number of icons: 402
+* Number of icons: 412
 * Author: Arturo Wibawa
 * URL: https://github.com/artcoholic/akar-icons
 * License: MIT
 * License URL: https://github.com/artcoholic/akar-icons/blob/master/LICENSE
-* Version: 1.9.18
+* Version: 1.9.20
 * Palette: Colorless
 
 
@@ -258,8 +258,8 @@
 
 ### Radix Icons
 * Number of icons: 318
-* Author: Modulz
-* URL: https://github.com/modulz/radix-icons
+* Author: WorkOS
+* URL: https://github.com/radix-ui/icons
 * License: MIT
 * License URL: https://github.com/radix-ui/icons/blob/master/LICENSE
 * Version: 1.1.1
@@ -737,7 +737,7 @@
 
 
 ### Arcticons
-* Number of icons: 4436
+* Number of icons: 4527
 * Author: Donnnno
 * URL: https://github.com/Donnnno/Arcticons
 * License: CC BY-SA 4.0

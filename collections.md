@@ -3,7 +3,7 @@
 
 
 ### Material Symbols
-* Number of icons: 8093
+* Number of icons: 8128
 * Author: Google
 * URL: https://github.com/google/material-design-icons
 * License: Apache 2.0
@@ -17,7 +17,7 @@
 * URL: https://github.com/material-icons/material-icons
 * License: Apache 2.0
 * License URL: https://github.com/material-icons/material-icons/blob/master/LICENSE
-* Version: 1.0.30
+* Version: 1.0.31
 * Palette: Colorless
 
 
@@ -572,12 +572,12 @@
 
 
 ### Octicons
-* Number of icons: 507
+* Number of icons: 514
 * Author: GitHub
 * URL: https://github.com/primer/octicons/
 * License: MIT
 * License URL: https://github.com/primer/octicons/blob/main/LICENSE
-* Version: 17.3.0
+* Version: 17.4.0
 * Palette: Colorless
 
 
@@ -587,7 +587,7 @@
 * URL: https://github.com/wikimedia/oojs-ui
 * License: MIT
 * License URL: https://github.com/wikimedia/oojs-ui/blob/master/LICENSE-MIT
-* Version: 0.44.1
+* Version: 0.44.2
 * Palette: Colorless
 
 
@@ -793,7 +793,7 @@
 
 
 ### Circle Flags
-* Number of icons: 351
+* Number of icons: 352
 * Author: HatScripts
 * URL: https://github.com/HatScripts/circle-flags
 * License: MIT

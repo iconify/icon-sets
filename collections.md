@@ -199,7 +199,7 @@
 
 
 ### Lucide
-* Number of icons: 821
+* Number of icons: 822
 * Author: Lucide Contributors
 * URL: https://github.com/lucide-icons/lucide
 * License: ISC
@@ -443,12 +443,12 @@
 
 
 ### Fluent UI System Icons
-* Number of icons: 11676
+* Number of icons: 11702
 * Author: Microsoft Corporation
 * URL: https://github.com/microsoft/fluentui-system-icons
 * License: MIT
 * License URL: https://github.com/microsoft/fluentui-system-icons/blob/master/LICENSE
-* Version: 1.1.177
+* Version: 1.1.178
 * Palette: Colorless
 
 
@@ -493,12 +493,12 @@
 
 
 ### VSCode Icons
-* Number of icons: 1144
+* Number of icons: 1158
 * Author: Roberto Huertas
 * URL: https://github.com/vscode-icons/vscode-icons
 * License: MIT
 * License URL: https://github.com/vscode-icons/vscode-icons/blob/master/LICENSE
-* Version: 11.13.0
+* Version: 11.14.0
 * Palette: Colorful
 
 
@@ -698,7 +698,7 @@
 
 
 ### SVG Logos
-* Number of icons: 1534
+* Number of icons: 1550
 * Author: Gil Barbara
 * URL: https://github.com/gilbarbara/logos
 * License: CC0

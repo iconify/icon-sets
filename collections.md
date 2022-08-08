@@ -306,7 +306,7 @@
 
 
 ### Charm Icons
-* Number of icons: 255
+* Number of icons: 257
 * Author: Jay Newey
 * URL: https://github.com/jaynewey/charm-icons
 * License: MIT
@@ -493,12 +493,12 @@
 
 
 ### VSCode Icons
-* Number of icons: 1158
+* Number of icons: 1163
 * Author: Roberto Huertas
 * URL: https://github.com/vscode-icons/vscode-icons
 * License: MIT
 * License URL: https://github.com/vscode-icons/vscode-icons/blob/master/LICENSE
-* Version: 11.14.0
+* Version: 11.15.0
 * Palette: Colorful
 
 
@@ -517,7 +517,7 @@
 * URL: https://github.com/microsoft/vscode-codicons
 * License: CC BY 4.0
 * License URL: https://github.com/microsoft/vscode-codicons/blob/main/LICENSE
-* Version: 0.0.31
+* Version: 0.0.32
 * Palette: Colorless
 
 
@@ -602,12 +602,12 @@
 
 
 ### Material Line Icons
-* Number of icons: 332
+* Number of icons: 346
 * Author: Vjacheslav Trushkin
 * URL: https://github.com/cyberalien/line-md
 * License: MIT
 * License URL: https://github.com/cyberalien/line-md/blob/master/license.txt
-* Version: 0.2.3
+* Version: 0.2.4
 * Palette: Colorless
 
 
@@ -707,12 +707,12 @@
 
 
 ### Simple Icons
-* Number of icons: 2299
+* Number of icons: 2306
 * Author: Simple Icons Collaborators
 * URL: https://github.com/simple-icons/simple-icons
 * License: CC0 1.0
 * License URL: https://github.com/simple-icons/simple-icons/blob/develop/LICENSE.md
-* Version: 7.5.0
+* Version: 7.6.0
 * Palette: Colorless
 
 

@@ -2,7 +2,7 @@
 	"prefix": "mdi",
 	"info": {
 		"name": "Material Design Icons",
-		"total": 7099,
+		"total": 7134,
 		"author": {
 			"name": "Austin Andrews",
 			"url": "https://github.com/Templarian/MaterialDesign"
@@ -21,7 +21,7 @@
 		"category": "General",
 		"palette": false
 	},
-	"lastModified": 1658119761,
+	"lastModified": 1660108901,
 	"icons": {
 		"ab-testing": {
 			"body": "<path fill=\"currentColor\" d=\"M4 2a2 2 0 0 0-2 2v8h2V8h2v4h2V4a2 2 0 0 0-2-2H4m0 2h2v2H4m18 9.5V14a2 2 0 0 0-2-2h-4v10h4a2 2 0 0 0 2-2v-1.5a1.54 1.54 0 0 0-1.5-1.5a1.54 1.54 0 0 0 1.5-1.5M20 20h-2v-2h2v2m0-4h-2v-2h2M5.79 21.61l-1.58-1.22l14-18l1.58 1.22Z\"/>"
@@ -16197,6 +16197,111 @@
 		},
 		"printer-pos": {
 			"body": "<path fill=\"currentColor\" d=\"M18 10H6a2 2 0 0 0-2 2v7h16v-7a2 2 0 0 0-2-2m0 4h-4v-2h4m-1-3H7V4h10Z\"/>"
+		},
+		"printer-pos-alert": {
+			"body": "<path fill=\"currentColor\" d=\"M16 10H4c-1.1 0-2 .9-2 2v7h16v-7a2 2 0 0 0-2-2m0 4h-4v-2h4v2m-1-5H5V4h10v5m7-2v6h-2V7h2m-2 8h2v2h-2v-2Z\"/>"
+		},
+		"printer-pos-alert-outline": {
+			"body": "<path fill=\"currentColor\" d=\"M15 15h-4v-2h4v2m3-3v7H2v-7c0-1.1.9-2 2-2h1V4h10v6h1a2 2 0 0 1 2 2M7 10h6V6H7v4m9 2H4v5h12v-5m4 5h2v-2h-2v2m0-10v6h2V7h-2Z\"/>"
+		},
+		"printer-pos-cancel": {
+			"body": "<path fill=\"currentColor\" d=\"M17 9H7V4h10v5m-5 9.5c0 .17 0 .33.03.5H4v-7a2 2 0 0 1 2-2h12a2 2 0 0 1 2 2v.18c-.5-.11-1-.18-1.5-.18a6.5 6.5 0 0 0-6.5 6.5M10 12H6v2h4v-2m13 6.5c0 2.5-2 4.5-4.5 4.5S14 21 14 18.5s2-4.5 4.5-4.5s4.5 2 4.5 4.5m-3 2.58L15.92 17c-.27.42-.42.94-.42 1.5c0 1.66 1.34 3 3 3c.56 0 1.08-.15 1.5-.42m1.5-2.58c0-1.66-1.34-3-3-3c-.56 0-1.08.15-1.5.42L21.08 20c.27-.42.42-.94.42-1.5Z\"/>"
+		},
+		"printer-pos-cancel-outline": {
+			"body": "<path fill=\"currentColor\" d=\"M18.5 14C16 14 14 16 14 18.5s2 4.5 4.5 4.5s4.5-2 4.5-4.5s-2-4.5-4.5-4.5m0 7.5c-1.66 0-3-1.34-3-3c0-.56.15-1.08.42-1.5L20 21.08c-.42.27-.94.42-1.5.42m2.58-1.5L17 15.92c.42-.27.94-.42 1.5-.42c1.66 0 3 1.34 3 3c0 .56-.15 1.08-.42 1.5M7 15v-2h4v2H7m-1 2v-5h14a2 2 0 0 0-2-2h-1V4H7v6H6a2 2 0 0 0-2 2v7h8.03c-.03-.17-.03-.33-.03-.5c0-.5.07-1 .18-1.5H6M9 6h6v4H9V6Z\"/>"
+		},
+		"printer-pos-check": {
+			"body": "<path fill=\"currentColor\" d=\"M17 9H7V4h10v5m2 4c-3.31 0-6 2.69-6 6H4v-7a2 2 0 0 1 2-2h12a2 2 0 0 1 2 2v1.09c-.33-.05-.66-.09-1-.09m-9-1H6v2h4v-2m11.34 3.84l-3.59 3.59l-1.59-1.59L15 19l2.75 3l4.75-4.75l-1.16-1.41Z\"/>"
+		},
+		"printer-pos-check-outline": {
+			"body": "<path fill=\"currentColor\" d=\"M7 15v-2h4v2H7m-1 2h7.35c-.22.63-.35 1.3-.35 2H4v-7a2 2 0 0 1 2-2h1V4h10v6h1a2 2 0 0 1 2 2v1.09c-.33-.05-.66-.09-1-.09c-.34 0-.67.04-1 .09V12H6v5m3-7h6V6H9v4m12.34 5.84l-3.59 3.59l-1.59-1.59L15 19l2.75 3l4.75-4.75l-1.16-1.41Z\"/>"
+		},
+		"printer-pos-cog": {
+			"body": "<path fill=\"currentColor\" d=\"M17 9H7V4h10v5m2 3c-3.87 0-7 3.13-7 7H4v-7a2 2 0 0 1 2-2h12a2 2 0 0 1 2 2v.08c-.33-.05-.66-.08-1-.08m-9 0H6v2h4v-2m13.8 8.4c.1 0 .1.1 0 .2l-1 1.7c-.1.1-.2.1-.3.1l-1.2-.4c-.3.2-.5.3-.8.5l-.2 1.3c0 .1-.1.2-.2.2h-2c-.1 0-.2-.1-.3-.2l-.2-1.3c-.3-.1-.6-.3-.8-.5l-1.2.5c-.1 0-.2 0-.3-.1l-1-1.7c-.1-.1 0-.2.1-.3l1.1-.8v-1l-1.1-.8c-.1-.1-.1-.2-.1-.3l1-1.7c.1-.1.2-.1.3-.1l1.2.5c.3-.2.5-.3.8-.5l.2-1.3c0-.1.1-.2.3-.2h2c.1 0 .2.1.2.2l.2 1.3c.3.1.6.3.9.5l1.2-.5c.1 0 .3 0 .3.1l1 1.7c.1.1 0 .2-.1.3l-1.1.8v1l1.1.8M20.5 19c0-.8-.7-1.5-1.5-1.5s-1.5.7-1.5 1.5s.7 1.5 1.5 1.5s1.5-.7 1.5-1.5Z\"/>"
+		},
+		"printer-pos-cog-outline": {
+			"body": "<path fill=\"currentColor\" d=\"M22.7 19.6v-1l1.1-.8c.1-.1.2-.2.1-.3l-1-1.7c0-.1-.2-.1-.3-.1l-1.2.5c-.3-.2-.6-.4-.9-.5l-.2-1.3c0-.1-.1-.2-.2-.2h-2c-.2 0-.3.1-.3.2l-.2 1.3c-.3.2-.5.3-.8.5l-1.2-.5c-.1 0-.2 0-.3.1l-1 1.7c0 .1 0 .2.1.3l1.1.8v1l-1.1.8c-.1.1-.2.2-.1.3l1 1.7c.1.1.2.1.3.1l1.2-.5c.2.2.5.4.8.5l.2 1.3c.1.1.2.2.3.2h2c.1 0 .2-.1.2-.2l.2-1.3c.3-.2.5-.3.8-.5l1.2.4c.1 0 .2 0 .3-.1l1-1.7c.1-.1.1-.2 0-.2l-1.1-.8m-3.7.9c-.8 0-1.5-.7-1.5-1.5s.7-1.5 1.5-1.5s1.5.7 1.5 1.5s-.7 1.5-1.5 1.5M7 15v-2h4v2H7m-1-3h14a2 2 0 0 0-2-2h-1V4H7v6H6a2 2 0 0 0-2 2v7h8c0-.69.11-1.37.29-2H6v-5m3-6h6v4H9V6Z\"/>"
+		},
+		"printer-pos-edit": {
+			"body": "<path fill=\"currentColor\" d=\"M17 9H7V4h10v5m2.39 1.74L11.13 19H4v-7a2 2 0 0 1 2-2h12c.59 0 1.11.26 1.5.67c-.05.02-.08.04-.11.07M10 12H6v2h4v-2m3 7.96V22h2.04l6.13-6.12l-2.04-2.05L13 19.96m9.85-6.49l-1.32-1.32c-.2-.2-.53-.2-.72 0l-.98.98l2.04 2.04l.98-.98c.2-.19.2-.52 0-.72Z\"/>"
+		},
+		"printer-pos-edit-outline": {
+			"body": "<path fill=\"currentColor\" d=\"M6 17v-5h12.13l1.26-1.26c.03-.03.06-.05.11-.07c-.39-.41-.91-.67-1.5-.67h-1V4H7v6H6a2 2 0 0 0-2 2v7h7.13l2-2H6M9 6h6v4H9V6m-2 9v-2h4v2H7m15.85-.81l-.98.98l-2.04-2.04l.98-.98c.19-.2.52-.2.72 0l1.32 1.32c.2.2.2.53 0 .72m-3.72-.36l2.04 2.04L15.04 22H13v-2.04l6.13-6.13Z\"/>"
+		},
+		"printer-pos-minus": {
+			"body": "<path fill=\"currentColor\" d=\"M17 9H7V4h10v5m2 4c-3.31 0-6 2.69-6 6H4v-7a2 2 0 0 1 2-2h12a2 2 0 0 1 2 2v1.09c-.33-.05-.66-.09-1-.09m-9-1H6v2h4v-2m5 6v2h8v-2h-8Z\"/>"
+		},
+		"printer-pos-minus-outline": {
+			"body": "<path fill=\"currentColor\" d=\"M6 12h12v1.09c.33-.05.66-.09 1-.09c.34 0 .67.04 1 .09V12a2 2 0 0 0-2-2h-1V4H7v6H6a2 2 0 0 0-2 2v7h9c0-.7.13-1.37.35-2H6v-5m3-6h6v4H9V6m-2 9v-2h4v2H7m16 3v2h-8v-2h8Z\"/>"
+		},
+		"printer-pos-network": {
+			"body": "<path fill=\"currentColor\" d=\"M17 7H7V2h10v5m5 13v2h-7c0 .55-.45 1-1 1h-4c-.55 0-1-.45-1-1H2v-2h7c0-.55.45-1 1-1h1v-2H4v-7a2 2 0 0 1 2-2h12a2 2 0 0 1 2 2v7h-7v2h1c.55 0 1 .45 1 1h7m-4-10h-4v2h4v-2Z\"/>"
+		},
+		"printer-pos-network-outline": {
+			"body": "<path fill=\"currentColor\" d=\"M13 11h4v2h-4v-2m9 9v2h-7c0 .55-.45 1-1 1h-4c-.55 0-1-.45-1-1H2v-2h7c0-.55.45-1 1-1h1v-2H4v-7a2 2 0 0 1 2-2h1V2h10v6h1a2 2 0 0 1 2 2v7h-7v2h1c.55 0 1 .45 1 1h7M9 8h6V4H9v4m9 7v-5H6v5h12Z\"/>"
+		},
+		"printer-pos-off": {
+			"body": "<path fill=\"currentColor\" d=\"m12.2 9l-5-5H17v5h-4.8m7.8 7.8V12a2 2 0 0 0-2-2h-4.8l6.8 6.8m2.11 4.66l-1.27 1.27L17.11 19H4v-7a2 2 0 0 1 2-2h2.11l-7-7l1.28-1.27l19.72 19.73M10 12H6v2h4v-2Z\"/>"
+		},
+		"printer-pos-off-outline": {
+			"body": "<path fill=\"currentColor\" d=\"M2.39 1.73L1.11 3L7 8.89V10H6a2 2 0 0 0-2 2v7h13.11l3.73 3.73l1.27-1.27L2.39 1.73M6 17v-5h4.11l5 5H6M9.2 6l-2-2H17v6h1a2 2 0 0 1 2 2v4.8l-2-2V12h-2.8l-2-2H15V6H9.2M7 13h4v2H7v-2Z\"/>"
+		},
+		"printer-pos-outline": {
+			"body": "<path fill=\"currentColor\" d=\"M18 10h-1V4H7v6H6a2 2 0 0 0-2 2v7h16v-7a2 2 0 0 0-2-2M9 6h6v4H9V6m9 11H6v-5h12v5m-1-2h-4v-2h4v2Z\"/>"
+		},
+		"printer-pos-pause": {
+			"body": "<path fill=\"currentColor\" d=\"M17 9H7V4h10v5m3 4.09c-.33-.05-.66-.09-1-.09c-3.31 0-6 2.69-6 6H4v-7a2 2 0 0 1 2-2h12a2 2 0 0 1 2 2v1.09M10 12H6v2h4v-2m6 10h2v-6h-2v6m4-6v6h2v-6h-2Z\"/>"
+		},
+		"printer-pos-pause-outline": {
+			"body": "<path fill=\"currentColor\" d=\"M20 12a2 2 0 0 0-2-2h-1V4H7v6H6a2 2 0 0 0-2 2v7h9c0-.7.13-1.37.35-2H6v-5h12v1.09c.33-.05.66-.09 1-.09c.34 0 .67.04 1 .09V12m-5-2H9V6h6v4m-8 5v-2h4v2H7m9 1h2v6h-2v-6m6 0v6h-2v-6h2Z\"/>"
+		},
+		"printer-pos-play": {
+			"body": "<path fill=\"currentColor\" d=\"M20 13.09V12a2 2 0 0 0-2-2H6a2 2 0 0 0-2 2v7h9c0-3.31 2.69-6 6-6c.34 0 .67.04 1 .09M10 14H6v-2h4v2m7-5H7V4h10v5m5 10l-5 3v-6l5 3Z\"/>"
+		},
+		"printer-pos-play-outline": {
+			"body": "<path fill=\"currentColor\" d=\"M7 15v-2h4v2H7m-1 2h7.35c-.22.63-.35 1.3-.35 2H4v-7a2 2 0 0 1 2-2h1V4h10v6h1a2 2 0 0 1 2 2v1.09c-.33-.05-.66-.09-1-.09c-.34 0-.67.04-1 .09V12H6v5m3-7h6V6H9v4m8 6v6l5-3l-5-3Z\"/>"
+		},
+		"printer-pos-plus": {
+			"body": "<path fill=\"currentColor\" d=\"M17 9H7V4h10v5m2 4c-3.31 0-6 2.69-6 6H4v-7a2 2 0 0 1 2-2h12a2 2 0 0 1 2 2v1.09c-.33-.05-.66-.09-1-.09m-9-1H6v2h4v-2m10 6v-3h-2v3h-3v2h3v3h2v-3h3v-2h-3Z\"/>"
+		},
+		"printer-pos-plus-outline": {
+			"body": "<path fill=\"currentColor\" d=\"M6 12h12v1.09c.33-.05.66-.09 1-.09c.34 0 .67.04 1 .09V12a2 2 0 0 0-2-2h-1V4H7v6H6a2 2 0 0 0-2 2v7h9c0-.7.13-1.37.35-2H6v-5m3-6h6v4H9V6m-2 9v-2h4v2H7m16 3v2h-3v3h-2v-3h-3v-2h3v-3h2v3h3Z\"/>"
+		},
+		"printer-pos-refresh": {
+			"body": "<path fill=\"currentColor\" d=\"M17 9H7V4h10v5m-5 9.5c0 .17 0 .33.03.5H4v-7a2 2 0 0 1 2-2h12a2 2 0 0 1 2 2v.18c-.5-.11-1-.18-1.5-.18a6.5 6.5 0 0 0-6.5 6.5M10 12H6v2h4v-2m12 6.5v-4l-1.17 1.17A3.99 3.99 0 0 0 18 14.5c-2.21 0-4 1.79-4 4s1.79 4 4 4c1.68 0 3.12-1.03 3.71-2.5H20a2.5 2.5 0 1 1-.23-3.27L18 18.5h4Z\"/>"
+		},
+		"printer-pos-refresh-outline": {
+			"body": "<path fill=\"currentColor\" d=\"M7 15v-2h4v2H7m15 3.5v-4l-1.17 1.17A3.99 3.99 0 0 0 18 14.5c-2.21 0-4 1.79-4 4s1.79 4 4 4c1.68 0 3.12-1.03 3.71-2.5H20a2.5 2.5 0 1 1-.23-3.27L18 18.5h4M12.18 17c-.11.5-.18 1-.18 1.5c0 .17 0 .33.03.5H4v-7a2 2 0 0 1 2-2h1V4h10v6h1a2 2 0 0 1 2 2H6v5h6.18M9 10h6V6H9v4Z\"/>"
+		},
+		"printer-pos-remove": {
+			"body": "<path fill=\"currentColor\" d=\"M17 9H7V4h10v5m2 4c-3.31 0-6 2.69-6 6H4v-7a2 2 0 0 1 2-2h12a2 2 0 0 1 2 2v1.09c-.33-.05-.66-.09-1-.09m-9-1H6v2h4v-2m12.54 4.88l-1.42-1.41L19 17.59l-2.12-2.12l-1.41 1.41L17.59 19l-2.12 2.12l1.41 1.42L19 20.41l2.12 2.13l1.42-1.42L20.41 19l2.13-2.12Z\"/>"
+		},
+		"printer-pos-remove-outline": {
+			"body": "<path fill=\"currentColor\" d=\"M7 15v-2h4v2H7m-1 2h7.35c-.22.63-.35 1.3-.35 2H4v-7a2 2 0 0 1 2-2h1V4h10v6h1a2 2 0 0 1 2 2v1.09c-.33-.05-.66-.09-1-.09c-.34 0-.67.04-1 .09V12H6v5m3-7h6V6H9v4m13.54 6.88l-1.42-1.41L19 17.59l-2.12-2.12l-1.41 1.41L17.59 19l-2.12 2.12l1.41 1.42L19 20.41l2.12 2.13l1.42-1.42L20.41 19l2.13-2.12Z\"/>"
+		},
+		"printer-pos-star": {
+			"body": "<path fill=\"currentColor\" d=\"M17 9H7V4h10v5m2 4c-3.31 0-6 2.69-6 6H4v-7a2 2 0 0 1 2-2h12a2 2 0 0 1 2 2v1.09c-.33-.05-.66-.09-1-.09m-9-1H6v2h4v-2m13 5.89l-2.89-.25L19 15l-1.13 2.64l-2.87.25l2.18 1.88l-.68 2.81l2.5-1.49l2.45 1.49l-.65-2.81l2.2-1.88Z\"/>"
+		},
+		"printer-pos-star-outline": {
+			"body": "<path fill=\"currentColor\" d=\"M6 12h12v1.09c.33-.05.66-.09 1-.09c.34 0 .67.04 1 .09V12a2 2 0 0 0-2-2h-1V4H7v6H6a2 2 0 0 0-2 2v7h9c0-.7.13-1.37.35-2H6v-5m3-6h6v4H9V6m-2 9v-2h4v2H7m13.8 4.77l.65 2.81L19 21.09l-2.5 1.49l.68-2.81L15 17.89l2.87-.25L19 15l1.11 2.64l2.89.25l-2.2 1.88Z\"/>"
+		},
+		"printer-pos-stop": {
+			"body": "<path fill=\"currentColor\" d=\"M17 9H7V4h10v5m2 4c-3.31 0-6 2.69-6 6H4v-7a2 2 0 0 1 2-2h12a2 2 0 0 1 2 2v1.09c-.33-.05-.66-.09-1-.09m-9-1H6v2h4v-2m6 4v6h6v-6h-6Z\"/>"
+		},
+		"printer-pos-stop-outline": {
+			"body": "<path fill=\"currentColor\" d=\"M6 12h12v1.09c.33-.05.66-.09 1-.09c.34 0 .67.04 1 .09V12a2 2 0 0 0-2-2h-1V4H7v6H6a2 2 0 0 0-2 2v7h9c0-.7.13-1.37.35-2H6v-5m3-6h6v4H9V6m-2 9v-2h4v2H7m15 1v6h-6v-6h6Z\"/>"
+		},
+		"printer-pos-sync": {
+			"body": "<path fill=\"currentColor\" d=\"M17 9H7V4h10v5m-4 8.5c0 .5.07 1 .18 1.5H4v-7a2 2 0 0 1 2-2h12c.74 0 1.38.41 1.73 1h-.23a6.5 6.5 0 0 0-6.5 6.5M10 12H6v2h4v-2m9 8a2.5 2.5 0 0 1-2.5-2.5c0-.4.09-.78.26-1.12l-1.09-1.09c-.42.63-.67 1.39-.67 2.21c0 2.21 1.79 4 4 4V23l2.25-2.25L19 18.5V20m0-6.5V12l-2.25 2.25L19 16.5V15a2.5 2.5 0 0 1 2.5 2.5c0 .4-.09.78-.26 1.12l1.09 1.09c.42-.63.67-1.39.67-2.21c0-2.21-1.79-4-4-4Z\"/>"
+		},
+		"printer-pos-sync-outline": {
+			"body": "<path fill=\"currentColor\" d=\"M7 15v-2h4v2H7m6 2.5c0 .5.07 1 .18 1.5H4v-7a2 2 0 0 1 2-2h1V4h10v6h1c.74 0 1.38.41 1.73 1h-.23c-1.27 0-2.45.37-3.45 1H6v5h7.03c-.03.17-.03.33-.03.5M9 10h6V6H9v4m10 3.5V12l-2.25 2.25L19 16.5V15a2.5 2.5 0 0 1 2.5 2.5c0 .4-.09.78-.26 1.12l1.09 1.09c.42-.63.67-1.39.67-2.21c0-2.21-1.79-4-4-4m0 6.5a2.5 2.5 0 0 1-2.5-2.5c0-.4.09-.78.26-1.12l-1.09-1.09c-.42.63-.67 1.39-.67 2.21c0 2.21 1.79 4 4 4V23l2.25-2.25L19 18.5V20Z\"/>"
+		},
+		"printer-pos-wrench": {
+			"body": "<path fill=\"currentColor\" d=\"M17 9H7V4h10v5m-6 7c0 1.13.39 2.16 1 3H4v-7a2 2 0 0 1 2-2h12a2 2 0 0 1 2 2v1.03A4.966 4.966 0 0 0 16 11c-2.76 0-5 2.24-5 5m-1-4H6v2h4v-2m12.87 9.19l-4.11-4.11c.41-1.04.18-2.26-.68-3.11c-.9-.91-2.25-1.09-3.34-.59l1.94 1.94l-1.35 1.36l-1.99-1.95c-.54 1.09-.29 2.44.59 3.35a2.91 2.91 0 0 0 3.12.68l4.11 4.1c.18.19.45.19.63 0l1.04-1.03c.22-.18.22-.5.04-.64Z\"/>"
+		},
+		"printer-pos-wrench-outline": {
+			"body": "<path fill=\"currentColor\" d=\"M7 15v-2h4v2H7m6.03-3H6v5h5.1c.15.74.48 1.42.9 2H4v-7a2 2 0 0 1 2-2h1V4h10v6h1a2 2 0 0 1 2 2v1.03A4.966 4.966 0 0 0 16 11c-1.12 0-2.14.38-2.97 1M9 10h6V6H9v4m13.87 11.19l-4.11-4.11c.41-1.04.18-2.26-.68-3.11c-.9-.91-2.25-1.09-3.34-.59l1.94 1.94l-1.35 1.36l-1.99-1.95c-.54 1.09-.29 2.44.59 3.35a2.91 2.91 0 0 0 3.12.68l4.11 4.1c.18.19.45.19.63 0l1.04-1.03c.22-.18.22-.5.04-.64Z\"/>"
 		},
 		"printer-search": {
 			"body": "<path fill=\"currentColor\" d=\"M20.3 18.9c.4-.7.7-1.5.7-2.4c0-2.5-2-4.5-4.5-4.5S12 14 12 16.5s2 4.5 4.5 4.5c.9 0 1.7-.2 2.4-.7l3.1 3.1l1.4-1.4l-3.1-3.1m-3.8.1c-1.4 0-2.5-1.1-2.5-2.5s1.1-2.5 2.5-2.5s2.5 1.1 2.5 2.5s-1.1 2.5-2.5 2.5M18 7H6V3h12v4M6 21v-4H2v-6c0-1.7 1.3-3 3-3h14c1.7 0 3 1.3 3 3v2c-1.2-1.8-3.2-3-5.5-3c-2.7 0-5 1.7-6 4H8v5h2.5c.3.7.8 1.4 1.3 2H6Z\"/>"
@@ -35304,14 +35409,233 @@
 		"print-preview": {
 			"parent": "file-find"
 		},
+		"printer-favorite": {
+			"parent": "printer-pos-star"
+		},
 		"printer-magnify": {
 			"parent": "printer-search"
 		},
 		"printer-point-of-sale": {
 			"parent": "printer-pos"
 		},
+		"printer-point-of-sale-alert": {
+			"parent": "printer-pos-alert"
+		},
+		"printer-point-of-sale-alert-outline": {
+			"parent": "printer-pos-alert-outline"
+		},
+		"printer-point-of-sale-cancel": {
+			"parent": "printer-pos-cancel"
+		},
+		"printer-point-of-sale-cancel-outline": {
+			"parent": "printer-pos-cancel-outline"
+		},
+		"printer-point-of-sale-check": {
+			"parent": "printer-pos-check"
+		},
+		"printer-point-of-sale-check-outline": {
+			"parent": "printer-pos-check-outline"
+		},
+		"printer-point-of-sale-cog": {
+			"parent": "printer-pos-cog"
+		},
+		"printer-point-of-sale-cog-outline": {
+			"parent": "printer-pos-cog-outline"
+		},
+		"printer-point-of-sale-edit": {
+			"parent": "printer-pos-edit"
+		},
+		"printer-point-of-sale-edit-outline": {
+			"parent": "printer-pos-edit-outline"
+		},
+		"printer-point-of-sale-minus": {
+			"parent": "printer-pos-minus"
+		},
+		"printer-point-of-sale-minus-outline": {
+			"parent": "printer-pos-minus-outline"
+		},
+		"printer-point-of-sale-network": {
+			"parent": "printer-pos-network"
+		},
+		"printer-point-of-sale-network-outline": {
+			"parent": "printer-pos-network-outline"
+		},
+		"printer-point-of-sale-off": {
+			"parent": "printer-pos-off"
+		},
+		"printer-point-of-sale-off-outline": {
+			"parent": "printer-pos-off-outline"
+		},
+		"printer-point-of-sale-outline": {
+			"parent": "printer-pos-outline"
+		},
+		"printer-point-of-sale-pause": {
+			"parent": "printer-pos-pause"
+		},
+		"printer-point-of-sale-pause-outline": {
+			"parent": "printer-pos-pause-outline"
+		},
+		"printer-point-of-sale-play": {
+			"parent": "printer-pos-play"
+		},
+		"printer-point-of-sale-play-outline": {
+			"parent": "printer-pos-play-outline"
+		},
+		"printer-point-of-sale-plus": {
+			"parent": "printer-pos-plus"
+		},
+		"printer-point-of-sale-plus-outline": {
+			"parent": "printer-pos-plus-outline"
+		},
+		"printer-point-of-sale-refresh": {
+			"parent": "printer-pos-refresh"
+		},
+		"printer-point-of-sale-refresh-outline": {
+			"parent": "printer-pos-refresh-outline"
+		},
+		"printer-point-of-sale-remove": {
+			"parent": "printer-pos-remove"
+		},
+		"printer-point-of-sale-remove-outline": {
+			"parent": "printer-pos-remove-outline"
+		},
+		"printer-point-of-sale-star": {
+			"parent": "printer-pos-star"
+		},
+		"printer-point-of-sale-star-outline": {
+			"parent": "printer-pos-star-outline"
+		},
+		"printer-point-of-sale-stop": {
+			"parent": "printer-pos-stop"
+		},
+		"printer-point-of-sale-stop-outline": {
+			"parent": "printer-pos-stop-outline"
+		},
+		"printer-point-of-sale-sync": {
+			"parent": "printer-pos-sync"
+		},
+		"printer-point-of-sale-sync-outline": {
+			"parent": "printer-pos-sync-outline"
+		},
+		"printer-point-of-sale-wrench": {
+			"parent": "printer-pos-wrench"
+		},
+		"printer-point-of-sale-wrench-outline": {
+			"parent": "printer-pos-wrench-outline"
+		},
 		"printer-preview": {
 			"parent": "printer-eye"
+		},
+		"printer-primary": {
+			"parent": "printer-pos-star"
+		},
+		"printer-receipt": {
+			"parent": "printer-pos"
+		},
+		"printer-receipt-alert": {
+			"parent": "printer-pos-alert"
+		},
+		"printer-receipt-alert-outline": {
+			"parent": "printer-pos-alert-outline"
+		},
+		"printer-receipt-cancel": {
+			"parent": "printer-pos-cancel"
+		},
+		"printer-receipt-cancel-outline": {
+			"parent": "printer-pos-cancel-outline"
+		},
+		"printer-receipt-check": {
+			"parent": "printer-pos-check"
+		},
+		"printer-receipt-check-outline": {
+			"parent": "printer-pos-check-outline"
+		},
+		"printer-receipt-cog": {
+			"parent": "printer-pos-cog"
+		},
+		"printer-receipt-cog-outline": {
+			"parent": "printer-pos-cog-outline"
+		},
+		"printer-receipt-edit": {
+			"parent": "printer-pos-edit"
+		},
+		"printer-receipt-edit-outline": {
+			"parent": "printer-pos-edit-outline"
+		},
+		"printer-receipt-minus": {
+			"parent": "printer-pos-minus"
+		},
+		"printer-receipt-minus-outline": {
+			"parent": "printer-pos-minus-outline"
+		},
+		"printer-receipt-network": {
+			"parent": "printer-pos-network"
+		},
+		"printer-receipt-network-outline": {
+			"parent": "printer-pos-network-outline"
+		},
+		"printer-receipt-off": {
+			"parent": "printer-pos-off"
+		},
+		"printer-receipt-off-outline": {
+			"parent": "printer-pos-off-outline"
+		},
+		"printer-receipt-outline": {
+			"parent": "printer-pos-outline"
+		},
+		"printer-receipt-pause": {
+			"parent": "printer-pos-pause"
+		},
+		"printer-receipt-pause-outline": {
+			"parent": "printer-pos-pause-outline"
+		},
+		"printer-receipt-play": {
+			"parent": "printer-pos-play"
+		},
+		"printer-receipt-play-outline": {
+			"parent": "printer-pos-play-outline"
+		},
+		"printer-receipt-plus": {
+			"parent": "printer-pos-plus"
+		},
+		"printer-receipt-plus-outline": {
+			"parent": "printer-pos-plus-outline"
+		},
+		"printer-receipt-refresh": {
+			"parent": "printer-pos-refresh"
+		},
+		"printer-receipt-refresh-outline": {
+			"parent": "printer-pos-refresh-outline"
+		},
+		"printer-receipt-remove": {
+			"parent": "printer-pos-remove"
+		},
+		"printer-receipt-remove-outline": {
+			"parent": "printer-pos-remove-outline"
+		},
+		"printer-receipt-star": {
+			"parent": "printer-pos-star"
+		},
+		"printer-receipt-star-outline": {
+			"parent": "printer-pos-star-outline"
+		},
+		"printer-receipt-stop": {
+			"parent": "printer-pos-stop"
+		},
+		"printer-receipt-stop-outline": {
+			"parent": "printer-pos-stop-outline"
+		},
+		"printer-receipt-sync": {
+			"parent": "printer-pos-sync"
+		},
+		"printer-receipt-sync-outline": {
+			"parent": "printer-pos-sync-outline"
+		},
+		"printer-receipt-wrench": {
+			"parent": "printer-pos-wrench"
+		},
+		"printer-receipt-wrench-outline": {
+			"parent": "printer-pos-wrench-outline"
 		},
 		"printer-view": {
 			"parent": "printer-eye"
@@ -45295,6 +45619,41 @@
 		"f1785": "printer-off-outline",
 		"f1786": "printer-outline",
 		"f1057": "printer-pos",
+		"f1bbc": "printer-pos-alert",
+		"f1bbd": "printer-pos-alert-outline",
+		"f1bbe": "printer-pos-cancel",
+		"f1bbf": "printer-pos-cancel-outline",
+		"f1bc0": "printer-pos-check",
+		"f1bc1": "printer-pos-check-outline",
+		"f1bc2": "printer-pos-cog",
+		"f1bc3": "printer-pos-cog-outline",
+		"f1bc4": "printer-pos-edit",
+		"f1bc5": "printer-pos-edit-outline",
+		"f1bc6": "printer-pos-minus",
+		"f1bc7": "printer-pos-minus-outline",
+		"f1bc8": "printer-pos-network",
+		"f1bc9": "printer-pos-network-outline",
+		"f1bca": "printer-pos-off",
+		"f1bcb": "printer-pos-off-outline",
+		"f1bcc": "printer-pos-outline",
+		"f1bcd": "printer-pos-pause",
+		"f1bce": "printer-pos-pause-outline",
+		"f1bcf": "printer-pos-play",
+		"f1bd0": "printer-pos-play-outline",
+		"f1bd1": "printer-pos-plus",
+		"f1bd2": "printer-pos-plus-outline",
+		"f1bd3": "printer-pos-refresh",
+		"f1bd4": "printer-pos-refresh-outline",
+		"f1bd5": "printer-pos-remove",
+		"f1bd6": "printer-pos-remove-outline",
+		"f1bd7": "printer-pos-star",
+		"f1bd8": "printer-pos-star-outline",
+		"f1bd9": "printer-pos-stop",
+		"f1bda": "printer-pos-stop-outline",
+		"f1bdb": "printer-pos-sync",
+		"f1bdc": "printer-pos-sync-outline",
+		"f1bdd": "printer-pos-wrench",
+		"f1bde": "printer-pos-wrench-outline",
 		"f1457": "printer-search",
 		"f0707": "printer-settings",
 		"f0a0b": "printer-wireless",
@@ -52540,6 +52899,41 @@
 			"printer-off-outline",
 			"printer-outline",
 			"printer-pos",
+			"printer-pos-alert",
+			"printer-pos-alert-outline",
+			"printer-pos-cancel",
+			"printer-pos-cancel-outline",
+			"printer-pos-check",
+			"printer-pos-check-outline",
+			"printer-pos-cog",
+			"printer-pos-cog-outline",
+			"printer-pos-edit",
+			"printer-pos-edit-outline",
+			"printer-pos-minus",
+			"printer-pos-minus-outline",
+			"printer-pos-network",
+			"printer-pos-network-outline",
+			"printer-pos-off",
+			"printer-pos-off-outline",
+			"printer-pos-outline",
+			"printer-pos-pause",
+			"printer-pos-pause-outline",
+			"printer-pos-play",
+			"printer-pos-play-outline",
+			"printer-pos-plus",
+			"printer-pos-plus-outline",
+			"printer-pos-refresh",
+			"printer-pos-refresh-outline",
+			"printer-pos-remove",
+			"printer-pos-remove-outline",
+			"printer-pos-star",
+			"printer-pos-star-outline",
+			"printer-pos-stop",
+			"printer-pos-stop-outline",
+			"printer-pos-sync",
+			"printer-pos-sync-outline",
+			"printer-pos-wrench",
+			"printer-pos-wrench-outline",
 			"printer-search",
 			"printer-settings",
 			"printer-wireless"

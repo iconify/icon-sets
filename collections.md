@@ -22,7 +22,7 @@
 
 
 ### Material Design Icons
-* Number of icons: 7099
+* Number of icons: 7134
 * Author: Austin Andrews
 * URL: https://github.com/Templarian/MaterialDesign
 * License: Apache 2.0
@@ -55,7 +55,7 @@
 * Author: IBM
 * URL: https://github.com/carbon-design-system/carbon/tree/main/packages/icons
 * License: Apache 2.0
-* Version: 11.6.0
+* Version: 11.7.0
 * Palette: Colorless
 
 
@@ -70,12 +70,12 @@
 
 
 ### Tabler Icons
-* Number of icons: 2160
+* Number of icons: 2178
 * Author: Paweł Kuna
 * URL: https://github.com/tabler/tabler-icons
 * License: MIT
 * License URL: https://github.com/tabler/tabler-icons/blob/master/LICENSE
-* Version: 1.78.1
+* Version: 1.79.0
 * Palette: Colorless
 
 

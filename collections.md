@@ -3,7 +3,7 @@
 
 
 ### Material Symbols
-* Number of icons: 8128
+* Number of icons: 8180
 * Author: Google
 * URL: https://github.com/google/material-design-icons
 * License: Apache 2.0
@@ -70,12 +70,12 @@
 
 
 ### Tabler Icons
-* Number of icons: 2178
+* Number of icons: 2214
 * Author: Paweł Kuna
 * URL: https://github.com/tabler/tabler-icons
 * License: MIT
 * License URL: https://github.com/tabler/tabler-icons/blob/master/LICENSE
-* Version: 1.79.0
+* Version: 1.81.0
 * Palette: Colorless
 
 
@@ -199,7 +199,7 @@
 
 
 ### Lucide
-* Number of icons: 822
+* Number of icons: 829
 * Author: Lucide Contributors
 * URL: https://github.com/lucide-icons/lucide
 * License: ISC
@@ -267,12 +267,12 @@
 
 
 ### Element Plus
-* Number of icons: 283
+* Number of icons: 293
 * Author: Element Plus
 * URL: https://github.com/element-plus/element-plus-icons
 * License: MIT
 * License URL: https://github.com/element-plus/element-plus-icons/blob/main/packages/svg/package.json
-* Version: 2.0.6
+* Version: 2.0.9
 * Palette: Colorless
 
 
@@ -577,7 +577,7 @@
 * URL: https://github.com/primer/octicons/
 * License: MIT
 * License URL: https://github.com/primer/octicons/blob/main/LICENSE
-* Version: 17.4.0
+* Version: 17.4.1
 * Palette: Colorless
 
 

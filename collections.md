@@ -638,6 +638,15 @@
 * Palette: Colorful
 
 
+### Fluent Emoji
+* Number of icons: 3009
+* Author: Microsoft Corporation
+* URL: https://github.com/microsoft/fluentui-emoji
+* License: MIT
+* License URL: https://github.com/microsoft/fluentui-emoji/blob/main/LICENSE
+* Palette: Colorful
+
+
 ### Noto Emoji (v1)
 * Number of icons: 2162
 * Author: Google Inc

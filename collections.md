@@ -17,7 +17,7 @@
 * URL: https://github.com/material-icons/material-icons
 * License: Apache 2.0
 * License URL: https://github.com/material-icons/material-icons/blob/master/LICENSE
-* Version: 1.0.31
+* Version: 1.0.32
 * Palette: Colorless
 
 
@@ -70,12 +70,12 @@
 
 
 ### Tabler Icons
-* Number of icons: 2214
+* Number of icons: 2232
 * Author: Paweł Kuna
 * URL: https://github.com/tabler/tabler-icons
 * License: MIT
 * License URL: https://github.com/tabler/tabler-icons/blob/master/LICENSE
-* Version: 1.81.0
+* Version: 1.82.0
 * Palette: Colorless
 
 
@@ -645,6 +645,24 @@
 * License: MIT
 * License URL: https://github.com/microsoft/fluentui-emoji/blob/main/LICENSE
 * Palette: Colorful
+
+
+### Fluent Emoji Flat
+* Number of icons: 3010
+* Author: Microsoft Corporation
+* URL: https://github.com/microsoft/fluentui-emoji
+* License: MIT
+* License URL: https://github.com/microsoft/fluentui-emoji/blob/main/LICENSE
+* Palette: Colorful
+
+
+### Fluent Emoji High Contrast
+* Number of icons: 1545
+* Author: Microsoft Corporation
+* URL: https://github.com/microsoft/fluentui-emoji
+* License: MIT
+* License URL: https://github.com/microsoft/fluentui-emoji/blob/main/LICENSE
+* Palette: Colorless
 
 
 ### Noto Emoji (v1)

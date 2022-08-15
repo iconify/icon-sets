@@ -306,7 +306,7 @@
 
 
 ### Charm Icons
-* Number of icons: 257
+* Number of icons: 259
 * Author: Jay Newey
 * URL: https://github.com/jaynewey/charm-icons
 * License: MIT
@@ -734,12 +734,12 @@
 
 
 ### Simple Icons
-* Number of icons: 2306
+* Number of icons: 2316
 * Author: Simple Icons Collaborators
 * URL: https://github.com/simple-icons/simple-icons
 * License: CC0 1.0
 * License URL: https://github.com/simple-icons/simple-icons/blob/develop/LICENSE.md
-* Version: 7.6.0
+* Version: 7.7.0
 * Palette: Colorless
 
 

@@ -199,7 +199,7 @@
 
 
 ### Lucide
-* Number of icons: 829
+* Number of icons: 831
 * Author: Lucide Contributors
 * URL: https://github.com/lucide-icons/lucide
 * License: ISC
@@ -512,7 +512,7 @@
 
 
 ### Codicons
-* Number of icons: 421
+* Number of icons: 422
 * Author: Microsoft Corporation
 * URL: https://github.com/microsoft/vscode-codicons
 * License: CC BY 4.0
@@ -587,7 +587,7 @@
 * URL: https://github.com/wikimedia/oojs-ui
 * License: MIT
 * License URL: https://github.com/wikimedia/oojs-ui/blob/master/LICENSE-MIT
-* Version: 0.44.2
+* Version: 0.44.3
 * Palette: Colorless
 
 

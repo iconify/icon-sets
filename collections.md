@@ -70,12 +70,12 @@
 
 
 ### Tabler Icons
-* Number of icons: 2250
+* Number of icons: 2284
 * Author: Paweł Kuna
 * URL: https://github.com/tabler/tabler-icons
 * License: MIT
 * License URL: https://github.com/tabler/tabler-icons/blob/master/LICENSE
-* Version: 1.83.1
+* Version: 1.84.0
 * Palette: Colorless
 
 
@@ -106,6 +106,15 @@
 * License: MIT
 * License URL: https://github.com/teenyicons/teenyicons/blob/master/LICENSE
 * Version: 0.4.1
+* Palette: Colorless
+
+
+### MingCute Icon
+* Number of icons: 1146
+* Author: MingCute Design
+* URL: https://github.com/Richard9394/MingCute
+* License: Apache 2.0
+* License URL: https://github.com/Richard9394/MingCute/blob/main/LICENSE
 * Palette: Colorless
 
 
@@ -208,12 +217,12 @@
 
 
 ### Pixelarticons
-* Number of icons: 474
+* Number of icons: 480
 * Author: Gerrit Halfmann
 * URL: https://github.com/halfmage/pixelarticons
 * License: MIT
 * License URL: https://github.com/halfmage/pixelarticons/blob/master/LICENSE
-* Version: 1.6.0
+* Version: 1.7.0
 * Palette: Colorless
 
 
@@ -443,12 +452,12 @@
 
 
 ### Fluent UI System Icons
-* Number of icons: 11702
+* Number of icons: 11814
 * Author: Microsoft Corporation
 * URL: https://github.com/microsoft/fluentui-system-icons
 * License: MIT
 * License URL: https://github.com/microsoft/fluentui-system-icons/blob/master/LICENSE
-* Version: 1.1.178
+* Version: 1.1.179
 * Palette: Colorless
 
 
@@ -734,12 +743,12 @@
 
 
 ### Simple Icons
-* Number of icons: 2316
+* Number of icons: 2317
 * Author: Simple Icons Collaborators
 * URL: https://github.com/simple-icons/simple-icons
 * License: CC0 1.0
 * License URL: https://github.com/simple-icons/simple-icons/blob/develop/LICENSE.md
-* Version: 7.7.0
+* Version: 7.8.0
 * Palette: Colorless
 
 

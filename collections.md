@@ -70,12 +70,12 @@
 
 
 ### Tabler Icons
-* Number of icons: 2284
+* Number of icons: 2320
 * Author: Paweł Kuna
 * URL: https://github.com/tabler/tabler-icons
 * License: MIT
 * License URL: https://github.com/tabler/tabler-icons/blob/master/LICENSE
-* Version: 1.84.0
+* Version: 1.86.0
 * Palette: Colorless
 
 
@@ -110,7 +110,7 @@
 
 
 ### MingCute Icon
-* Number of icons: 1146
+* Number of icons: 1242
 * Author: MingCute Design
 * URL: https://github.com/Richard9394/MingCute
 * License: Apache 2.0
@@ -213,6 +213,26 @@
 * URL: https://github.com/lucide-icons/lucide
 * License: ISC
 * License URL: https://github.com/lucide-icons/lucide/blob/main/LICENSE
+* Palette: Colorless
+
+
+### HeroIcons
+* Number of icons: 520
+* Author: Refactoring UI Inc
+* URL: https://github.com/tailwindlabs/heroicons
+* License: MIT
+* License URL: https://github.com/tailwindlabs/heroicons/blob/master/LICENSE
+* Version: 2.0.1
+* Palette: Colorless
+
+
+### HeroIcons Solid
+* Number of icons: 260
+* Author: Refactoring UI Inc
+* URL: https://github.com/tailwindlabs/heroicons
+* License: MIT
+* License URL: https://github.com/tailwindlabs/heroicons/blob/master/LICENSE
+* Version: 2.0.1
 * Palette: Colorless
 
 
@@ -330,26 +350,6 @@
 * URL: https://github.com/primefaces/primeicons
 * License: MIT
 * License URL: https://github.com/primefaces/primeicons/blob/master/LICENSE
-* Palette: Colorless
-
-
-### HeroIcons Outline
-* Number of icons: 230
-* Author: Refactoring UI Inc
-* URL: https://github.com/tailwindlabs/heroicons
-* License: MIT
-* License URL: https://github.com/tailwindlabs/heroicons/blob/master/LICENSE
-* Version: 1.0.6
-* Palette: Colorless
-
-
-### HeroIcons Solid
-* Number of icons: 230
-* Author: Refactoring UI Inc
-* URL: https://github.com/tailwindlabs/heroicons
-* License: MIT
-* License URL: https://github.com/tailwindlabs/heroicons/blob/master/LICENSE
-* Version: 1.0.6
 * Palette: Colorless
 
 
@@ -809,12 +809,12 @@
 
 
 ### Cryptocurrency Icons
-* Number of icons: 471
+* Number of icons: 483
 * Author: Christopher Downer
 * URL: https://github.com/atomiclabs/cryptocurrency-icons
 * License: CC0 1.0
 * License URL: https://creativecommons.org/publicdomain/zero/1.0/
-* Version: 0.18.0
+* Version: 0.18.1
 * Palette: Colorless
 
 

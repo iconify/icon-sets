@@ -153,8 +153,8 @@
 	},
 	"tabler": {
 		"name": "Tabler Icons",
-		"total": 2284,
-		"version": "1.84.0",
+		"total": 2320,
+		"version": "1.86.0",
 		"author": {
 			"name": "Paweł Kuna",
 			"url": "https://github.com/tabler/tabler-icons"
@@ -242,7 +242,7 @@
 	},
 	"mingcute": {
 		"name": "MingCute Icon",
-		"total": 1146,
+		"total": 1242,
 		"author": {
 			"name": "MingCute Design",
 			"url": "https://github.com/Richard9394/MingCute"
@@ -478,6 +478,50 @@
 			"home"
 		],
 		"height": 24,
+		"category": "General",
+		"palette": false
+	},
+	"heroicons": {
+		"name": "HeroIcons",
+		"total": 520,
+		"version": "2.0.1",
+		"author": {
+			"name": "Refactoring UI Inc",
+			"url": "https://github.com/tailwindlabs/heroicons"
+		},
+		"license": {
+			"title": "MIT",
+			"spdx": "MIT",
+			"url": "https://github.com/tailwindlabs/heroicons/blob/master/LICENSE"
+		},
+		"samples": [
+			"camera",
+			"building-library",
+			"receipt-refund"
+		],
+		"height": 24,
+		"category": "General",
+		"palette": false
+	},
+	"heroicons-solid": {
+		"name": "HeroIcons Solid",
+		"total": 260,
+		"version": "2.0.1",
+		"author": {
+			"name": "Refactoring UI Inc",
+			"url": "https://github.com/tailwindlabs/heroicons"
+		},
+		"license": {
+			"title": "MIT",
+			"spdx": "MIT",
+			"url": "https://github.com/tailwindlabs/heroicons/blob/master/LICENSE"
+		},
+		"samples": [
+			"camera",
+			"building-library",
+			"receipt-refund"
+		],
+		"height": 20,
 		"category": "General",
 		"palette": false
 	},
@@ -740,50 +784,6 @@
 			"volume-off"
 		],
 		"height": 24,
-		"category": "General",
-		"palette": false
-	},
-	"heroicons-outline": {
-		"name": "HeroIcons Outline",
-		"total": 230,
-		"version": "1.0.6",
-		"author": {
-			"name": "Refactoring UI Inc",
-			"url": "https://github.com/tailwindlabs/heroicons"
-		},
-		"license": {
-			"title": "MIT",
-			"spdx": "MIT",
-			"url": "https://github.com/tailwindlabs/heroicons/blob/master/LICENSE"
-		},
-		"samples": [
-			"color-swatch",
-			"library",
-			"receipt-refund"
-		],
-		"height": 24,
-		"category": "General",
-		"palette": false
-	},
-	"heroicons-solid": {
-		"name": "HeroIcons Solid",
-		"total": 230,
-		"version": "1.0.6",
-		"author": {
-			"name": "Refactoring UI Inc",
-			"url": "https://github.com/tailwindlabs/heroicons"
-		},
-		"license": {
-			"title": "MIT",
-			"spdx": "MIT",
-			"url": "https://github.com/tailwindlabs/heroicons/blob/master/LICENSE"
-		},
-		"samples": [
-			"color-swatch",
-			"library",
-			"receipt-refund"
-		],
-		"height": 20,
 		"category": "General",
 		"palette": false
 	},
@@ -1823,8 +1823,8 @@
 	},
 	"cryptocurrency": {
 		"name": "Cryptocurrency Icons",
-		"total": 471,
-		"version": "0.18.0",
+		"total": 483,
+		"version": "0.18.1",
 		"author": {
 			"name": "Christopher Downer",
 			"url": "https://github.com/atomiclabs/cryptocurrency-icons"
@@ -2882,6 +2882,28 @@
 			"user",
 			"log-in",
 			"play"
+		],
+		"height": 24,
+		"palette": false,
+		"hidden": true
+	},
+	"heroicons-outline": {
+		"name": "HeroIcons Outline",
+		"total": 230,
+		"version": "1.0.6",
+		"author": {
+			"name": "Refactoring UI Inc",
+			"url": "https://github.com/tailwindlabs/heroicons"
+		},
+		"license": {
+			"title": "MIT",
+			"spdx": "MIT",
+			"url": "https://github.com/tailwindlabs/heroicons/blob/master/LICENSE"
+		},
+		"samples": [
+			"color-swatch",
+			"library",
+			"receipt-refund"
 		],
 		"height": 24,
 		"palette": false,

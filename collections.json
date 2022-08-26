@@ -176,7 +176,7 @@
 	"ion": {
 		"name": "IonIcons",
 		"total": 1332,
-		"version": "6.0.2",
+		"version": "6.0.3",
 		"author": {
 			"name": "Ben Sperry",
 			"url": "https://github.com/ionic-team/ionicons"
@@ -478,50 +478,6 @@
 			"home"
 		],
 		"height": 24,
-		"category": "General",
-		"palette": false
-	},
-	"heroicons": {
-		"name": "HeroIcons",
-		"total": 528,
-		"version": "2.0.7",
-		"author": {
-			"name": "Refactoring UI Inc",
-			"url": "https://github.com/tailwindlabs/heroicons"
-		},
-		"license": {
-			"title": "MIT",
-			"spdx": "MIT",
-			"url": "https://github.com/tailwindlabs/heroicons/blob/master/LICENSE"
-		},
-		"samples": [
-			"camera",
-			"building-library",
-			"receipt-refund"
-		],
-		"height": 24,
-		"category": "General",
-		"palette": false
-	},
-	"heroicons-solid": {
-		"name": "HeroIcons Solid",
-		"total": 264,
-		"version": "2.0.7",
-		"author": {
-			"name": "Refactoring UI Inc",
-			"url": "https://github.com/tailwindlabs/heroicons"
-		},
-		"license": {
-			"title": "MIT",
-			"spdx": "MIT",
-			"url": "https://github.com/tailwindlabs/heroicons/blob/master/LICENSE"
-		},
-		"samples": [
-			"camera",
-			"building-library",
-			"receipt-refund"
-		],
-		"height": 20,
 		"category": "General",
 		"palette": false
 	},
@@ -1158,6 +1114,31 @@
 			"rubber"
 		],
 		"height": 24,
+		"category": "General",
+		"palette": false
+	},
+	"heroicons": {
+		"name": "HeroIcons",
+		"total": 795,
+		"version": "2.0.7",
+		"author": {
+			"name": "Refactoring UI Inc",
+			"url": "https://github.com/tailwindlabs/heroicons"
+		},
+		"license": {
+			"title": "MIT",
+			"spdx": "MIT",
+			"url": "https://github.com/tailwindlabs/heroicons/blob/master/LICENSE"
+		},
+		"samples": [
+			"camera",
+			"building-library",
+			"receipt-refund"
+		],
+		"height": [
+			24,
+			20
+		],
 		"category": "General",
 		"palette": false
 	},
@@ -2906,6 +2887,28 @@
 			"receipt-refund"
 		],
 		"height": 24,
+		"palette": false,
+		"hidden": true
+	},
+	"heroicons-solid": {
+		"name": "HeroIcons Solid",
+		"total": 230,
+		"version": "1.0.6",
+		"author": {
+			"name": "Refactoring UI Inc",
+			"url": "https://github.com/tailwindlabs/heroicons"
+		},
+		"license": {
+			"title": "MIT",
+			"spdx": "MIT",
+			"url": "https://github.com/tailwindlabs/heroicons/blob/master/LICENSE"
+		},
+		"samples": [
+			"color-swatch",
+			"library",
+			"receipt-refund"
+		],
+		"height": 20,
 		"palette": false,
 		"hidden": true
 	}

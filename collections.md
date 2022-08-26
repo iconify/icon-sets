@@ -85,7 +85,7 @@
 * URL: https://github.com/ionic-team/ionicons
 * License: MIT
 * License URL: https://github.com/ionic-team/ionicons/blob/main/LICENSE
-* Version: 6.0.2
+* Version: 6.0.3
 * Palette: Colorless
 
 
@@ -213,26 +213,6 @@
 * URL: https://github.com/lucide-icons/lucide
 * License: ISC
 * License URL: https://github.com/lucide-icons/lucide/blob/main/LICENSE
-* Palette: Colorless
-
-
-### HeroIcons
-* Number of icons: 528
-* Author: Refactoring UI Inc
-* URL: https://github.com/tailwindlabs/heroicons
-* License: MIT
-* License URL: https://github.com/tailwindlabs/heroicons/blob/master/LICENSE
-* Version: 2.0.7
-* Palette: Colorless
-
-
-### HeroIcons Solid
-* Number of icons: 264
-* Author: Refactoring UI Inc
-* URL: https://github.com/tailwindlabs/heroicons
-* License: MIT
-* License URL: https://github.com/tailwindlabs/heroicons/blob/master/LICENSE
-* Version: 2.0.7
 * Palette: Colorless
 
 
@@ -517,6 +497,16 @@
 * URL: https://github.com/michaelampr/jam
 * License: MIT
 * License URL: https://github.com/michaelampr/jam/blob/master/LICENSE
+* Palette: Colorless
+
+
+### HeroIcons
+* Number of icons: 795
+* Author: Refactoring UI Inc
+* URL: https://github.com/tailwindlabs/heroicons
+* License: MIT
+* License URL: https://github.com/tailwindlabs/heroicons/blob/master/LICENSE
+* Version: 2.0.7
 * Palette: Colorless
 
 

@@ -70,12 +70,12 @@
 
 
 ### Tabler Icons
-* Number of icons: 2320
+* Number of icons: 2356
 * Author: Paweł Kuna
 * URL: https://github.com/tabler/tabler-icons
 * License: MIT
 * License URL: https://github.com/tabler/tabler-icons/blob/master/LICENSE
-* Version: 1.86.0
+* Version: 1.88.0
 * Palette: Colorless
 
 
@@ -217,22 +217,22 @@
 
 
 ### HeroIcons
-* Number of icons: 520
+* Number of icons: 528
 * Author: Refactoring UI Inc
 * URL: https://github.com/tailwindlabs/heroicons
 * License: MIT
 * License URL: https://github.com/tailwindlabs/heroicons/blob/master/LICENSE
-* Version: 2.0.1
+* Version: 2.0.7
 * Palette: Colorless
 
 
 ### HeroIcons Solid
-* Number of icons: 260
+* Number of icons: 264
 * Author: Refactoring UI Inc
 * URL: https://github.com/tailwindlabs/heroicons
 * License: MIT
 * License URL: https://github.com/tailwindlabs/heroicons/blob/master/LICENSE
-* Version: 2.0.1
+* Version: 2.0.7
 * Palette: Colorless
 
 
@@ -773,7 +773,7 @@
 
 
 ### Arcticons
-* Number of icons: 4527
+* Number of icons: 4607
 * Author: Donnnno
 * URL: https://github.com/Donnnno/Arcticons
 * License: CC BY-SA 4.0
@@ -824,7 +824,7 @@
 * URL: https://github.com/lipis/flag-icons
 * License: MIT
 * License URL: https://github.com/lipis/flag-icons/blob/main/LICENSE
-* Version: 6.6.4
+* Version: 6.6.6
 * Palette: Colorful
 
 

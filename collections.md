@@ -70,12 +70,12 @@
 
 
 ### Tabler Icons
-* Number of icons: 2356
+* Number of icons: 2410
 * Author: Paweł Kuna
 * URL: https://github.com/tabler/tabler-icons
 * License: MIT
 * License URL: https://github.com/tabler/tabler-icons/blob/master/LICENSE
-* Version: 1.88.0
+* Version: 1.90.0
 * Palette: Colorless
 
 
@@ -133,7 +133,7 @@
 * URL: https://github.com/lucaburgio/iconoir
 * License: MIT
 * License URL: https://github.com/lucaburgio/iconoir/blob/master/LICENSE
-* Version: 5.1.4
+* Version: 5.2.0
 * Palette: Colorless
 
 
@@ -482,12 +482,12 @@
 
 
 ### VSCode Icons
-* Number of icons: 1163
+* Number of icons: 1165
 * Author: Roberto Huertas
 * URL: https://github.com/vscode-icons/vscode-icons
 * License: MIT
 * License URL: https://github.com/vscode-icons/vscode-icons/blob/master/LICENSE
-* Version: 11.15.0
+* Version: 11.16.0
 * Palette: Colorful
 
 
@@ -506,7 +506,7 @@
 * URL: https://github.com/tailwindlabs/heroicons
 * License: MIT
 * License URL: https://github.com/tailwindlabs/heroicons/blob/master/LICENSE
-* Version: 2.0.7
+* Version: 2.0.8
 * Palette: Colorless
 
 
@@ -733,12 +733,12 @@
 
 
 ### Simple Icons
-* Number of icons: 2317
+* Number of icons: 2325
 * Author: Simple Icons Collaborators
 * URL: https://github.com/simple-icons/simple-icons
 * License: CC0 1.0
 * License URL: https://github.com/simple-icons/simple-icons/blob/develop/LICENSE.md
-* Version: 7.8.0
+* Version: 7.9.0
 * Palette: Colorless
 
 
@@ -763,7 +763,7 @@
 
 
 ### Arcticons
-* Number of icons: 4607
+* Number of icons: 4604
 * Author: Donnnno
 * URL: https://github.com/Donnnno/Arcticons
 * License: CC BY-SA 4.0
@@ -1008,6 +1008,26 @@
 * License: Apache 2.0
 * License URL: https://www.apache.org/licenses/LICENSE-2.0
 * Version: 1.1.3
+* Palette: Colorless
+
+
+### HeroIcons v1 Outline
+* Number of icons: 230
+* Author: Refactoring UI Inc
+* URL: https://github.com/tailwindlabs/heroicons
+* License: MIT
+* License URL: https://github.com/tailwindlabs/heroicons/blob/master/LICENSE
+* Version: 1.0.6
+* Palette: Colorless
+
+
+### HeroIcons v1 Solid
+* Number of icons: 230
+* Author: Refactoring UI Inc
+* URL: https://github.com/tailwindlabs/heroicons
+* License: MIT
+* License URL: https://github.com/tailwindlabs/heroicons/blob/master/LICENSE
+* Version: 1.0.6
 * Palette: Colorless
 
 

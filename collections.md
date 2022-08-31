@@ -3,7 +3,7 @@
 
 
 ### Material Symbols
-* Number of icons: 8180
+* Number of icons: 8183
 * Author: Google
 * URL: https://github.com/google/material-design-icons
 * License: Apache 2.0
@@ -501,12 +501,12 @@
 
 
 ### HeroIcons
-* Number of icons: 795
+* Number of icons: 840
 * Author: Refactoring UI Inc
 * URL: https://github.com/tailwindlabs/heroicons
 * License: MIT
 * License URL: https://github.com/tailwindlabs/heroicons/blob/master/LICENSE
-* Version: 2.0.8
+* Version: 2.0.10
 * Palette: Colorless
 
 
@@ -571,12 +571,12 @@
 
 
 ### Octicons
-* Number of icons: 514
+* Number of icons: 516
 * Author: GitHub
 * URL: https://github.com/primer/octicons/
 * License: MIT
 * License URL: https://github.com/primer/octicons/blob/main/LICENSE
-* Version: 17.4.1
+* Version: 17.5.0
 * Palette: Colorless
 
 

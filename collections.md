@@ -3,7 +3,7 @@
 
 
 ### Material Symbols
-* Number of icons: 8183
+* Number of icons: 8201
 * Author: Google
 * URL: https://github.com/google/material-design-icons
 * License: Apache 2.0
@@ -70,12 +70,12 @@
 
 
 ### Tabler Icons
-* Number of icons: 2446
+* Number of icons: 2663
 * Author: Paweł Kuna
 * URL: https://github.com/tabler/tabler-icons
 * License: MIT
 * License URL: https://github.com/tabler/tabler-icons/blob/master/LICENSE
-* Version: 1.93.0
+* Version: 1.95.0
 * Palette: Colorless
 
 

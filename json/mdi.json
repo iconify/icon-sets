@@ -21,7 +21,7 @@
 		"category": "General",
 		"palette": false
 	},
-	"lastModified": 1661493445,
+	"lastModified": 1662961012,
 	"icons": {
 		"ab-testing": {
 			"body": "<path fill=\"currentColor\" d=\"M4 2a2 2 0 0 0-2 2v8h2V8h2v4h2V4a2 2 0 0 0-2-2H4m0 2h2v2H4m18 9.5V14a2 2 0 0 0-2-2h-4v10h4a2 2 0 0 0 2-2v-1.5a1.54 1.54 0 0 0-1.5-1.5a1.54 1.54 0 0 0 1.5-1.5M20 20h-2v-2h2v2m0-4h-2v-2h2M5.79 21.61l-1.58-1.22l14-18l1.58 1.22Z\"/>"
@@ -22269,6 +22269,12 @@
 		"access-alarms": {
 			"parent": "alarm"
 		},
+		"access-point-success": {
+			"parent": "access-point-check"
+		},
+		"access-point-tick": {
+			"parent": "access-point-check"
+		},
 		"access-time": {
 			"parent": "clock-outline"
 		},
@@ -22374,6 +22380,12 @@
 		"account-multiple-add-outline": {
 			"parent": "account-multiple-plus-outline"
 		},
+		"account-multiple-success": {
+			"parent": "account-multiple-check"
+		},
+		"account-multiple-success-outline": {
+			"parent": "account-multiple-check-outline"
+		},
 		"account-multiple-tick": {
 			"parent": "account-multiple-check"
 		},
@@ -22433,6 +22445,12 @@
 		},
 		"account-student-outline": {
 			"parent": "account-school-outline"
+		},
+		"account-success": {
+			"parent": "account-check"
+		},
+		"account-success-outline": {
+			"parent": "account-check-outline"
 		},
 		"account-supervisor-circle-outlined": {
 			"parent": "account-supervisor-circle-outline"
@@ -22656,6 +22674,9 @@
 		"airline-seat-recline-normal": {
 			"parent": "seat-recline-normal"
 		},
+		"airplace-success": {
+			"parent": "airplane-check"
+		},
 		"airplane-car": {
 			"parent": "plane-car"
 		},
@@ -22676,6 +22697,9 @@
 		},
 		"airplane-take-off": {
 			"parent": "airplane-takeoff"
+		},
+		"airplane-tick": {
+			"parent": "airplane-check"
 		},
 		"airplane-time": {
 			"parent": "airplane-clock"
@@ -22749,6 +22773,9 @@
 		"alarm-on": {
 			"parent": "alarm-check"
 		},
+		"alarm-success": {
+			"parent": "alarm-check"
+		},
 		"alarm-tick": {
 			"parent": "alarm-check"
 		},
@@ -22757,6 +22784,12 @@
 		},
 		"alcohol": {
 			"parent": "glass-cocktail"
+		},
+		"alert-circle-success": {
+			"parent": "alert-circle-check"
+		},
+		"alert-circle-success-outline": {
+			"parent": "alert-circle-check-outline"
 		},
 		"align-horizontal-centre": {
 			"parent": "align-horizontal-center"
@@ -27123,6 +27156,12 @@
 		"easter-outline": {
 			"parent": "rabbit-variant-outline"
 		},
+		"ecology": {
+			"parent": "sprout"
+		},
+		"ecology-outline": {
+			"parent": "sprout-outline"
+		},
 		"edge": {
 			"parent": "microsoft-edge"
 		},
@@ -27761,6 +27800,12 @@
 		},
 		"envelope-warning": {
 			"parent": "email-alert"
+		},
+		"environment": {
+			"parent": "sprout"
+		},
+		"environment-outline": {
+			"parent": "sprout-outline"
 		},
 		"equaliser": {
 			"parent": "tune"
@@ -38003,6 +38048,24 @@
 		},
 		"subwoofer": {
 			"parent": "smoke-detector"
+		},
+		"success": {
+			"parent": "check"
+		},
+		"success-bold": {
+			"parent": "check-bold"
+		},
+		"success-circle": {
+			"parent": "check-circle"
+		},
+		"success-circle-outline": {
+			"parent": "check-circle-outline"
+		},
+		"success-thick": {
+			"parent": "check-bold"
+		},
+		"sucess-outline": {
+			"parent": "check-outline"
 		},
 		"sugar": {
 			"parent": "cube-outline"

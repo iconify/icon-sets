@@ -70,12 +70,12 @@
 
 
 ### Tabler Icons
-* Number of icons: 2663
+* Number of icons: 2664
 * Author: Paweł Kuna
 * URL: https://github.com/tabler/tabler-icons
 * License: MIT
 * License URL: https://github.com/tabler/tabler-icons/blob/master/LICENSE
-* Version: 1.95.0
+* Version: 1.95.1
 * Palette: Colorless
 
 
@@ -128,12 +128,12 @@
 
 
 ### Iconoir
-* Number of icons: 1151
+* Number of icons: 1188
 * Author: Luca Burgio
 * URL: https://github.com/lucaburgio/iconoir
 * License: MIT
 * License URL: https://github.com/lucaburgio/iconoir/blob/master/LICENSE
-* Version: 5.2.0
+* Version: 5.3.0
 * Palette: Colorless
 
 
@@ -482,12 +482,12 @@
 
 
 ### VSCode Icons
-* Number of icons: 1165
+* Number of icons: 1167
 * Author: Roberto Huertas
 * URL: https://github.com/vscode-icons/vscode-icons
 * License: MIT
 * License URL: https://github.com/vscode-icons/vscode-icons/blob/master/LICENSE
-* Version: 11.16.0
+* Version: 11.17.0
 * Palette: Colorful
 
 
@@ -733,12 +733,12 @@
 
 
 ### Simple Icons
-* Number of icons: 2332
+* Number of icons: 2339
 * Author: Simple Icons Collaborators
 * URL: https://github.com/simple-icons/simple-icons
 * License: CC0 1.0
 * License URL: https://github.com/simple-icons/simple-icons/blob/develop/LICENSE.md
-* Version: 7.10.0
+* Version: 7.11.0
 * Palette: Colorless
 
 

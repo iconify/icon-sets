@@ -70,12 +70,12 @@
 
 
 ### Tabler Icons
-* Number of icons: 2664
+* Number of icons: 2681
 * Author: Paweł Kuna
 * URL: https://github.com/tabler/tabler-icons
 * License: MIT
 * License URL: https://github.com/tabler/tabler-icons/blob/master/LICENSE
-* Version: 1.95.1
+* Version: 1.96.0
 * Palette: Colorless
 
 
@@ -325,7 +325,7 @@
 
 
 ### Prime Icons
-* Number of icons: 238
+* Number of icons: 259
 * Author: PrimeTek
 * URL: https://github.com/primefaces/primeicons
 * License: MIT
@@ -501,12 +501,12 @@
 
 
 ### HeroIcons
-* Number of icons: 840
+* Number of icons: 876
 * Author: Refactoring UI Inc
 * URL: https://github.com/tailwindlabs/heroicons
 * License: MIT
 * License URL: https://github.com/tailwindlabs/heroicons/blob/master/LICENSE
-* Version: 2.0.10
+* Version: 2.0.11
 * Palette: Colorless
 
 

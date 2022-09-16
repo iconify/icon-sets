@@ -3,7 +3,7 @@
 
 
 ### Material Symbols
-* Number of icons: 8201
+* Number of icons: 8240
 * Author: Google
 * URL: https://github.com/google/material-design-icons
 * License: Apache 2.0
@@ -208,7 +208,7 @@
 
 
 ### Lucide
-* Number of icons: 831
+* Number of icons: 833
 * Author: Lucide Contributors
 * URL: https://github.com/lucide-icons/lucide
 * License: ISC
@@ -325,7 +325,7 @@
 
 
 ### Prime Icons
-* Number of icons: 259
+* Number of icons: 260
 * Author: PrimeTek
 * URL: https://github.com/primefaces/primeicons
 * License: MIT
@@ -629,7 +629,7 @@
 
 
 ### Noto Emoji
-* Number of icons: 3418
+* Number of icons: 3447
 * Author: Google Inc
 * URL: https://github.com/googlefonts/noto-emoji
 * License: Apache 2.0

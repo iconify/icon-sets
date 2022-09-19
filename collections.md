@@ -51,11 +51,11 @@
 
 
 ### Carbon
-* Number of icons: 1799
+* Number of icons: 1858
 * Author: IBM
 * URL: https://github.com/carbon-design-system/carbon/tree/main/packages/icons
 * License: Apache 2.0
-* Version: 11.7.0
+* Version: 11.8.0
 * Palette: Colorless
 
 
@@ -581,7 +581,7 @@
 
 
 ### OOUI
-* Number of icons: 328
+* Number of icons: 330
 * Author: OOUI Team
 * URL: https://github.com/wikimedia/oojs-ui
 * License: MIT
@@ -733,12 +733,12 @@
 
 
 ### Simple Icons
-* Number of icons: 2339
+* Number of icons: 2350
 * Author: Simple Icons Collaborators
 * URL: https://github.com/simple-icons/simple-icons
 * License: CC0 1.0
 * License URL: https://github.com/simple-icons/simple-icons/blob/develop/LICENSE.md
-* Version: 7.11.0
+* Version: 7.12.0
 * Palette: Colorless
 
 

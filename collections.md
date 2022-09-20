@@ -168,22 +168,22 @@
 
 
 ### BoxIcons
-* Number of icons: 797
+* Number of icons: 814
 * Author: Atisa
 * URL: https://github.com/atisawd/boxicons
 * License: CC BY 4.0
 * License URL: https://creativecommons.org/licenses/by/4.0/
-* Version: 2.1.2
+* Version: 2.1.4
 * Palette: Colorless
 
 
 ### BoxIcons Solid
-* Number of icons: 650
+* Number of icons: 665
 * Author: Atisa
 * URL: https://github.com/atisawd/boxicons
 * License: CC BY 4.0
 * License URL: https://creativecommons.org/licenses/by/4.0/
-* Version: 2.1.2
+* Version: 2.1.4
 * Palette: Colorless
 
 
@@ -208,7 +208,7 @@
 
 
 ### Lucide
-* Number of icons: 833
+* Number of icons: 834
 * Author: Lucide Contributors
 * URL: https://github.com/lucide-icons/lucide
 * License: ISC
@@ -394,7 +394,7 @@
 
 
 ### Gridicons
-* Number of icons: 201
+* Number of icons: 205
 * Author: Automattic
 * URL: https://github.com/Automattic/gridicons
 * License: GPL 2.0
@@ -520,6 +520,16 @@
 * Palette: Colorless
 
 
+### Gitlab SVGs
+* Number of icons: 343
+* Author: GitLab B.V.
+* URL: https://gitlab.com/gitlab-org/gitlab-svgs/-/tree/main
+* License: MIT
+* License URL: https://gitlab.com/gitlab-org/gitlab-svgs/-/blob/main/LICENSE
+* Version: 3.3.0
+* Palette: Colorless
+
+
 ### Pepicons
 * Number of icons: 416
 * Author: CyCraft
@@ -629,7 +639,7 @@
 
 
 ### Noto Emoji
-* Number of icons: 3447
+* Number of icons: 3449
 * Author: Google Inc
 * URL: https://github.com/googlefonts/noto-emoji
 * License: Apache 2.0
@@ -714,12 +724,12 @@
 
 
 ### BoxIcons Logo
-* Number of icons: 153
+* Number of icons: 155
 * Author: Atisa
 * URL: https://github.com/atisawd/boxicons
 * License: CC BY 4.0
 * License URL: https://creativecommons.org/licenses/by/4.0/
-* Version: 2.1.2
+* Version: 2.1.4
 * Palette: Colorless
 
 

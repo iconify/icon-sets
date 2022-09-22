@@ -70,12 +70,12 @@
 
 
 ### Tabler Icons
-* Number of icons: 2681
+* Number of icons: 2702
 * Author: Paweł Kuna
 * URL: https://github.com/tabler/tabler-icons
 * License: MIT
 * License URL: https://github.com/tabler/tabler-icons/blob/master/LICENSE
-* Version: 1.96.0
+* Version: 1.97.0
 * Palette: Colorless
 
 
@@ -521,12 +521,12 @@
 
 
 ### Gitlab SVGs
-* Number of icons: 343
+* Number of icons: 345
 * Author: GitLab B.V.
 * URL: https://gitlab.com/gitlab-org/gitlab-svgs/-/tree/main
 * License: MIT
 * License URL: https://gitlab.com/gitlab-org/gitlab-svgs/-/blob/main/LICENSE
-* Version: 3.3.0
+* Version: 3.4.0
 * Palette: Colorless
 
 

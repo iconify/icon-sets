@@ -70,12 +70,12 @@
 
 
 ### Tabler Icons
-* Number of icons: 2702
+* Number of icons: 2763
 * Author: Paweł Kuna
 * URL: https://github.com/tabler/tabler-icons
 * License: MIT
 * License URL: https://github.com/tabler/tabler-icons/blob/master/LICENSE
-* Version: 1.97.0
+* Version: 1.100.0
 * Palette: Colorless
 
 
@@ -133,7 +133,7 @@
 * URL: https://github.com/lucaburgio/iconoir
 * License: MIT
 * License URL: https://github.com/lucaburgio/iconoir/blob/master/LICENSE
-* Version: 5.3.0
+* Version: 5.3.1
 * Palette: Colorless
 
 
@@ -581,7 +581,7 @@
 
 
 ### Octicons
-* Number of icons: 516
+* Number of icons: 518
 * Author: GitHub
 * URL: https://github.com/primer/octicons/
 * License: MIT
@@ -773,7 +773,7 @@
 
 
 ### Arcticons
-* Number of icons: 4604
+* Number of icons: 4699
 * Author: Donnnno
 * URL: https://github.com/Donnnno/Arcticons
 * License: CC BY-SA 4.0

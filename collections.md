@@ -70,12 +70,12 @@
 
 
 ### Tabler Icons
-* Number of icons: 2763
+* Number of icons: 2781
 * Author: Paweł Kuna
 * URL: https://github.com/tabler/tabler-icons
 * License: MIT
 * License URL: https://github.com/tabler/tabler-icons/blob/master/LICENSE
-* Version: 1.100.0
+* Version: 1.101.0
 * Palette: Colorless
 
 
@@ -482,12 +482,12 @@
 
 
 ### VSCode Icons
-* Number of icons: 1167
+* Number of icons: 1172
 * Author: Roberto Huertas
 * URL: https://github.com/vscode-icons/vscode-icons
 * License: MIT
 * License URL: https://github.com/vscode-icons/vscode-icons/blob/master/LICENSE
-* Version: 11.17.0
+* Version: 11.18.0
 * Palette: Colorful
 
 
@@ -885,6 +885,15 @@
 * License: MIT
 * License URL: https://github.com/cugos/geoglyphs/blob/main/LICENSE.md
 * Version: 0.0.10
+* Palette: Colorless
+
+
+### Game Icons
+* Number of icons: 4046
+* Author: GameIcons
+* URL: https://github.com/game-icons/icons
+* License: CC BY 3.0
+* License URL: https://github.com/game-icons/icons/blob/master/license.txt
 * Palette: Colorless
 
 

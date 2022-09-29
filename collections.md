@@ -596,7 +596,7 @@
 * URL: https://github.com/wikimedia/oojs-ui
 * License: MIT
 * License URL: https://github.com/wikimedia/oojs-ui/blob/master/LICENSE-MIT
-* Version: 0.44.3
+* Version: 0.45.0
 * Palette: Colorless
 
 

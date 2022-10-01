@@ -3,7 +3,7 @@
 
 
 ### Material Symbols
-* Number of icons: 8240
+* Number of icons: 8261
 * Author: Google
 * URL: https://github.com/google/material-design-icons
 * License: Apache 2.0
@@ -581,12 +581,12 @@
 
 
 ### Octicons
-* Number of icons: 518
+* Number of icons: 521
 * Author: GitHub
 * URL: https://github.com/primer/octicons/
 * License: MIT
 * License URL: https://github.com/primer/octicons/blob/main/LICENSE
-* Version: 17.5.0
+* Version: 17.6.0
 * Palette: Colorless
 
 
@@ -611,12 +611,12 @@
 
 
 ### Material Line Icons
-* Number of icons: 346
+* Number of icons: 375
 * Author: Vjacheslav Trushkin
 * URL: https://github.com/cyberalien/line-md
 * License: MIT
 * License URL: https://github.com/cyberalien/line-md/blob/master/license.txt
-* Version: 0.2.4
+* Version: 0.2.5
 * Palette: Colorless
 
 
@@ -648,7 +648,7 @@
 
 
 ### Fluent Emoji
-* Number of icons: 3009
+* Number of icons: 2979
 * Author: Microsoft Corporation
 * URL: https://github.com/microsoft/fluentui-emoji
 * License: MIT
@@ -657,7 +657,7 @@
 
 
 ### Fluent Emoji Flat
-* Number of icons: 3010
+* Number of icons: 2980
 * Author: Microsoft Corporation
 * URL: https://github.com/microsoft/fluentui-emoji
 * License: MIT
@@ -829,7 +829,7 @@
 
 
 ### Circle Flags
-* Number of icons: 360
+* Number of icons: 361
 * Author: HatScripts
 * URL: https://github.com/HatScripts/circle-flags
 * License: MIT

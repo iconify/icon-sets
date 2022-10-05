@@ -3,7 +3,7 @@
 
 
 ### Material Symbols
-* Number of icons: 8261
+* Number of icons: 8260
 * Author: Google
 * URL: https://github.com/google/material-design-icons
 * License: Apache 2.0
@@ -55,7 +55,7 @@
 * Author: IBM
 * URL: https://github.com/carbon-design-system/carbon/tree/main/packages/icons
 * License: Apache 2.0
-* Version: 11.8.0
+* Version: 11.9.0
 * Palette: Colorless
 
 
@@ -208,7 +208,7 @@
 
 
 ### Lucide
-* Number of icons: 834
+* Number of icons: 836
 * Author: Lucide Contributors
 * URL: https://github.com/lucide-icons/lucide
 * License: ISC
@@ -531,12 +531,12 @@
 
 
 ### Pepicons
-* Number of icons: 416
+* Number of icons: 428
 * Author: CyCraft
 * URL: https://github.com/CyCraft/pepicons
 * License: CC BY 4.0
 * License URL: https://github.com/CyCraft/pepicons/blob/dev/LICENSE
-* Version: 1.1.2
+* Version: 1.2.0
 * Palette: Colorless
 
 
@@ -829,7 +829,7 @@
 
 
 ### Circle Flags
-* Number of icons: 361
+* Number of icons: 373
 * Author: HatScripts
 * URL: https://github.com/HatScripts/circle-flags
 * License: MIT

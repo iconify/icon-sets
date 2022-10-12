@@ -76,12 +76,12 @@
 * File: [json/bi.json](json/bi.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Tabler Icons
-* Number of icons: 2781
+* Number of icons: 2817
 * Author: Paweł Kuna
 * URL: https://github.com/tabler/tabler-icons
 * License: MIT
 * License URL: https://github.com/tabler/tabler-icons/blob/master/LICENSE
-* Version: 1.101.0
+* Version: 1.103.0
 * Palette: Colorless
 * Icon set prefix: `tabler`
 * File: [json/tabler.json](json/tabler.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
@@ -1294,3 +1294,13 @@
 * Palette: Colorless
 * Icon set prefix: `el`
 * File: [json/el.json](json/el.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
+
+## Vaadin Icons
+* Number of icons: 636
+* Author: Vaadin
+* URL: https://github.com/vaadin/web-components
+* License: Apache 2.0
+* Version: 4.3.2
+* Palette: Colorless
+* Icon set prefix: `vaadin`
+* File: [json/vaadin.json](json/vaadin.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))

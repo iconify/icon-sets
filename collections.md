@@ -76,12 +76,12 @@
 * File: [json/bi.json](json/bi.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Tabler Icons
-* Number of icons: 2817
+* Number of icons: 2835
 * Author: Paweł Kuna
 * URL: https://github.com/tabler/tabler-icons
 * License: MIT
 * License URL: https://github.com/tabler/tabler-icons/blob/master/LICENSE
-* Version: 1.103.0
+* Version: 1.104.0
 * Palette: Colorless
 * Icon set prefix: `tabler`
 * File: [json/tabler.json](json/tabler.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
@@ -270,12 +270,12 @@
 * File: [json/ci.json](json/ci.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Akar Icons
-* Number of icons: 412
+* Number of icons: 414
 * Author: Arturo Wibawa
 * URL: https://github.com/artcoholic/akar-icons
 * License: MIT
 * License URL: https://github.com/artcoholic/akar-icons/blob/master/LICENSE
-* Version: 1.9.20
+* Version: 1.9.21
 * Palette: Colorless
 * Icon set prefix: `akar-icons`
 * File: [json/akar-icons.json](json/akar-icons.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
@@ -666,18 +666,18 @@
 * URL: https://github.com/TiendaNube/nimbus-icons
 * License: MIT
 * License URL: https://github.com/TiendaNube/nimbus-icons/blob/develop/LICENSE
-* Version: 0.2.7
+* Version: 0.2.8
 * Palette: Colorless
 * Icon set prefix: `nimbus`
 * File: [json/nimbus.json](json/nimbus.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Material Line Icons
-* Number of icons: 375
+* Number of icons: 383
 * Author: Vjacheslav Trushkin
 * URL: https://github.com/cyberalien/line-md
 * License: MIT
 * License URL: https://github.com/cyberalien/line-md/blob/master/license.txt
-* Version: 0.2.5
+* Version: 0.2.6
 * Palette: Colorless
 * Icon set prefix: `line-md`
 * File: [json/line-md.json](json/line-md.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
@@ -1200,6 +1200,16 @@
 * Palette: Colorless
 * Icon set prefix: `fa`
 * File: [json/fa.json](json/fa.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
+
+## Fluent UI MDL2
+* Number of icons: 1735
+* Author: Microsoft Corporation
+* URL: https://github.com/microsoft/fluentui/tree/master/packages/react-icons-mdl2
+* License: MIT
+* License URL: https://github.com/microsoft/fluentui/blob/master/packages/react-icons-mdl2/LICENSE
+* Palette: Colorless
+* Icon set prefix: `fluent-mdl2`
+* File: [json/fluent-mdl2.json](json/fluent-mdl2.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Fontisto
 * Number of icons: 615

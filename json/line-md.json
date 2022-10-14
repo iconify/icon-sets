@@ -2,8 +2,8 @@
 	"prefix": "line-md",
 	"info": {
 		"name": "Material Line Icons",
-		"total": 375,
-		"version": "0.2.5",
+		"total": 383,
+		"version": "0.2.6",
 		"author": {
 			"name": "Vjacheslav Trushkin",
 			"url": "https://github.com/cyberalien/line-md"
@@ -22,7 +22,7 @@
 		"category": "Animated Icons",
 		"palette": false
 	},
-	"lastModified": 1664603461,
+	"lastModified": 1665725969,
 	"icons": {
 		"account": {
 			"body": "<g fill=\"none\" stroke=\"currentColor\" stroke-dasharray=\"28\" stroke-dashoffset=\"28\" stroke-linecap=\"round\" stroke-width=\"2\"><path d=\"M4 21V20C4 16.6863 6.68629 14 10 14H14C17.3137 14 20 16.6863 20 20V21\"><animate fill=\"freeze\" attributeName=\"stroke-dashoffset\" dur=\"0.4s\" values=\"28;0\"/></path><path d=\"M12 11C9.79086 11 8 9.20914 8 7C8 4.79086 9.79086 3 12 3C14.2091 3 16 4.79086 16 7C16 9.20914 14.2091 11 12 11Z\"><animate fill=\"freeze\" attributeName=\"stroke-dashoffset\" begin=\"0.5s\" dur=\"0.4s\" values=\"28;0\"/></path></g>"
@@ -799,6 +799,15 @@
 		"paint-drop-twotone": {
 			"body": "<path fill=\"currentColor\" fill-opacity=\"0\" d=\"M12 4C12 4 18 9 18 15C18 19 15 20 12 20C9 20 6 19 6 15C6 9 12 4 12 4Z\"><animate fill=\"freeze\" attributeName=\"fill-opacity\" begin=\"0.4s\" dur=\"0.15s\" values=\"0;0.3\"/></path><path fill=\"none\" stroke=\"currentColor\" stroke-dasharray=\"28\" stroke-dashoffset=\"28\" stroke-linecap=\"round\" stroke-width=\"2\" d=\"M12 3C12 3 19 9 19 15C19 17 18 21 12 21M12 3C12 3 5 9 5 15C5 17 6 21 12 21\"><animate fill=\"freeze\" attributeName=\"stroke-dashoffset\" dur=\"0.4s\" values=\"28;0\"/></path>"
 		},
+		"pause": {
+			"body": "<g fill=\"none\" stroke=\"currentColor\" stroke-dasharray=\"32\" stroke-dashoffset=\"32\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\"><path d=\"M7 6h2v12h-2z\"><animate fill=\"freeze\" attributeName=\"stroke-dashoffset\" dur=\"0.4s\" values=\"32;0\"/></path><path d=\"M15 6h2v12h-2z\"><animate fill=\"freeze\" attributeName=\"stroke-dashoffset\" begin=\"0.5s\" dur=\"0.4s\" values=\"32;0\"/></path></g>"
+		},
+		"pause-to-play-filled-transition": {
+			"body": "<g fill=\"currentColor\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\"><path d=\"M9 6L9 18L7 18L7 6z\"><animate fill=\"freeze\" attributeName=\"d\" dur=\"0.4s\" values=\"M9 18L7 18L7 6L9 6L9 18;M13 15L8 18L8 6L13 9L13 15\"/><set attributeName=\"opacity\" begin=\"0.4s\" to=\"0\"/></path><path d=\"M15 6L17 6L17 18L15 18L15 6\"><animate fill=\"freeze\" attributeName=\"d\" dur=\"0.4s\" values=\"M15 6L17 6L17 18L15 18L15 6;M13 9L18 12L18 12L13 15L13 9\"/><set attributeName=\"opacity\" begin=\"0.4s\" to=\"0\"/></path><path d=\"M8 6L18 12L8 18z\" opacity=\"0\"><set attributeName=\"opacity\" begin=\"0.4s\" to=\"1\"/></path></g>"
+		},
+		"pause-to-play-transition": {
+			"body": "<g fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\"><path d=\"M9 6L9 18L7 18L7 6z\"><animate fill=\"freeze\" attributeName=\"d\" dur=\"0.6s\" keyTimes=\"0;0.66;1\" values=\"M9 18L7 18L7 6L9 6L9 18;M13 15L8 18L8 6L13 9L13 15;M13 15L8 18L8 6L13 9L13 9\"/><set attributeName=\"opacity\" begin=\"0.6s\" to=\"0\"/></path><path d=\"M15 6L17 6L17 18L15 18L15 6\"><animate fill=\"freeze\" attributeName=\"d\" dur=\"0.6s\" keyTimes=\"0;0.66;1\" values=\"M15 6L17 6L17 18L15 18L15 6;M13 9L18 12L18 12L13 15L13 9;M13 9L18 12L18 12L13 15L13 15\"/><set attributeName=\"opacity\" begin=\"0.6s\" to=\"0\"/></path><path d=\"M8 6L18 12L8 18z\" opacity=\"0\"><set attributeName=\"opacity\" begin=\"0.6s\" to=\"1\"/></path></g>"
+		},
 		"pencil": {
 			"body": "<g fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\"><path stroke-dasharray=\"56\" stroke-dashoffset=\"56\" d=\"M3 21L4.99998 15L16 4C17 3 19 3 20 4C21 5 21 7 20 8L8.99998 19L3 21\"><animate fill=\"freeze\" attributeName=\"stroke-dashoffset\" dur=\"0.6s\" values=\"56;0\"/></path><g stroke-dasharray=\"6\" stroke-dashoffset=\"6\"><path d=\"M15 5L19 9\"><animate fill=\"freeze\" attributeName=\"stroke-dashoffset\" begin=\"0.6s\" dur=\"0.2s\" values=\"6;0\"/></path><path stroke-width=\"1\" d=\"M6 15L9 18\"><animate fill=\"freeze\" attributeName=\"stroke-dashoffset\" begin=\"0.6s\" dur=\"0.2s\" values=\"6;0\"/></path></g></g>"
 		},
@@ -807,6 +816,21 @@
 		},
 		"pencil-twotone-alt": {
 			"body": "<g fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\"><path stroke-dasharray=\"56\" stroke-dashoffset=\"56\" d=\"M3 21L4.99998 15L16 4C17 3 19 3 20 4C21 5 21 7 20 8L8.99998 19L3 21\"><animate fill=\"freeze\" attributeName=\"stroke-dashoffset\" dur=\"0.6s\" values=\"56;0\"/></path><g stroke-dasharray=\"6\" stroke-dashoffset=\"6\"><path d=\"M15 5L19 9\"><animate fill=\"freeze\" attributeName=\"stroke-dashoffset\" begin=\"0.6s\" dur=\"0.2s\" values=\"6;0\"/></path><path stroke-width=\"1\" d=\"M6 15L9 18\"><animate fill=\"freeze\" attributeName=\"stroke-dashoffset\" begin=\"0.6s\" dur=\"0.2s\" values=\"6;0\"/></path></g></g><path fill=\"currentColor\" fill-opacity=\"0\" d=\"M9 18L18 9L15 6L6 15L9 18Z\"><animate fill=\"freeze\" attributeName=\"fill-opacity\" begin=\"0.8s\" dur=\"0.15s\" values=\"0;0.3\"/></path>"
+		},
+		"play": {
+			"body": "<path fill=\"none\" stroke=\"currentColor\" stroke-dasharray=\"36\" stroke-dashoffset=\"36\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" d=\"M8 6L18 12L8 18z\"><animate fill=\"freeze\" attributeName=\"stroke-dashoffset\" dur=\"0.4s\" values=\"36;0\"/></path>"
+		},
+		"play-filled": {
+			"body": "<path fill=\"currentColor\" fill-opacity=\"0\" stroke=\"currentColor\" stroke-dasharray=\"36\" stroke-dashoffset=\"36\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" d=\"M8 6L18 12L8 18z\"><animate fill=\"freeze\" attributeName=\"stroke-dashoffset\" dur=\"0.4s\" values=\"36;0\"/><animate fill=\"freeze\" attributeName=\"fill-opacity\" begin=\"0.5s\" dur=\"0.5s\" values=\"0;1\"/></path>"
+		},
+		"play-filled-to-pause-transition": {
+			"body": "<g fill=\"currentColor\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\"><path d=\"M13 15L8 18L8 6L13 9L13 15\"><animate fill=\"freeze\" attributeName=\"d\" dur=\"0.4s\" values=\"M13 15L8 18L8 6L13 9L13 15;M9 18L7 18L7 6L9 6L9 18\"/></path><path d=\"M13 9L18 12L18 12L13 15L13 9\"><animate fill=\"freeze\" attributeName=\"d\" dur=\"0.4s\" values=\"M13 9L18 12L18 12L13 15L13 9;M15 6L17 6L17 18L15 18L15 6\"/></path></g>"
+		},
+		"play-to-pause-transition": {
+			"body": "<g fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\"><path d=\"M13 15L8 18L8 6L13 9L13 9\"><animate fill=\"freeze\" attributeName=\"d\" dur=\"0.6s\" keyTimes=\"0;0.33;1\" values=\"M13 15L8 18L8 6L13 9L13 9;M13 15L8 18L8 6L13 9L13 15;M9 18L7 18L7 6L9 6L9 18\"/></path><path d=\"M13 9L18 12L18 12L13 15L13 15\"><animate fill=\"freeze\" attributeName=\"d\" dur=\"0.6s\" keyTimes=\"0;0.33;1\" values=\"M13 9L18 12L18 12L13 15L13 15;M13 9L18 12L18 12L13 15L13 9;M15 6L17 6L17 18L15 18L15 6\"/></path></g>"
+		},
+		"play-twotone": {
+			"body": "<path fill=\"currentColor\" fill-opacity=\"0\" stroke=\"currentColor\" stroke-dasharray=\"36\" stroke-dashoffset=\"36\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" d=\"M8 6L18 12L8 18z\"><animate fill=\"freeze\" attributeName=\"stroke-dashoffset\" dur=\"0.4s\" values=\"36;0\"/><animate fill=\"freeze\" attributeName=\"fill-opacity\" begin=\"0.5s\" dur=\"0.15s\" values=\"0;0.3\"/></path>"
 		},
 		"plus": {
 			"body": "<g fill=\"none\" stroke=\"currentColor\" stroke-dasharray=\"18\" stroke-dashoffset=\"18\" stroke-linecap=\"round\" stroke-width=\"2\"><path d=\"M12 5V19\"><animate fill=\"freeze\" attributeName=\"stroke-dashoffset\" begin=\"0.4s\" dur=\"0.3s\" values=\"18;0\"/></path><path d=\"M5 12H19\"><animate fill=\"freeze\" attributeName=\"stroke-dashoffset\" dur=\"0.3s\" values=\"18;0\"/></path></g>"
@@ -1438,7 +1462,15 @@
 			"lightbulb-off-loop",
 			"lightbulb-off-twotone",
 			"lightbulb-off-twotone-loop",
-			"lightbulb-twotone"
+			"lightbulb-twotone",
+			"pause",
+			"pause-to-play-filled-transition",
+			"pause-to-play-transition",
+			"play",
+			"play-filled",
+			"play-filled-to-pause-transition",
+			"play-to-pause-transition",
+			"play-twotone"
 		],
 		"Interface": [
 			"cancel",

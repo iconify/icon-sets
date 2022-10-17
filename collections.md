@@ -55,11 +55,11 @@
 * File: [json/ri.json](json/ri.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Carbon
-* Number of icons: 1858
+* Number of icons: 1859
 * Author: IBM
 * URL: https://github.com/carbon-design-system/carbon/tree/main/packages/icons
 * License: Apache 2.0
-* Version: 11.9.0
+* Version: 11.10.0
 * Palette: Colorless
 * Icon set prefix: `carbon`
 * File: [json/carbon.json](json/carbon.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
@@ -140,12 +140,12 @@
 * File: [json/clarity.json](json/clarity.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Iconoir
-* Number of icons: 1188
+* Number of icons: 1189
 * Author: Luca Burgio
 * URL: https://github.com/lucaburgio/iconoir
 * License: MIT
 * License URL: https://github.com/lucaburgio/iconoir/blob/master/LICENSE
-* Version: 5.3.1
+* Version: 5.3.2
 * Palette: Colorless
 * Icon set prefix: `iconoir`
 * File: [json/iconoir.json](json/iconoir.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
@@ -530,12 +530,12 @@
 * File: [json/icon-park.json](json/icon-park.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## VSCode Icons
-* Number of icons: 1179
+* Number of icons: 1184
 * Author: Roberto Huertas
 * URL: https://github.com/vscode-icons/vscode-icons
 * License: MIT
 * License URL: https://github.com/vscode-icons/vscode-icons/blob/master/LICENSE
-* Version: 11.20.0
+* Version: 12.0.0
 * Palette: Colorful
 * Icon set prefix: `vscode-icons`
 * File: [json/vscode-icons.json](json/vscode-icons.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
@@ -713,7 +713,7 @@
 * File: [json/noto.json](json/noto.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Fluent Emoji
-* Number of icons: 2979
+* Number of icons: 2980
 * Author: Microsoft Corporation
 * URL: https://github.com/microsoft/fluentui-emoji
 * License: MIT
@@ -818,12 +818,12 @@
 * File: [json/logos.json](json/logos.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Simple Icons
-* Number of icons: 2389
+* Number of icons: 2397
 * Author: Simple Icons Collaborators
 * URL: https://github.com/simple-icons/simple-icons
 * License: CC0 1.0
 * License URL: https://github.com/simple-icons/simple-icons/blob/develop/LICENSE.md
-* Version: 7.15.0
+* Version: 7.16.0
 * Palette: Colorless
 * Icon set prefix: `simple-icons`
 * File: [json/simple-icons.json](json/simple-icons.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))

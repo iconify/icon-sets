@@ -2,8 +2,8 @@
 	"prefix": "humbleicons",
 	"info": {
 		"name": "Humbleicons",
-		"total": 227,
-		"version": "1.7.0",
+		"total": 235,
+		"version": "1.9.0",
 		"author": {
 			"name": "Jiří Zralý",
 			"url": "https://github.com/zraly/humbleicons"
@@ -22,7 +22,7 @@
 		"category": "General",
 		"palette": false
 	},
-	"lastModified": 1658727015,
+	"lastModified": 1666332376,
 	"icons": {
 		"activity": {
 			"body": "<path fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" d=\"M3 12h4l3-9l4 18l3-9h4\"/>"
@@ -171,6 +171,12 @@
 		"box": {
 			"body": "<path fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" d=\"m12 21l7.794-4.5v-9M12 21l-7.794-4.5v-9M12 21v-9m7.794-4.5L12 3L4.206 7.5m15.588 0L12 12M4.206 7.5L12 12\"/>"
 		},
+		"brand-github": {
+			"body": "<path fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" d=\"M8.5 21c2-2-.5-6 3.5-6m0 0c-3 0-7-1-7-5c0-1.445.116-2.89.963-4V3L9 4.283C9.821 4.101 10.81 4 12 4s2.178.1 3 .283L18 3v2.952c.88 1.116 1 2.582 1 4.048c0 4-4 5-7 5Zm0 0c4 0 1.5 4 3.5 6M3 15c3 0 1.5 4 6 3\"/>"
+		},
+		"brand-twitter": {
+			"body": "<path fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" d=\"m20.5 4.5l-2 1.5M21 7h-2M3.5 18c11.5 4.5 17-7 15-11s-7-1.5-5.5 3c-3.5 0-7-1-9-3.5c-1 3.5.5 8 4 9.5c-1.065 1.352-1.795 1.703-4.5 2Z\"/>"
+		},
 		"briefcase": {
 			"body": "<g fill=\"none\"><path stroke=\"currentColor\" stroke-linecap=\"round\" stroke-width=\"2\" d=\"M8 8V6a2 2 0 0 1 2-2h4a2 2 0 0 1 2 2v2M4 14l3.15.787a20 20 0 0 0 9.7 0L20 14\"/><path stroke=\"currentColor\" stroke-linejoin=\"round\" stroke-width=\"2\" d=\"M4 10a2 2 0 0 1 2-2h12a2 2 0 0 1 2 2v8a2 2 0 0 1-2 2H6a2 2 0 0 1-2-2v-8z\"/><circle cx=\"12\" cy=\"12\" r=\"1\" fill=\"currentColor\"/></g>"
 		},
@@ -255,6 +261,9 @@
 		"cog": {
 			"body": "<g fill=\"none\" stroke=\"currentColor\" stroke-linejoin=\"round\" stroke-width=\"2\"><path d=\"M15 12a3 3 0 1 1-6 0a3 3 0 0 1 6 0Z\"/><path d=\"M10.47 4.32c.602-1.306 2.458-1.306 3.06 0l.218.473a1.684 1.684 0 0 0 2.112.875l.49-.18c1.348-.498 2.66.814 2.162 2.163l-.18.489a1.684 1.684 0 0 0 .875 2.112l.474.218c1.305.602 1.305 2.458 0 3.06l-.474.218a1.684 1.684 0 0 0-.875 2.112l.18.49c.498 1.348-.814 2.66-2.163 2.162l-.489-.18a1.684 1.684 0 0 0-2.112.875l-.218.473c-.602 1.306-2.458 1.306-3.06 0l-.218-.473a1.684 1.684 0 0 0-2.112-.875l-.49.18c-1.348.498-2.66-.814-2.163-2.163l.181-.489a1.684 1.684 0 0 0-.875-2.112l-.474-.218c-1.305-.602-1.305-2.458 0-3.06l.474-.218a1.684 1.684 0 0 0 .875-2.112l-.18-.49c-.498-1.348.814-2.66 2.163-2.163l.489.181a1.684 1.684 0 0 0 2.112-.875l.218-.474Z\"/></g>"
 		},
+		"coins": {
+			"body": "<path fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" d=\"M16.5 9.09a5.502 5.502 0 0 1-1 10.91a5.5 5.5 0 0 1-4.9-3M7.5 8l1-.5v4m5.5-2a5.5 5.5 0 1 1-11 0a5.5 5.5 0 0 1 11 0Z\"/>"
+		},
 		"columns-one-two-thirds": {
 			"body": "<path fill=\"none\" stroke=\"currentColor\" stroke-linejoin=\"round\" stroke-width=\"2\" d=\"M9 4v16m-5 0h16a1 1 0 0 0 1-1V5a1 1 0 0 0-1-1H4a1 1 0 0 0-1 1v14a1 1 0 0 0 1 1z\"/>"
 		},
@@ -290,6 +299,18 @@
 		},
 		"cpu": {
 			"body": "<path fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" d=\"M9 3v3m6-3v3m3 3h3m-3 6h3m-6 3v3m-6-3v3m-3-6H3m3-6H3m6.5 4.5v-3a1 1 0 0 1 1-1h3a1 1 0 0 1 1 1v3a1 1 0 0 1-1 1h-3a1 1 0 0 1-1-1ZM7 18h10a1 1 0 0 0 1-1V7a1 1 0 0 0-1-1H7a1 1 0 0 0-1 1v10a1 1 0 0 0 1 1Z\"/>"
+		},
+		"creative-commons": {
+			"body": "<path fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" d=\"M10 10.333c-.313-.25-.703-.333-1.125-.333C7.839 10 7 10.895 7 12s.84 2 1.875 2c.422 0 .812-.082 1.125-.333m6-3.334c-.313-.25-.703-.333-1.125-.333c-1.036 0-1.875.895-1.875 2s.84 2 1.875 2c.422 0 .812-.082 1.125-.333M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0Z\"/>"
+		},
+		"creative-commons-by": {
+			"body": "<path fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" d=\"M12.5 10.5V18h-1v-7.5m1 0h-1m1 0H14v3m-2.5-3H10v3M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0Zm-8-5a1 1 0 1 1-2 0a1 1 0 0 1 2 0Z\"/>"
+		},
+		"creative-commons-nd": {
+			"body": "<path fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" d=\"M9 10.5h6m-6 3h6m6-1.5a9 9 0 1 1-18 0a9 9 0 0 1 18 0Z\"/>"
+		},
+		"creative-commons-sa": {
+			"body": "<path fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" d=\"M8 12a4 4 0 1 1 1.354 3M8 12l2.5-1M8 12l-1.5-2M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0Z\"/>"
 		},
 		"credit-card": {
 			"body": "<path fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" d=\"M4 10V8a2 2 0 0 1 2-2h12a2 2 0 0 1 2 2v2M4 10h16M4 10v6a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2v-6M7 15h5\"/>"
@@ -491,6 +512,9 @@
 		},
 		"mobile": {
 			"body": "<path fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" d=\"M10 17h4m3-12v14a1 1 0 0 1-1 1H8a1 1 0 0 1-1-1V5a1 1 0 0 1 1-1h8a1 1 0 0 1 1 1z\"/>"
+		},
+		"money": {
+			"body": "<path fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" d=\"M5 8H3v10h18V8h-1.5m-4-1a3 3 0 1 1-4 4.258M13 6a3 3 0 1 1-6 0a3 3 0 0 1 6 0Z\"/>"
 		},
 		"moon": {
 			"body": "<path fill=\"none\" stroke=\"currentColor\" stroke-linejoin=\"round\" stroke-width=\"2\" d=\"M20 14.12A7.78 7.78 0 0 1 9.88 4a7.782 7.782 0 0 0 2.9 15A7.782 7.782 0 0 0 20 14.12z\"/>"

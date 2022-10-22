@@ -1314,3 +1314,14 @@
 * Palette: Colorless
 * Icon set prefix: `vaadin`
 * File: [json/vaadin.json](json/vaadin.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
+
+## Grommet Icons
+* Number of icons: 614
+* Author: Grommet
+* URL: https://github.com/grommet/grommet-icons
+* License: Apache 2.0
+* License URL: https://www.apache.org/licenses/LICENSE-2.0
+* Version: 4.7.0
+* Palette: Colorless
+* Icon set prefix: `grommet-icons`
+* File: [json/grommet-icons.json](json/grommet-icons.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))

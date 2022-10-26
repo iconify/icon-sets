@@ -2,7 +2,7 @@
 
 
 ## Material Symbols
-* Number of icons: 8260
+* Number of icons: 8261
 * Author: Google
 * URL: https://github.com/google/material-design-icons
 * License: Apache 2.0
@@ -228,7 +228,7 @@
 * File: [json/cil.json](json/cil.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Lucide
-* Number of icons: 843
+* Number of icons: 844
 * Author: Lucide Contributors
 * URL: https://github.com/lucide-icons/lucide
 * License: ISC
@@ -913,7 +913,7 @@
 * File: [json/flag.json](json/flag.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Circle Flags
-* Number of icons: 373
+* Number of icons: 378
 * Author: HatScripts
 * URL: https://github.com/HatScripts/circle-flags
 * License: MIT

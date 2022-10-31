@@ -65,7 +65,7 @@
 * File: [json/carbon.json](json/carbon.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Bootstrap Icons
-* Number of icons: 1811
+* Number of icons: 1851
 * Author: The Bootstrap Authors
 * URL: https://github.com/twbs/icons
 * License: MIT
@@ -818,12 +818,12 @@
 * File: [json/logos.json](json/logos.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Simple Icons
-* Number of icons: 2402
+* Number of icons: 2404
 * Author: Simple Icons Collaborators
 * URL: https://github.com/simple-icons/simple-icons
 * License: CC0 1.0
 * License URL: https://github.com/simple-icons/simple-icons/blob/develop/LICENSE.md
-* Version: 7.17.0
+* Version: 7.18.0
 * Palette: Colorless
 * Icon set prefix: `simple-icons`
 * File: [json/simple-icons.json](json/simple-icons.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))

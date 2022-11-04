@@ -2,7 +2,7 @@
 
 
 ## Material Symbols
-* Number of icons: 8261
+* Number of icons: 8413
 * Author: Google
 * URL: https://github.com/google/material-design-icons
 * License: Apache 2.0
@@ -228,7 +228,7 @@
 * File: [json/cil.json](json/cil.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Lucide
-* Number of icons: 847
+* Number of icons: 866
 * Author: Lucide Contributors
 * URL: https://github.com/lucide-icons/lucide
 * License: ISC
@@ -556,7 +556,7 @@
 * URL: https://github.com/tailwindlabs/heroicons
 * License: MIT
 * License URL: https://github.com/tailwindlabs/heroicons/blob/master/LICENSE
-* Version: 2.0.12
+* Version: 2.0.13
 * Palette: Colorless
 * Icon set prefix: `heroicons`
 * File: [json/heroicons.json](json/heroicons.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
@@ -573,12 +573,12 @@
 * File: [json/codicon.json](json/codicon.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Gitlab SVGs
-* Number of icons: 346
+* Number of icons: 347
 * Author: GitLab B.V.
 * URL: https://gitlab.com/gitlab-org/gitlab-svgs/-/tree/main
 * License: MIT
 * License URL: https://gitlab.com/gitlab-org/gitlab-svgs/-/blob/main/LICENSE
-* Version: 3.6.0
+* Version: 3.7.0
 * Palette: Colorless
 * Icon set prefix: `pajamas`
 * File: [json/pajamas.json](json/pajamas.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
@@ -589,7 +589,7 @@
 * URL: https://github.com/CyCraft/pepicons
 * License: CC BY 4.0
 * License URL: https://github.com/CyCraft/pepicons/blob/dev/LICENSE
-* Version: 1.2.1
+* Version: 1.2.7
 * Palette: Colorless
 * Icon set prefix: `pepicons`
 * File: [json/pepicons.json](json/pepicons.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
@@ -639,7 +639,7 @@
 * File: [json/fa6-regular.json](json/fa6-regular.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Octicons
-* Number of icons: 529
+* Number of icons: 533
 * Author: GitHub
 * URL: https://github.com/primer/octicons/
 * License: MIT
@@ -851,7 +851,7 @@
 * File: [json/fa6-brands.json](json/fa6-brands.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Arcticons
-* Number of icons: 4698
+* Number of icons: 4853
 * Author: Donnnno
 * URL: https://github.com/Donnnno/Arcticons
 * License: CC BY-SA 4.0

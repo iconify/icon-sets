@@ -228,7 +228,7 @@
 * File: [json/cil.json](json/cil.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Lucide
-* Number of icons: 867
+* Number of icons: 868
 * Author: Lucide Contributors
 * URL: https://github.com/lucide-icons/lucide
 * License: ISC
@@ -617,12 +617,12 @@
 * File: [json/ei.json](json/ei.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Font Awesome Solid
-* Number of icons: 1388
+* Number of icons: 1390
 * Author: Dave Gandy
 * URL: https://github.com/FortAwesome/Font-Awesome
 * License: CC BY 4.0
 * License URL: https://creativecommons.org/licenses/by/4.0/
-* Version: 6.2.0
+* Version: 6.2.1
 * Palette: Colorless
 * Icon set prefix: `fa6-solid`
 * File: [json/fa6-solid.json](json/fa6-solid.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
@@ -633,7 +633,7 @@
 * URL: https://github.com/FortAwesome/Font-Awesome
 * License: CC BY 4.0
 * License URL: https://creativecommons.org/licenses/by/4.0/
-* Version: 6.2.0
+* Version: 6.2.1
 * Palette: Colorless
 * Icon set prefix: `fa6-regular`
 * File: [json/fa6-regular.json](json/fa6-regular.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
@@ -845,7 +845,7 @@
 * URL: https://github.com/FortAwesome/Font-Awesome
 * License: CC BY 4.0
 * License URL: https://creativecommons.org/licenses/by/4.0/
-* Version: 6.2.0
+* Version: 6.2.1
 * Palette: Colorless
 * Icon set prefix: `fa6-brands`
 * File: [json/fa6-brands.json](json/fa6-brands.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))

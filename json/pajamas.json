@@ -2,8 +2,8 @@
 	"prefix": "pajamas",
 	"info": {
 		"name": "Gitlab SVGs",
-		"total": 348,
-		"version": "3.8.0",
+		"total": 350,
+		"version": "3.9.0",
 		"author": {
 			"name": "GitLab B.V.",
 			"url": "https://gitlab.com/gitlab-org/gitlab-svgs/-/tree/main"
@@ -22,7 +22,7 @@
 		"category": "General",
 		"palette": false
 	},
-	"lastModified": 1668494229,
+	"lastModified": 1668753818,
 	"icons": {
 		"abuse": {
 			"body": "<path fill=\"currentColor\" fill-rule=\"evenodd\" d=\"M5.308 1.5L1.5 5.308v5.384L5.308 14.5h5.384l3.808-3.808V5.308L10.692 1.5H5.308ZM11.314 0H4.686L0 4.686v6.628L4.686 16h6.628L16 11.314V4.686L11.314 0ZM9 11a1 1 0 1 1-2 0a1 1 0 0 1 2 0Zm-.25-6.25a.75.75 0 0 0-1.5 0v3.5a.75.75 0 0 0 1.5 0v-3.5Z\" clip-rule=\"evenodd\"/>"
@@ -527,8 +527,14 @@
 		"issue-type-issue": {
 			"body": "<path fill=\"currentColor\" fill-rule=\"evenodd\" d=\"M4 0a4 4 0 0 0-4 4v8a4 4 0 0 0 4 4h8a4 4 0 0 0 4-4V4a4 4 0 0 0-4-4H4zm1 4a1 1 0 0 0-1 1v6a1 1 0 0 0 1 1h4a1 1 0 0 0 1-1V5a1 1 0 0 0-1-1H5zm7.67 3.048a1 1 0 0 0-.386-1.234L11 5v6l1.67-3.952z\" clip-rule=\"evenodd\"/>"
 		},
+		"issue-type-key-result": {
+			"body": "<path fill=\"currentColor\" fill-rule=\"evenodd\" d=\"M4 0a4 4 0 0 0-4 4v8a4 4 0 0 0 4 4h8a4 4 0 0 0 4-4V4a4 4 0 0 0-4-4H4Zm7.25 8a.75.75 0 0 1-.75-.75v-.69L7 10.06v2.19a.75.75 0 0 1-1.5 0v-1.691a.742.742 0 0 1-.059-.059H3.75a.75.75 0 0 1 0-1.5h2.19l3.5-3.5h-.69a.75.75 0 0 1 0-1.5H12v3.25a.75.75 0 0 1-.75.75Z\" clip-rule=\"evenodd\"/>"
+		},
 		"issue-type-maintenance": {
 			"body": "<path fill=\"currentColor\" fill-rule=\"evenodd\" d=\"M4 0a4 4 0 0 0-4 4v8a4 4 0 0 0 4 4h8a4 4 0 0 0 4-4V4a4 4 0 0 0-4-4H4zm7.293 3.292a3 3 0 0 0-4.001 4.001l-4 4a1 1 0 1 0 1.415 1.414l4-4a3 3 0 0 0 4.001-4.001l-2 2.001a1 1 0 1 1-1.415-1.414l2-2z\" clip-rule=\"evenodd\"/>"
+		},
+		"issue-type-objective": {
+			"body": "<path fill=\"currentColor\" fill-rule=\"evenodd\" d=\"M4 0a4 4 0 0 0-4 4v8a4 4 0 0 0 4 4h8a4 4 0 0 0 4-4V4a4 4 0 0 0-4-4H4Zm6.75 2a.75.75 0 0 1 .75.75v1.691a.756.756 0 0 1 .059.059h1.691a.75.75 0 0 1 0 1.5h-2.19L9.45 7.611A1.502 1.502 0 0 1 8 9.5a1.5 1.5 0 1 1 .389-2.95L10 4.94V2.75a.75.75 0 0 1 .75-.75ZM8.584 3.724a.75.75 0 0 1-.72.779a3.5 3.5 0 1 0 3.633 3.631a.75.75 0 0 1 1.5.058a5 5 0 1 1-5.191-5.188a.75.75 0 0 1 .778.72Z\" clip-rule=\"evenodd\"/>"
 		},
 		"issue-type-requirements": {
 			"body": "<path fill=\"currentColor\" fill-rule=\"evenodd\" d=\"M4 0a4 4 0 0 0-4 4v8a4 4 0 0 0 4 4h8a4 4 0 0 0 4-4V4a4 4 0 0 0-4-4H4zm0 4.75A.75.75 0 0 1 4.75 4h6.5a.75.75 0 0 1 0 1.5h-6.5A.75.75 0 0 1 4 4.75zm9.78 5.72a.75.75 0 0 1 0 1.06l-2.25 2.25a.75.75 0 0 1-1.06 0l-1.25-1.25a.75.75 0 1 1 1.06-1.06l.72.72l1.72-1.72a.75.75 0 0 1 1.06 0zM4 8a.75.75 0 0 1 .75-.75h6.5a.75.75 0 0 1 0 1.5h-6.5A.75.75 0 0 1 4 8zm0 3.25a.75.75 0 0 1 .75-.75h2.5a.75.75 0 0 1 0 1.5h-2.5a.75.75 0 0 1-.75-.75z\" clip-rule=\"evenodd\"/>"

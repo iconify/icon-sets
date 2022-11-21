@@ -23,7 +23,7 @@
 * File: [json/ic.json](json/ic.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Material Design Icons
-* Number of icons: 7134
+* Number of icons: 7196
 * Author: Austin Andrews
 * URL: https://github.com/Templarian/MaterialDesign
 * License: Apache 2.0
@@ -145,7 +145,7 @@
 * URL: https://github.com/lucaburgio/iconoir
 * License: MIT
 * License URL: https://github.com/lucaburgio/iconoir/blob/master/LICENSE
-* Version: 5.4.0
+* Version: 5.4.1
 * Palette: Colorless
 * Icon set prefix: `iconoir`
 * File: [json/iconoir.json](json/iconoir.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
@@ -312,6 +312,17 @@
 * Palette: Colorless
 * Icon set prefix: `ep`
 * File: [json/ep.json](json/ep.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
+
+## Circum Icons
+* Number of icons: 285
+* Author: Klarr Agency
+* URL: https://github.com/Klarr-Agency/Circum-Icons
+* License: Mozilla Public License 2.0
+* License URL: https://github.com/Klarr-Agency/Circum-Icons/blob/main/LICENSE
+* Version: 1.0.0
+* Palette: Colorless
+* Icon set prefix: `circum`
+* File: [json/circum.json](json/circum.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Material Design Light
 * Number of icons: 267
@@ -666,7 +677,7 @@
 * URL: https://github.com/TiendaNube/nimbus-icons
 * License: MIT
 * License URL: https://github.com/TiendaNube/nimbus-icons/blob/develop/LICENSE
-* Version: 0.2.9
+* Version: 0.3.1
 * Palette: Colorless
 * Icon set prefix: `nimbus`
 * File: [json/nimbus.json](json/nimbus.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
@@ -818,12 +829,12 @@
 * File: [json/logos.json](json/logos.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Simple Icons
-* Number of icons: 2406
+* Number of icons: 2407
 * Author: Simple Icons Collaborators
 * URL: https://github.com/simple-icons/simple-icons
 * License: CC0 1.0
 * License URL: https://github.com/simple-icons/simple-icons/blob/develop/LICENSE.md
-* Version: 7.19.0
+* Version: 7.20.0
 * Palette: Colorless
 * Icon set prefix: `simple-icons`
 * File: [json/simple-icons.json](json/simple-icons.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))

@@ -314,7 +314,7 @@
 * File: [json/ep.json](json/ep.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Circum Icons
-* Number of icons: 285
+* Number of icons: 288
 * Author: Klarr Agency
 * URL: https://github.com/Klarr-Agency/Circum-Icons
 * License: Mozilla Public License 2.0
@@ -683,12 +683,12 @@
 * File: [json/nimbus.json](json/nimbus.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Material Line Icons
-* Number of icons: 395
+* Number of icons: 396
 * Author: Vjacheslav Trushkin
 * URL: https://github.com/cyberalien/line-md
 * License: MIT
 * License URL: https://github.com/cyberalien/line-md/blob/master/license.txt
-* Version: 0.2.7
+* Version: 0.2.8
 * Palette: Colorless
 * Icon set prefix: `line-md`
 * File: [json/line-md.json](json/line-md.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))

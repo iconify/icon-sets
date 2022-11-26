@@ -2,8 +2,8 @@
 	"prefix": "line-md",
 	"info": {
 		"name": "Material Line Icons",
-		"total": 395,
-		"version": "0.2.7",
+		"total": 396,
+		"version": "0.2.8",
 		"author": {
 			"name": "Vjacheslav Trushkin",
 			"url": "https://github.com/cyberalien/line-md"
@@ -22,7 +22,7 @@
 		"category": "Animated Icons",
 		"palette": false
 	},
-	"lastModified": 1666161855,
+	"lastModified": 1669443542,
 	"icons": {
 		"account": {
 			"body": "<g fill=\"none\" stroke=\"currentColor\" stroke-dasharray=\"28\" stroke-dashoffset=\"28\" stroke-linecap=\"round\" stroke-width=\"2\"><path d=\"M4 21V20C4 16.6863 6.68629 14 10 14H14C17.3137 14 20 16.6863 20 20V21\"><animate fill=\"freeze\" attributeName=\"stroke-dashoffset\" dur=\"0.4s\" values=\"28;0\"/></path><path d=\"M12 11C9.79086 11 8 9.20914 8 7C8 4.79086 9.79086 3 12 3C14.2091 3 16 4.79086 16 7C16 9.20914 14.2091 11 12 11Z\"><animate fill=\"freeze\" attributeName=\"stroke-dashoffset\" begin=\"0.5s\" dur=\"0.4s\" values=\"28;0\"/></path></g>"
@@ -687,6 +687,9 @@
 		},
 		"marker-twotone": {
 			"body": "<g stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path fill=\"none\" stroke-dasharray=\"44\" stroke-dashoffset=\"44\" stroke-width=\"2\" d=\"M6 14L17 3L21 7L10 18L6 14Z\"><animate fill=\"freeze\" attributeName=\"stroke-dashoffset\" dur=\"0.5s\" values=\"44;0\"/></path><path fill=\"currentColor\" fill-opacity=\"0\" stroke-dasharray=\"20\" stroke-dashoffset=\"20\" d=\"M9 17L6.5 19.5H2.5L7 15Z\"><animate fill=\"freeze\" attributeName=\"stroke-dashoffset\" begin=\"0.6s\" dur=\"0.2s\" values=\"16;0\"/><animate fill=\"freeze\" attributeName=\"fill-opacity\" begin=\"0.8s\" dur=\"0.15s\" values=\"0;0.3\"/></path></g>"
+		},
+		"mastodon": {
+			"body": "<g fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\"><path stroke-dasharray=\"80\" stroke-dashoffset=\"80\" d=\"M15.5 21.5C6 23.5 7 17 8 17C11.5 17 21 19 21 12.5V8.5C21 4.5 18.5 3 14 3H10C5.5 3 3 4 3 10V13C3 19 5 24 15.5 21.5Z\"><animate fill=\"freeze\" attributeName=\"stroke-dashoffset\" dur=\"0.6s\" values=\"80;160\"/></path><path stroke-dasharray=\"32\" stroke-dashoffset=\"32\" d=\"M7 13.5L7 8C7 8 7.5 6 9.5 6C11.5 6 12 8 12 8L12 10.5L12 8C12 8 12.5 6 14.5 6C16.5 6 17 8 17 8L17 13.5\"><animate fill=\"freeze\" attributeName=\"stroke-dashoffset\" begin=\"0.7s\" dur=\"0.4s\" values=\"32;0\"/></path></g>"
 		},
 		"menu": {
 			"body": "<g fill=\"none\" stroke=\"currentColor\" stroke-dasharray=\"24\" stroke-dashoffset=\"24\" stroke-linecap=\"round\" stroke-width=\"2\"><path d=\"M5 5H19\"><animate fill=\"freeze\" attributeName=\"stroke-dashoffset\" dur=\"0.2s\" values=\"24;0\"/></path><path d=\"M5 12H19\"><animate fill=\"freeze\" attributeName=\"stroke-dashoffset\" begin=\"0.2s\" dur=\"0.2s\" values=\"24;0\"/></path><path d=\"M5 19H19\"><animate fill=\"freeze\" attributeName=\"stroke-dashoffset\" begin=\"0.4s\" dur=\"0.2s\" values=\"24;0\"/></path></g>"
@@ -1609,6 +1612,7 @@
 			"iconify1",
 			"instagram",
 			"linkedin",
+			"mastodon",
 			"reddit",
 			"reddit-circle",
 			"reddit-circle-loop",

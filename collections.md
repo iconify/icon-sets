@@ -683,7 +683,7 @@
 * File: [json/nimbus.json](json/nimbus.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Material Line Icons
-* Number of icons: 396
+* Number of icons: 398
 * Author: Vjacheslav Trushkin
 * URL: https://github.com/cyberalien/line-md
 * License: MIT
@@ -714,7 +714,7 @@
 * File: [json/twemoji.json](json/twemoji.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Noto Emoji
-* Number of icons: 3449
+* Number of icons: 3437
 * Author: Google Inc
 * URL: https://github.com/googlefonts/noto-emoji
 * License: Apache 2.0
@@ -829,12 +829,12 @@
 * File: [json/logos.json](json/logos.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Simple Icons
-* Number of icons: 2407
+* Number of icons: 2412
 * Author: Simple Icons Collaborators
 * URL: https://github.com/simple-icons/simple-icons
 * License: CC0 1.0
 * License URL: https://github.com/simple-icons/simple-icons/blob/develop/LICENSE.md
-* Version: 7.20.0
+* Version: 7.21.0
 * Palette: Colorless
 * Icon set prefix: `simple-icons`
 * File: [json/simple-icons.json](json/simple-icons.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
@@ -911,6 +911,17 @@
 * Palette: Colorless
 * Icon set prefix: `cryptocurrency`
 * File: [json/cryptocurrency.json](json/cryptocurrency.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
+
+## Cryptocurrency Color Icons
+* Number of icons: 483
+* Author: Christopher Downer
+* URL: https://github.com/atomiclabs/cryptocurrency-icons
+* License: CC0 1.0
+* License URL: https://creativecommons.org/publicdomain/zero/1.0/
+* Version: 0.18.1
+* Palette: Colorful
+* Icon set prefix: `cryptocurrency-color`
+* File: [json/cryptocurrency-color.json](json/cryptocurrency-color.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Flag Icons
 * Number of icons: 530

@@ -2,7 +2,7 @@
 	"prefix": "line-md",
 	"info": {
 		"name": "Material Line Icons",
-		"total": 396,
+		"total": 398,
 		"version": "0.2.8",
 		"author": {
 			"name": "Vjacheslav Trushkin",
@@ -22,7 +22,7 @@
 		"category": "Animated Icons",
 		"palette": false
 	},
-	"lastModified": 1669443542,
+	"lastModified": 1669621458,
 	"icons": {
 		"account": {
 			"body": "<g fill=\"none\" stroke=\"currentColor\" stroke-dasharray=\"28\" stroke-dashoffset=\"28\" stroke-linecap=\"round\" stroke-width=\"2\"><path d=\"M4 21V20C4 16.6863 6.68629 14 10 14H14C17.3137 14 20 16.6863 20 20V21\"><animate fill=\"freeze\" attributeName=\"stroke-dashoffset\" dur=\"0.4s\" values=\"28;0\"/></path><path d=\"M12 11C9.79086 11 8 9.20914 8 7C8 4.79086 9.79086 3 12 3C14.2091 3 16 4.79086 16 7C16 9.20914 14.2091 11 12 11Z\"><animate fill=\"freeze\" attributeName=\"stroke-dashoffset\" begin=\"0.5s\" dur=\"0.4s\" values=\"28;0\"/></path></g>"
@@ -689,7 +689,13 @@
 			"body": "<g stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path fill=\"none\" stroke-dasharray=\"44\" stroke-dashoffset=\"44\" stroke-width=\"2\" d=\"M6 14L17 3L21 7L10 18L6 14Z\"><animate fill=\"freeze\" attributeName=\"stroke-dashoffset\" dur=\"0.5s\" values=\"44;0\"/></path><path fill=\"currentColor\" fill-opacity=\"0\" stroke-dasharray=\"20\" stroke-dashoffset=\"20\" d=\"M9 17L6.5 19.5H2.5L7 15Z\"><animate fill=\"freeze\" attributeName=\"stroke-dashoffset\" begin=\"0.6s\" dur=\"0.2s\" values=\"16;0\"/><animate fill=\"freeze\" attributeName=\"fill-opacity\" begin=\"0.8s\" dur=\"0.15s\" values=\"0;0.3\"/></path></g>"
 		},
 		"mastodon": {
-			"body": "<g fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\"><path stroke-dasharray=\"80\" stroke-dashoffset=\"80\" d=\"M15.5 21.5C6 23.5 7 17 8 17C11.5 17 21 19 21 12.5V8.5C21 4.5 18.5 3 14 3H10C5.5 3 3 4 3 10V13C3 19 5 24 15.5 21.5Z\"><animate fill=\"freeze\" attributeName=\"stroke-dashoffset\" dur=\"0.6s\" values=\"80;160\"/></path><path stroke-dasharray=\"32\" stroke-dashoffset=\"32\" d=\"M7 13.5L7 8C7 8 7.5 6 9.5 6C11.5 6 12 8 12 8L12 10.5L12 8C12 8 12.5 6 14.5 6C16.5 6 17 8 17 8L17 13.5\"><animate fill=\"freeze\" attributeName=\"stroke-dashoffset\" begin=\"0.7s\" dur=\"0.4s\" values=\"32;0\"/></path></g>"
+			"body": "<g fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\"><path stroke-dasharray=\"80\" stroke-dashoffset=\"80\" d=\"M15.5 21.5C6 23.5 6.5 16.5 7.5 16.5C11 16.5 21 19 21 12.5V8.5C21 4.5 18.5 3 14 3H10C5.5 3 3 4 3 10V13C3 19 5 24 15.5 21.5Z\"><animate fill=\"freeze\" attributeName=\"stroke-dashoffset\" dur=\"0.6s\" values=\"80;160\"/></path><path stroke-dasharray=\"32\" stroke-dashoffset=\"32\" d=\"M7 13.5L7 8C7 8 7.5 6 9.5 6C11.5 6 12 8 12 8L12 10.5L12 8C12 8 12.5 6 14.5 6C16.5 6 17 8 17 8L17 13.5\"><animate fill=\"freeze\" attributeName=\"stroke-dashoffset\" begin=\"0.7s\" dur=\"0.4s\" values=\"32;0\"/></path></g>"
+		},
+		"mastodon-filled": {
+			"body": "<mask id=\"svgIDa\"><path fill=\"#fff\" d=\"M17.25 2.315c2.366.346 4.361 2.131 4.67 4.396c.167 1.683.022 4.421.02 4.87c0 .133-.019 1.34-.027 1.468c-.207 3.236-2.247 4.514-4.391 4.922c-.03.008-.063.014-.097.02c-1.36.263-2.815.333-4.197.372c-.33.008-.66.008-.99.008c-1.373 0-2.742-.16-4.077-.479a.046.046 0 0 0-.059.047c.038.43.133.853.281 1.259c.185.47.832 1.597 3.234 1.597a17.89 17.89 0 0 0 4.146-.479a.048.048 0 0 1 .053.025a.047.047 0 0 1 .005.02v1.589a.05.05 0 0 1-.02.038c-.444.318-1.048.5-1.562.661c-.228.071-.459.133-.692.187c-2.12.478-4.331.362-6.388-.333c-1.921-.667-3.882-2.302-4.367-4.266a22.953 22.953 0 0 1-.545-3.233c-.151-1.64-.164-3.282-.229-4.928c-.045-1.148-.019-2.4.226-3.528c.51-2.292 2.61-3.896 4.91-4.233c.4-.058 1.15-.27 4.655-.27h.026c3.503 0 5.016.212 5.415.27Z\"/><g fill=\"none\" stroke=\"#000\" stroke-dasharray=\"18\" stroke-dashoffset=\"18\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\"><path d=\"M12.2 12L12.2 9C12.2 8 13.1 6.5 14.85 6.5C16.6 6.5 17.5 8 17.5 9L17.5 14\"><animate fill=\"freeze\" attributeName=\"stroke-dashoffset\" begin=\"0.4s\" dur=\"0.4s\" values=\"18;0\"/></path><path d=\"M6.9 14L6.9 9C6.9 8 7.8 6.45 9.54 6.5C11.3 6.47 12.2 8 12.2 9L12.2 12\"><animate fill=\"freeze\" attributeName=\"stroke-dashoffset\" dur=\"0.4s\" values=\"18;0\"/></path></g></mask><rect width=\"24\" height=\"24\" fill=\"currentColor\" mask=\"url(#svgIDa)\"/>"
+		},
+		"mastodon-twotone": {
+			"body": "<g stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\"><path fill=\"currentColor\" fill-opacity=\"0\" stroke-dasharray=\"80\" stroke-dashoffset=\"80\" d=\"M15.5 21.5C6 23.5 6.5 16.5 7.5 16.5C11 16.5 21 19 21 12.5V8.5C21 4.5 18.5 3 14 3H10C5.5 3 3 4 3 10V13C3 19 5 24 15.5 21.5Z\"><animate fill=\"freeze\" attributeName=\"stroke-dashoffset\" dur=\"0.6s\" values=\"80;160\"/><animate fill=\"freeze\" attributeName=\"fill-opacity\" begin=\"1.2s\" dur=\"0.15s\" values=\"0;0.3\"/></path><path fill=\"none\" stroke-dasharray=\"32\" stroke-dashoffset=\"32\" d=\"M7 13.5L7 8C7 8 7.5 6 9.5 6C11.5 6 12 8 12 8L12 10.5L12 8C12 8 12.5 6 14.5 6C16.5 6 17 8 17 8L17 13.5\"><animate fill=\"freeze\" attributeName=\"stroke-dashoffset\" begin=\"0.7s\" dur=\"0.4s\" values=\"32;0\"/></path></g>"
 		},
 		"menu": {
 			"body": "<g fill=\"none\" stroke=\"currentColor\" stroke-dasharray=\"24\" stroke-dashoffset=\"24\" stroke-linecap=\"round\" stroke-width=\"2\"><path d=\"M5 5H19\"><animate fill=\"freeze\" attributeName=\"stroke-dashoffset\" dur=\"0.2s\" values=\"24;0\"/></path><path d=\"M5 12H19\"><animate fill=\"freeze\" attributeName=\"stroke-dashoffset\" begin=\"0.2s\" dur=\"0.2s\" values=\"24;0\"/></path><path d=\"M5 19H19\"><animate fill=\"freeze\" attributeName=\"stroke-dashoffset\" begin=\"0.4s\" dur=\"0.2s\" values=\"24;0\"/></path></g>"
@@ -1613,6 +1619,8 @@
 			"instagram",
 			"linkedin",
 			"mastodon",
+			"mastodon-filled",
+			"mastodon-twotone",
 			"reddit",
 			"reddit-circle",
 			"reddit-circle-loop",

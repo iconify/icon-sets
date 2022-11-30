@@ -2,7 +2,7 @@
 
 
 ## Material Symbols
-* Number of icons: 8431
+* Number of icons: 8720
 * Author: Google
 * URL: https://github.com/google/material-design-icons
 * License: Apache 2.0
@@ -76,12 +76,12 @@
 * File: [json/bi.json](json/bi.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Tabler Icons
-* Number of icons: 3018
+* Number of icons: 3036
 * Author: Paweł Kuna
 * URL: https://github.com/tabler/tabler-icons
 * License: MIT
 * License URL: https://github.com/tabler/tabler-icons/blob/master/LICENSE
-* Version: 1.113.0
+* Version: 1.114.0
 * Palette: Colorless
 * Icon set prefix: `tabler`
 * File: [json/tabler.json](json/tabler.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
@@ -438,7 +438,7 @@
 * URL: https://github.com/mapbox/maki
 * License: CC0
 * License URL: https://creativecommons.org/publicdomain/zero/1.0/
-* Version: 8.0.0
+* Version: 8.0.1
 * Palette: Colorless
 * Icon set prefix: `maki`
 * File: [json/maki.json](json/maki.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
@@ -573,7 +573,7 @@
 * File: [json/heroicons.json](json/heroicons.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Codicons
-* Number of icons: 422
+* Number of icons: 423
 * Author: Microsoft Corporation
 * URL: https://github.com/microsoft/vscode-codicons
 * License: CC BY 4.0

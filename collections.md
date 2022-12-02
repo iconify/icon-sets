@@ -357,7 +357,7 @@
 * File: [json/eos-icons.json](json/eos-icons.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Charm Icons
-* Number of icons: 259
+* Number of icons: 261
 * Author: Jay Newey
 * URL: https://github.com/jaynewey/charm-icons
 * License: MIT
@@ -584,12 +584,12 @@
 * File: [json/codicon.json](json/codicon.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Gitlab SVGs
-* Number of icons: 352
+* Number of icons: 353
 * Author: GitLab B.V.
 * URL: https://gitlab.com/gitlab-org/gitlab-svgs/-/tree/main
 * License: MIT
 * License URL: https://gitlab.com/gitlab-org/gitlab-svgs/-/blob/main/LICENSE
-* Version: 3.11.0
+* Version: 3.13.0
 * Palette: Colorless
 * Icon set prefix: `pajamas`
 * File: [json/pajamas.json](json/pajamas.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
@@ -650,7 +650,7 @@
 * File: [json/fa6-regular.json](json/fa6-regular.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Octicons
-* Number of icons: 537
+* Number of icons: 539
 * Author: GitHub
 * URL: https://github.com/primer/octicons/
 * License: MIT

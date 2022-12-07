@@ -677,7 +677,7 @@
 * URL: https://github.com/TiendaNube/nimbus-icons
 * License: MIT
 * License URL: https://github.com/TiendaNube/nimbus-icons/blob/develop/LICENSE
-* Version: 0.3.1
+* Version: 0.3.2
 * Palette: Colorless
 * Icon set prefix: `nimbus`
 * File: [json/nimbus.json](json/nimbus.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
@@ -829,12 +829,12 @@
 * File: [json/logos.json](json/logos.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Simple Icons
-* Number of icons: 2412
+* Number of icons: 2413
 * Author: Simple Icons Collaborators
 * URL: https://github.com/simple-icons/simple-icons
 * License: CC0 1.0
 * License URL: https://github.com/simple-icons/simple-icons/blob/develop/LICENSE.md
-* Version: 7.21.0
+* Version: 8.0.0
 * Palette: Colorless
 * Icon set prefix: `simple-icons`
 * File: [json/simple-icons.json](json/simple-icons.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))

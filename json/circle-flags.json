@@ -2,7 +2,7 @@
 	"prefix": "circle-flags",
 	"info": {
 		"name": "Circle Flags",
-		"total": 378,
+		"total": 379,
 		"version": "1.0.0",
 		"author": {
 			"name": "HatScripts",
@@ -23,7 +23,7 @@
 		"category": "Maps / Flags",
 		"palette": true
 	},
-	"lastModified": 1667975241,
+	"lastModified": 1670568652,
 	"icons": {
 		"ac": {
 			"body": "<mask id=\"svgIDa\"><circle cx=\"256\" cy=\"256\" r=\"256\" fill=\"#fff\"/></mask><g mask=\"url(#svgIDa)\"><path fill=\"#0052b4\" d=\"M256 0h256v512H0V256Z\"/><path fill=\"#eee\" d=\"M0 0v32l32 32L0 96v160h32l32-32l32 32h32v-83l83 83h45l-8-16l8-15v-14l-83-83h83V96l-32-32l32-32V0H96L64 32L32 0Z\"/><path fill=\"#d80027\" d=\"M32 0v32H0v64h32v160h64V96h160V32H96V0Zm96 128l128 128v-31l-97-97z\"/><path fill=\"#6da544\" d=\"m320 144l48-80l48 80z\"/><circle cx=\"368\" cy=\"144\" r=\"48\" fill=\"#acabb1\"/><path fill=\"#338af3\" d=\"M320 144v77c0 36 48 48 48 48s48-12 48-48v-77z\"/><rect width=\"32\" height=\"128\" x=\"288\" y=\"128\" fill=\"#ff9811\" rx=\"16\" ry=\"16\"/><rect width=\"32\" height=\"128\" x=\"416\" y=\"128\" fill=\"#ff9811\" rx=\"16\" ry=\"16\"/><path fill=\"#6da544\" d=\"m368 160l-48 67c2 11 9 19 16 26l32-45l32 45c8-7 14-15 16-26z\"/></g>"
@@ -51,6 +51,9 @@
 		},
 		"am": {
 			"body": "<mask id=\"svgIDa\"><circle cx=\"256\" cy=\"256\" r=\"256\" fill=\"#fff\"/></mask><g mask=\"url(#svgIDa)\"><path fill=\"#0052b4\" d=\"m0 166.9l253-26.7L512 167v178l-261.1 26L0 344.8z\"/><path fill=\"#d80027\" d=\"M0 0h512v166.9H0z\"/><path fill=\"#ff9811\" d=\"M0 344.9h512V512H0z\"/></g>"
+		},
+		"an": {
+			"body": "<mask id=\"svgIDa\"><circle cx=\"256\" cy=\"256\" r=\"256\" fill=\"#fff\"/></mask><g mask=\"url(#svgIDa)\"><path fill=\"#eee\" d=\"M0 0h171l85 32l85-32h171v171l-32 85l32 85v171H341l-85-32l-85 32H0V341l32-85l-32-85Z\"/><path fill=\"#d80027\" d=\"M171 0h170v512H171z\"/><path fill=\"#0052b4\" d=\"M512 171v170H0V171z\"/><path fill=\"#eee\" d=\"m236 247l52-37h-64l52 37l-20-61zm-45 79l52-37h-64l52 37l-20-61zm90 0l52-37h-64l52 37l-20-61zm74-47l52-37h-64l52 37l-20-61zm-238 0l52-37h-64l52 37l-20-61z\"/></g>"
 		},
 		"ao": {
 			"body": "<mask id=\"svgIDa\"><circle cx=\"256\" cy=\"256\" r=\"256\" fill=\"#fff\"/></mask><g mask=\"url(#svgIDa)\"><path fill=\"#d80027\" d=\"M0 0h512v256l-253 36.6L0 256z\"/><path fill=\"#333\" d=\"M0 256h512v256H0z\"/><g fill=\"#ffda44\"><path d=\"m220.9 203.6l21.7 15.8l-8.3 25.5L256 229l21.7 15.7l-8.3-25.5l21.7-15.7h-26.8L256 178l-8.3 25.5z\"/><path d=\"M320 145.1a127.2 127.2 0 0 0-64-17v33.3a94 94 0 0 1 47.3 12.7a94.7 94.7 0 0 1-94.6 163.8a94 94 0 0 1-31.6-29.8l-27.9 18.4a128.1 128.1 0 0 0 217.7-6.5A128.1 128.1 0 0 0 320 145.1z\"/><path d=\"M182.2 233.7a33.4 33.4 0 0 0 13.3 45.4l108.4 59.2c-7.4 13.5-3.4 30 10 37.3l29.3 16a27.8 27.8 0 0 0 37.8-11l16-29.3z\"/></g></g>"
@@ -1189,9 +1192,6 @@
 		},
 		"ak": {
 			"parent": "gh"
-		},
-		"an": {
-			"parent": "es-ar"
 		},
 		"ay": {
 			"parent": "wiphala"

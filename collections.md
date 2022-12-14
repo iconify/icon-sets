@@ -24,7 +24,7 @@
 
 ## Material Design Icons
 * Number of icons: 7196
-* Author: Austin Andrews
+* Author: Pictogrammers
 * URL: https://github.com/Templarian/MaterialDesign
 * License: Apache 2.0
 * License URL: https://github.com/Templarian/MaterialDesign/blob/master/LICENSE
@@ -76,12 +76,12 @@
 * File: [json/bi.json](json/bi.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Tabler Icons
-* Number of icons: 3072
+* Number of icons: 3090
 * Author: Paweł Kuna
 * URL: https://github.com/tabler/tabler-icons
 * License: MIT
 * License URL: https://github.com/tabler/tabler-icons/blob/master/LICENSE
-* Version: 1.116.1
+* Version: 1.117.0
 * Palette: Colorless
 * Icon set prefix: `tabler`
 * File: [json/tabler.json](json/tabler.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
@@ -326,7 +326,7 @@
 
 ## Material Design Light
 * Number of icons: 267
-* Author: Austin Andrews
+* Author: Pictogrammers
 * URL: https://github.com/Templarian/MaterialDesignLight
 * License: Open Font License
 * License URL: https://github.com/Templarian/MaterialDesignLight/blob/master/LICENSE.md
@@ -650,12 +650,12 @@
 * File: [json/fa6-regular.json](json/fa6-regular.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Octicons
-* Number of icons: 539
+* Number of icons: 549
 * Author: GitHub
 * URL: https://github.com/primer/octicons/
 * License: MIT
 * License URL: https://github.com/primer/octicons/blob/main/LICENSE
-* Version: 17.9.0
+* Version: 17.10.0
 * Palette: Colorless
 * Icon set prefix: `octicon`
 * File: [json/octicon.json](json/octicon.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
@@ -862,7 +862,7 @@
 * File: [json/fa6-brands.json](json/fa6-brands.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Arcticons
-* Number of icons: 4852
+* Number of icons: 5005
 * Author: Donnnno
 * URL: https://github.com/Donnnno/Arcticons
 * License: CC BY-SA 4.0

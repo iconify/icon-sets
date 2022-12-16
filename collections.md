@@ -325,7 +325,7 @@
 * File: [json/circum.json](json/circum.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Material Design Light
-* Number of icons: 267
+* Number of icons: 284
 * Author: Pictogrammers
 * URL: https://github.com/Templarian/MaterialDesignLight
 * License: Open Font License
@@ -589,21 +589,32 @@
 * URL: https://gitlab.com/gitlab-org/gitlab-svgs/-/tree/main
 * License: MIT
 * License URL: https://gitlab.com/gitlab-org/gitlab-svgs/-/blob/main/LICENSE
-* Version: 3.13.0
+* Version: 3.14.0
 * Palette: Colorless
 * Icon set prefix: `pajamas`
 * File: [json/pajamas.json](json/pajamas.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
-## Pepicons
-* Number of icons: 428
+## Pepicons Pop!
+* Number of icons: 224
 * Author: CyCraft
 * URL: https://github.com/CyCraft/pepicons
 * License: CC BY 4.0
 * License URL: https://github.com/CyCraft/pepicons/blob/dev/LICENSE
 * Version: 1.2.7
 * Palette: Colorless
-* Icon set prefix: `pepicons`
-* File: [json/pepicons.json](json/pepicons.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
+* Icon set prefix: `pepicons-pop`
+* File: [json/pepicons-pop.json](json/pepicons-pop.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
+
+## Pepicons Print
+* Number of icons: 204
+* Author: CyCraft
+* URL: https://github.com/CyCraft/pepicons
+* License: CC BY 4.0
+* License URL: https://github.com/CyCraft/pepicons/blob/dev/LICENSE
+* Version: 1.2.7
+* Palette: Colorless
+* Icon set prefix: `pepicons-print`
+* File: [json/pepicons-print.json](json/pepicons-print.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Bytesize Icons
 * Number of icons: 101
@@ -862,7 +873,7 @@
 * File: [json/fa6-brands.json](json/fa6-brands.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Arcticons
-* Number of icons: 5005
+* Number of icons: 5008
 * Author: Donnnno
 * URL: https://github.com/Donnnno/Arcticons
 * License: CC BY-SA 4.0

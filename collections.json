@@ -659,7 +659,7 @@
 	},
 	"mdi-light": {
 		"name": "Material Design Light",
-		"total": 267,
+		"total": 284,
 		"author": {
 			"name": "Pictogrammers",
 			"url": "https://github.com/Templarian/MaterialDesignLight"
@@ -1189,7 +1189,7 @@
 	"pajamas": {
 		"name": "Gitlab SVGs",
 		"total": 353,
-		"version": "3.13.0",
+		"version": "3.14.0",
 		"author": {
 			"name": "GitLab B.V.",
 			"url": "https://gitlab.com/gitlab-org/gitlab-svgs/-/tree/main"
@@ -1208,9 +1208,9 @@
 		"category": "General",
 		"palette": false
 	},
-	"pepicons": {
-		"name": "Pepicons",
-		"total": 428,
+	"pepicons-pop": {
+		"name": "Pepicons Pop!",
+		"total": 224,
 		"version": "1.2.7",
 		"author": {
 			"name": "CyCraft",
@@ -1222,9 +1222,31 @@
 			"url": "https://github.com/CyCraft/pepicons/blob/dev/LICENSE"
 		},
 		"samples": [
-			"bookmark-print",
+			"bookmark",
 			"moon",
-			"pen-print"
+			"pen"
+		],
+		"displayHeight": 20,
+		"category": "General",
+		"palette": false
+	},
+	"pepicons-print": {
+		"name": "Pepicons Print",
+		"total": 204,
+		"version": "1.2.7",
+		"author": {
+			"name": "CyCraft",
+			"url": "https://github.com/CyCraft/pepicons"
+		},
+		"license": {
+			"title": "CC BY 4.0",
+			"spdx": "CC-BY-4.0",
+			"url": "https://github.com/CyCraft/pepicons/blob/dev/LICENSE"
+		},
+		"samples": [
+			"bookmark",
+			"moon",
+			"pen"
 		],
 		"displayHeight": 20,
 		"category": "General",
@@ -1764,7 +1786,7 @@
 	},
 	"arcticons": {
 		"name": "Arcticons",
-		"total": 5005,
+		"total": 5008,
 		"author": {
 			"name": "Donnnno",
 			"url": "https://github.com/Donnnno/Arcticons"
@@ -3020,6 +3042,28 @@
 			"play"
 		],
 		"height": 24,
+		"palette": false,
+		"hidden": true
+	},
+	"pepicons": {
+		"name": "Pepicons",
+		"total": 428,
+		"version": "1.2.7",
+		"author": {
+			"name": "CyCraft",
+			"url": "https://github.com/CyCraft/pepicons"
+		},
+		"license": {
+			"title": "CC BY 4.0",
+			"spdx": "CC-BY-4.0",
+			"url": "https://github.com/CyCraft/pepicons/blob/dev/LICENSE"
+		},
+		"samples": [
+			"bookmark-print",
+			"moon",
+			"pen-print"
+		],
+		"displayHeight": 20,
 		"palette": false,
 		"hidden": true
 	}

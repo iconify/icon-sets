@@ -3,7 +3,7 @@
 	"info": {
 		"name": "Gitlab SVGs",
 		"total": 353,
-		"version": "3.13.0",
+		"version": "3.14.0",
 		"author": {
 			"name": "GitLab B.V.",
 			"url": "https://gitlab.com/gitlab-org/gitlab-svgs/-/tree/main"
@@ -22,7 +22,7 @@
 		"category": "General",
 		"palette": false
 	},
-	"lastModified": 1669961749,
+	"lastModified": 1671175509,
 	"icons": {
 		"abuse": {
 			"body": "<path fill=\"currentColor\" fill-rule=\"evenodd\" d=\"M5.308 1.5L1.5 5.308v5.384L5.308 14.5h5.384l3.808-3.808V5.308L10.692 1.5H5.308ZM11.314 0H4.686L0 4.686v6.628L4.686 16h6.628L16 11.314V4.686L11.314 0ZM9 11a1 1 0 1 1-2 0a1 1 0 0 1 2 0Zm-.25-6.25a.75.75 0 0 0-1.5 0v3.5a.75.75 0 0 0 1.5 0v-3.5Z\" clip-rule=\"evenodd\"/>"
@@ -536,7 +536,7 @@
 		"issue-type-issue": {
 			"body": "<path fill=\"currentColor\" fill-rule=\"evenodd\" d=\"M4 0a4 4 0 0 0-4 4v8a4 4 0 0 0 4 4h8a4 4 0 0 0 4-4V4a4 4 0 0 0-4-4H4zm1 4a1 1 0 0 0-1 1v6a1 1 0 0 0 1 1h4a1 1 0 0 0 1-1V5a1 1 0 0 0-1-1H5zm7.67 3.048a1 1 0 0 0-.386-1.234L11 5v6l1.67-3.952z\" clip-rule=\"evenodd\"/>"
 		},
-		"issue-type-key-result": {
+		"issue-type-keyresult": {
 			"body": "<path fill=\"currentColor\" fill-rule=\"evenodd\" d=\"M4 0a4 4 0 0 0-4 4v8a4 4 0 0 0 4 4h8a4 4 0 0 0 4-4V4a4 4 0 0 0-4-4H4Zm7.25 8a.75.75 0 0 1-.75-.75v-.69L7 10.06v2.19a.75.75 0 0 1-1.5 0v-1.691a.742.742 0 0 1-.059-.059H3.75a.75.75 0 0 1 0-1.5h2.19l3.5-3.5h-.69a.75.75 0 0 1 0-1.5H12v3.25a.75.75 0 0 1-.75.75Z\" clip-rule=\"evenodd\"/>"
 		},
 		"issue-type-maintenance": {
@@ -1120,6 +1120,11 @@
 		},
 		"work": {
 			"body": "<path fill=\"currentColor\" fill-rule=\"evenodd\" d=\"M6 1a1.75 1.75 0 0 0-1.75 1.75V4H3a2 2 0 0 0-2 2v7a2 2 0 0 0 2 2h10a2 2 0 0 0 2-2V6a2 2 0 0 0-2-2h-1.25V2.75A1.75 1.75 0 0 0 10 1H6Zm4.25 3V2.75A.25.25 0 0 0 10 2.5H6a.25.25 0 0 0-.25.25V4h4.5ZM3 5.5h10a.5.5 0 0 1 .5.5v1h-11V6a.5.5 0 0 1 .5-.5Zm-.5 3V13a.5.5 0 0 0 .5.5h10a.5.5 0 0 0 .5-.5V8.5H9V10H7V8.5H2.5Z\" clip-rule=\"evenodd\"/>"
+		}
+	},
+	"aliases": {
+		"issue-type-key-result": {
+			"parent": "issue-type-keyresult"
 		}
 	}
 }

@@ -935,7 +935,7 @@
 * File: [json/cryptocurrency-color.json](json/cryptocurrency-color.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Flag Icons
-* Number of icons: 530
+* Number of icons: 532
 * Author: Panayiotis Lipiridis
 * URL: https://github.com/lipis/flag-icons
 * License: MIT
@@ -1037,7 +1037,7 @@
 * URL: https://github.com/jpswalsh/academicons
 * License: Open Font License
 * License URL: https://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL
-* Version: 1.9.2
+* Version: 1.9.3
 * Palette: Colorless
 * Icon set prefix: `academicons`
 * File: [json/academicons.json](json/academicons.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))

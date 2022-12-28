@@ -21,7 +21,7 @@
 		"category": "General",
 		"palette": false
 	},
-	"lastModified": 1671435623,
+	"lastModified": 1672211566,
 	"icons": {
 		"ab-testing": {
 			"body": "<path fill=\"currentColor\" d=\"M4 2a2 2 0 0 0-2 2v8h2V8h2v4h2V4a2 2 0 0 0-2-2H4m0 2h2v2H4m18 9.5V14a2 2 0 0 0-2-2h-4v10h4a2 2 0 0 0 2-2v-1.5a1.54 1.54 0 0 0-1.5-1.5a1.54 1.54 0 0 0 1.5-1.5M20 20h-2v-2h2v2m0-4h-2v-2h2M5.79 21.61l-1.58-1.22l14-18l1.58 1.22Z\"/>"
@@ -28863,6 +28863,90 @@
 		"file-settings-variant-outline": {
 			"parent": "file-cog-outline"
 		},
+		"file-text": {
+			"parent": "file-document"
+		},
+		"file-text-add": {
+			"parent": "file-document-plus"
+		},
+		"file-text-add-outline": {
+			"parent": "file-document-plus-outline"
+		},
+		"file-text-alert": {
+			"parent": "file-document-alert"
+		},
+		"file-text-alert-outline": {
+			"parent": "file-document-alert-outline"
+		},
+		"file-text-arrow-right": {
+			"parent": "file-document-arrow-right"
+		},
+		"file-text-arrow-right-outline": {
+			"parent": "file-document-arrow-right-outline"
+		},
+		"file-text-check": {
+			"parent": "file-document-check"
+		},
+		"file-text-check-outline": {
+			"parent": "file-document-check-outline"
+		},
+		"file-text-delete": {
+			"parent": "file-document-remove"
+		},
+		"file-text-delete-outline": {
+			"parent": "file-document-remove-outline"
+		},
+		"file-text-edit": {
+			"parent": "file-document-edit"
+		},
+		"file-text-edit-outline": {
+			"parent": "file-document-edit-outline"
+		},
+		"file-text-error": {
+			"parent": "file-document-alert"
+		},
+		"file-text-error-outline": {
+			"parent": "file-document-alert-outline"
+		},
+		"file-text-minus": {
+			"parent": "file-document-minus"
+		},
+		"file-text-minus-outline": {
+			"parent": "file-document-minus-outline"
+		},
+		"file-text-move": {
+			"parent": "file-document-arrow-right"
+		},
+		"file-text-move-outline": {
+			"parent": "file-document-arrow-right-outline"
+		},
+		"file-text-multiple": {
+			"parent": "file-document-multiple"
+		},
+		"file-text-multiple-outline": {
+			"parent": "file-document-multiple-outline"
+		},
+		"file-text-outline": {
+			"parent": "file-document-outline"
+		},
+		"file-text-plus": {
+			"parent": "file-document-plus"
+		},
+		"file-text-plus-outline": {
+			"parent": "file-document-plus-outline"
+		},
+		"file-text-remove": {
+			"parent": "file-document-remove"
+		},
+		"file-text-remove-outline": {
+			"parent": "file-document-remove-outline"
+		},
+		"file-text-tick": {
+			"parent": "file-document-check"
+		},
+		"file-text-tick-outline": {
+			"parent": "file-document-check-outline"
+		},
 		"file-tick": {
 			"parent": "file-check"
 		},
@@ -33662,6 +33746,9 @@
 		},
 		"night-sky": {
 			"parent": "weather-night"
+		},
+		"ninja-star": {
+			"parent": "shuriken"
 		},
 		"nintendo-switch-online": {
 			"parent": "nintendo-switch"
@@ -51226,15 +51313,23 @@
 			"button-pointer",
 			"card",
 			"card-outline",
+			"check",
+			"check-circle",
+			"check-circle-outline",
 			"checkbox-blank",
+			"checkbox-blank-badge",
+			"checkbox-blank-badge-outline",
 			"checkbox-blank-circle",
 			"checkbox-blank-circle-outline",
+			"checkbox-blank-off",
+			"checkbox-blank-off-outline",
 			"checkbox-blank-outline",
 			"checkbox-intermediate",
 			"checkbox-intermediate-variant",
 			"checkbox-marked",
 			"checkbox-marked-circle",
 			"checkbox-marked-circle-outline",
+			"checkbox-marked-circle-plus-outline",
 			"checkbox-marked-outline",
 			"checkbox-multiple-blank",
 			"checkbox-multiple-blank-circle",
@@ -51244,8 +51339,19 @@
 			"checkbox-multiple-marked-circle",
 			"checkbox-multiple-marked-circle-outline",
 			"checkbox-multiple-marked-outline",
+			"checkbox-multiple-outline",
+			"checkbox-outline",
 			"chevron-down-box",
 			"chevron-down-box-outline",
+			"close",
+			"close-box",
+			"close-box-multiple",
+			"close-box-multiple-outline",
+			"close-box-outline",
+			"close-circle",
+			"close-circle-multiple",
+			"close-circle-multiple-outline",
+			"close-circle-outline",
 			"draw",
 			"draw-pen",
 			"form-dropdown",
@@ -51255,6 +51361,14 @@
 			"form-textbox-lock",
 			"form-textbox-password",
 			"gesture-tap-button",
+			"minus-box",
+			"minus-box-multiple",
+			"minus-box-multiple-outline",
+			"minus-box-outline",
+			"minus-circle",
+			"minus-circle-multiple",
+			"minus-circle-multiple-outline",
+			"minus-circle-outline",
 			"radiobox-blank",
 			"radiobox-marked",
 			"signature",
@@ -53701,6 +53815,8 @@
 			"star",
 			"star-check",
 			"star-check-outline",
+			"star-circle",
+			"star-circle-outline",
 			"star-four-points",
 			"star-four-points-outline",
 			"star-half",

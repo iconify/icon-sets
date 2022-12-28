@@ -70,7 +70,7 @@
 * URL: https://github.com/twbs/icons
 * License: MIT
 * License URL: https://github.com/twbs/icons/blob/main/LICENSE.md
-* Version: 1.10.2
+* Version: 1.10.3
 * Palette: Colorless
 * Icon set prefix: `bi`
 * File: [json/bi.json](json/bi.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))

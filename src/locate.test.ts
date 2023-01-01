@@ -1,10 +1,10 @@
-import type { PathLike } from 'fs';
 import { resolve, normalize } from 'pathe';
+import { locate } from '../';
 
-export const locateTest = (locate: (name: string) => PathLike) => {
+describe('lookupCollection and lookupCollections', () => {
   test('mdi resolves the json collection', () => {
     const received = locate('mdi') as string;
     const expected = normalize(resolve('./json/mdi.json'));
     expect(received).toBe(expected);
   });
-};
+});

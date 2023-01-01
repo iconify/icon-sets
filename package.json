@@ -45,7 +45,7 @@
 		"test:cjs": "vitest --config vitest.config.cjs",
 		"test:esm": "vitest --config vitest.config.mjs",
 		"test": "npm run test:cjs && npm run test:esm",
-		"version": "node sync-version",
+		"version": "node sync-version.cjs",
 		"prepublishOnly": "npm run build && npm run version"
 	},
 	"dependencies": {

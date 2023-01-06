@@ -589,7 +589,7 @@
 * URL: https://gitlab.com/gitlab-org/gitlab-svgs/-/tree/main
 * License: MIT
 * License URL: https://gitlab.com/gitlab-org/gitlab-svgs/-/blob/main/LICENSE
-* Version: 3.14.0
+* Version: 3.15.0
 * Palette: Colorless
 * Icon set prefix: `pajamas`
 * File: [json/pajamas.json](json/pajamas.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
@@ -873,7 +873,7 @@
 * File: [json/fa6-brands.json](json/fa6-brands.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Arcticons
-* Number of icons: 5000
+* Number of icons: 5109
 * Author: Donnnno
 * URL: https://github.com/Donnnno/Arcticons
 * License: CC BY-SA 4.0

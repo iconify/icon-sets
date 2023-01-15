@@ -2,7 +2,7 @@
 	"prefix": "mdi",
 	"info": {
 		"name": "Material Design Icons",
-		"total": 7196,
+		"total": 7199,
 		"author": {
 			"name": "Pictogrammers",
 			"url": "https://github.com/Templarian/MaterialDesign"
@@ -21,7 +21,7 @@
 		"category": "General",
 		"palette": false
 	},
-	"lastModified": 1672388948,
+	"lastModified": 1673788155,
 	"icons": {
 		"ab-testing": {
 			"body": "<path fill=\"currentColor\" d=\"M4 2a2 2 0 0 0-2 2v8h2V8h2v4h2V4a2 2 0 0 0-2-2H4m0 2h2v2H4m18 9.5V14a2 2 0 0 0-2-2h-4v10h4a2 2 0 0 0 2-2v-1.5a1.54 1.54 0 0 0-1.5-1.5a1.54 1.54 0 0 0 1.5-1.5M20 20h-2v-2h2v2m0-4h-2v-2h2M5.79 21.61l-1.58-1.22l14-18l1.58 1.22Z\"/>"
@@ -4030,6 +4030,9 @@
 		"calendar-star": {
 			"body": "<path fill=\"currentColor\" d=\"M19 19H5V8h14m-3-7v2H8V1H6v2H5c-1.1 0-2 .9-2 2v14a2 2 0 0 0 2 2h14c1.11 0 2-.89 2-2V5a2 2 0 0 0-2-2h-1V1m-7.12 11H7.27l2.92 2.11l-1.11 3.45L12 15.43l2.92 2.13l-1.12-3.44L16.72 12h-3.6L12 8.56L10.88 12Z\"/>"
 		},
+		"calendar-star-four-points": {
+			"body": "<path fill=\"currentColor\" d=\"M10.74 12.25L12 9.5l1.25 2.75L16 13.5l-2.75 1.26L12 17.5l-1.26-2.74L8 13.5l2.74-1.25M16 3V1h2v2h1c.53 0 1.04.21 1.41.59c.38.37.59.88.59 1.41v14c0 .53-.21 1.04-.59 1.41c-.37.38-.88.59-1.41.59H5c-.53 0-1.04-.21-1.41-.59C3.21 20.04 3 19.53 3 19V5c0-.53.21-1.04.59-1.41C3.96 3.21 4.47 3 5 3h1V1h2v2h8M5 8v11h14V8H5Z\"/>"
+		},
 		"calendar-star-outline": {
 			"body": "<path fill=\"currentColor\" d=\"M19 3h-1V1h-2v2H8V1H6v2H5c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2m0 16H5V9h14v10m0-12H5V5h14v2m-8 6H7.8l2.6 2l-1 3l2.6-1.8l2.6 1.8l-1-3l2.6-2H13l-1-3l-1 3Z\"/>"
 		},
@@ -5100,6 +5103,12 @@
 		},
 		"checkbook": {
 			"body": "<path fill=\"currentColor\" d=\"M5 14h14v1H5v-1m16 3V8H3v9h18M1 5h22v14H1V5m4 5h7v2H5v-2Z\"/>"
+		},
+		"checkbook-arrow-left": {
+			"body": "<path fill=\"currentColor\" d=\"M5 14h10.53c-.28.31-.53.64-.73 1H5v-1m16-6v4.08c.72.12 1.39.37 2 .72V5H1v14h13.08a6.53 6.53 0 0 1-.08-1c0-.34.03-.67.08-1H3V8h18M5 10h7v2H5v-2m11 8l3-3v2h4v2h-4v2l-3-3Z\"/>"
+		},
+		"checkbook-arrow-right": {
+			"body": "<path fill=\"currentColor\" d=\"M5 14h10.53c-.28.31-.53.64-.73 1H5v-1m16-6v4.08c.72.12 1.39.37 2 .72V5H1v14h13.08a6.53 6.53 0 0 1-.08-1c0-.34.03-.67.08-1H3V8h18M5 10h7v2H5v-2m19 8l-3-3v2h-4v2h4v2l3-3Z\"/>"
 		},
 		"checkbox-blank": {
 			"body": "<path fill=\"currentColor\" d=\"M19 3H5c-1.11 0-2 .89-2 2v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2V5a2 2 0 0 0-2-2Z\"/>"
@@ -25130,6 +25139,9 @@
 		"calendar-add": {
 			"parent": "calendar-plus"
 		},
+		"calendar-auto": {
+			"parent": "calendar-star-four-points"
+		},
 		"calendar-day": {
 			"parent": "calendar-today"
 		},
@@ -25765,6 +25777,12 @@
 		},
 		"chequebook": {
 			"parent": "checkbook"
+		},
+		"chequebook-arrow-left": {
+			"parent": "checkbook-arrow-left"
+		},
+		"chequebook-arrow-right": {
+			"parent": "checkbook-arrow-right"
 		},
 		"chess-castle": {
 			"parent": "chess-rook"
@@ -28118,6 +28136,9 @@
 		"event-alert": {
 			"parent": "calendar-alert"
 		},
+		"event-auto": {
+			"parent": "calendar-star-four-points"
+		},
 		"event-available": {
 			"parent": "calendar-check"
 		},
@@ -28198,6 +28219,9 @@
 		},
 		"event-star": {
 			"parent": "calendar-star"
+		},
+		"event-star-four-points": {
+			"parent": "calendar-star-four-points"
 		},
 		"event-text": {
 			"parent": "calendar-text"
@@ -42153,6 +42177,7 @@
 		"f094c": "calendar-search",
 		"f1b6e": "calendar-search-outline",
 		"f09d3": "calendar-star",
+		"f1c1f": "calendar-star-four-points",
 		"f1b53": "calendar-star-outline",
 		"f166d": "calendar-start",
 		"f1b6f": "calendar-start-outline",
@@ -42498,6 +42523,8 @@
 		"f0e20": "check-underline-circle",
 		"f0e21": "check-underline-circle-outline",
 		"f0a9d": "checkbook",
+		"f1c1d": "checkbook-arrow-left",
+		"f1c1e": "checkbook-arrow-right",
 		"f012e": "checkbox-blank",
 		"f1176": "checkbox-blank-badge",
 		"f0117": "checkbox-blank-badge-outline",
@@ -49391,6 +49418,8 @@
 			"cash-remove",
 			"cash-sync",
 			"checkbook",
+			"checkbook-arrow-left",
+			"checkbook-arrow-right",
 			"circle-multiple",
 			"circle-multiple-outline",
 			"credit-card",
@@ -50307,6 +50336,7 @@
 			"calendar-search",
 			"calendar-search-outline",
 			"calendar-star",
+			"calendar-star-four-points",
 			"calendar-star-outline",
 			"calendar-start",
 			"calendar-start-outline",

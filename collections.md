@@ -23,7 +23,7 @@
 * File: [json/ic.json](json/ic.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Material Design Icons
-* Number of icons: 7196
+* Number of icons: 7199
 * Author: Pictogrammers
 * URL: https://github.com/Templarian/MaterialDesign
 * License: Apache 2.0
@@ -449,7 +449,7 @@
 * URL: https://github.com/Automattic/gridicons
 * License: GPL 2.0
 * License URL: https://github.com/Automattic/gridicons/blob/trunk/LICENSE.md
-* Version: 3.4.0
+* Version: 3.4.1-alpha.3
 * Palette: Colorless
 * Icon set prefix: `gridicons`
 * File: [json/gridicons.json](json/gridicons.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
@@ -672,7 +672,7 @@
 * File: [json/octicon.json](json/octicon.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## OOUI
-* Number of icons: 330
+* Number of icons: 331
 * Author: OOUI Team
 * URL: https://github.com/wikimedia/oojs-ui
 * License: MIT
@@ -704,8 +704,18 @@
 * Icon set prefix: `line-md`
 * File: [json/line-md.json](json/line-md.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
+## SVG Spinners
+* Number of icons: 46
+* Author: Utkarsh Verma
+* URL: https://github.com/n3r4zzurr0/svg-spinners
+* License: MIT
+* License URL: https://github.com/n3r4zzurr0/svg-spinners/blob/main/LICENSE
+* Palette: Colorless
+* Icon set prefix: `svg-spinners`
+* File: [json/svg-spinners.json](json/svg-spinners.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
+
 ## OpenMoji
-* Number of icons: 4065
+* Number of icons: 4071
 * Author: OpenMoji
 * URL: https://github.com/hfg-gmuend/openmoji
 * License: CC BY-SA 4.0
@@ -891,6 +901,16 @@
 * Palette: Colorless
 * Icon set prefix: `file-icons`
 * File: [json/file-icons.json](json/file-icons.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
+
+## Skill Icons
+* Number of icons: 294
+* Author: tandpfun
+* URL: https://github.com/tandpfun/skill-icons
+* License: MIT
+* License URL: https://github.com/tandpfun/skill-icons/blob/main/LICENSE
+* Palette: Colorful
+* Icon set prefix: `skill-icons`
+* File: [json/skill-icons.json](json/skill-icons.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Brandico
 * Number of icons: 45

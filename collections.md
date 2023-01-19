@@ -92,7 +92,7 @@
 * URL: https://github.com/ionic-team/ionicons
 * License: MIT
 * License URL: https://github.com/ionic-team/ionicons/blob/main/LICENSE
-* Version: 6.0.4
+* Version: 6.1.0
 * Palette: Colorless
 * Icon set prefix: `ion`
 * File: [json/ion.json](json/ion.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
@@ -584,12 +584,12 @@
 * File: [json/codicon.json](json/codicon.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Gitlab SVGs
-* Number of icons: 356
+* Number of icons: 357
 * Author: GitLab B.V.
 * URL: https://gitlab.com/gitlab-org/gitlab-svgs/-/tree/main
 * License: MIT
 * License URL: https://gitlab.com/gitlab-org/gitlab-svgs/-/blob/main/LICENSE
-* Version: 3.16.0
+* Version: 3.17.0
 * Palette: Colorless
 * Icon set prefix: `pajamas`
 * File: [json/pajamas.json](json/pajamas.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
@@ -677,7 +677,7 @@
 * URL: https://github.com/wikimedia/oojs-ui
 * License: MIT
 * License URL: https://github.com/wikimedia/oojs-ui/blob/master/LICENSE-MIT
-* Version: 0.46.1
+* Version: 0.46.2
 * Palette: Colorless
 * Icon set prefix: `ooui`
 * File: [json/ooui.json](json/ooui.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
@@ -850,12 +850,12 @@
 * File: [json/logos.json](json/logos.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Simple Icons
-* Number of icons: 2419
+* Number of icons: 2430
 * Author: Simple Icons Collaborators
 * URL: https://github.com/simple-icons/simple-icons
 * License: CC0 1.0
 * License URL: https://github.com/simple-icons/simple-icons/blob/develop/LICENSE.md
-* Version: 8.2.0
+* Version: 8.3.0
 * Palette: Colorless
 * Icon set prefix: `simple-icons`
 * File: [json/simple-icons.json](json/simple-icons.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))

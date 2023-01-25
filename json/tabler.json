@@ -3,7 +3,7 @@
 	"info": {
 		"name": "Tabler Icons",
 		"total": 3204,
-		"version": "2.0.0-beta.2",
+		"version": "2.0.0",
 		"author": {
 			"name": "Paweł Kuna",
 			"url": "https://github.com/tabler/tabler-icons"
@@ -22,7 +22,7 @@
 		"category": "General",
 		"palette": false
 	},
-	"lastModified": 1674456493,
+	"lastModified": 1674628953,
 	"icons": {
 		"123": {
 			"body": "<path fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" d=\"m3 10l2-2v8m4-8h3a1 1 0 0 1 1 1v2a1 1 0 0 1-1 1h-2a1 1 0 0 0-1 1v2a1 1 0 0 0 1 1h3m4-8h2.5A1.5 1.5 0 0 1 21 9.5v1a1.5 1.5 0 0 1-1.5 1.5H18h1.5a1.5 1.5 0 0 1 1.5 1.5v1a1.5 1.5 0 0 1-1.5 1.5H17\"/>"
@@ -1527,6 +1527,9 @@
 		"brand-bunpo": {
 			"body": "<path fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" d=\"M3.9 7.205a17.764 17.764 0 0 0 4.008 2.753a7.917 7.917 0 0 0 4.57.567c1.5-.33 2.907-1 4.121-1.956a12.107 12.107 0 0 0 2.892-2.903c.603-.94.745-1.766.484-2.231c-.261-.465-.927-.568-1.72-.257a7.564 7.564 0 0 0-2.608 2.034a18.425 18.425 0 0 0-2.588 3.884a34.927 34.927 0 0 0-2.093 5.073a12.908 12.908 0 0 0-.677 3.515c-.07.752.07 1.51.405 2.184c.323.562 1.06 1.132 2.343 1.132c3.474 0 5.093-3.53 5.463-5.62c.24-1.365-.085-3.197-1.182-4.01\"/>"
 		},
+		"brand-c-sharp": {
+			"body": "<path fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" d=\"M10 9a3 3 0 0 0-3-3h-.5A3.5 3.5 0 0 0 3 9.5v5A3.5 3.5 0 0 0 6.5 18H7a3 3 0 0 0 3-3m6-8l-1 10m5-10l-1 10m-5-7h7.5m-.5 4h-7.5\"/>"
+		},
 		"brand-campaignmonitor": {
 			"body": "<path fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" d=\"m3 18l9-6.462L3 6v12h18V6l-9 5.538\"/>"
 		},
@@ -2459,9 +2462,6 @@
 		},
 		"butterfly": {
 			"body": "<path fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" d=\"M12 18.176a3 3 0 1 1-4.953-2.449l-.025.023A4.502 4.502 0 0 1 8.505 7c1.414 0 2.675.652 3.5 1.671a4.5 4.5 0 1 1 4.983 7.079A3 3 0 1 1 12.005 18zM12 19V9M9 3l3 2l3-2\"/>"
-		},
-		"c-sharp": {
-			"body": "<path fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" d=\"M10 9a3 3 0 0 0-3-3h-.5A3.5 3.5 0 0 0 3 9.5v5A3.5 3.5 0 0 0 6.5 18H7a3 3 0 0 0 3-3m6-8l-1 10m5-10l-1 10m-5-7h7.5m-.5 4h-7.5\"/>"
 		},
 		"cactus": {
 			"body": "<path fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" d=\"M6 9v1a3 3 0 0 0 3 3h1m8-5v5a3 3 0 0 1-3 3h-1m-4 5V5a2 2 0 1 1 4 0v16m-7 0h10\"/>"
@@ -9143,11 +9143,11 @@
 		"typography-off": {
 			"body": "<path fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" d=\"M4 20h3m7 0h6M6.9 15h6.9m-.8-2l3 7M5 20L9.09 9.094m1.091-2.911L11 4h2l3.904 8.924M3 3l18 18\"/>"
 		},
-		"uf-off": {
-			"body": "<path fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" d=\"M16.95 9.01c3.02.739 5.05 2.123 5.05 3.714c0 1.08-.931 2.063-2.468 2.814m-3 1c-1.36.295-2.9.462-4.531.462c-5.52 0-10-1.909-10-4.276c0-1.59 2.04-2.985 5.07-3.724m7.62 1.686c1.388-.355 2.31-.976 2.31-1.686v-.035c0-2.742-2.239-4.965-5-4.965c-1.125 0-2.164.37-3 .992M7.294 7.289a4.925 4.925 0 0 0-.293 1.676V9c0 .961 1.696 1.764 3.956 1.956M15.001 17l2 3m-8.5-3l-1.5 3m5-6h.01m-5.01-1h.01m9.99 0h.01M3.001 3l18 18\"/>"
-		},
 		"ufo": {
 			"body": "<path fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" d=\"M16.95 9.01c3.02.739 5.05 2.123 5.05 3.714C22 15.091 17.52 17 12 17S2 15.091 2 12.724C2 11.134 4.04 9.739 7.07 9M7 9c0 1.105 2.239 2 5 2s5-.895 5-2v-.035C17 6.223 14.761 4 12 4S7 6.223 7 8.965V9m8 8l2 3m-8.5-3L7 20m5-6h.01M7 13h.01M17 13h.01\"/>"
+		},
+		"ufo-off": {
+			"body": "<path fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" d=\"M16.95 9.01c3.02.739 5.05 2.123 5.05 3.714c0 1.08-.931 2.063-2.468 2.814m-3 1c-1.36.295-2.9.462-4.531.462c-5.52 0-10-1.909-10-4.276c0-1.59 2.04-2.985 5.07-3.724m7.62 1.686c1.388-.355 2.31-.976 2.31-1.686v-.035c0-2.742-2.239-4.965-5-4.965c-1.125 0-2.164.37-3 .992M7.294 7.289a4.925 4.925 0 0 0-.293 1.676V9c0 .961 1.696 1.764 3.956 1.956M15.001 17l2 3m-8.5-3l-1.5 3m5-6h.01m-5.01-1h.01m9.99 0h.01M3.001 3l18 18\"/>"
 		},
 		"umbrella": {
 			"body": "<path fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" d=\"M4 12a8 8 0 0 1 16 0zm8 0v6a2 2 0 0 0 4 0\"/>"
@@ -9715,6 +9715,9 @@
 		"buldozer": {
 			"parent": "bulldozer"
 		},
+		"c-sharp": {
+			"parent": "brand-c-sharp"
+		},
 		"circle-0": {
 			"parent": "circle-number-0"
 		},
@@ -10050,6 +10053,9 @@
 		},
 		"tax": {
 			"parent": "receipt-tax"
+		},
+		"uf-off": {
+			"parent": "ufo-off"
 		},
 		"vector-beizer": {
 			"parent": "vector-bezier"

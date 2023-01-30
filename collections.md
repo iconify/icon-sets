@@ -145,7 +145,7 @@
 * URL: https://github.com/iconoir-icons/iconoir
 * License: MIT
 * License URL: https://github.com/iconoir-icons/iconoir/blob/main/LICENSE
-* Version: 6.1.0
+* Version: 6.2.0
 * Palette: Colorless
 * Icon set prefix: `iconoir`
 * File: [json/iconoir.json](json/iconoir.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
@@ -228,7 +228,7 @@
 * File: [json/cil.json](json/cil.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Lucide
-* Number of icons: 876
+* Number of icons: 877
 * Author: Lucide Contributors
 * URL: https://github.com/lucide-icons/lucide
 * License: ISC
@@ -279,6 +279,16 @@
 * Palette: Colorless
 * Icon set prefix: `akar-icons`
 * File: [json/akar-icons.json](json/akar-icons.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
+
+## Memory Icons
+* Number of icons: 350
+* Author: Pictogrammers
+* URL: https://github.com/Pictogrammers/Memory
+* License: Apache 2.0
+* License URL: https://github.com/Pictogrammers/Memory/blob/main/LICENSE
+* Palette: Colorless
+* Icon set prefix: `memory`
+* File: [json/memory.json](json/memory.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Typicons
 * Number of icons: 336
@@ -444,7 +454,7 @@
 * File: [json/maki.json](json/maki.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Gridicons
-* Number of icons: 205
+* Number of icons: 206
 * Author: Automattic
 * URL: https://github.com/Automattic/gridicons
 * License: GPL 2.0
@@ -661,7 +671,7 @@
 * File: [json/fa6-regular.json](json/fa6-regular.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Octicons
-* Number of icons: 552
+* Number of icons: 560
 * Author: GitHub
 * URL: https://github.com/primer/octicons/
 * License: MIT
@@ -850,12 +860,12 @@
 * File: [json/logos.json](json/logos.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Simple Icons
-* Number of icons: 2430
+* Number of icons: 2434
 * Author: Simple Icons Collaborators
 * URL: https://github.com/simple-icons/simple-icons
 * License: CC0 1.0
 * License URL: https://github.com/simple-icons/simple-icons/blob/develop/LICENSE.md
-* Version: 8.3.0
+* Version: 8.4.0
 * Palette: Colorless
 * Icon set prefix: `simple-icons`
 * File: [json/simple-icons.json](json/simple-icons.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
@@ -883,7 +893,7 @@
 * File: [json/fa6-brands.json](json/fa6-brands.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Arcticons
-* Number of icons: 5109
+* Number of icons: 5108
 * Author: Donnnno
 * URL: https://github.com/Donnnno/Arcticons
 * License: CC BY-SA 4.0

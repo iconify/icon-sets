@@ -2,7 +2,7 @@
 
 
 ## Material Symbols
-* Number of icons: 8830
+* Number of icons: 9552
 * Author: Google
 * URL: https://github.com/google/material-design-icons
 * License: Apache 2.0
@@ -23,7 +23,7 @@
 * File: [json/ic.json](json/ic.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Material Design Icons
-* Number of icons: 7199
+* Number of icons: 7203
 * Author: Pictogrammers
 * URL: https://github.com/Templarian/MaterialDesign
 * License: Apache 2.0
@@ -891,6 +891,17 @@
 * Palette: Colorless
 * Icon set prefix: `fa6-brands`
 * File: [json/fa6-brands.json](json/fa6-brands.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
+
+## Nonicons
+* Number of icons: 62
+* Author: yamatsum
+* URL: https://github.com/yamatsum/nonicons
+* License: MIT
+* License URL: https://github.com/yamatsum/nonicons/blob/master/LICENSE
+* Version: 0.0.16
+* Palette: Colorless
+* Icon set prefix: `nonicons`
+* File: [json/nonicons.json](json/nonicons.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Arcticons
 * Number of icons: 5108

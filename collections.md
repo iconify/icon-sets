@@ -216,6 +216,17 @@
 * Icon set prefix: `gg`
 * File: [json/gg.json](json/gg.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
+## Octicons
+* Number of icons: 560
+* Author: GitHub
+* URL: https://github.com/primer/octicons/
+* License: MIT
+* License URL: https://github.com/primer/octicons/blob/main/LICENSE
+* Version: 17.11.1
+* Palette: Colorless
+* Icon set prefix: `octicon`
+* File: [json/octicon.json](json/octicon.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
+
 ## CoreUI Free
 * Number of icons: 554
 * Author: creativeLabs Łukasz Holeczek
@@ -670,17 +681,6 @@
 * Icon set prefix: `fa6-regular`
 * File: [json/fa6-regular.json](json/fa6-regular.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
-## Octicons
-* Number of icons: 560
-* Author: GitHub
-* URL: https://github.com/primer/octicons/
-* License: MIT
-* License URL: https://github.com/primer/octicons/blob/main/LICENSE
-* Version: 17.11.1
-* Palette: Colorless
-* Icon set prefix: `octicon`
-* File: [json/octicon.json](json/octicon.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
-
 ## OOUI
 * Number of icons: 340
 * Author: OOUI Team
@@ -924,7 +924,7 @@
 * File: [json/file-icons.json](json/file-icons.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Skill Icons
-* Number of icons: 294
+* Number of icons: 317
 * Author: tandpfun
 * URL: https://github.com/tandpfun/skill-icons
 * License: MIT

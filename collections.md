@@ -76,12 +76,12 @@
 * File: [json/bi.json](json/bi.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Tabler Icons
-* Number of icons: 3240
+* Number of icons: 3271
 * Author: Paweł Kuna
 * URL: https://github.com/tabler/tabler-icons
 * License: MIT
 * License URL: https://github.com/tabler/tabler-icons/blob/master/LICENSE
-* Version: 2.2.0
+* Version: 2.3.0
 * Palette: Colorless
 * Icon set prefix: `tabler`
 * File: [json/tabler.json](json/tabler.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
@@ -92,7 +92,7 @@
 * URL: https://github.com/ionic-team/ionicons
 * License: MIT
 * License URL: https://github.com/ionic-team/ionicons/blob/main/LICENSE
-* Version: 6.1.1
+* Version: 6.1.3
 * Palette: Colorless
 * Icon set prefix: `ion`
 * File: [json/ion.json](json/ion.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
@@ -217,7 +217,7 @@
 * File: [json/gg.json](json/gg.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Octicons
-* Number of icons: 560
+* Number of icons: 561
 * Author: GitHub
 * URL: https://github.com/primer/octicons/
 * License: MIT
@@ -598,7 +598,7 @@
 * URL: https://github.com/tailwindlabs/heroicons
 * License: MIT
 * License URL: https://github.com/tailwindlabs/heroicons/blob/master/LICENSE
-* Version: 2.0.14
+* Version: 2.0.15
 * Palette: Colorless
 * Icon set prefix: `heroicons`
 * File: [json/heroicons.json](json/heroicons.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))

@@ -2,7 +2,7 @@
 
 
 ## Material Symbols
-* Number of icons: 9923
+* Number of icons: 12238
 * Author: Google
 * URL: https://github.com/google/material-design-icons
 * License: Apache 2.0
@@ -103,7 +103,7 @@
 * URL: https://github.com/Iconscout/unicons
 * License: Apache 2.0
 * License URL: https://github.com/Iconscout/unicons/blob/master/LICENSE
-* Version: 4.0.1
+* Version: 4.0.2
 * Palette: Colorless
 * Icon set prefix: `uil`
 * File: [json/uil.json](json/uil.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
@@ -328,7 +328,7 @@
 * URL: https://github.com/radix-ui/icons
 * License: MIT
 * License URL: https://github.com/radix-ui/icons/blob/master/LICENSE
-* Version: 1.1.1
+* Version: 1.2.0
 * Palette: Colorless
 * Icon set prefix: `radix-icons`
 * File: [json/radix-icons.json](json/radix-icons.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
@@ -436,7 +436,7 @@
 * URL: https://github.com/Iconscout/unicons
 * License: Apache 2.0
 * License URL: https://github.com/Iconscout/unicons/blob/master/LICENSE
-* Version: 4.0.1
+* Version: 4.0.2
 * Palette: Colorless
 * Icon set prefix: `uim`
 * File: [json/uim.json](json/uim.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
@@ -447,7 +447,7 @@
 * URL: https://github.com/Iconscout/unicons
 * License: Apache 2.0
 * License URL: https://github.com/Iconscout/unicons/blob/master/LICENSE
-* Version: 4.0.1
+* Version: 4.0.2
 * Palette: Colorless
 * Icon set prefix: `uit`
 * File: [json/uit.json](json/uit.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
@@ -458,7 +458,7 @@
 * URL: https://github.com/Iconscout/unicons
 * License: Apache 2.0
 * License URL: https://github.com/Iconscout/unicons/blob/master/LICENSE
-* Version: 4.0.1
+* Version: 4.0.2
 * Palette: Colorless
 * Icon set prefix: `uis`
 * File: [json/uis.json](json/uis.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
@@ -598,7 +598,7 @@
 * URL: https://github.com/tailwindlabs/heroicons
 * License: MIT
 * License URL: https://github.com/tailwindlabs/heroicons/blob/master/LICENSE
-* Version: 2.0.15
+* Version: 2.0.16
 * Palette: Colorless
 * Icon set prefix: `heroicons`
 * File: [json/heroicons.json](json/heroicons.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
@@ -615,12 +615,12 @@
 * File: [json/codicon.json](json/codicon.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Gitlab SVGs
-* Number of icons: 360
+* Number of icons: 357
 * Author: GitLab B.V.
 * URL: https://gitlab.com/gitlab-org/gitlab-svgs/-/tree/main
 * License: MIT
 * License URL: https://gitlab.com/gitlab-org/gitlab-svgs/-/blob/main/LICENSE
-* Version: 3.20.0
+* Version: 3.21.0
 * Palette: Colorless
 * Icon set prefix: `pajamas`
 * File: [json/pajamas.json](json/pajamas.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))

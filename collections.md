@@ -2,7 +2,7 @@
 
 
 ## Material Symbols
-* Number of icons: 12238
+* Number of icons: 12235
 * Author: Google
 * URL: https://github.com/google/material-design-icons
 * License: Apache 2.0

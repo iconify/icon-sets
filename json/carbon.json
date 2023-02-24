@@ -2,8 +2,8 @@
 	"prefix": "carbon",
 	"info": {
 		"name": "Carbon",
-		"total": 1921,
-		"version": "11.16.0",
+		"total": 1927,
+		"version": "11.16.1",
 		"author": {
 			"name": "IBM",
 			"url": "https://github.com/carbon-design-system/carbon/tree/main/packages/icons"
@@ -22,7 +22,7 @@
 		"category": "General",
 		"palette": false
 	},
-	"lastModified": 1674283090,
+	"lastModified": 1677222206,
 	"icons": {
 		"3d-cursor": {
 			"body": "<path d=\"M13 4H4v9.01h2V6h7V4z\" fill=\"currentColor\"/><path d=\"M29.49 13.12l-9-5a1 1 0 0 0-1 0l-9 5A1 1 0 0 0 10 14v10a1 1 0 0 0 .52.87l9 5A1 1 0 0 0 20 30a1.05 1.05 0 0 0 .49-.13l9-5A1 1 0 0 0 30 24V14a1 1 0 0 0-.51-.88zM19 27.3l-7-3.89v-7.72l7 3.89zm1-9.45L13.06 14L20 10.14L26.94 14zm8 5.56l-7 3.89v-7.72l7-3.89z\" fill=\"currentColor\"/>",
@@ -1945,6 +1945,12 @@
 		"document-import": {
 			"body": "<path fill=\"currentColor\" d=\"M28 19H14.83l2.58-2.59L16 15l-5 5l5 5l1.41-1.41L14.83 21H28v-2z\"/><path fill=\"currentColor\" d=\"M24 14v-4a1 1 0 0 0-.29-.71l-7-7A1 1 0 0 0 16 2H6a2 2 0 0 0-2 2v24a2 2 0 0 0 2 2h16a2 2 0 0 0 2-2v-2h-2v2H6V4h8v6a2 2 0 0 0 2 2h6v2Zm-8-4V4.41L21.59 10Z\"/>"
 		},
+		"document-multiple-01": {
+			"body": "<path fill=\"currentColor\" d=\"M2 6h2v20H2zm4-2h2v24H6zm8 18h12v2H14zm0-6h12v2H14z\"/><path fill=\"currentColor\" d=\"m29.7 9.3l-7-7c-.2-.2-.4-.3-.7-.3H12c-1.1 0-2 .9-2 2v24c0 1.1.9 2 2 2h16c1.1 0 2-.9 2-2V10c0-.3-.1-.5-.3-.7zM22 4.4l5.6 5.6H22V4.4zM28 28H12V4h8v6c0 1.1.9 2 2 2h6v16z\"/>"
+		},
+		"document-multiple-02": {
+			"body": "<path fill=\"currentColor\" d=\"M18 31H6c-1.1 0-2-.9-2-2V12h2v17h12v2z\"/><path fill=\"currentColor\" d=\"M22 27H10c-1.1 0-2-.9-2-2V8h2v17h12v2z\"/><path fill=\"currentColor\" d=\"M16 16h8v2h-8z\"/><path fill=\"currentColor\" d=\"m27.7 9.3l-7-7c-.2-.2-.4-.3-.7-.3h-6c-1.1 0-2 .9-2 2v17c0 1.1.9 2 2 2h12c1.1 0 2-.9 2-2V10c0-.3-.1-.5-.3-.7zM20 4.4l5.6 5.6H20V4.4zM26 21H14V4h4v6c0 1.1.9 2 2 2h6v9z\"/>"
+		},
 		"document-pdf": {
 			"body": "<path fill=\"currentColor\" d=\"M30 18v-2h-6v10h2v-4h3v-2h-3v-2h4zm-11 8h-4V16h4a3.003 3.003 0 0 1 3 3v4a3.003 3.003 0 0 1-3 3zm-2-2h2a1.001 1.001 0 0 0 1-1v-4a1.001 1.001 0 0 0-1-1h-2zm-6-8H6v10h2v-3h3a2.003 2.003 0 0 0 2-2v-3a2.002 2.002 0 0 0-2-2zm-3 5v-3h3l.001 3z\"/><path fill=\"currentColor\" d=\"M22 14v-4a.91.91 0 0 0-.3-.7l-7-7A.909.909 0 0 0 14 2H4a2.006 2.006 0 0 0-2 2v24a2 2 0 0 0 2 2h16v-2H4V4h8v6a2.006 2.006 0 0 0 2 2h6v2Zm-8-4V4.4l5.6 5.6Z\"/>"
 		},
@@ -2864,6 +2870,9 @@
 		},
 		"ibm-power-vs": {
 			"body": "<path fill=\"currentColor\" d=\"M16 25c-2 0-4-.7-5.6-2l1.3-1.6c1.3 1 2.8 1.5 4.4 1.5c3.9 0 7-3.1 7-7c0-.3 0-.7-.1-1l2-.3V16c0 5-4 9-9 9zm-8.9-7.7C7 16.9 7 16.4 7 16c0-5 4-9 9-9c2 0 4 .7 5.6 2l-1.3 1.6C19.1 9.5 17.6 9 16 9c-3.9 0-7 3.1-7 7c0 .3 0 .7.1 1l-2 .3z\"/><circle cx=\"23\" cy=\"27\" r=\"1\" fill=\"currentColor\"/><circle cx=\"9\" cy=\"20\" r=\"1\" fill=\"currentColor\"/><circle cx=\"23\" cy=\"12\" r=\"1\" fill=\"currentColor\"/><circle cx=\"16\" cy=\"16\" r=\"2\" fill=\"currentColor\"/><circle cx=\"9\" cy=\"5\" r=\"1\" fill=\"currentColor\"/><path fill=\"currentColor\" d=\"M16 30C8.3 30 2 23.7 2 16c0-3.7 1.5-7.3 4.1-9.9l1.4 1.4C5.2 9.8 4 12.8 4 16c0 6.6 5.4 12 12 12c1.4 0 2.8-.2 4.1-.7l.7 1.9c-1.5.5-3.2.8-4.8.8zm9.9-4.1l-1.4-1.4c2.3-2.3 3.5-5.3 3.5-8.5c0-6.6-5.4-12-12-12c-1.4 0-2.8.2-4.1.7l-.7-1.9c1.5-.5 3.2-.8 4.8-.8c7.7 0 14 6.3 14 14c0 3.7-1.5 7.3-4.1 9.9z\"/>"
+		},
+		"ibm-process-mining": {
+			"body": "<path fill=\"currentColor\" d=\"M26 22c-1.858 0-3.41 1.28-3.858 3H9.858A4.003 4.003 0 0 0 7 22.142V19c0-1.103.897-2 2-2h14c2.206 0 4-1.794 4-4V9.858c1.72-.447 3-2 3-3.858c0-2.206-1.794-4-4-4s-4 1.794-4 4c0 1.858 1.28 3.41 3 3.858V13c0 1.103-.897 2-2 2H9c-2.206 0-4 1.794-4 4v3.142c-1.72.447-3 2-3 3.858c0 2.206 1.794 4 4 4c1.858 0 3.41-1.28 3.858-3h12.284c.447 1.72 2 3 3.858 3c2.206 0 4-1.794 4-4s-1.794-4-4-4ZM24 6c0-1.103.897-2 2-2s2 .897 2 2s-.897 2-2 2s-2-.897-2-2ZM6 28c-1.103 0-2-.897-2-2s.897-2 2-2s2 .897 2 2s-.897 2-2 2Zm20 0c-1.103 0-2-.897-2-2s.897-2 2-2s2 .897 2 2s-.897 2-2 2Z\"/><path fill=\"currentColor\" d=\"M6 10c.74 0 1.424-.215 2.019-.567L11.586 13L13 11.586L9.433 8.019A3.95 3.95 0 0 0 10 6c0-2.206-1.794-4-4-4S2 3.794 2 6s1.794 4 4 4Zm0-6c1.103 0 2 .897 2 2s-.897 2-2 2s-2-.897-2-2s.897-2 2-2Z\"/>"
 		},
 		"ibm-security": {
 			"body": "<path fill=\"currentColor\" d=\"M16 0L4 5.978v14.066a12 12 0 0 0 24 0V5.978Zm6.83 27.314L16 23.912v2.228l5.036 2.509A10.002 10.002 0 0 1 6 20.044V7.21l10-4.982L26 7.21v3.75L16 5.978v2.228l10 4.982v3.75l-10-4.982v2.228l10 4.982v.878a9.905 9.905 0 0 1-.37 2.687L16 17.934v2.228l8.895 4.431a10.025 10.025 0 0 1-2.065 2.721Z\"/>"
@@ -4487,6 +4496,9 @@
 		"ref-evapotranspiration": {
 			"body": "<path fill=\"currentColor\" d=\"M14 12a3.898 3.898 0 0 1-4-3.777a3.902 3.902 0 0 1 .653-2.064l2.517-3.745a1.038 1.038 0 0 1 1.66 0l2.485 3.696A3.97 3.97 0 0 1 18 8.223A3.898 3.898 0 0 1 14 12zm0-7.237l-1.656 2.463a1.89 1.89 0 0 0-.344.997A1.9 1.9 0 0 0 14 10a1.9 1.9 0 0 0 2-1.777a1.98 1.98 0 0 0-.375-1.047zM7.5 26A5.385 5.385 0 0 1 2 20.751a5.384 5.384 0 0 1 .874-2.831l3.616-5.382a1.217 1.217 0 0 1 2.02 0l3.55 5.277a5.492 5.492 0 0 1 .94 2.936A5.385 5.385 0 0 1 7.5 26zm0-11.38l-2.935 4.367A3.359 3.359 0 0 0 4 20.75A3.385 3.385 0 0 0 7.5 24a3.385 3.385 0 0 0 3.5-3.249a3.435 3.435 0 0 0-.63-1.867zM25 2l-5 5l1.414 1.414L24 5.828V16a4.005 4.005 0 0 1-4 4h-4v2h4a6.007 6.007 0 0 0 6-6V5.828l2.586 2.586L30 7zM2 28h28v2H2z\"/>"
 		},
+		"reference-architecture": {
+			"body": "<circle cx=\"18\" cy=\"26\" r=\"1\" fill=\"currentColor\"/><path fill=\"currentColor\" d=\"M28 20c1.103 0 2-.897 2-2v-4c0-1.103-.897-2-2-2h-1V7c0-1.103-.897-2-2-2h-5V4c0-1.103-.897-2-2-2h-4c-1.103 0-2 .897-2 2v1H7c-1.103 0-2 .897-2 2v5.142c-1.72.447-3 2-3 3.858s1.28 3.41 3 3.858V25c0 1.103.897 2 2 2h7v1c0 1.103.897 2 2 2h12c1.103 0 2-.897 2-2v-4c0-1.103-.897-2-2-2h-1v-2h1Zm0-2h-4v-4h4v4ZM14 4h4v4h-4V4Zm-2 3v1c0 1.103.897 2 2 2h4c1.103 0 2-.897 2-2V7h5v5h-1c-1.103 0-2 .897-2 2v1H9.858A3.994 3.994 0 0 0 7 12.142V7h5Zm-8 9c0-1.103.897-2 2-2s2 .897 2 2s-.897 2-2 2s-2-.897-2-2Zm24 12H16v-4h12v4Zm-3-6h-9c-1.103 0-2 .897-2 2v1H7v-5.142A3.994 3.994 0 0 0 9.858 17H22v1c0 1.103.897 2 2 2h1v2Z\"/>"
+		},
 		"reflect-horizontal": {
 			"body": "<path fill=\"currentColor\" d=\"m19.386 15.21l9-7A1 1 0 0 1 30 9v14a1 1 0 0 1-1.614.79l-9-7a1 1 0 0 1 0-1.58ZM17 30h-2V2h2zm-4-14a1.001 1.001 0 0 1-.386.79l-9 7A1 1 0 0 1 2 23V9a1 1 0 0 1 1.614-.79l9 7A1.001 1.001 0 0 1 13 16Zm-9 4.956L10.371 16L4 11.044Z\"/>"
 		},
@@ -5947,6 +5959,9 @@
 		"user-speaker": {
 			"body": "<path fill=\"currentColor\" d=\"M29.415 19L27.7 17.285A2.97 2.97 0 0 0 28 16a3 3 0 1 0-3 3a2.97 2.97 0 0 0 1.286-.3L28 20.414V28h-6v-3a7.008 7.008 0 0 0-7-7H9a7.008 7.008 0 0 0-7 7v5h28v-9.586A1.988 1.988 0 0 0 29.415 19ZM4 25a5.006 5.006 0 0 1 5-5h6a5.006 5.006 0 0 1 5 5v3H4Z\"/><path fill=\"currentColor\" d=\"M12 4a5 5 0 1 1-5 5a5 5 0 0 1 5-5m0-2a7 7 0 1 0 7 7a7 7 0 0 0-7-7Z\"/>"
 		},
+		"user-sponsor": {
+			"body": "<path fill=\"currentColor\" d=\"m31.83 13.366l-1-1.732L28 13.268V10h-2v3.268l-2.83-1.634l-1 1.732L25 15l-2.83 1.634l1 1.732L26 16.732V20h2v-3.268l2.83 1.634l1-1.732L29 15l2.83-1.634zM22 30h-2v-5a5.006 5.006 0 0 0-5-5H9a5.006 5.006 0 0 0-5 5v5H2v-5a7.008 7.008 0 0 1 7-7h6a7.008 7.008 0 0 1 7 7v5zM12 4a5 5 0 1 1 0 10a5 5 0 0 1 0-10m0-2a7 7 0 1 0 0 14a7 7 0 0 0 0-14z\"/>"
+		},
 		"user-x-ray": {
 			"body": "<path fill=\"none\" d=\"M28 9V7h-3V5h-2v2h-3v2h3v3h-3v2h3v2h2v-2h3v-2h-3V9h3z\"/><path fill=\"currentColor\" d=\"M31 3H17a1 1 0 0 0-1 1v13a1 1 0 0 0 1 1h14a1 1 0 0 0 1-1V4a1 1 0 0 0-1-1zm-3 6h-3v3h3v2h-3v2h-2v-2h-3v-2h3V9h-3V7h3V5h2v2h3zM15 30h-2v-4a2.946 2.946 0 0 0-3-3H6a2.946 2.946 0 0 0-3 3v4H1v-4a4.951 4.951 0 0 1 5-5h4a4.951 4.951 0 0 1 5 5zM8 11a3 3 0 0 1 0 6a3 3 0 0 1 0-6m0-2a5 5 0 0 0 0 10A5 5 0 0 0 8 9z\"/>"
 		},
@@ -6183,6 +6198,9 @@
 		},
 		"wheat": {
 			"body": "<path fill=\"currentColor\" d=\"M21 3v2.586l-4 4V1h-2v8.586l-4-4V3H9v16a7.004 7.004 0 0 0 6 6.92V30h2v-4.08A7.004 7.004 0 0 0 23 19V3Zm-6 20.899A5.008 5.008 0 0 1 11 19v-2.586l4 4Zm0-6.313l-4-4V8.414l4 4Zm2-5.172l4-4v5.172l-4 4Zm0 11.485v-3.485l4-4V19a5.008 5.008 0 0 1-4 4.899Z\"/>"
+		},
+		"white-paper": {
+			"body": "<path fill=\"currentColor\" d=\"m22 27.18l-2.59-2.59L18 26l4 4l8-8l-1.41-1.41L22 27.18zM9 17h7v2H9zm0-5h12v2H9zm0-5h12v2H9z\"/><path fill=\"currentColor\" d=\"M16 30H6c-1.103 0-2-.897-2-2V4c0-1.103.897-2 2-2h18c1.103 0 2 .897 2 2v15h-2V4H6v24h10v2Z\"/>"
 		},
 		"wifi": {
 			"body": "<circle cx=\"16\" cy=\"25\" r=\"2\" fill=\"currentColor\"/><path fill=\"currentColor\" d=\"m10.47 19.233l1.414 1.413a5.969 5.969 0 0 1 8.223-.009l1.413-1.413a7.963 7.963 0 0 0-11.05.01Z\"/><path fill=\"currentColor\" d=\"m6.229 14.993l1.414 1.413a11.955 11.955 0 0 1 16.704-.01l1.413-1.413a13.951 13.951 0 0 0-19.531.01Z\"/><path fill=\"currentColor\" d=\"M30 10.741a19.94 19.94 0 0 0-28 0v.023l1.404 1.404a17.934 17.934 0 0 1 25.181-.01L30 10.743Z\"/>"
@@ -7057,6 +7075,7 @@
 			"ibm-mq",
 			"ibm-open-enterprise-languages",
 			"ibm-power-vs",
+			"ibm-process-mining",
 			"ibm-security-services",
 			"ibm-telehealth",
 			"ibm-tenet",
@@ -7364,6 +7383,8 @@
 			"document-epdf",
 			"document-export",
 			"document-import",
+			"document-multiple-01",
+			"document-multiple-02",
 			"document-pdf",
 			"document-preliminary",
 			"document-protected",
@@ -7629,6 +7650,7 @@
 			"query-queue",
 			"queued",
 			"raw",
+			"reference-architecture",
 			"repo-artifact",
 			"repo-source-code",
 			"report",
@@ -7768,6 +7790,7 @@
 			"warning-square",
 			"warning-square-filled",
 			"websheet",
+			"white-paper",
 			"wifi-bridge",
 			"wifi-bridge-alt",
 			"wifi-not-secure",
@@ -7865,6 +7888,7 @@
 			"user-settings",
 			"user-simulation",
 			"user-speaker",
+			"user-sponsor",
 			"user-x-ray",
 			"voice-activate"
 		],

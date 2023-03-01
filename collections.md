@@ -23,7 +23,7 @@
 * File: [json/ic.json](json/ic.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Material Design Icons
-* Number of icons: 7257
+* Number of icons: 7291
 * Author: Pictogrammers
 * URL: https://github.com/Templarian/MaterialDesign
 * License: Apache 2.0
@@ -103,7 +103,7 @@
 * URL: https://github.com/Iconscout/unicons
 * License: Apache 2.0
 * License URL: https://github.com/Iconscout/unicons/blob/master/LICENSE
-* Version: 4.0.3
+* Version: 4.0.5
 * Palette: Colorless
 * Icon set prefix: `uil`
 * File: [json/uil.json](json/uil.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
@@ -239,7 +239,7 @@
 * File: [json/cil.json](json/cil.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Lucide
-* Number of icons: 887
+* Number of icons: 892
 * Author: Lucide Contributors
 * URL: https://github.com/lucide-icons/lucide
 * License: ISC
@@ -436,7 +436,7 @@
 * URL: https://github.com/Iconscout/unicons
 * License: Apache 2.0
 * License URL: https://github.com/Iconscout/unicons/blob/master/LICENSE
-* Version: 4.0.3
+* Version: 4.0.5
 * Palette: Colorless
 * Icon set prefix: `uim`
 * File: [json/uim.json](json/uim.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
@@ -447,7 +447,7 @@
 * URL: https://github.com/Iconscout/unicons
 * License: Apache 2.0
 * License URL: https://github.com/Iconscout/unicons/blob/master/LICENSE
-* Version: 4.0.3
+* Version: 4.0.5
 * Palette: Colorless
 * Icon set prefix: `uit`
 * File: [json/uit.json](json/uit.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
@@ -458,7 +458,7 @@
 * URL: https://github.com/Iconscout/unicons
 * License: Apache 2.0
 * License URL: https://github.com/Iconscout/unicons/blob/master/LICENSE
-* Version: 4.0.3
+* Version: 4.0.5
 * Palette: Colorless
 * Icon set prefix: `uis`
 * File: [json/uis.json](json/uis.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
@@ -620,7 +620,7 @@
 * URL: https://gitlab.com/gitlab-org/gitlab-svgs/-/tree/main
 * License: MIT
 * License URL: https://gitlab.com/gitlab-org/gitlab-svgs/-/blob/main/LICENSE
-* Version: 3.21.0
+* Version: 3.22.0
 * Palette: Colorless
 * Icon set prefix: `pajamas`
 * File: [json/pajamas.json](json/pajamas.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
@@ -870,12 +870,12 @@
 * File: [json/logos.json](json/logos.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Simple Icons
-* Number of icons: 2435
+* Number of icons: 2437
 * Author: Simple Icons Collaborators
 * URL: https://github.com/simple-icons/simple-icons
 * License: CC0 1.0
 * License URL: https://github.com/simple-icons/simple-icons/blob/develop/LICENSE.md
-* Version: 8.5.0
+* Version: 8.6.0
 * Palette: Colorless
 * Icon set prefix: `simple-icons`
 * File: [json/simple-icons.json](json/simple-icons.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))

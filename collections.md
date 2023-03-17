@@ -290,12 +290,12 @@
 * File: [json/ci.json](json/ci.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Akar Icons
-* Number of icons: 423
+* Number of icons: 436
 * Author: Arturo Wibawa
 * URL: https://github.com/artcoholic/akar-icons
 * License: MIT
 * License URL: https://github.com/artcoholic/akar-icons/blob/master/LICENSE
-* Version: 1.9.22
+* Version: 1.9.24
 * Palette: Colorless
 * Icon set prefix: `akar-icons`
 * File: [json/akar-icons.json](json/akar-icons.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
@@ -474,12 +474,12 @@
 * File: [json/maki.json](json/maki.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Gridicons
-* Number of icons: 206
+* Number of icons: 207
 * Author: Automattic
 * URL: https://github.com/Automattic/gridicons
 * License: GPL 2.0
 * License URL: https://github.com/Automattic/gridicons/blob/trunk/LICENSE.md
-* Version: 3.4.1-alpha.3
+* Version: 3.4.2
 * Palette: Colorless
 * Icon set prefix: `gridicons`
 * File: [json/gridicons.json](json/gridicons.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
@@ -869,12 +869,12 @@
 * File: [json/logos.json](json/logos.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Simple Icons
-* Number of icons: 2437
+* Number of icons: 2440
 * Author: Simple Icons Collaborators
 * URL: https://github.com/simple-icons/simple-icons
 * License: CC0 1.0
 * License URL: https://github.com/simple-icons/simple-icons/blob/develop/LICENSE.md
-* Version: 8.6.0
+* Version: 8.7.0
 * Palette: Colorless
 * Icon set prefix: `simple-icons`
 * File: [json/simple-icons.json](json/simple-icons.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))

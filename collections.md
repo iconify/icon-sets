@@ -76,12 +76,12 @@
 * File: [json/bi.json](json/bi.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Tabler Icons
-* Number of icons: 4008
+* Number of icons: 4026
 * Author: Paweł Kuna
 * URL: https://github.com/tabler/tabler-icons
 * License: MIT
 * License URL: https://github.com/tabler/tabler-icons/blob/master/LICENSE
-* Version: 2.10.0
+* Version: 2.11.0
 * Palette: Colorless
 * Icon set prefix: `tabler`
 * File: [json/tabler.json](json/tabler.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
@@ -239,7 +239,7 @@
 * File: [json/cil.json](json/cil.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Lucide
-* Number of icons: 902
+* Number of icons: 905
 * Author: Lucide Contributors
 * URL: https://github.com/lucide-icons/lucide
 * License: ISC
@@ -290,12 +290,12 @@
 * File: [json/ci.json](json/ci.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Akar Icons
-* Number of icons: 436
+* Number of icons: 437
 * Author: Arturo Wibawa
 * URL: https://github.com/artcoholic/akar-icons
 * License: MIT
 * License URL: https://github.com/artcoholic/akar-icons/blob/master/LICENSE
-* Version: 1.9.24
+* Version: 1.9.25
 * Palette: Colorless
 * Icon set prefix: `akar-icons`
 * File: [json/akar-icons.json](json/akar-icons.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
@@ -603,7 +603,7 @@
 * File: [json/heroicons.json](json/heroicons.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Codicons
-* Number of icons: 425
+* Number of icons: 426
 * Author: Microsoft Corporation
 * URL: https://github.com/microsoft/vscode-codicons
 * License: CC BY 4.0
@@ -619,7 +619,7 @@
 * URL: https://gitlab.com/gitlab-org/gitlab-svgs/-/tree/main
 * License: MIT
 * License URL: https://gitlab.com/gitlab-org/gitlab-svgs/-/blob/main/LICENSE
-* Version: 3.24.0
+* Version: 3.26.0
 * Palette: Colorless
 * Icon set prefix: `pajamas`
 * File: [json/pajamas.json](json/pajamas.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
@@ -691,7 +691,7 @@
 * File: [json/fa6-regular.json](json/fa6-regular.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## OOUI
-* Number of icons: 341
+* Number of icons: 348
 * Author: OOUI Team
 * URL: https://github.com/wikimedia/oojs-ui
 * License: MIT
@@ -704,9 +704,9 @@
 ## Nimbus
 * Number of icons: 140
 * Author: Linkedstore S.A.
-* URL: https://github.com/TiendaNube/nimbus-icons
+* URL: https://github.com/cyberalien/nimbus-icons
 * License: MIT
-* License URL: https://github.com/TiendaNube/nimbus-icons/blob/develop/LICENSE
+* License URL: https://github.com/cyberalien/nimbus-icons/blob/main/LICENSE
 * Version: 0.3.2
 * Palette: Colorless
 * Icon set prefix: `nimbus`
@@ -869,12 +869,12 @@
 * File: [json/logos.json](json/logos.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Simple Icons
-* Number of icons: 2440
+* Number of icons: 2441
 * Author: Simple Icons Collaborators
 * URL: https://github.com/simple-icons/simple-icons
 * License: CC0 1.0
 * License URL: https://github.com/simple-icons/simple-icons/blob/develop/LICENSE.md
-* Version: 8.7.0
+* Version: 8.8.0
 * Palette: Colorless
 * Icon set prefix: `simple-icons`
 * File: [json/simple-icons.json](json/simple-icons.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
@@ -913,7 +913,7 @@
 * File: [json/nonicons.json](json/nonicons.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Arcticons
-* Number of icons: 5403
+* Number of icons: 5401
 * Author: Donnnno
 * URL: https://github.com/Donnnno/Arcticons
 * License: CC BY-SA 4.0

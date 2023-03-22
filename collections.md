@@ -2,7 +2,7 @@
 
 
 ## Material Symbols
-* Number of icons: 10138
+* Number of icons: 9795
 * Author: Google
 * URL: https://github.com/google/material-design-icons
 * License: Apache 2.0
@@ -239,7 +239,7 @@
 * File: [json/cil.json](json/cil.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Lucide
-* Number of icons: 905
+* Number of icons: 909
 * Author: Lucide Contributors
 * URL: https://github.com/lucide-icons/lucide
 * License: ISC
@@ -327,7 +327,7 @@
 * URL: https://github.com/radix-ui/icons
 * License: MIT
 * License URL: https://github.com/radix-ui/icons/blob/master/LICENSE
-* Version: 1.2.0
+* Version: 1.3.0
 * Palette: Colorless
 * Icon set prefix: `radix-icons`
 * File: [json/radix-icons.json](json/radix-icons.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
@@ -614,12 +614,12 @@
 * File: [json/codicon.json](json/codicon.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Gitlab SVGs
-* Number of icons: 359
+* Number of icons: 360
 * Author: GitLab B.V.
 * URL: https://gitlab.com/gitlab-org/gitlab-svgs/-/tree/main
 * License: MIT
 * License URL: https://gitlab.com/gitlab-org/gitlab-svgs/-/blob/main/LICENSE
-* Version: 3.26.0
+* Version: 3.28.0
 * Palette: Colorless
 * Icon set prefix: `pajamas`
 * File: [json/pajamas.json](json/pajamas.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
@@ -913,7 +913,7 @@
 * File: [json/nonicons.json](json/nonicons.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Arcticons
-* Number of icons: 5401
+* Number of icons: 5400
 * Author: Donnnno
 * URL: https://github.com/Donnnno/Arcticons
 * License: CC BY-SA 4.0

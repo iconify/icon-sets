@@ -76,12 +76,12 @@
 * File: [json/bi.json](json/bi.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Tabler Icons
-* Number of icons: 4026
+* Number of icons: 4044
 * Author: Paweł Kuna
 * URL: https://github.com/tabler/tabler-icons
 * License: MIT
 * License URL: https://github.com/tabler/tabler-icons/blob/master/LICENSE
-* Version: 2.11.0
+* Version: 2.12.0
 * Palette: Colorless
 * Icon set prefix: `tabler`
 * File: [json/tabler.json](json/tabler.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
@@ -103,7 +103,7 @@
 * URL: https://github.com/Iconscout/unicons
 * License: Apache 2.0
 * License URL: https://github.com/Iconscout/unicons/blob/master/LICENSE
-* Version: 4.0.6
+* Version: 4.0.7
 * Palette: Colorless
 * Icon set prefix: `uil`
 * File: [json/uil.json](json/uil.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
@@ -239,7 +239,7 @@
 * File: [json/cil.json](json/cil.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Lucide
-* Number of icons: 909
+* Number of icons: 911
 * Author: Lucide Contributors
 * URL: https://github.com/lucide-icons/lucide
 * License: ISC
@@ -424,7 +424,7 @@
 * URL: https://github.com/uiwjs/icons
 * License: MIT
 * License URL: https://github.com/uiwjs/icons/blob/master/LICENSE
-* Version: 2.6.7
+* Version: 2.6.9
 * Palette: Colorless
 * Icon set prefix: `uiw`
 * File: [json/uiw.json](json/uiw.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
@@ -435,7 +435,7 @@
 * URL: https://github.com/Iconscout/unicons
 * License: Apache 2.0
 * License URL: https://github.com/Iconscout/unicons/blob/master/LICENSE
-* Version: 4.0.6
+* Version: 4.0.7
 * Palette: Colorless
 * Icon set prefix: `uim`
 * File: [json/uim.json](json/uim.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
@@ -446,7 +446,7 @@
 * URL: https://github.com/Iconscout/unicons
 * License: Apache 2.0
 * License URL: https://github.com/Iconscout/unicons/blob/master/LICENSE
-* Version: 4.0.6
+* Version: 4.0.7
 * Palette: Colorless
 * Icon set prefix: `uit`
 * File: [json/uit.json](json/uit.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
@@ -457,7 +457,7 @@
 * URL: https://github.com/Iconscout/unicons
 * License: Apache 2.0
 * License URL: https://github.com/Iconscout/unicons/blob/master/LICENSE
-* Version: 4.0.6
+* Version: 4.0.7
 * Palette: Colorless
 * Icon set prefix: `uis`
 * File: [json/uis.json](json/uis.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
@@ -619,7 +619,7 @@
 * URL: https://gitlab.com/gitlab-org/gitlab-svgs/-/tree/main
 * License: MIT
 * License URL: https://gitlab.com/gitlab-org/gitlab-svgs/-/blob/main/LICENSE
-* Version: 3.31.0
+* Version: 3.32.0
 * Palette: Colorless
 * Icon set prefix: `pajamas`
 * File: [json/pajamas.json](json/pajamas.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
@@ -674,7 +674,7 @@
 * URL: https://github.com/FortAwesome/Font-Awesome
 * License: CC BY 4.0
 * License URL: https://creativecommons.org/licenses/by/4.0/
-* Version: 6.3.0
+* Version: 6.4.0
 * Palette: Colorless
 * Icon set prefix: `fa6-solid`
 * File: [json/fa6-solid.json](json/fa6-solid.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
@@ -685,7 +685,7 @@
 * URL: https://github.com/FortAwesome/Font-Awesome
 * License: CC BY 4.0
 * License URL: https://creativecommons.org/licenses/by/4.0/
-* Version: 6.3.0
+* Version: 6.4.0
 * Palette: Colorless
 * Icon set prefix: `fa6-regular`
 * File: [json/fa6-regular.json](json/fa6-regular.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
@@ -859,7 +859,7 @@
 * File: [json/bxl.json](json/bxl.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## SVG Logos
-* Number of icons: 1650
+* Number of icons: 1665
 * Author: Gil Barbara
 * URL: https://github.com/gilbarbara/logos
 * License: CC0
@@ -896,7 +896,7 @@
 * URL: https://github.com/FortAwesome/Font-Awesome
 * License: CC BY 4.0
 * License URL: https://creativecommons.org/licenses/by/4.0/
-* Version: 6.3.0
+* Version: 6.4.0
 * Palette: Colorless
 * Icon set prefix: `fa6-brands`
 * File: [json/fa6-brands.json](json/fa6-brands.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))

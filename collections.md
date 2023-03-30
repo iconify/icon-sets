@@ -43,6 +43,16 @@
 * Icon set prefix: `ph`
 * File: [json/ph.json](json/ph.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
+## Solar
+* Number of icons: 7404
+* Author: 480 Design
+* URL: https://www.figma.com/community/file/1166831539721848736
+* License: CC BY 4.0
+* License URL: https://creativecommons.org/licenses/by/4.0/
+* Palette: Colorless
+* Icon set prefix: `solar`
+* File: [json/solar.json](json/solar.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
+
 ## Remix Icon
 * Number of icons: 2271
 * Author: Remix Design
@@ -103,7 +113,7 @@
 * URL: https://github.com/Iconscout/unicons
 * License: Apache 2.0
 * License URL: https://github.com/Iconscout/unicons/blob/master/LICENSE
-* Version: 4.0.7
+* Version: 4.0.8
 * Palette: Colorless
 * Icon set prefix: `uil`
 * File: [json/uil.json](json/uil.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
@@ -424,7 +434,7 @@
 * URL: https://github.com/uiwjs/icons
 * License: MIT
 * License URL: https://github.com/uiwjs/icons/blob/master/LICENSE
-* Version: 2.6.9
+* Version: 2.6.10
 * Palette: Colorless
 * Icon set prefix: `uiw`
 * File: [json/uiw.json](json/uiw.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
@@ -435,7 +445,7 @@
 * URL: https://github.com/Iconscout/unicons
 * License: Apache 2.0
 * License URL: https://github.com/Iconscout/unicons/blob/master/LICENSE
-* Version: 4.0.7
+* Version: 4.0.8
 * Palette: Colorless
 * Icon set prefix: `uim`
 * File: [json/uim.json](json/uim.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
@@ -446,7 +456,7 @@
 * URL: https://github.com/Iconscout/unicons
 * License: Apache 2.0
 * License URL: https://github.com/Iconscout/unicons/blob/master/LICENSE
-* Version: 4.0.7
+* Version: 4.0.8
 * Palette: Colorless
 * Icon set prefix: `uit`
 * File: [json/uit.json](json/uit.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
@@ -457,7 +467,7 @@
 * URL: https://github.com/Iconscout/unicons
 * License: Apache 2.0
 * License URL: https://github.com/Iconscout/unicons/blob/master/LICENSE
-* Version: 4.0.7
+* Version: 4.0.8
 * Palette: Colorless
 * Icon set prefix: `uis`
 * File: [json/uis.json](json/uis.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
@@ -619,7 +629,7 @@
 * URL: https://gitlab.com/gitlab-org/gitlab-svgs/-/tree/main
 * License: MIT
 * License URL: https://gitlab.com/gitlab-org/gitlab-svgs/-/blob/main/LICENSE
-* Version: 3.32.0
+* Version: 3.36.0
 * Palette: Colorless
 * Icon set prefix: `pajamas`
 * File: [json/pajamas.json](json/pajamas.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))

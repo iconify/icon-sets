@@ -106,6 +106,28 @@
 		"category": "General",
 		"palette": false
 	},
+	"tabler": {
+		"name": "Tabler Icons",
+		"total": 4062,
+		"version": "2.13.0",
+		"author": {
+			"name": "Paweł Kuna",
+			"url": "https://github.com/tabler/tabler-icons"
+		},
+		"license": {
+			"title": "MIT",
+			"spdx": "MIT",
+			"url": "https://github.com/tabler/tabler-icons/blob/master/LICENSE"
+		},
+		"samples": [
+			"alien",
+			"device-desktop",
+			"photo"
+		],
+		"height": 24,
+		"category": "General",
+		"palette": false
+	},
 	"ri": {
 		"name": "Remix Icon",
 		"total": 2271,
@@ -125,28 +147,6 @@
 			"moon-line"
 		],
 		"height": 24,
-		"category": "General",
-		"palette": false
-	},
-	"carbon": {
-		"name": "Carbon",
-		"total": 1927,
-		"version": "11.17.0",
-		"author": {
-			"name": "IBM",
-			"url": "https://github.com/carbon-design-system/carbon/tree/main/packages/icons"
-		},
-		"license": {
-			"title": "Apache 2.0",
-			"spdx": "Apache-2.0"
-		},
-		"samples": [
-			"user-certification",
-			"humidity",
-			"edit-off"
-		],
-		"height": 32,
-		"displayHeight": 16,
 		"category": "General",
 		"palette": false
 	},
@@ -172,25 +172,25 @@
 		"category": "General",
 		"palette": false
 	},
-	"tabler": {
-		"name": "Tabler Icons",
-		"total": 4044,
-		"version": "2.12.0",
+	"carbon": {
+		"name": "Carbon",
+		"total": 1927,
+		"version": "11.17.0",
 		"author": {
-			"name": "Paweł Kuna",
-			"url": "https://github.com/tabler/tabler-icons"
+			"name": "IBM",
+			"url": "https://github.com/carbon-design-system/carbon/tree/main/packages/icons"
 		},
 		"license": {
-			"title": "MIT",
-			"spdx": "MIT",
-			"url": "https://github.com/tabler/tabler-icons/blob/master/LICENSE"
+			"title": "Apache 2.0",
+			"spdx": "Apache-2.0"
 		},
 		"samples": [
-			"alien",
-			"device-desktop",
-			"photo"
+			"user-certification",
+			"humidity",
+			"edit-off"
 		],
-		"height": 24,
+		"height": 32,
+		"displayHeight": 16,
 		"category": "General",
 		"palette": false
 	},
@@ -1226,7 +1226,7 @@
 	"heroicons": {
 		"name": "HeroIcons",
 		"total": 876,
-		"version": "2.0.16",
+		"version": "2.0.17",
 		"author": {
 			"name": "Refactoring UI Inc",
 			"url": "https://github.com/tailwindlabs/heroicons"

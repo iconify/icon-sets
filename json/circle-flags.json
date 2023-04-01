@@ -23,7 +23,7 @@
 		"category": "Maps / Flags",
 		"palette": true
 	},
-	"lastModified": 1672651623,
+	"lastModified": 1680338878,
 	"icons": {
 		"ac": {
 			"body": "<mask id=\"circleFlagsAc0\"><circle cx=\"256\" cy=\"256\" r=\"256\" fill=\"#fff\"/></mask><g mask=\"url(#circleFlagsAc0)\"><path fill=\"#0052b4\" d=\"M256 0h256v512H0V256Z\"/><path fill=\"#eee\" d=\"M0 0v32l32 32L0 96v160h32l32-32l32 32h32v-83l83 83h45l-8-16l8-15v-14l-83-83h83V96l-32-32l32-32V0H96L64 32L32 0Z\"/><path fill=\"#d80027\" d=\"M32 0v32H0v64h32v160h64V96h160V32H96V0Zm96 128l128 128v-31l-97-97z\"/><path fill=\"#6da544\" d=\"m320 144l48-80l48 80z\"/><circle cx=\"368\" cy=\"144\" r=\"48\" fill=\"#acabb1\"/><path fill=\"#338af3\" d=\"M320 144v77c0 36 48 48 48 48s48-12 48-48v-77z\"/><rect width=\"32\" height=\"128\" x=\"288\" y=\"128\" fill=\"#ff9811\" rx=\"16\" ry=\"16\"/><rect width=\"32\" height=\"128\" x=\"416\" y=\"128\" fill=\"#ff9811\" rx=\"16\" ry=\"16\"/><path fill=\"#6da544\" d=\"m368 160l-48 67c2 11 9 19 16 26l32-45l32 45c8-7 14-15 16-26z\"/></g>"
@@ -532,6 +532,9 @@
 		"in-ka": {
 			"body": "<mask id=\"circleFlagsInKa0\"><circle cx=\"256\" cy=\"256\" r=\"256\" fill=\"#fff\"/></mask><g mask=\"url(#circleFlagsInKa0)\"><path fill=\"#d80027\" d=\"m0 256l256.5-36.4L512 256v256H0z\"/><path fill=\"#ffda44\" d=\"M0 0h512v256H0z\"/></g>"
 		},
+		"in-mz": {
+			"body": "<mask id=\"circleFlagsInMz0\"><circle cx=\"256\" cy=\"256\" r=\"256\" fill=\"#fff\"/></mask><g mask=\"url(#circleFlagsInMz0)\"><path fill=\"#eee\" d=\"M0 0h512v256l-256 32L0 256Z\"/><path fill=\"#338af3\" d=\"M0 256h512v256H0Z\"/><circle cx=\"256\" cy=\"256\" r=\"128\" fill=\"#d80027\"/></g>"
+		},
 		"in-or": {
 			"body": "<mask id=\"circleFlagsInOr0\"><circle cx=\"256\" cy=\"256\" r=\"256\" fill=\"#fff\"/></mask><g mask=\"url(#circleFlagsInOr0)\"><path fill=\"#ffda44\" d=\"m0 160l256-32l256 32v192l-256 32L0 352Z\"/><path fill=\"#d80027\" d=\"M0 0h512v160H0Z\"/><path fill=\"#eee\" d=\"M0 352h512v160H0Z\"/></g>"
 		},
@@ -689,7 +692,8 @@
 			"body": "<mask id=\"circleFlagsMh0\"><circle cx=\"256\" cy=\"256\" r=\"256\" fill=\"#fff\"/></mask><g mask=\"url(#circleFlagsMh0)\"><path fill=\"#0052b4\" d=\"M0 0h397.6L512 114.2V512H0z\"/><path fill=\"#eee\" d=\"M512 0H397.6L0 512L493.4 53.7z\"/><path fill=\"#ff9811\" d=\"m0 512l512-397.8V0z\"/><path fill=\"#eee\" d=\"M222.2 150.1L191 164.8l16.7 30.3l-34-6.5l-4.3 34.3l-23.6-25.2l-23.7 25.2l-4.3-34.3l-33.9 6.5l16.6-30.3l-31.2-14.7l31.2-14.7L84 105.1l34 6.5l4.2-34.3l23.7 25.3l23.6-25.3l4.3 34.3l34-6.5l-16.7 30.3z\"/></g>"
 		},
 		"mizoram": {
-			"body": "<mask id=\"circleFlagsMizoram0\"><circle cx=\"256\" cy=\"256\" r=\"256\" fill=\"#fff\"/></mask><g mask=\"url(#circleFlagsMizoram0)\"><path fill=\"#eee\" d=\"M0 0h512v256l-256 32L0 256Z\"/><path fill=\"#338af3\" d=\"M0 256h512v256H0Z\"/><circle cx=\"256\" cy=\"256\" r=\"128\" fill=\"#d80027\"/></g>"
+			"body": "<mask id=\"circleFlagsMizoram0\"><circle cx=\"256\" cy=\"256\" r=\"256\" fill=\"#fff\"/></mask><g mask=\"url(#circleFlagsMizoram0)\"><path fill=\"#eee\" d=\"M0 0h512v256l-256 32L0 256Z\"/><path fill=\"#338af3\" d=\"M0 256h512v256H0Z\"/><circle cx=\"256\" cy=\"256\" r=\"128\" fill=\"#d80027\"/></g>",
+			"hidden": true
 		},
 		"mk": {
 			"body": "<mask id=\"circleFlagsMk0\"><circle cx=\"256\" cy=\"256\" r=\"256\" fill=\"#fff\"/></mask><g mask=\"url(#circleFlagsMk0)\"><path fill=\"#ffda44\" d=\"M0 0h68.2l86 33.6L216.5 0h78.8l61.2 34.8L443.8 0H512v68.3l-31.4 88l31.4 60.2v78.8L477.4 356l34.6 87.8V512h-68.2l-77-37.3l-71.3 37.3h-78.8l-61-39.7L68.2 512H0v-68l40.3-88.2L0 295.5v-78.8L40.3 157L0 68.2z\"/><path fill=\"#d80027\" d=\"M295.5 512h148.3L256 256zm-79-512H68.2L256 256zm.2 512L256 256L68.2 512zM0 216.7L256 256L0 68.2zm0 227.2L256 256L0 295.5zM512 68.3L256 256l256-39.5zM443.8 0H295.3L256 256zM512 443.8V295.3L256 256z\"/><circle cx=\"256\" cy=\"256\" r=\"89\" fill=\"#d80027\"/><circle cx=\"256\" cy=\"256\" r=\"66.8\" fill=\"#ffda44\"/></g>"

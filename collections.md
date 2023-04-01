@@ -53,6 +53,17 @@
 * Icon set prefix: `solar`
 * File: [json/solar.json](json/solar.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
+## Tabler Icons
+* Number of icons: 4062
+* Author: Paweł Kuna
+* URL: https://github.com/tabler/tabler-icons
+* License: MIT
+* License URL: https://github.com/tabler/tabler-icons/blob/master/LICENSE
+* Version: 2.13.0
+* Palette: Colorless
+* Icon set prefix: `tabler`
+* File: [json/tabler.json](json/tabler.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
+
 ## Remix Icon
 * Number of icons: 2271
 * Author: Remix Design
@@ -63,16 +74,6 @@
 * Palette: Colorless
 * Icon set prefix: `ri`
 * File: [json/ri.json](json/ri.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
-
-## Carbon
-* Number of icons: 1927
-* Author: IBM
-* URL: https://github.com/carbon-design-system/carbon/tree/main/packages/icons
-* License: Apache 2.0
-* Version: 11.17.0
-* Palette: Colorless
-* Icon set prefix: `carbon`
-* File: [json/carbon.json](json/carbon.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Bootstrap Icons
 * Number of icons: 1953
@@ -85,16 +86,15 @@
 * Icon set prefix: `bi`
 * File: [json/bi.json](json/bi.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
-## Tabler Icons
-* Number of icons: 4044
-* Author: Paweł Kuna
-* URL: https://github.com/tabler/tabler-icons
-* License: MIT
-* License URL: https://github.com/tabler/tabler-icons/blob/master/LICENSE
-* Version: 2.12.0
+## Carbon
+* Number of icons: 1927
+* Author: IBM
+* URL: https://github.com/carbon-design-system/carbon/tree/main/packages/icons
+* License: Apache 2.0
+* Version: 11.17.0
 * Palette: Colorless
-* Icon set prefix: `tabler`
-* File: [json/tabler.json](json/tabler.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
+* Icon set prefix: `carbon`
+* File: [json/carbon.json](json/carbon.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## IonIcons
 * Number of icons: 1338
@@ -607,7 +607,7 @@
 * URL: https://github.com/tailwindlabs/heroicons
 * License: MIT
 * License URL: https://github.com/tailwindlabs/heroicons/blob/master/LICENSE
-* Version: 2.0.16
+* Version: 2.0.17
 * Palette: Colorless
 * Icon set prefix: `heroicons`
 * File: [json/heroicons.json](json/heroicons.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))

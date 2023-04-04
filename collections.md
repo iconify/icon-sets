@@ -59,7 +59,7 @@
 * URL: https://github.com/tabler/tabler-icons
 * License: MIT
 * License URL: https://github.com/tabler/tabler-icons/blob/master/LICENSE
-* Version: 2.13.1
+* Version: 2.13.2
 * Palette: Colorless
 * Icon set prefix: `tabler`
 * File: [json/tabler.json](json/tabler.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
@@ -81,7 +81,7 @@
 * URL: https://github.com/twbs/icons
 * License: MIT
 * License URL: https://github.com/twbs/icons/blob/main/LICENSE.md
-* Version: 1.10.3
+* Version: 1.10.4
 * Palette: Colorless
 * Icon set prefix: `bi`
 * File: [json/bi.json](json/bi.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
@@ -677,6 +677,16 @@
 * Palette: Colorless
 * Icon set prefix: `ei`
 * File: [json/ei.json](json/ei.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
+
+## Streamline
+* Number of icons: 1000
+* Author: Webalys LLC
+* URL: https://github.com/webalys-hq/streamline-vectors
+* License: CC BY 4.0
+* License URL: https://creativecommons.org/licenses/by/4.0/
+* Palette: Colorless
+* Icon set prefix: `streamline`
+* File: [json/streamline.json](json/streamline.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Font Awesome Solid
 * Number of icons: 1390

@@ -2,7 +2,7 @@
 
 
 ## Material Symbols
-* Number of icons: 9834
+* Number of icons: 10339
 * Author: Google
 * URL: https://github.com/google/material-design-icons
 * License: Apache 2.0
@@ -65,12 +65,12 @@
 * File: [json/tabler.json](json/tabler.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Remix Icon
-* Number of icons: 2427
+* Number of icons: 2443
 * Author: Remix Design
 * URL: https://github.com/Remix-Design/RemixIcon
 * License: Apache 2.0
 * License URL: https://github.com/Remix-Design/RemixIcon/blob/master/License
-* Version: 3.0.0
+* Version: 3.1.1
 * Palette: Colorless
 * Icon set prefix: `ri`
 * File: [json/ri.json](json/ri.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
@@ -629,7 +629,7 @@
 * URL: https://gitlab.com/gitlab-org/gitlab-svgs/-/tree/main
 * License: MIT
 * License URL: https://gitlab.com/gitlab-org/gitlab-svgs/-/blob/main/LICENSE
-* Version: 3.37.0
+* Version: 3.38.0
 * Palette: Colorless
 * Icon set prefix: `pajamas`
 * File: [json/pajamas.json](json/pajamas.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
@@ -1016,7 +1016,7 @@
 * File: [json/flag.json](json/flag.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Circle Flags
-* Number of icons: 379
+* Number of icons: 380
 * Author: HatScripts
 * URL: https://github.com/HatScripts/circle-flags
 * License: MIT

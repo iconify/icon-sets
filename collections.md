@@ -249,7 +249,7 @@
 * File: [json/cil.json](json/cil.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Lucide
-* Number of icons: 915
+* Number of icons: 936
 * Author: Lucide Contributors
 * URL: https://github.com/lucide-icons/lucide
 * License: ISC
@@ -688,6 +688,16 @@
 * Icon set prefix: `streamline`
 * File: [json/streamline.json](json/streamline.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
+## Guidance
+* Number of icons: 360
+* Author: Webalys LLC
+* URL: https://github.com/webalys-hq/streamline-vectors
+* License: CC BY 4.0
+* License URL: https://creativecommons.org/licenses/by/4.0/
+* Palette: Colorless
+* Icon set prefix: `guidance`
+* File: [json/guidance.json](json/guidance.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
+
 ## Font Awesome Solid
 * Number of icons: 1390
 * Author: Dave Gandy
@@ -867,6 +877,16 @@
 * Icon set prefix: `fxemoji`
 * File: [json/fxemoji.json](json/fxemoji.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
+## Streamline Emojis
+* Number of icons: 787
+* Author: Webalys LLC
+* URL: https://github.com/webalys-hq/streamline-vectors
+* License: CC BY 4.0
+* License URL: https://creativecommons.org/licenses/by/4.0/
+* Palette: Colorful
+* Icon set prefix: `streamline-emojis`
+* File: [json/streamline-emojis.json](json/streamline-emojis.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
+
 ## BoxIcons Logo
 * Number of icons: 155
 * Author: Atisa
@@ -889,12 +909,12 @@
 * File: [json/logos.json](json/logos.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Simple Icons
-* Number of icons: 2444
+* Number of icons: 2449
 * Author: Simple Icons Collaborators
 * URL: https://github.com/simple-icons/simple-icons
 * License: CC0 1.0
 * License URL: https://github.com/simple-icons/simple-icons/blob/develop/LICENSE.md
-* Version: 8.9.0
+* Version: 8.10.0
 * Palette: Colorless
 * Icon set prefix: `simple-icons`
 * File: [json/simple-icons.json](json/simple-icons.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
@@ -1144,6 +1164,16 @@
 * Palette: Colorless
 * Icon set prefix: `medical-icon`
 * File: [json/medical-icon.json](json/medical-icon.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
+
+## Covid Icons
+* Number of icons: 142
+* Author: Webalys LLC
+* URL: https://github.com/webalys-hq/streamline-vectors
+* License: CC BY 4.0
+* License URL: https://creativecommons.org/licenses/by/4.0/
+* Palette: Colorless
+* Icon set prefix: `covid`
+* File: [json/covid.json](json/covid.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Line Awesome
 * Number of icons: 1544

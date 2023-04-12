@@ -23,7 +23,7 @@
 		"category": "Maps / Flags",
 		"palette": true
 	},
-	"lastModified": 1680942049,
+	"lastModified": 1681280104,
 	"icons": {
 		"ac": {
 			"body": "<mask id=\"circleFlagsAc0\"><circle cx=\"256\" cy=\"256\" r=\"256\" fill=\"#fff\"/></mask><g mask=\"url(#circleFlagsAc0)\"><path fill=\"#0052b4\" d=\"M256 0h256v512H0V256Z\"/><path fill=\"#eee\" d=\"M0 0v32l32 32L0 96v160h32l32-32l32 32h32v-83l83 83h45l-8-16l8-15v-14l-83-83h83V96l-32-32l32-32V0H96L64 32L32 0Z\"/><path fill=\"#d80027\" d=\"M32 0v32H0v64h32v160h64V96h160V32H96V0Zm96 128l128 128v-31l-97-97z\"/><path fill=\"#6da544\" d=\"m320 144l48-80l48 80z\"/><circle cx=\"368\" cy=\"144\" r=\"48\" fill=\"#acabb1\"/><path fill=\"#338af3\" d=\"M320 144v77c0 36 48 48 48 48s48-12 48-48v-77z\"/><rect width=\"32\" height=\"128\" x=\"288\" y=\"128\" fill=\"#ff9811\" rx=\"16\" ry=\"16\"/><rect width=\"32\" height=\"128\" x=\"416\" y=\"128\" fill=\"#ff9811\" rx=\"16\" ry=\"16\"/><path fill=\"#6da544\" d=\"m368 160l-48 67c2 11 9 19 16 26l32-45l32 45c8-7 14-15 16-26z\"/></g>"
@@ -535,6 +535,9 @@
 		"in-ka": {
 			"body": "<mask id=\"circleFlagsInKa0\"><circle cx=\"256\" cy=\"256\" r=\"256\" fill=\"#fff\"/></mask><g mask=\"url(#circleFlagsInKa0)\"><path fill=\"#d80027\" d=\"m0 256l256.5-36.4L512 256v256H0z\"/><path fill=\"#ffda44\" d=\"M0 0h512v256H0z\"/></g>"
 		},
+		"in-mn": {
+			"body": "<mask id=\"circleFlagsInMn0\"><circle cx=\"256\" cy=\"256\" r=\"256\" fill=\"#fff\"/></mask><g mask=\"url(#circleFlagsInMn0)\"><path fill=\"#d80027\" d=\"M0 0h512v73L256 96L0 73Z\"/><path fill=\"#eee\" d=\"M0 73h512v73l-256 23L0 146Z\"/><path fill=\"#333\" d=\"M0 146h512v73l-256 23L0 219Z\"/><path fill=\"#ffda44\" d=\"M0 219h512v74l-256 22L0 293Z\"/><path fill=\"#4a1f63\" d=\"M0 293h512v73l-256 23L0 366Z\"/><path fill=\"#338af3\" d=\"M0 366h512v73l-256 23L0 439Z\"/><path fill=\"#6da544\" d=\"M0 439h512v73H0z\"/></g>"
+		},
 		"in-mz": {
 			"body": "<mask id=\"circleFlagsInMz0\"><circle cx=\"256\" cy=\"256\" r=\"256\" fill=\"#fff\"/></mask><g mask=\"url(#circleFlagsInMz0)\"><path fill=\"#eee\" d=\"M0 0h512v256l-256 32L0 256Z\"/><path fill=\"#338af3\" d=\"M0 256h512v256H0Z\"/><circle cx=\"256\" cy=\"256\" r=\"128\" fill=\"#d80027\"/></g>"
 		},
@@ -671,7 +674,8 @@
 			"body": "<mask id=\"circleFlagsMalayali0\"><circle cx=\"256\" cy=\"256\" r=\"256\" fill=\"#fff\"/></mask><g mask=\"url(#circleFlagsMalayali0)\"><path fill=\"#ffda44\" d=\"m0 167l253.8-19.3L512 167v178l-254.9 32.3L0 345z\"/><path fill=\"#d80027\" d=\"M0 0h512v167H0z\"/><path fill=\"#338af3\" d=\"M0 345h512v167H0z\"/></g>"
 		},
 		"manipur": {
-			"body": "<mask id=\"circleFlagsManipur0\"><circle cx=\"256\" cy=\"256\" r=\"256\" fill=\"#fff\"/></mask><g mask=\"url(#circleFlagsManipur0)\"><path fill=\"#d80027\" d=\"M0 0h512v73L256 96L0 73Z\"/><path fill=\"#eee\" d=\"M0 73h512v73l-256 23L0 146Z\"/><path fill=\"#333\" d=\"M0 146h512v73l-256 23L0 219Z\"/><path fill=\"#ffda44\" d=\"M0 219h512v74l-256 22L0 293Z\"/><path fill=\"#4a1f63\" d=\"M0 293h512v73l-256 23L0 366Z\"/><path fill=\"#338af3\" d=\"M0 366h512v73l-256 23L0 439Z\"/><path fill=\"#6da544\" d=\"M0 439h512v73H0z\"/></g>"
+			"body": "<mask id=\"circleFlagsManipur0\"><circle cx=\"256\" cy=\"256\" r=\"256\" fill=\"#fff\"/></mask><g mask=\"url(#circleFlagsManipur0)\"><path fill=\"#d80027\" d=\"M0 0h512v73L256 96L0 73Z\"/><path fill=\"#eee\" d=\"M0 73h512v73l-256 23L0 146Z\"/><path fill=\"#333\" d=\"M0 146h512v73l-256 23L0 219Z\"/><path fill=\"#ffda44\" d=\"M0 219h512v74l-256 22L0 293Z\"/><path fill=\"#4a1f63\" d=\"M0 293h512v73l-256 23L0 366Z\"/><path fill=\"#338af3\" d=\"M0 366h512v73l-256 23L0 439Z\"/><path fill=\"#6da544\" d=\"M0 439h512v73H0z\"/></g>",
+			"hidden": true
 		},
 		"maori": {
 			"body": "<mask id=\"circleFlagsMaori0\"><circle cx=\"256\" cy=\"256\" r=\"256\" fill=\"#fff\"/></mask><g mask=\"url(#circleFlagsMaori0)\"><path fill=\"#eee\" d=\"m0 68.6l247.8-24.7L512 299v93.9l-399.2 36.2L0 162.5z\"/><path fill=\"#333\" d=\"M0 0v68.6h178a115.2 115.2 0 1 1 0 230.4h334V0z\"/><path fill=\"#d80027\" d=\"M0 162.5V512h512V392.9H178a93.9 93.9 0 1 1 0-187.8a47 47 0 0 1 0 93.9a68.3 68.3 0 0 0 0-136.5z\"/></g>"

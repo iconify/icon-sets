@@ -2,7 +2,7 @@
 
 
 ## Material Symbols
-* Number of icons: 10339
+* Number of icons: 10427
 * Author: Google
 * URL: https://github.com/google/material-design-icons
 * License: Apache 2.0
@@ -150,12 +150,12 @@
 * File: [json/clarity.json](json/clarity.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Iconoir
-* Number of icons: 1335
+* Number of icons: 1342
 * Author: Luca Burgio
 * URL: https://github.com/iconoir-icons/iconoir
 * License: MIT
 * License URL: https://github.com/iconoir-icons/iconoir/blob/main/LICENSE
-* Version: 6.5.0
+* Version: 6.6.0
 * Palette: Colorless
 * Icon set prefix: `iconoir`
 * File: [json/iconoir.json](json/iconoir.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
@@ -249,7 +249,7 @@
 * File: [json/cil.json](json/cil.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Lucide
-* Number of icons: 939
+* Number of icons: 952
 * Author: Lucide Contributors
 * URL: https://github.com/lucide-icons/lucide
 * License: ISC

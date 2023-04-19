@@ -2,7 +2,7 @@
 
 
 ## Material Symbols
-* Number of icons: 10427
+* Number of icons: 10517
 * Author: Google
 * URL: https://github.com/google/material-design-icons
 * License: Apache 2.0
@@ -249,7 +249,7 @@
 * File: [json/cil.json](json/cil.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Lucide
-* Number of icons: 964
+* Number of icons: 965
 * Author: Lucide Contributors
 * URL: https://github.com/lucide-icons/lucide
 * License: ISC
@@ -526,12 +526,12 @@
 * File: [json/gala.json](json/gala.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Fluent UI System Icons
-* Number of icons: 11814
+* Number of icons: 13494
 * Author: Microsoft Corporation
 * URL: https://github.com/microsoft/fluentui-system-icons
 * License: MIT
-* License URL: https://github.com/microsoft/fluentui-system-icons/blob/master/LICENSE
-* Version: 1.1.179
+* License URL: https://github.com/microsoft/fluentui-system-icons/blob/main/LICENSE
+* Version: 1.1.200
 * Palette: Colorless
 * Icon set prefix: `fluent`
 * File: [json/fluent.json](json/fluent.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
@@ -899,7 +899,7 @@
 * File: [json/bxl.json](json/bxl.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## SVG Logos
-* Number of icons: 1665
+* Number of icons: 1668
 * Author: Gil Barbara
 * URL: https://github.com/gilbarbara/logos
 * License: CC0
@@ -971,6 +971,26 @@
 * Palette: Colorless
 * Icon set prefix: `file-icons`
 * File: [json/file-icons.json](json/file-icons.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
+
+## Devicon
+* Number of icons: 659
+* Author: konpa
+* URL: https://github.com/devicons/devicon/tree/master
+* License: MIT
+* License URL: https://github.com/devicons/devicon/blob/master/LICENSE
+* Palette: Colorful
+* Icon set prefix: `devicon`
+* File: [json/devicon.json](json/devicon.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
+
+## Devicon Plain
+* Number of icons: 506
+* Author: konpa
+* URL: https://github.com/devicons/devicon/tree/master
+* License: MIT
+* License URL: https://github.com/devicons/devicon/blob/master/LICENSE
+* Palette: Colorless
+* Icon set prefix: `devicon-plain`
+* File: [json/devicon-plain.json](json/devicon-plain.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Skill Icons
 * Number of icons: 317

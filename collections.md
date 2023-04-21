@@ -680,7 +680,7 @@
 
 ## Streamline
 * Number of icons: 1000
-* Author: Webalys LLC
+* Author: Streamline
 * URL: https://github.com/webalys-hq/streamline-vectors
 * License: CC BY 4.0
 * License URL: https://creativecommons.org/licenses/by/4.0/
@@ -690,7 +690,7 @@
 
 ## Guidance
 * Number of icons: 360
-* Author: Webalys LLC
+* Author: Streamline
 * URL: https://github.com/webalys-hq/streamline-vectors
 * License: CC BY 4.0
 * License URL: https://creativecommons.org/licenses/by/4.0/
@@ -1187,7 +1187,7 @@
 
 ## Covid Icons
 * Number of icons: 142
-* Author: Webalys LLC
+* Author: Streamline
 * URL: https://github.com/webalys-hq/streamline-vectors
 * License: CC BY 4.0
 * License URL: https://creativecommons.org/licenses/by/4.0/

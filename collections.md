@@ -249,7 +249,7 @@
 * File: [json/cil.json](json/cil.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Lucide
-* Number of icons: 976
+* Number of icons: 998
 * Author: Lucide Contributors
 * URL: https://github.com/lucide-icons/lucide
 * License: ISC
@@ -581,12 +581,12 @@
 * File: [json/icon-park.json](json/icon-park.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## VSCode Icons
-* Number of icons: 1210
+* Number of icons: 1216
 * Author: Roberto Huertas
 * URL: https://github.com/vscode-icons/vscode-icons
 * License: MIT
 * License URL: https://github.com/vscode-icons/vscode-icons/blob/master/LICENSE
-* Version: 12.3.0
+* Version: 12.4.0
 * Palette: Colorful
 * Icon set prefix: `vscode-icons`
 * File: [json/vscode-icons.json](json/vscode-icons.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
@@ -879,7 +879,7 @@
 
 ## Streamline Emojis
 * Number of icons: 787
-* Author: Webalys LLC
+* Author: Streamline
 * URL: https://github.com/webalys-hq/streamline-vectors
 * License: CC BY 4.0
 * License URL: https://creativecommons.org/licenses/by/4.0/
@@ -909,12 +909,12 @@
 * File: [json/logos.json](json/logos.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Simple Icons
-* Number of icons: 2449
+* Number of icons: 2450
 * Author: Simple Icons Collaborators
 * URL: https://github.com/simple-icons/simple-icons
 * License: CC0 1.0
 * License URL: https://github.com/simple-icons/simple-icons/blob/develop/LICENSE.md
-* Version: 8.10.0
+* Version: 8.11.0
 * Palette: Colorless
 * Icon set prefix: `simple-icons`
 * File: [json/simple-icons.json](json/simple-icons.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
@@ -953,7 +953,7 @@
 * File: [json/nonicons.json](json/nonicons.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Arcticons
-* Number of icons: 5605
+* Number of icons: 5821
 * Author: Donnnno
 * URL: https://github.com/Donnnno/Arcticons
 * License: CC BY-SA 4.0

@@ -165,7 +165,7 @@
 * URL: https://github.com/iconoir-icons/iconoir
 * License: MIT
 * License URL: https://github.com/iconoir-icons/iconoir/blob/main/LICENSE
-* Version: 6.6.0
+* Version: 6.7.0
 * Palette: Colorless
 * Icon set prefix: `iconoir`
 * File: [json/iconoir.json](json/iconoir.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
@@ -259,7 +259,7 @@
 * File: [json/cil.json](json/cil.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Lucide
-* Number of icons: 1042
+* Number of icons: 1063
 * Author: Lucide Contributors
 * URL: https://github.com/lucide-icons/lucide
 * License: ISC
@@ -558,7 +558,7 @@
 * File: [json/icon-park-outline.json](json/icon-park-outline.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## IconPark Solid
-* Number of icons: 1965
+* Number of icons: 1947
 * Author: ByteDance
 * URL: https://github.com/bytedance/IconPark
 * License: Apache 2.0
@@ -983,7 +983,7 @@
 * File: [json/file-icons.json](json/file-icons.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Devicon
-* Number of icons: 667
+* Number of icons: 668
 * Author: konpa
 * URL: https://github.com/devicons/devicon/tree/master
 * License: MIT
@@ -993,7 +993,7 @@
 * File: [json/devicon.json](json/devicon.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Devicon Plain
-* Number of icons: 512
+* Number of icons: 513
 * Author: konpa
 * URL: https://github.com/devicons/devicon/tree/master
 * License: MIT

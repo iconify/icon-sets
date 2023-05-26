@@ -984,7 +984,7 @@
 * File: [json/nonicons.json](json/nonicons.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Arcticons
-* Number of icons: 6172
+* Number of icons: 6254
 * Author: Donnnno
 * URL: https://github.com/Donnnno/Arcticons
 * License: CC BY-SA 4.0
@@ -1195,7 +1195,7 @@
 * File: [json/wi.json](json/wi.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Health Icons
-* Number of icons: 1737
+* Number of icons: 1776
 * Author: Resolve to Save Lives
 * URL: https://github.com/resolvetosavelives/healthicons
 * License: MIT

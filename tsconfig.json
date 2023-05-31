@@ -1,6 +1,6 @@
 {
   "compilerOptions": {
-    "target": "es2017",
+    "target": "ESNext",
     "module": "ESNext",
     "lib": ["ESNext"],
     "esModuleInterop": true,
@@ -8,8 +8,7 @@
     "strictNullChecks": true,
     "moduleResolution": "Node",
     "resolveJsonModule": true,
-    "skipLibCheck": true,
-    "importsNotUsedAsValues": "error"
+    "skipLibCheck": true
   },
   "exclude": [
     "**/dist",

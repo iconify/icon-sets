@@ -1,22 +1,36 @@
 # Iconify icon sets in JSON format
 
-This is collection of SVG icons created by various authors, released under various free licenses. Some collections require attribution when used for commercial purposes. See [collections.md](./collections.md) for list of collections and their licenses.
+This is a big collection of open source vector icons, all validated, cleaned up and converted to the same easy to use format.
 
-All icons have been normalized:
+Even though all icon sets are open source, some icon sets require attribution.
 
-- Cleaned up, removing anything that is not needed to show icon.
+See [collections.md](./collections.md) for list of icon sets and their licenses.
+
+## Validation and clean up
+
+All icons have been processed with [Iconify Tools](https://iconify.design/docs/libraries/tools/) to clean them up.
+
+Icon parsing process includes:
+
+- Very strict validation and clean up. Icons do not contain scripts, even listeners, fonts, raster images, external resources and unknown elements.
 - Colors for monotone icons have been replaced with `currentColor`, making it easy to change icon color by changing text color.
 - Icon content has been optimised to reduce its size.
 
-Repository is updated 3 times a week by fully automated script, so it always contains latest icons from various sources.
+## Maintenance
 
-## Format and usage
+This repository is automatically updated several times a week, so it always contains the latest icons for all icon sets.
 
-Icon sets are stored in `IconifyJSON` format. TypeScript definition is available in `@iconify/types` package. Documentation is [available on Iconify Documentation website](https://docs.iconify.design/types/iconify-json.html).
+## Format
 
-To work with icon sets, use [Iconify Utils](https://docs.iconify.design/tools/utils/). Utils package works in any JavaScript environment: Node.js, Deno, browsers, isolated JavaScript environments. For PHP applications use [Iconify JSON Tools](https://docs.iconify.design/tools/json/).
+Icon sets are stored in `IconifyJSON` format. TypeScript definition is available in `@iconify/types` package. Documentation is [available on Iconify Documentation website](https://iconify.design/docs/types/iconify-json.html).
 
-To create icon sets, use [Iconify Tools](https://docs.iconify.design/tools/tools2/). Tools package works in Node.js, it can import icons from various sources, do cleanup, optimisation, export it in `IconifyJSON` format and generate NPM packages.
+To work with icon sets, use [Iconify Utils](https://iconify.design/docs/libraries/utils/). Utils package works in any JavaScript environment: Node.js, Deno, browsers, isolated JavaScript environments.
+
+## Usage
+
+These icons can be used with many tools, plugins and components. They can also be exported as individual SVG files.
+
+See [Iconify documentation](https://iconify.design/docs/usage/) for more details.
 
 ## How to get this repository
 
@@ -78,7 +92,7 @@ Icons used by Iconify are in directory json, in Iconify JSON format.
 Why JSON instead of SVG? There are several reasons for that:
 
 - Easy to store images in bulk.
-- Contains only content of icon without SVG element, making it easy to manipulate content without doing complex parsing. It also makes it easier to create components, such as React icon component, allowing to use framework native SVG element.
+- Contains only content of icon without `<svg>` element, making it easy to manipulate content without doing complex parsing. It also makes it easier to create components, such as React icon component, allowing to use framework native SVG element.
 - Data can contain additional content: aliases for icons, icon set information, categories/tags/themes.
 
 Why not XML?
@@ -144,13 +158,11 @@ When multiple icons have the same value, it is moved to root object to reduce du
 
 In example above, "icon1" and "icon2" are 24x24, "icon-20" is 20x20.
 
-For more information see developer documentation on [https://docs.iconify.design/types/iconify-json.html](https://docs.iconify.design/types/iconify-json.html)
+For more information see developer documentation on [https://iconify.design/docs/types/iconify-json.html](https://docs.iconify.design/types/iconify-json.html)
 
 ## Extracting individual SVG icons
 
-For PHP use [Iconify JSON Tools](https://docs.iconify.design/tools/json/).
-
-For JavaScript use [Iconify Utils](https://docs.iconify.design/tools/utils/), though Iconify JSON Tools are also available (but deprecated).
+You can use [Iconify Utils](https://iconify.design/docs/libraries/utils/) for simple export process or [Iconify Tools](https://iconify.design/docs/libraries/tools/) for more options.
 
 Example using Iconify Utils (TypeScript):
 
@@ -227,53 +239,49 @@ import { defaults } from '@iconify/utils/lib/customisations';
 })();
 ```
 
-Example using Iconify JSON Tools:
+Same example using Iconify Tools:
 
-```js
-const fs = require('fs');
-const { SVG, Collection } = require('@iconify/json-tools');
+```ts
+import { readFile, writeFile, mkdir } from 'fs';
+import { SVG } from '@iconify/tools';
 
 const outputDir = 'mdi-export';
+
+// Create target directory
 try {
-  fs.mkdirSync(outputDir, {
+  await mkdir(outputDir, {
     recursive: true,
   });
 } catch (err) {
   //
 }
 
-const collection = new Collection();
-collection.loadIconifyCollection('mdi');
-collection.listIcons(true).forEach((icon) => {
-  let svg = new SVG(collection.getIconData(icon));
-  fs.writeFileSync(
-    outputDir + '/' + icon + '.svg',
-    svg.getSVG({
-      height: 'auto',
-    })
-  );
+// Locate icons
+const filename = locate('mdi');
+
+// Load icon set
+const data = JSON.parse(await fs.readFile(filename, 'utf8'));
+
+// Create IconSet instance
+const iconSet = new IconSet(data);
+
+// Export all icons
+await iconSet.forEach(async (name) => {
+  const svg = iconSet.toString(name);
+  if (!svg) {
+    return;
+  }
+
+  // Save to file
+  await writeFile(`${outputDir}/${name}.svg`, svg, 'utf8');
+  console.log(`Saved ${outputDir}/${name}.svg (${svg.length} bytes)`);
 });
 ```
 
-```php
-use \Iconify\JSONTools\Collection;
-use \Iconify\JSONTools\SVG;
-
-$outputDir = 'mdi-export';
-@mkdir($outputDir, 0777, true);
-
-$collection = new Collection();
-$collection->loadIconifyCollection('mdi');
-foreach ($collection->listIcons(true) as $icon) {
-    $svg = new SVG($collection->getIconData($icon));
-    file_put_contents($outputDir . '/' . $icon . '.svg', $svg->getSVG([
-        'height'    => 'auto'
-    ]));
-}
-```
+See [Iconify Tools documentation](https://iconify.design/docs/libraries/tools/export/) for more export options.
 
 ## License
 
-This is collection of works by various authors, not original collection.
+This is collection of icon sets created by various authors.
 
-See [collections.md](./collections.md) for list of collections and their licenses.
+See [collections.md](./collections.md) for list of icon sets and their licenses.

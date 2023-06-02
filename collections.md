@@ -54,12 +54,12 @@
 * File: [json/solar.json](json/solar.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Tabler Icons
-* Number of icons: 4213
+* Number of icons: 4231
 * Author: Paweł Kuna
 * URL: https://github.com/tabler/tabler-icons
 * License: MIT
 * License URL: https://github.com/tabler/tabler-icons/blob/master/LICENSE
-* Version: 2.20.0
+* Version: 2.21.0
 * Palette: Colorless
 * Icon set prefix: `tabler`
 * File: [json/tabler.json](json/tabler.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
@@ -259,7 +259,7 @@
 * File: [json/cil.json](json/cil.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Lucide
-* Number of icons: 1123
+* Number of icons: 1127
 * Author: Lucide Contributors
 * URL: https://github.com/lucide-icons/lucide
 * License: ISC
@@ -634,12 +634,12 @@
 * File: [json/codicon.json](json/codicon.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Gitlab SVGs
-* Number of icons: 367
+* Number of icons: 368
 * Author: GitLab B.V.
 * URL: https://gitlab.com/gitlab-org/gitlab-svgs/-/tree/main
 * License: MIT
 * License URL: https://gitlab.com/gitlab-org/gitlab-svgs/-/blob/main/LICENSE
-* Version: 3.50.0
+* Version: 3.51.0
 * Palette: Colorless
 * Icon set prefix: `pajamas`
 * File: [json/pajamas.json](json/pajamas.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
@@ -1004,7 +1004,7 @@
 * File: [json/file-icons.json](json/file-icons.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Devicon
-* Number of icons: 678
+* Number of icons: 680
 * Author: konpa
 * URL: https://github.com/devicons/devicon/tree/master
 * License: MIT
@@ -1173,12 +1173,12 @@
 * File: [json/fad.json](json/fad.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Academicons
-* Number of icons: 151
+* Number of icons: 157
 * Author: James Walsh
 * URL: https://github.com/jpswalsh/academicons
 * License: Open Font License
 * License URL: https://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL
-* Version: 1.9.3
+* Version: 1.9.4
 * Palette: Colorless
 * Icon set prefix: `academicons`
 * File: [json/academicons.json](json/academicons.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))

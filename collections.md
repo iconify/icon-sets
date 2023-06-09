@@ -2,7 +2,7 @@
 
 
 ## Material Symbols
-* Number of icons: 10732
+* Number of icons: 11279
 * Author: Google
 * URL: https://github.com/google/material-design-icons
 * License: Apache 2.0
@@ -259,7 +259,7 @@
 * File: [json/cil.json](json/cil.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Lucide
-* Number of icons: 1141
+* Number of icons: 1143
 * Author: Lucide Contributors
 * URL: https://github.com/lucide-icons/lucide
 * License: ISC
@@ -774,12 +774,12 @@
 * File: [json/formkit.json](json/formkit.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Material Line Icons
-* Number of icons: 412
+* Number of icons: 413
 * Author: Vjacheslav Trushkin
 * URL: https://github.com/cyberalien/line-md
 * License: MIT
 * License URL: https://github.com/cyberalien/line-md/blob/master/license.txt
-* Version: 0.2.9
+* Version: 0.2.10
 * Palette: Colorless
 * Icon set prefix: `line-md`
 * File: [json/line-md.json](json/line-md.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
@@ -1087,7 +1087,7 @@
 * File: [json/flag.json](json/flag.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Circle Flags
-* Number of icons: 390
+* Number of icons: 407
 * Author: HatScripts
 * URL: https://github.com/HatScripts/circle-flags
 * License: MIT

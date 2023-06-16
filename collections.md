@@ -2,7 +2,7 @@
 
 
 ## Material Symbols
-* Number of icons: 11279
+* Number of icons: 11315
 * Author: Google
 * URL: https://github.com/google/material-design-icons
 * License: Apache 2.0
@@ -140,7 +140,7 @@
 * File: [json/teenyicons.json](json/teenyicons.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## MingCute Icon
-* Number of icons: 2208
+* Number of icons: 2322
 * Author: MingCute Design
 * URL: https://github.com/Richard9394/MingCute
 * License: Apache 2.0
@@ -237,12 +237,12 @@
 * File: [json/gg.json](json/gg.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Octicons
-* Number of icons: 585
+* Number of icons: 589
 * Author: GitHub
 * URL: https://github.com/primer/octicons/
 * License: MIT
 * License URL: https://github.com/primer/octicons/blob/main/LICENSE
-* Version: 19.2.0
+* Version: 19.3.0
 * Palette: Colorless
 * Icon set prefix: `octicon`
 * File: [json/octicon.json](json/octicon.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))

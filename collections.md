@@ -65,12 +65,12 @@
 * File: [json/tabler.json](json/tabler.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Remix Icon
-* Number of icons: 2481
+* Number of icons: 2494
 * Author: Remix Design
 * URL: https://github.com/Remix-Design/RemixIcon
 * License: Apache 2.0
 * License URL: https://github.com/Remix-Design/RemixIcon/blob/master/License
-* Version: 3.3.0
+* Version: 3.4.0
 * Palette: Colorless
 * Icon set prefix: `ri`
 * File: [json/ri.json](json/ri.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
@@ -259,7 +259,7 @@
 * File: [json/cil.json](json/cil.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Lucide
-* Number of icons: 1152
+* Number of icons: 1159
 * Author: Lucide Contributors
 * URL: https://github.com/lucide-icons/lucide
 * License: ISC
@@ -742,7 +742,7 @@
 * File: [json/fa6-regular.json](json/fa6-regular.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## OOUI
-* Number of icons: 349
+* Number of icons: 350
 * Author: OOUI Team
 * URL: https://github.com/wikimedia/oojs-ui
 * License: MIT

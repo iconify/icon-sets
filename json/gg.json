@@ -3,7 +3,7 @@
 	"info": {
 		"name": "css.gg",
 		"total": 704,
-		"version": "2.0.0",
+		"version": "2.1.1",
 		"author": {
 			"name": "Astrit",
 			"url": "https://github.com/astrit/css.gg"
@@ -22,7 +22,7 @@
 		"category": "General",
 		"palette": false
 	},
-	"lastModified": 1656182185,
+	"lastModified": 1687498646,
 	"icons": {
 		"abstract": {
 			"body": "<g fill=\"currentColor\"><path d=\"M5 5h14v14h-3V8H5V5Z\"/><path fill-rule=\"evenodd\" d=\"M10 19a5 5 0 1 0 0-10a5 5 0 0 0 0 10Zm0-3a2 2 0 1 0 0-4a2 2 0 0 0 0 4Z\" clip-rule=\"evenodd\"/></g>"
@@ -922,7 +922,7 @@
 			"body": "<g fill=\"currentColor\"><path d=\"M19 21h2V3h-2v18ZM5 21H3V3h2v18Z\"/><path fill-rule=\"evenodd\" d=\"M9.464 16.048L9.953 15h4.094l.489 1.048a1 1 0 1 0 1.813-.845l-3.381-7.25A1 1 0 0 0 12 7.375a1 1 0 0 0-.967.576l-3.381 7.25a1 1 0 0 0 1.812.846ZM12 10.61L10.885 13h2.23L12 10.61Z\" clip-rule=\"evenodd\"/></g>"
 		},
 		"format-bold": {
-			"body": "<path fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" d=\"m12.946 10.783l-1.67 1.426l2.172.324A3.001 3.001 0 0 1 13 12.5H8v-1h3a3 3 0 0 0 1.946-.717Z\"/>"
+			"body": "<path fill=\"currentColor\" fill-rule=\"evenodd\" d=\"M11 4.504H7v14.992h6a4 4 0 0 0 .604-7.955A4 4 0 0 0 11 4.505Zm-2 2h2a2 2 0 1 1 0 4H9v-4Zm0 10.991v-4h4a2 2 0 1 1 0 4H9Z\" clip-rule=\"evenodd\"/>"
 		},
 		"format-center": {
 			"body": "<path fill=\"currentColor\" d=\"M4 5a1 1 0 0 0 0 2h16a1 1 0 1 0 0-2H4Zm0 8a1 1 0 1 0 0 2h16a1 1 0 1 0 0-2H4Zm2-3a1 1 0 0 1 1-1h10a1 1 0 1 1 0 2H7a1 1 0 0 1-1-1Zm1 7a1 1 0 1 0 0 2h10a1 1 0 1 0 0-2H7Z\"/>"
@@ -2073,6 +2073,9 @@
 		"userlane": {
 			"body": "<path fill=\"currentColor\" d=\"M15 4h6v6h-6V4ZM3 12a9 9 0 1 0 18 0h-4a5 5 0 0 1-10 0H3Zm3-2a3 3 0 1 0 0-6a3 3 0 0 0 0 6Z\"/>"
 		},
+		"vercel": {
+			"body": "<path fill=\"currentColor\" d=\"M17.992 17.023L11.981 6.977L6.008 17.023h11.984Z\"/>"
+		},
 		"view-cols": {
 			"body": "<path fill=\"currentColor\" fill-rule=\"evenodd\" d=\"M2 8a3 3 0 0 1 3-3h14a3 3 0 0 1 3 3v8a3 3 0 0 1-3 3H5a3 3 0 0 1-3-3V8Zm14-1h3a1 1 0 0 1 1 1v8a1 1 0 0 1-1 1h-3V7Zm-2 0h-4v10h4V7ZM8 17V7H5a1 1 0 0 0-1 1v8a1 1 0 0 0 1 1h3Z\" clip-rule=\"evenodd\"/>"
 		},
@@ -2127,14 +2130,16 @@
 		"youtube": {
 			"body": "<path fill=\"currentColor\" fill-rule=\"evenodd\" d=\"M5 7h14a1 1 0 0 1 1 1v8a1 1 0 0 1-1 1H5a1 1 0 0 1-1-1V8a1 1 0 0 1 1-1ZM2 8a3 3 0 0 1 3-3h14a3 3 0 0 1 3 3v8a3 3 0 0 1-3 3H5a3 3 0 0 1-3-3V8Zm8 1l4 3l-4 3V9Z\" clip-rule=\"evenodd\"/>"
 		},
-		"zeit": {
-			"body": "<path fill=\"currentColor\" d=\"M17.992 17.023L11.981 6.977L6.008 17.023h11.984Z\"/>"
-		},
 		"zoom-in": {
 			"body": "<path fill=\"currentColor\" fill-rule=\"evenodd\" d=\"M15.343 15.243a6 6 0 1 0-8.485-8.486a6 6 0 0 0 8.485 8.486Zm1.414-9.9a8.001 8.001 0 0 1 .662 10.565c.016.013.03.027.046.042l4.242 4.242a1 1 0 0 1-1.414 1.415l-4.243-4.243a.99.99 0 0 1-.042-.045A8.001 8.001 0 0 1 5.444 5.343a8 8 0 0 1 11.313 0ZM10.1 7h2v3h3v2h-3v3h-2v-3h-3v-2h3V7Z\" clip-rule=\"evenodd\"/>"
 		},
 		"zoom-out": {
 			"body": "<path fill=\"currentColor\" fill-rule=\"evenodd\" d=\"M15.343 15.243a6 6 0 1 0-8.485-8.486a6 6 0 0 0 8.485 8.486Zm1.414-9.9a8.001 8.001 0 0 1 .662 10.565c.016.013.03.027.046.042l4.242 4.242a1 1 0 0 1-1.414 1.415l-4.243-4.243a.99.99 0 0 1-.042-.045A8.001 8.001 0 0 1 5.444 5.343a8 8 0 0 1 11.313 0ZM7.101 10v2h8v-2h-8Z\" clip-rule=\"evenodd\"/>"
+		}
+	},
+	"aliases": {
+		"zeit": {
+			"parent": "vercel"
 		}
 	},
 	"width": 24,

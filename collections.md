@@ -2,7 +2,7 @@
 
 
 ## Material Symbols
-* Number of icons: 11328
+* Number of icons: 11210
 * Author: Google
 * URL: https://github.com/google/material-design-icons
 * License: Apache 2.0
@@ -259,7 +259,7 @@
 * File: [json/cil.json](json/cil.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Lucide
-* Number of icons: 1185
+* Number of icons: 1191
 * Author: Lucide Contributors
 * URL: https://github.com/lucide-icons/lucide
 * License: ISC
@@ -536,7 +536,7 @@
 * File: [json/gala.json](json/gala.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Fluent UI System Icons
-* Number of icons: 13847
+* Number of icons: 13969
 * Author: Microsoft Corporation
 * URL: https://github.com/microsoft/fluentui-system-icons
 * License: MIT
@@ -650,7 +650,7 @@
 * URL: https://github.com/CyCraft/pepicons
 * License: CC BY 4.0
 * License URL: https://github.com/CyCraft/pepicons/blob/dev/LICENSE
-* Version: 3.0.6
+* Version: 3.0.7
 * Palette: Colorless
 * Icon set prefix: `pepicons-pop`
 * File: [json/pepicons-pop.json](json/pepicons-pop.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
@@ -661,7 +661,7 @@
 * URL: https://github.com/CyCraft/pepicons
 * License: CC BY 4.0
 * License URL: https://github.com/CyCraft/pepicons/blob/dev/LICENSE
-* Version: 3.0.6
+* Version: 3.0.7
 * Palette: Colorless
 * Icon set prefix: `pepicons-print`
 * File: [json/pepicons-print.json](json/pepicons-print.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
@@ -672,7 +672,7 @@
 * URL: https://github.com/CyCraft/pepicons
 * License: CC BY 4.0
 * License URL: https://github.com/CyCraft/pepicons/blob/dev/LICENSE
-* Version: 3.0.6
+* Version: 3.0.7
 * Palette: Colorless
 * Icon set prefix: `pepicons-pencil`
 * File: [json/pepicons-pencil.json](json/pepicons-pencil.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
@@ -742,7 +742,7 @@
 * File: [json/fa6-regular.json](json/fa6-regular.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## OOUI
-* Number of icons: 352
+* Number of icons: 354
 * Author: OOUI Team
 * URL: https://github.com/wikimedia/oojs-ui
 * License: MIT

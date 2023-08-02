@@ -198,7 +198,7 @@
 * URL: https://github.com/ant-design/ant-design-icons
 * License: MIT
 * License URL: https://github.com/ant-design/ant-design-icons/blob/master/LICENSE
-* Version: 4.2.1
+* Version: 4.3.0
 * Palette: Colorless
 * Icon set prefix: `ant-design`
 * File: [json/ant-design.json](json/ant-design.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
@@ -259,7 +259,7 @@
 * File: [json/cil.json](json/cil.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Lucide
-* Number of icons: 1215
+* Number of icons: 1221
 * Author: Lucide Contributors
 * URL: https://github.com/lucide-icons/lucide
 * License: ISC

@@ -140,7 +140,7 @@
 * File: [json/teenyicons.json](json/teenyicons.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## MingCute Icon
-* Number of icons: 2322
+* Number of icons: 2448
 * Author: MingCute Design
 * URL: https://github.com/Richard9394/MingCute
 * License: Apache 2.0
@@ -160,12 +160,12 @@
 * File: [json/clarity.json](json/clarity.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Iconoir
-* Number of icons: 1359
+* Number of icons: 1371
 * Author: Luca Burgio
 * URL: https://github.com/iconoir-icons/iconoir
 * License: MIT
 * License URL: https://github.com/iconoir-icons/iconoir/blob/main/LICENSE
-* Version: 6.10.0
+* Version: 6.11.0
 * Palette: Colorless
 * Icon set prefix: `iconoir`
 * File: [json/iconoir.json](json/iconoir.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
@@ -634,12 +634,12 @@
 * File: [json/codicon.json](json/codicon.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Gitlab SVGs
-* Number of icons: 371
+* Number of icons: 372
 * Author: GitLab B.V.
 * URL: https://gitlab.com/gitlab-org/gitlab-svgs/-/tree/main
 * License: MIT
 * License URL: https://gitlab.com/gitlab-org/gitlab-svgs/-/blob/main/LICENSE
-* Version: 3.58.0
+* Version: 3.59.0
 * Palette: Colorless
 * Icon set prefix: `pajamas`
 * File: [json/pajamas.json](json/pajamas.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
@@ -725,7 +725,7 @@
 * URL: https://github.com/FortAwesome/Font-Awesome
 * License: CC BY 4.0
 * License URL: https://creativecommons.org/licenses/by/4.0/
-* Version: 6.4.0
+* Version: 6.4.2
 * Palette: Colorless
 * Icon set prefix: `fa6-solid`
 * File: [json/fa6-solid.json](json/fa6-solid.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
@@ -736,7 +736,7 @@
 * URL: https://github.com/FortAwesome/Font-Awesome
 * License: CC BY 4.0
 * License URL: https://creativecommons.org/licenses/by/4.0/
-* Version: 6.4.0
+* Version: 6.4.2
 * Palette: Colorless
 * Icon set prefix: `fa6-regular`
 * File: [json/fa6-regular.json](json/fa6-regular.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
@@ -962,12 +962,12 @@
 * File: [json/cib.json](json/cib.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Font Awesome Brands
-* Number of icons: 467
+* Number of icons: 472
 * Author: Dave Gandy
 * URL: https://github.com/FortAwesome/Font-Awesome
 * License: CC BY 4.0
 * License URL: https://creativecommons.org/licenses/by/4.0/
-* Version: 6.4.0
+* Version: 6.4.2
 * Palette: Colorless
 * Icon set prefix: `fa6-brands`
 * File: [json/fa6-brands.json](json/fa6-brands.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
@@ -1081,7 +1081,7 @@
 * URL: https://github.com/lipis/flag-icons
 * License: MIT
 * License URL: https://github.com/lipis/flag-icons/blob/main/LICENSE
-* Version: 6.9.2
+* Version: 6.9.3
 * Palette: Colorful
 * Icon set prefix: `flag`
 * File: [json/flag.json](json/flag.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))

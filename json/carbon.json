@@ -2,8 +2,8 @@
 	"prefix": "carbon",
 	"info": {
 		"name": "Carbon",
-		"total": 1957,
-		"version": "11.24.0",
+		"total": 1959,
+		"version": "11.25.0",
 		"author": {
 			"name": "IBM",
 			"url": "https://github.com/carbon-design-system/carbon/tree/main/packages/icons"
@@ -22,7 +22,7 @@
 		"category": "General",
 		"palette": false
 	},
-	"lastModified": 1685341318,
+	"lastModified": 1692595521,
 	"icons": {
 		"3d-cursor": {
 			"body": "<path d=\"M13 4H4v9.01h2V6h7V4z\" fill=\"currentColor\"/><path d=\"M29.49 13.12l-9-5a1 1 0 0 0-1 0l-9 5A1 1 0 0 0 10 14v10a1 1 0 0 0 .52.87l9 5A1 1 0 0 0 20 30a1.05 1.05 0 0 0 .49-.13l9-5A1 1 0 0 0 30 24V14a1 1 0 0 0-.51-.88zM19 27.3l-7-3.89v-7.72l7 3.89zm1-9.45L13.06 14L20 10.14L26.94 14zm8 5.56l-7 3.89v-7.72l7-3.89z\" fill=\"currentColor\"/>",
@@ -1712,6 +1712,9 @@
 		},
 		"decision-tree": {
 			"body": "<path fill=\"currentColor\" d=\"M30 12V4h-8v3h-4a2.002 2.002 0 0 0-2 2v6h-6v-3H2v8h8v-3h6v6a2.002 2.002 0 0 0 2 2h4v3h8v-8h-8v3h-4V9h4v3ZM8 18H4v-4h4Zm16 4h4v4h-4Zm0-16h4v4h-4Z\"/>"
+		},
+		"delete": {
+			"body": "<path fill=\"currentColor\" d=\"M29 26H12a1 1 0 0 1-.707-.293l-9-9a1 1 0 0 1 0-1.414l9-9A1 1 0 0 1 12 6h17a1 1 0 0 1 1 1v18a1 1 0 0 1-1 1Zm-16.586-2H28V8H12.414l-8 8l8 8Z\"/><path fill=\"currentColor\" d=\"M20.414 16L25 11.414L23.586 10L19 14.586L14.414 10L13 11.414L17.586 16L13 20.586L14.414 22L19 17.414L23.586 22L25 20.586L20.414 16z\"/>"
 		},
 		"delivery": {
 			"body": "<path fill=\"currentColor\" d=\"M4 16h12v2H4zm-2-5h10v2H2z\"/><path fill=\"currentColor\" d=\"m29.919 16.606l-3-7A.999.999 0 0 0 26 9h-3V7a1 1 0 0 0-1-1H6v2h15v12.556A3.992 3.992 0 0 0 19.142 23h-6.284a4 4 0 1 0 0 2h6.284a3.98 3.98 0 0 0 7.716 0H29a1 1 0 0 0 1-1v-7a.997.997 0 0 0-.081-.394ZM9 26a2 2 0 1 1 2-2a2.002 2.002 0 0 1-2 2Zm14-15h2.34l2.144 5H23Zm0 15a2 2 0 1 1 2-2a2.002 2.002 0 0 1-2 2Zm5-3h-1.142A3.995 3.995 0 0 0 23 20v-2h5Z\"/>"
@@ -4667,6 +4670,9 @@
 		"retry-failed": {
 			"body": "<path fill=\"currentColor\" d=\"M26.41 25L30 21.41L28.59 20L25 23.59L21.41 20L20 21.41L23.59 25L20 28.59L21.41 30L25 26.41L28.59 30L30 28.59L26.41 25zM18 2A12.035 12.035 0 0 0 6 14v6.2l-3.6-3.6L1 18l6 6l6-6l-1.4-1.4L8 20.2V14a10 10 0 0 1 20 0v3h2v-3A12.035 12.035 0 0 0 18 2z\"/>"
 		},
+		"return": {
+			"body": "<path fill=\"currentColor\" d=\"M22 8v2c2.206 0 4 1.794 4 4s-1.794 4-4 4H10v-5l-6 6l6 6v-5h12c3.309 0 6-2.691 6-6s-2.691-6-6-6Z\"/>"
+		},
 		"review": {
 			"body": "<path fill=\"currentColor\" d=\"m16 8l1.912 3.703l4.088.594L19 15l1 4l-4-2.25L12 19l1-4l-3-2.703l4.2-.594L16 8z\"/><path fill=\"currentColor\" d=\"M17.736 30L16 29l4-7h6a1.997 1.997 0 0 0 2-2V8a1.997 1.997 0 0 0-2-2H6a1.997 1.997 0 0 0-2 2v12a1.997 1.997 0 0 0 2 2h9v2H6a4 4 0 0 1-4-4V8a3.999 3.999 0 0 1 4-4h20a3.999 3.999 0 0 1 4 4v12a4 4 0 0 1-4 4h-4.835Z\"/>"
 		},
@@ -6486,9 +6492,6 @@
 		"cloud-snow": {
 			"parent": "snow"
 		},
-		"delete": {
-			"parent": "trash-can"
-		},
 		"letter-aa-large": {
 			"parent": "text-font"
 		},
@@ -6617,6 +6620,7 @@
 			"cut-out",
 			"dashboard",
 			"dashboard-reference",
+			"delete",
 			"deploy",
 			"deploy-rules",
 			"distribute-horizontal-center",
@@ -6815,6 +6819,7 @@
 			"reset-alt",
 			"restart",
 			"retry-failed",
+			"return",
 			"review",
 			"rewind-10",
 			"rewind-30",

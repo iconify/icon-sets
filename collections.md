@@ -54,12 +54,12 @@
 * File: [json/solar.json](json/solar.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Tabler Icons
-* Number of icons: 4619
+* Number of icons: 4637
 * Author: Paweł Kuna
 * URL: https://github.com/tabler/tabler-icons
 * License: MIT
 * License URL: https://github.com/tabler/tabler-icons/blob/master/LICENSE
-* Version: 2.31.0
+* Version: 2.32.0
 * Palette: Colorless
 * Icon set prefix: `tabler`
 * File: [json/tabler.json](json/tabler.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
@@ -127,6 +127,16 @@
 * Palette: Colorless
 * Icon set prefix: `uil`
 * File: [json/uil.json](json/uil.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
+
+## TDesign Icons
+* Number of icons: 1203
+* Author: TDesign
+* URL: https://github.com/Tencent/tdesign-icons
+* License: MIT
+* License URL: https://github.com/Tencent/tdesign-icons/blob/main/LICENSE
+* Palette: Colorless
+* Icon set prefix: `tdesign`
+* File: [json/tdesign.json](json/tdesign.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Teenyicons
 * Number of icons: 1200

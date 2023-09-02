@@ -87,11 +87,11 @@
 * File: [json/bi.json](json/bi.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Carbon
-* Number of icons: 1959
+* Number of icons: 2006
 * Author: IBM
 * URL: https://github.com/carbon-design-system/carbon/tree/main/packages/icons
 * License: Apache 2.0
-* Version: 11.25.0
+* Version: 11.26.0
 * Palette: Colorless
 * Icon set prefix: `carbon`
 * File: [json/carbon.json](json/carbon.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
@@ -269,7 +269,7 @@
 * File: [json/cil.json](json/cil.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Lucide
-* Number of icons: 1247
+* Number of icons: 1255
 * Author: Lucide Contributors
 * URL: https://github.com/lucide-icons/lucide
 * License: ISC

@@ -54,12 +54,12 @@
 * File: [json/solar.json](json/solar.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Tabler Icons
-* Number of icons: 4637
+* Number of icons: 4655
 * Author: Paweł Kuna
 * URL: https://github.com/tabler/tabler-icons
 * License: MIT
 * License URL: https://github.com/tabler/tabler-icons/blob/master/LICENSE
-* Version: 2.32.0
+* Version: 2.33.0
 * Palette: Colorless
 * Icon set prefix: `tabler`
 * File: [json/tabler.json](json/tabler.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
@@ -1425,16 +1425,6 @@
 * Palette: Colorless
 * Icon set prefix: `icomoon-free`
 * File: [json/icomoon-free.json](json/icomoon-free.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
-
-## PrestaShop Icons
-* Number of icons: 479
-* Author: PrestaShop
-* URL: https://github.com/PrestaShop/prestashop-icon-font
-* License: CC BY-NC 4.0
-* License URL: https://creativecommons.org/licenses/by-nc/4.0/
-* Palette: Colorless
-* Icon set prefix: `ps`
-* File: [json/ps.json](json/ps.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Subway Icon Set
 * Number of icons: 306

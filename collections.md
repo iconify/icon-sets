@@ -1509,3 +1509,25 @@
 * Palette: Colorless
 * Icon set prefix: `grommet-icons`
 * File: [json/grommet-icons.json](json/grommet-icons.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
+
+## FlowBite Outline
+* Number of icons: 265
+* Author: Themesberg
+* URL: https://github.com/themesberg/flowbite-icons
+* License: MIT
+* License URL: https://github.com/themesberg/flowbite-icons/blob/main/LICENSE
+* Version: 1.1.0
+* Palette: Colorless
+* Icon set prefix: `flowbite-outline`
+* File: [json/flowbite-outline.json](json/flowbite-outline.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
+
+## FlowBite Solid
+* Number of icons: 222
+* Author: Themesberg
+* URL: https://github.com/themesberg/flowbite-icons
+* License: MIT
+* License URL: https://github.com/themesberg/flowbite-icons/blob/main/LICENSE
+* Version: 1.1.0
+* Palette: Colorless
+* Icon set prefix: `flowbite-solid`
+* File: [json/flowbite-solid.json](json/flowbite-solid.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))

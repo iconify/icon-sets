@@ -76,12 +76,12 @@
 * File: [json/ri.json](json/ri.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Bootstrap Icons
-* Number of icons: 1953
+* Number of icons: 2050
 * Author: The Bootstrap Authors
 * URL: https://github.com/twbs/icons
 * License: MIT
 * License URL: https://github.com/twbs/icons/blob/main/LICENSE.md
-* Version: 1.10.5
+* Version: 1.11.0
 * Palette: Colorless
 * Icon set prefix: `bi`
 * File: [json/bi.json](json/bi.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
@@ -247,7 +247,7 @@
 * File: [json/gg.json](json/gg.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Octicons
-* Number of icons: 602
+* Number of icons: 604
 * Author: GitHub
 * URL: https://github.com/primer/octicons/
 * License: MIT
@@ -331,7 +331,7 @@
 * File: [json/akar-icons.json](json/akar-icons.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Memory Icons
-* Number of icons: 350
+* Number of icons: 400
 * Author: Pictogrammers
 * URL: https://github.com/Pictogrammers/Memory
 * License: Apache 2.0
@@ -551,7 +551,7 @@
 * URL: https://github.com/microsoft/fluentui-system-icons
 * License: MIT
 * License URL: https://github.com/microsoft/fluentui-system-icons/blob/main/LICENSE
-* Version: 1.1.214
+* Version: 1.1.215
 * Palette: Colorless
 * Icon set prefix: `fluent`
 * File: [json/fluent.json](json/fluent.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
@@ -757,7 +757,7 @@
 * URL: https://github.com/wikimedia/oojs-ui
 * License: MIT
 * License URL: https://github.com/wikimedia/oojs-ui/blob/master/LICENSE-MIT
-* Version: 0.48.0
+* Version: 0.48.1
 * Palette: Colorless
 * Icon set prefix: `ooui`
 * File: [json/ooui.json](json/ooui.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))

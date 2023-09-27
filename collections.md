@@ -44,7 +44,7 @@
 * File: [json/ph.json](json/ph.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Solar
-* Number of icons: 7403
+* Number of icons: 7404
 * Author: 480 Design
 * URL: https://www.figma.com/community/file/1166831539721848736
 * License: CC BY 4.0
@@ -1097,7 +1097,7 @@
 * File: [json/flag.json](json/flag.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Circle Flags
-* Number of icons: 407
+* Number of icons: 427
 * Author: HatScripts
 * URL: https://github.com/HatScripts/circle-flags
 * License: MIT

@@ -54,12 +54,12 @@
 * File: [json/solar.json](json/solar.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Tabler Icons
-* Number of icons: 4694
+* Number of icons: 4735
 * Author: Paweł Kuna
 * URL: https://github.com/tabler/tabler-icons
 * License: MIT
 * License URL: https://github.com/tabler/tabler-icons/blob/master/LICENSE
-* Version: 2.35.0
+* Version: 2.37.0
 * Palette: Colorless
 * Icon set prefix: `tabler`
 * File: [json/tabler.json](json/tabler.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
@@ -793,6 +793,17 @@
 * Palette: Colorless
 * Icon set prefix: `line-md`
 * File: [json/line-md.json](json/line-md.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
+
+## Meteocons
+* Number of icons: 450
+* Author: Bas Milius
+* URL: https://github.com/basmilius/weather-icons
+* License: MIT
+* License URL: https://github.com/basmilius/weather-icons/blob/dev/LICENSE
+* Version: 3.0.0
+* Palette: Colorful
+* Icon set prefix: `meteocons`
+* File: [json/meteocons.json](json/meteocons.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## SVG Spinners
 * Number of icons: 46

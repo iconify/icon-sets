@@ -269,7 +269,7 @@
 * File: [json/cil.json](json/cil.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Lucide
-* Number of icons: 1286
+* Number of icons: 1287
 * Author: Lucide Contributors
 * URL: https://github.com/lucide-icons/lucide
 * License: ISC
@@ -438,12 +438,12 @@
 * File: [json/prime.json](json/prime.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Humbleicons
-* Number of icons: 242
+* Number of icons: 246
 * Author: Jiří Zralý
 * URL: https://github.com/zraly/humbleicons
 * License: MIT
 * License URL: https://github.com/zraly/humbleicons/blob/master/license
-* Version: 1.10.0
+* Version: 1.11.0
 * Palette: Colorless
 * Icon set prefix: `humbleicons`
 * File: [json/humbleicons.json](json/humbleicons.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
@@ -633,7 +633,7 @@
 * File: [json/heroicons.json](json/heroicons.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Codicons
-* Number of icons: 427
+* Number of icons: 429
 * Author: Microsoft Corporation
 * URL: https://github.com/microsoft/vscode-codicons
 * License: CC BY 4.0
@@ -1108,7 +1108,7 @@
 * File: [json/flag.json](json/flag.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Circle Flags
-* Number of icons: 427
+* Number of icons: 428
 * Author: HatScripts
 * URL: https://github.com/HatScripts/circle-flags
 * License: MIT

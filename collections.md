@@ -546,12 +546,12 @@
 * File: [json/gala.json](json/gala.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Fluent UI System Icons
-* Number of icons: 14615
+* Number of icons: 14693
 * Author: Microsoft Corporation
 * URL: https://github.com/microsoft/fluentui-system-icons
 * License: MIT
 * License URL: https://github.com/microsoft/fluentui-system-icons/blob/main/LICENSE
-* Version: 1.1.218
+* Version: 1.1.219
 * Palette: Colorless
 * Icon set prefix: `fluent`
 * File: [json/fluent.json](json/fluent.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
@@ -784,12 +784,12 @@
 * File: [json/formkit.json](json/formkit.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Material Line Icons
-* Number of icons: 457
+* Number of icons: 463
 * Author: Vjacheslav Trushkin
 * URL: https://github.com/cyberalien/line-md
 * License: MIT
 * License URL: https://github.com/cyberalien/line-md/blob/master/license.txt
-* Version: 0.2.14
+* Version: 0.2.15
 * Palette: Colorless
 * Icon set prefix: `line-md`
 * File: [json/line-md.json](json/line-md.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
@@ -816,7 +816,7 @@
 * File: [json/svg-spinners.json](json/svg-spinners.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## OpenMoji
-* Number of icons: 4078
+* Number of icons: 4080
 * Author: OpenMoji
 * URL: https://github.com/hfg-gmuend/openmoji
 * License: CC BY-SA 4.0
@@ -961,12 +961,12 @@
 * File: [json/logos.json](json/logos.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Simple Icons
-* Number of icons: 2734
+* Number of icons: 2743
 * Author: Simple Icons Collaborators
 * URL: https://github.com/simple-icons/simple-icons
 * License: CC0 1.0
 * License URL: https://github.com/simple-icons/simple-icons/blob/develop/LICENSE.md
-* Version: 9.16.1
+* Version: 9.17.0
 * Palette: Colorless
 * Icon set prefix: `simple-icons`
 * File: [json/simple-icons.json](json/simple-icons.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
@@ -1005,7 +1005,7 @@
 * File: [json/nonicons.json](json/nonicons.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Arcticons
-* Number of icons: 7267
+* Number of icons: 7376
 * Author: Donnnno
 * URL: https://github.com/Donnnno/Arcticons
 * License: CC BY-SA 4.0

@@ -2,8 +2,8 @@
 	"prefix": "line-md",
 	"info": {
 		"name": "Material Line Icons",
-		"total": 512,
-		"version": "0.2.17",
+		"total": 518,
+		"version": "0.2.18",
 		"author": {
 			"name": "Vjacheslav Trushkin",
 			"url": "https://github.com/cyberalien/line-md"
@@ -22,7 +22,7 @@
 		"category": "Animated Icons",
 		"palette": false
 	},
-	"lastModified": 1696919529,
+	"lastModified": 1697090985,
 	"icons": {
 		"account": {
 			"body": "<g fill=\"none\" stroke=\"currentColor\" stroke-dasharray=\"28\" stroke-dashoffset=\"28\" stroke-linecap=\"round\" stroke-width=\"2\"><path d=\"M4 21V20C4 16.6863 6.68629 14 10 14H14C17.3137 14 20 16.6863 20 20V21\"><animate fill=\"freeze\" attributeName=\"stroke-dashoffset\" dur=\"0.4s\" values=\"28;0\"/></path><path d=\"M12 11C9.79086 11 8 9.20914 8 7C8 4.79086 9.79086 3 12 3C14.2091 3 16 4.79086 16 7C16 9.20914 14.2091 11 12 11Z\"><animate fill=\"freeze\" attributeName=\"stroke-dashoffset\" begin=\"0.5s\" dur=\"0.4s\" values=\"28;0\"/></path></g>"
@@ -1003,6 +1003,15 @@
 		"person-twotone": {
 			"body": "<g fill=\"currentColor\" fill-opacity=\"0\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\"><path stroke-dasharray=\"20\" stroke-dashoffset=\"20\" d=\"M12 5C13.66 5 15 6.34 15 8C15 9.65685 13.6569 11 12 11C10.3431 11 9 9.65685 9 8C9 6.34315 10.3431 5 12 5z\"><animate fill=\"freeze\" attributeName=\"stroke-dashoffset\" dur=\"0.4s\" values=\"20;0\"/></path><path stroke-dasharray=\"36\" stroke-dashoffset=\"36\" d=\"M12 14C16 14 19 16 19 17V19H5V17C5 16 8 14 12 14z\" opacity=\"0\"><set attributeName=\"opacity\" begin=\"0.5s\" to=\"1\"/><animate fill=\"freeze\" attributeName=\"stroke-dashoffset\" begin=\"0.5s\" dur=\"0.4s\" values=\"36;0\"/></path><animate fill=\"freeze\" attributeName=\"fill-opacity\" begin=\"0.9s\" dur=\"0.15s\" values=\"0;0.3\"/></g>"
 		},
+		"pixelfed": {
+			"body": "<path fill=\"none\" stroke=\"currentColor\" stroke-dasharray=\"60\" stroke-dashoffset=\"60\" stroke-linecap=\"round\" stroke-width=\"2\" d=\"M12 3C16.9706 3 21 7.02944 21 12C21 16.9706 16.9706 21 12 21C7.02944 21 3 16.9706 3 12C3 7.02944 7.02944 3 12 3Z\"><animate fill=\"freeze\" attributeName=\"stroke-dashoffset\" dur=\"0.5s\" values=\"60;0\"/></path><path fill=\"currentColor\" fill-opacity=\"0\" d=\"M11.2061 14.1832H13.0406C14.7687 14.1832 16.1697 12.8194 16.1697 11.1371C16.1697 9.45472 14.7687 8.09091 13.0406 8.09091H10.3929C9.39592 8.09091 8.58769 8.87772 8.58769 9.8483V16.6883L11.2061 14.1832Z\"><animate fill=\"freeze\" attributeName=\"fill-opacity\" begin=\"0.6s\" dur=\"0.5s\" values=\"0;1\"/></path>"
+		},
+		"pixelfed-filled": {
+			"body": "<mask id=\"lineMdPixelfedFilled0\"><path fill=\"#fff\" fill-opacity=\"0\" stroke=\"#fff\" stroke-dasharray=\"60\" stroke-dashoffset=\"60\" stroke-linecap=\"round\" stroke-width=\"2\" d=\"M12 3C16.9706 3 21 7.02944 21 12C21 16.9706 16.9706 21 12 21C7.02944 21 3 16.9706 3 12C3 7.02944 7.02944 3 12 3Z\"><animate fill=\"freeze\" attributeName=\"stroke-dashoffset\" dur=\"0.5s\" values=\"60;0\"/><animate fill=\"freeze\" attributeName=\"fill-opacity\" begin=\"0.6s\" dur=\"0.5s\" values=\"0;1\"/></path><path d=\"M11.2061 14.1832H13.0406C14.7687 14.1832 16.1697 12.8194 16.1697 11.1371C16.1697 9.45472 14.7687 8.09091 13.0406 8.09091H10.3929C9.39592 8.09091 8.58769 8.87772 8.58769 9.8483V16.6883L11.2061 14.1832Z\"/></mask><rect width=\"24\" height=\"24\" fill=\"currentColor\" mask=\"url(#lineMdPixelfedFilled0)\"/>"
+		},
+		"pixelfed-twotone": {
+			"body": "<path fill=\"currentColor\" fill-opacity=\"0\" stroke=\"currentColor\" stroke-dasharray=\"60\" stroke-dashoffset=\"60\" stroke-linecap=\"round\" stroke-width=\"2\" d=\"M12 3C16.9706 3 21 7.02944 21 12C21 16.9706 16.9706 21 12 21C7.02944 21 3 16.9706 3 12C3 7.02944 7.02944 3 12 3Z\"><animate fill=\"freeze\" attributeName=\"stroke-dashoffset\" dur=\"0.5s\" values=\"60;0\"/><animate fill=\"freeze\" attributeName=\"fill-opacity\" begin=\"0.5s\" dur=\"0.15s\" values=\"0;0.3\"/></path><path fill=\"currentColor\" fill-opacity=\"0\" d=\"M11.2061 14.1832H13.0406C14.7687 14.1832 16.1697 12.8194 16.1697 11.1371C16.1697 9.45472 14.7687 8.09091 13.0406 8.09091H10.3929C9.39592 8.09091 8.58769 8.87772 8.58769 9.8483V16.6883L11.2061 14.1832Z\"><animate fill=\"freeze\" attributeName=\"fill-opacity\" begin=\"0.7s\" dur=\"0.5s\" values=\"0;1\"/></path>"
+		},
 		"play": {
 			"body": "<path fill=\"none\" stroke=\"currentColor\" stroke-dasharray=\"36\" stroke-dashoffset=\"36\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" d=\"M8 6L18 12L8 18z\"><animate fill=\"freeze\" attributeName=\"stroke-dashoffset\" dur=\"0.4s\" values=\"36;0\"/></path>"
 		},
@@ -1350,6 +1359,15 @@
 		},
 		"weather-cloudy-loop": {
 			"body": "<mask id=\"lineMdWeatherCloudyLoop0\"><g fill=\"#fff\"><circle cx=\"12\" cy=\"11\" r=\"6\"><animate attributeName=\"cx\" dur=\"30s\" repeatCount=\"indefinite\" values=\"12;11;12;13;12\"/></circle><rect width=\"10\" height=\"7\" x=\"8\" y=\"12\"/><rect width=\"16\" height=\"10\" x=\"1\" y=\"9\" rx=\"5\"><animate attributeName=\"x\" dur=\"19s\" repeatCount=\"indefinite\" values=\"1;0;1;2;1\"/></rect><rect width=\"17\" height=\"8\" x=\"6\" y=\"11\" rx=\"4\"><animate attributeName=\"x\" dur=\"23s\" repeatCount=\"indefinite\" values=\"6;5;6;7;6\"/></rect></g><circle cx=\"12\" cy=\"11\" r=\"4\"><animate attributeName=\"cx\" dur=\"30s\" repeatCount=\"indefinite\" values=\"12;11;12;13;12\"/></circle><rect width=\"8\" height=\"6\" x=\"8\" y=\"11\"><animate attributeName=\"x\" dur=\"30s\" repeatCount=\"indefinite\" values=\"8;7;8;9;8\"/></rect><rect width=\"12\" height=\"6\" x=\"3\" y=\"11\" rx=\"3\"><animate attributeName=\"x\" dur=\"19s\" repeatCount=\"indefinite\" values=\"3;2;3;4;3\"/></rect><rect width=\"13\" height=\"4\" x=\"8\" y=\"13\" rx=\"2\"><animate attributeName=\"x\" dur=\"23s\" repeatCount=\"indefinite\" values=\"8;7;8;9;8\"/></rect></mask><rect width=\"24\" height=\"24\" fill=\"currentColor\" mask=\"url(#lineMdWeatherCloudyLoop0)\"/>"
+		},
+		"youtube": {
+			"body": "<path fill=\"none\" stroke=\"currentColor\" stroke-dasharray=\"60\" stroke-dashoffset=\"60\" stroke-linecap=\"round\" stroke-width=\"2\" d=\"M12 5C21 5 21 5 21 12C21 19 21 19 12 19C3 19 3 19 3 12C3 5 3 5 12 5z\"><animate fill=\"freeze\" attributeName=\"stroke-dashoffset\" dur=\"0.6s\" values=\"60;0\"/></path><path fill=\"currentColor\" fill-opacity=\"0\" d=\"M10 8.5L16 12L10 15.5z\"><set attributeName=\"fill-opacity\" begin=\"0.7s\" to=\"1\"/><animate fill=\"freeze\" attributeName=\"d\" begin=\"0.7s\" dur=\"0.2s\" values=\"M12 11L12 12L12 13z;M10 8.5L16 12L10 15.5z\"/></path>"
+		},
+		"youtube-filled": {
+			"body": "<mask id=\"lineMdYoutubeFilled0\"><path fill=\"#fff\" fill-opacity=\"0\" stroke=\"#fff\" stroke-dasharray=\"60\" stroke-dashoffset=\"60\" stroke-linecap=\"round\" stroke-width=\"2\" d=\"M12 5C21 5 21 5 21 12C21 19 21 19 12 19C3 19 3 19 3 12C3 5 3 5 12 5z\"><animate fill=\"freeze\" attributeName=\"stroke-dashoffset\" dur=\"0.6s\" values=\"60;0\"/><animate fill=\"freeze\" attributeName=\"fill-opacity\" begin=\"0.6s\" dur=\"0.5s\" values=\"0;1\"/></path><path d=\"M10 8.5L16 12L10 15.5z\"/></mask><rect width=\"24\" height=\"24\" fill=\"currentColor\" mask=\"url(#lineMdYoutubeFilled0)\"/>"
+		},
+		"youtube-twotone": {
+			"body": "<path fill=\"currentColor\" fill-opacity=\"0\" stroke=\"currentColor\" stroke-dasharray=\"60\" stroke-dashoffset=\"60\" stroke-linecap=\"round\" stroke-width=\"2\" d=\"M12 5C21 5 21 5 21 12C21 19 21 19 12 19C3 19 3 19 3 12C3 5 3 5 12 5z\"><animate fill=\"freeze\" attributeName=\"stroke-dashoffset\" dur=\"0.6s\" values=\"60;0\"/><animate fill=\"freeze\" attributeName=\"fill-opacity\" begin=\"0.6s\" dur=\"0.15s\" values=\"0;0.3\"/></path><path fill=\"currentColor\" fill-opacity=\"0\" d=\"M10 8.5L16 12L10 15.5z\"><set attributeName=\"fill-opacity\" begin=\"0.8s\" to=\"1\"/><animate fill=\"freeze\" attributeName=\"d\" begin=\"0.8s\" dur=\"0.2s\" values=\"M12 11L12 12L12 13z;M10 8.5L16 12L10 15.5z\"/></path>"
 		}
 	},
 	"aliases": {
@@ -2067,6 +2085,9 @@
 			"mastodon",
 			"mastodon-filled",
 			"mastodon-twotone",
+			"pixelfed",
+			"pixelfed-filled",
+			"pixelfed-twotone",
 			"reddit",
 			"reddit-circle",
 			"reddit-circle-loop",
@@ -2093,7 +2114,10 @@
 			"twitter",
 			"twitter-twotone",
 			"twitter-x",
-			"twitter-x-alt"
+			"twitter-x-alt",
+			"youtube",
+			"youtube-filled",
+			"youtube-twotone"
 		],
 		"Technology": [
 			"cloud",

@@ -2,7 +2,7 @@
 	"prefix": "memory",
 	"info": {
 		"name": "Memory Icons",
-		"total": 400,
+		"total": 551,
 		"author": {
 			"name": "Pictogrammers",
 			"url": "https://github.com/Pictogrammers/Memory"
@@ -21,7 +21,7 @@
 		"category": "General",
 		"palette": false
 	},
-	"lastModified": 1694582974,
+	"lastModified": 1697091178,
 	"icons": {
 		"account": {
 			"body": "<path fill=\"currentColor\" d=\"M9 3h4v1h1v1h1v4h-1v1h-1v1H9v-1H8V9H7V5h1V4h1V3m1 5v1h2V8h1V6h-1V5h-2v1H9v2h1m-3 4h8v1h2v1h1v1h1v4H3v-4h1v-1h1v-1h2v-1m-1 4H5v1h12v-1h-1v-1h-2v-1H8v1H6v1Z\"/>"
@@ -43,6 +43,9 @@
 		},
 		"alert-circle-fill": {
 			"body": "<path fill=\"currentColor\" d=\"M15 21H7v-1H5v-1H4v-1H3v-1H2v-2H1V7h1V5h1V4h1V3h1V2h2V1h8v1h2v1h1v1h1v1h1v2h1v8h-1v2h-1v1h-1v1h-1v1h-2Zm-3-9V6h-2v6Zm0 4v-2h-2v2Z\"/>"
+		},
+		"alert-hexagon": {
+			"body": "<path fill=\"currentColor\" d=\"M12 12h-2V6h2m0 10h-2v-2h2m0 7h-2v-1H8v-1H6v-1H4v-1H2V5h2V4h2V3h2V2h2V1h2v1h2v1h2v1h2v1h2v12h-2v1h-2v1h-2v1h-2m0-1v-1h2v-1h2v-1h2V6h-2V5h-2V4h-2V3h-2v1H8v1H6v1H4v10h2v1h2v1h2v1Z\"/>"
 		},
 		"alert-rhombus": {
 			"body": "<path fill=\"currentColor\" d=\"M12 12h-2V6h2Zm0 4h-2v-2h2Zm0 5h-2v-1H9v-1H8v-1H7v-1H6v-1H5v-1H4v-1H3v-1H2v-1H1v-2h1V9h1V8h1V7h1V6h1V5h1V4h1V3h1V2h1V1h2v1h1v1h1v1h1v1h1v1h1v1h1v1h1v1h1v1h1v2h-1v1h-1v1h-1v1h-1v1h-1v1h-1v1h-1v1h-1v1h-1Zm0-3v-1h1v-1h1v-1h1v-1h1v-1h1v-1h1v-2h-1V9h-1V8h-1V7h-1V6h-1V5h-1V4h-2v1H9v1H8v1H7v1H6v1H5v1H4v2h1v1h1v1h1v1h1v1h1v1h1v1Z\"/>"
@@ -260,20 +263,32 @@
 		"arrow-down-bold": {
 			"body": "<path fill=\"currentColor\" d=\"M20 10v2h-1v1h-1v1h-1v1h-1v1h-1v1h-1v1h-1v1h-1v1h-2v-1H9v-1H8v-1H7v-1H6v-1H5v-1H4v-1H3v-1H2v-2h5V2h8v8h5m-4 2h-3V4H9v8H6v1h1v1h1v1h1v1h1v1h2v-1h1v-1h1v-1h1v-1h1v-1Z\"/>"
 		},
+		"arrow-down-box": {
+			"body": "<path fill=\"currentColor\" d=\"M12 16h-2v-1H9v-1H8v-1H7v-1H6v-2h2v1h1v1h1V6h2v6h1v-1h1v-1h2v2h-1v1h-1v1h-1v1h-1m6 5H4v-1H3v-1H2V4h1V3h1V2h14v1h1v1h1v14h-1v1h-1m-1-1v-1h1V5h-1V4H5v1H4v12h1v1Z\"/>"
+		},
 		"arrow-down-circle": {
 			"body": "<path fill=\"currentColor\" d=\"M16 10v2h-1v1h-1v1h-1v1h-1v1h-2v-1H9v-1H8v-1H7v-1H6v-2h2v1h1v1h1V6h2v6h1v-1h1v-1h2m5-3v8h-1v2h-1v1h-1v1h-1v1h-2v1H7v-1H5v-1H4v-1H3v-1H2v-2H1V7h1V5h1V4h1V3h1V2h2V1h8v1h2v1h1v1h1v1h1v2h1m-4-1V5h-1V4h-2V3H8v1H6v1H5v1H4v2H3v6h1v2h1v1h1v1h2v1h6v-1h2v-1h1v-1h1v-2h1V8h-1V6h-1Z\"/>"
 		},
 		"arrow-down-left": {
 			"body": "<path fill=\"currentColor\" d=\"M3 12v2h1v1h1v1h1v1h1v1h2v-2H8v-1H7v-1h4v-1h2v-1h1v-2h1V3h-2v6h-1v2h-2v1H7v-1h1v-1h1V8H7v1H6v1H5v1H4v1\"/>"
 		},
+		"arrow-down-left-box": {
+			"body": "<path fill=\"currentColor\" d=\"M14 15H7V8h2v3h1v-1h1V9h1V8h1V7h1v1h1v1h-1v1h-1v1h-1v1h-1v1h3m4 7H4v-1H3v-1H2V4h1V3h1V2h14v1h1v1h1v14h-1v1h-1m-1-1v-1h1V5h-1V4H5v1H4v12h1v1Z\"/>"
+		},
 		"arrow-down-right": {
 			"body": "<path fill=\"currentColor\" d=\"M19 12v2h-1v1h-1v1h-1v1h-1v1h-2v-2h1v-1h1v-1h-4v-1H9v-1H8v-2H7V3h2v6h1v2h2v1h3v-1h-1v-1h-1V8h2v1h1v1h1v1h1v1\"/>"
+		},
+		"arrow-down-right-box": {
+			"body": "<path fill=\"currentColor\" d=\"M15 15H8v-2h3v-1h-1v-1H9v-1H8V9H7V8h1V7h1v1h1v1h1v1h1v1h1V8h2m3 12H4v-1H3v-1H2V4h1V3h1V2h14v1h1v1h1v14h-1v1h-1m-1-1v-1h1V5h-1V4H5v1H4v12h1v1Z\"/>"
 		},
 		"arrow-left": {
 			"body": "<path fill=\"currentColor\" d=\"M5 12v-2h1V9h1V8h1V7h1V6h2v2h-1v1H9v1h9v2H9v1h1v1h1v2H9v-1H8v-1H7v-1H6v-1\"/>"
 		},
 		"arrow-left-bold": {
 			"body": "<path fill=\"currentColor\" d=\"M12 20h-2v-1H9v-1H8v-1H7v-1H6v-1H5v-1H4v-1H3v-1H2v-2h1V9h1V8h1V7h1V6h1V5h1V4h1V3h1V2h2v5h8v8h-8v5m-2-4v-3h8V9h-8V6H9v1H8v1H7v1H6v1H5v2h1v1h1v1h1v1h1v1h1Z\"/>"
+		},
+		"arrow-left-box": {
+			"body": "<path fill=\"currentColor\" d=\"M12 16h-2v-1H9v-1H8v-1H7v-1H6v-2h1V9h1V8h1V7h1V6h2v2h-1v1h-1v1h6v2h-6v1h1v1h1m6 6H4v-1H3v-1H2V4h1V3h1V2h14v1h1v1h1v14h-1v1h-1m-1-1v-1h1V5h-1V4H5v1H4v12h1v1Z\"/>"
 		},
 		"arrow-left-circle": {
 			"body": "<path fill=\"currentColor\" d=\"M12 16h-2v-1H9v-1H8v-1H7v-1H6v-2h1V9h1V8h1V7h1V6h2v2h-1v1h-1v1h6v2h-6v1h1v1h1v2m3 5H7v-1H5v-1H4v-1H3v-1H2v-2H1V7h1V5h1V4h1V3h1V2h2V1h8v1h2v1h1v1h1v1h1v2h1v8h-1v2h-1v1h-1v1h-1v1h-2v1m1-4h1v-1h1v-2h1V8h-1V6h-1V5h-1V4h-2V3H8v1H6v1H5v1H4v2H3v6h1v2h1v1h1v1h2v1h6v-1h2v-1Z\"/>"
@@ -292,6 +307,9 @@
 		},
 		"arrow-right-bold": {
 			"body": "<path fill=\"currentColor\" d=\"M10 2h2v1h1v1h1v1h1v1h1v1h1v1h1v1h1v1h1v2h-1v1h-1v1h-1v1h-1v1h-1v1h-1v1h-1v1h-1v1h-2v-5H2V7h8V2m2 4v3H4v4h8v3h1v-1h1v-1h1v-1h1v-1h1v-2h-1V9h-1V8h-1V7h-1V6h-1Z\"/>"
+		},
+		"arrow-right-box": {
+			"body": "<path fill=\"currentColor\" d=\"M12 16h-2v-2h1v-1h1v-1H6v-2h6V9h-1V8h-1V6h2v1h1v1h1v1h1v1h1v2h-1v1h-1v1h-1v1h-1m6 5H4v-1H3v-1H2V4h1V3h1V2h14v1h1v1h1v14h-1v1h-1m-1-1v-1h1V5h-1V4H5v1H4v12h1v1Z\"/>"
 		},
 		"arrow-right-circle": {
 			"body": "<path fill=\"currentColor\" d=\"M7 1h8v1h2v1h1v1h1v1h1v2h1v8h-1v2h-1v1h-1v1h-1v1h-2v1H7v-1H5v-1H4v-1H3v-1H2v-2H1V7h1V5h1V4h1V3h1V2h2V1M6 5H5v1H4v2H3v6h1v2h1v1h1v1h2v1h6v-1h2v-1h1v-1h1v-2h1V8h-1V6h-1V5h-1V4h-2V3H8v1H6v1m4 1h2v1h1v1h1v1h1v1h1v2h-1v1h-1v1h-1v1h-1v1h-2v-2h1v-1h1v-1H6v-2h6V9h-1V8h-1V6Z\"/>"
@@ -320,6 +338,9 @@
 		"arrow-up-bold": {
 			"body": "<path fill=\"currentColor\" d=\"M2 12v-2h1V9h1V8h1V7h1V6h1V5h1V4h1V3h1V2h2v1h1v1h1v1h1v1h1v1h1v1h1v1h1v1h1v2h-5v8H7v-8H2m4-2h3v8h4v-8h3V9h-1V8h-1V7h-1V6h-1V5h-2v1H9v1H8v1H7v1H6v1Z\"/>"
 		},
+		"arrow-up-box": {
+			"body": "<path fill=\"currentColor\" d=\"M12 16h-2v-6H9v1H8v1H6v-2h1V9h1V8h1V7h1V6h2v1h1v1h1v1h1v1h1v2h-2v-1h-1v-1h-1m6 10H4v-1H3v-1H2V4h1V3h1V2h14v1h1v1h1v14h-1v1h-1m-1-1v-1h1V5h-1V4H5v1H4v12h1v1Z\"/>"
+		},
 		"arrow-up-circle": {
 			"body": "<path fill=\"currentColor\" d=\"M6 12v-2h1V9h1V8h1V7h1V6h2v1h1v1h1v1h1v1h1v2h-2v-1h-1v-1h-1v6h-2v-6H9v1H8v1H6m-5 3V7h1V5h1V4h1V3h1V2h2V1h8v1h2v1h1v1h1v1h1v2h1v8h-1v2h-1v1h-1v1h-1v1h-2v1H7v-1H5v-1H4v-1H3v-1H2v-2H1m4 1v1h1v1h2v1h6v-1h2v-1h1v-1h1v-2h1V8h-1V6h-1V5h-1V4h-2V3H8v1H6v1H5v1H4v2H3v6h1v2h1Z\"/>"
 		},
@@ -329,8 +350,17 @@
 		"arrow-up-left": {
 			"body": "<path fill=\"currentColor\" d=\"M3 10V8h1V7h1V6h1V5h1V4h2v2H8v1H7v1h4v1h2v1h1v2h1v7h-2v-6h-1v-2h-2v-1H7v1h1v1h1v2H7v-1H6v-1H5v-1H4v-1\"/>"
 		},
+		"arrow-up-left-box": {
+			"body": "<path fill=\"currentColor\" d=\"M14 15h-1v-1h-1v-1h-1v-1h-1v-1H9v3H7V7h7v2h-3v1h1v1h1v1h1v1h1v1h-1m4 6H4v-1H3v-1H2V4h1V3h1V2h14v1h1v1h1v14h-1v1h-1m-1-1v-1h1V5h-1V4H5v1H4v12h1v1Z\"/>"
+		},
 		"arrow-up-right": {
 			"body": "<path fill=\"currentColor\" d=\"M19 10V8h-1V7h-1V6h-1V5h-1V4h-2v2h1v1h1v1h-4v1H9v1H8v2H7v7h2v-6h1v-2h2v-1h3v1h-1v1h-1v2h2v-1h1v-1h1v-1h1v-1\"/>"
+		},
+		"arrow-up-right-box": {
+			"body": "<path fill=\"currentColor\" d=\"M9 15H8v-1H7v-1h1v-1h1v-1h1v-1h1V9H8V7h7v7h-2v-3h-1v1h-1v1h-1v1H9m9 6H4v-1H3v-1H2V4h1V3h1V2h14v1h1v1h1v14h-1v1h-1m-1-1v-1h1V5h-1V4H5v1H4v12h1v1Z\"/>"
+		},
+		"aspect-ratio": {
+			"body": "<path fill=\"currentColor\" d=\"M17 10h-2V8h-2V6h4M9 16H5v-4h2v2h2m10 5H3v-1H2V4h1V3h16v1h1v14h-1m-1-1V5H4v12Z\"/>"
 		},
 		"axe": {
 			"body": "<path fill=\"currentColor\" d=\"M11 3h2v1h1v1h1v1h2v1h2v1h1v1h1v2h-1v2h-1v1h-1v1h-2v1h-1v-1h-1v-1h-1v-2h-1v-1h-1v-1h-1V9H9V8H8V6h1V5h1V4h1m-1 6v1h1v2h-1v1H9v1H8v1H7v1H6v1H5v1H4v1H3v-1H2v-2h1v-1h1v-1h1v-1h1v-1h1v-1h1v-1h1v-1\"/>"
@@ -443,8 +473,26 @@
 		"box-light-dashed-up-right": {
 			"body": "<path fill=\"currentColor\" d=\"M0 10h2v2H0v-2m4 0h3v2H4v-2m5 0h3v3h-2v-1H9v-2m1 12v-2h2v2h-2m0-4v-3h2v3h-2Z\"/>"
 		},
+		"box-light-double-down-left": {
+			"body": "<path fill=\"currentColor\" d=\"M22 10H12V0h2v8h8m0 6H8V0h2v12h12Z\"/>"
+		},
+		"box-light-double-down-right": {
+			"body": "<path fill=\"currentColor\" d=\"M10 10H0V8h8V0h2m4 14H0v-2h12V0h2Z\"/>"
+		},
 		"box-light-double-horizontal": {
 			"body": "<path fill=\"currentColor\" d=\"M0 12h22v2H0v-2m0-4h22v2H0V8Z\"/>"
+		},
+		"box-light-double-horizontal-down": {
+			"body": "<path fill=\"currentColor\" d=\"M22 10H0V8h22M10 22H8v-8H0v-2h10m4 10h-2V12h10v2h-8Z\"/>"
+		},
+		"box-light-double-horizontal-light-down": {
+			"body": "<path fill=\"currentColor\" d=\"M22 10H0V8h22M12 22h-2v-8H0v-2h22v2H12Z\"/>"
+		},
+		"box-light-double-horizontal-light-up": {
+			"body": "<path fill=\"currentColor\" d=\"M22 10H0V8h10V0h2v8h10m0 6H0v-2h22Z\"/>"
+		},
+		"box-light-double-horizontal-up": {
+			"body": "<path fill=\"currentColor\" d=\"M10 10H0V8h8V0h2m12 10H12V0h2v8h8m0 6H0v-2h22Z\"/>"
 		},
 		"box-light-double-round-down-left": {
 			"body": "<path fill=\"currentColor\" d=\"M10 0v3h1v2h1v2h1v1h1v1h1v1h2v1h2v1h3v2h-4v-1h-2v-1h-2v-1h-1v-1h-1V9h-1V8h-1V6H9V4H8V0h2m12 10h-2V9h-3V8h-1V7h-1V6h-1V5h-1V2h-1V0h2v1h1v3h1v1h1v1h1v1h3v1h1v2Z\"/>"
@@ -458,8 +506,29 @@
 		"box-light-double-round-up-right": {
 			"body": "<path fill=\"currentColor\" d=\"M12 22v-3h-1v-2h-1v-2H9v-1H8v-1H7v-1H5v-1H3v-1H0V8h4v1h2v1h2v1h1v1h1v1h1v1h1v2h1v2h1v4h-2M0 12h2v1h3v1h1v1h1v1h1v1h1v3h1v2H8v-1H7v-3H6v-1H5v-1H4v-1H1v-1H0v-2Z\"/>"
 		},
+		"box-light-double-up-left": {
+			"body": "<path fill=\"currentColor\" d=\"M10 22H8V8h14v2H10m4 12h-2V12h10v2h-8Z\"/>"
+		},
+		"box-light-double-up-right": {
+			"body": "<path fill=\"currentColor\" d=\"M10 22H8v-8H0v-2h10m4 10h-2V10H0V8h14Z\"/>"
+		},
 		"box-light-double-vertical": {
 			"body": "<path fill=\"currentColor\" d=\"M12 22V0h2v22h-2m-4 0V0h2v22H8Z\"/>"
+		},
+		"box-light-double-vertical-horizontal": {
+			"body": "<path fill=\"currentColor\" d=\"M10 10H0V8h8V0h2m12 10H12V0h2v8h8M10 22H8v-8H0v-2h10m4 10h-2V12h10v2h-8Z\"/>"
+		},
+		"box-light-double-vertical-left": {
+			"body": "<path fill=\"currentColor\" d=\"M10 10H0V8h8V0h2Zm0 12H8v-8H0v-2h10Zm4 0h-2V0h2Z\"/>"
+		},
+		"box-light-double-vertical-light-left": {
+			"body": "<path fill=\"currentColor\" d=\"M10 22H8V12H0v-2h8V0h2m4 22h-2V0h2Z\"/>"
+		},
+		"box-light-double-vertical-light-right": {
+			"body": "<path fill=\"currentColor\" d=\"M10 22H8V0h2m4 22h-2V0h2v10h8v2h-8Z\"/>"
+		},
+		"box-light-double-vertical-right": {
+			"body": "<path fill=\"currentColor\" d=\"M22 10H12V0h2v8h8M10 22H8V0h2m4 22h-2V12h10v2h-8Z\"/>"
 		},
 		"box-light-down-left": {
 			"body": "<path fill=\"currentColor\" d=\"M22 12H10V0h2v10h10v2Z\"/>"
@@ -467,17 +536,62 @@
 		"box-light-down-left-circle": {
 			"body": "<path fill=\"currentColor\" d=\"M13 15H9v-1H8v-1H7V9h1V8h1V7h1V0h2v7h1v1h1v1h1v1h7v2h-7v1h-1v1h-1v1m-4-3h1v1h2v-1h1v-2h-1V9h-2v1H9v2Z\"/>"
 		},
+		"box-light-down-left-stipple": {
+			"body": "<path fill=\"currentColor\" d=\"M17 2h-1V1h1M6 3H5V2h1m8 2h1V3h-1M7 5h1V4H7m10 2h-1V5h1m4 1h-1V5h1M6 7H5V6h1m8 2h1V7h-1m4 1h1V7h-1m3 2h-1V8h-1v1h-1V8h-1v1h-1V8h-1v1h-1V8h-1V7h1V6h-1V5h1V4h-1V3h1V2h-1V1h1V0h1v1h-1v1h1v1h1v1h-1v1h-1v1h1v1h1v1h1V7h1V6h1v1h1v1h1V7h1v1h-1M7 9h1V8H7m-1 3H5v-1h1m16 2H10V0h2v10h10M8 15H7v-1h1m5 1h1v-1h-1m4 1h1v-1h-1m1 2h-1v-1h-1v-1h-1v1h-1v1h-1v-1h-1v-1h-1v1h-1v1H9v-1h1v-1H9v-1H8v-1H7v1H6v-1h1v-1h1v-1H7V9H6V8h1V7h1V6H7V5H6V4h1V3h1V2H7V1H6V0h1v1h1V0h1v1H8v1h1v1H8v1h1v1H8v1h1v1H8v1h1v1H8v1h1v1H8v1h1v1h1v1h1v-1h1v1h1v-1h1v1h1v-1h1v1h1v-1h1v1h1v-1h1v1h1v-1h1v1h-1v1h-1v-1h-1v1h-1m-6 2h-1v-1h1m4 1h-1v-1h1m4 1h-1v-1h1Z\"/>"
+		},
+		"box-light-down-left-stipple-inner": {
+			"body": "<path fill=\"currentColor\" d=\"M17 2h-1V1h1m-3 3h1V3h-1m3 3h-1V5h1m4 1h-1V5h1m-7 3h1V7h-1m4 1h1V7h-1m3 2h-1V8h-1v1h-1V8h-1v1h-1V8h-1v1h-1V8h-1V7h1V6h-1V5h1V4h-1V3h1V2h-1V1h1V0h1v1h-1v1h1v1h1v1h-1v1h-1v1h1v1h1v1h1V7h1V6h1v1h1v1h1V7h1v1h-1m1 4H10V0h2v10h10Z\"/>"
+		},
+		"box-light-down-left-stipple-outer": {
+			"body": "<path fill=\"currentColor\" d=\"M6 3H5V2h1m1 3h1V4H7M6 7H5V6h1m1 3h1V8H7m-1 3H5v-1h1m16 2H10V0h2v10h10M8 15H7v-1h1m5 1h1v-1h-1m4 1h1v-1h-1m1 2h-1v-1h-1v-1h-1v1h-1v1h-1v-1h-1v-1h-1v1h-1v1H9v-1h1v-1H9v-1H8v-1H7v1H6v-1h1v-1h1v-1H7V9H6V8h1V7h1V6H7V5H6V4h1V3h1V2H7V1H6V0h1v1h1V0h1v1H8v1h1v1H8v1h1v1H8v1h1v1H8v1h1v1H8v1h1v1H8v1h1v1h1v1h1v-1h1v1h1v-1h1v1h1v-1h1v1h1v-1h1v1h1v-1h1v1h1v-1h1v1h-1v1h-1v-1h-1v1h-1m-6 2h-1v-1h1m4 1h-1v-1h1m4 1h-1v-1h1Z\"/>"
+		},
 		"box-light-down-right": {
 			"body": "<path fill=\"currentColor\" d=\"M12 0v12H0v-2h10V0h2Z\"/>"
 		},
 		"box-light-down-right-circle": {
 			"body": "<path fill=\"currentColor\" d=\"M15 9v4h-1v1h-1v1H9v-1H8v-1H7v-1H0v-2h7V9h1V8h1V7h1V0h2v7h1v1h1v1h1m-3 4v-1h1v-2h-1V9h-2v1H9v2h1v1h2Z\"/>"
 		},
+		"box-light-down-right-stipple": {
+			"body": "<path fill=\"currentColor\" d=\"M17 2h-1V1h1M6 3H5V2h1m8 2h1V3h-1M3 6H2V5h1m4 0h1V4H7m10 2h-1V5h1M4 8h1V7H4m5 2H8V8H7v1H6V8H5v1H4V8H3v1H2V8H1v1H0V8h1V7H0V6h1v1h1v1h1V7h1V6h1v1h1v1h1V7h1V6H7V5H6V4h1V3h1V2H7V1H6V0h1v1h1V0h1v1H8v1h1v1H8v1h1v1H8v1h1v1H8v1h1m5 0h1V7h-1m3 3h-1V9h1m-3 3h1v-1h-1m3 3h-1v-1h1m-2 2h-1v-1h1M3 15h1v-1H3m4 1h1v-1H7m4 1h1v-1h-1m1 2h-1v-1h-1v-1H9v1H8v1H7v-1H6v-1H5v1H4v1H3v-1H2v-1H1v1H0v-1h1v-1h1v1h1v-1h1v1h1v-1h1v1h1v-1h1v1h1v-1h1v1h1v-1h1v-1H0v-2h10V0h2v12h1v-1h1v-1h-1V9h1V8h-1V7h1V6h-1V5h1V4h-1V3h1V2h-1V1h1V0h1v1h-1v1h1v1h1v1h-1v1h-1v1h1v1h1v1h-1v1h-1v1h1v1h1v1h-1v1h-1v-1h-1v1h-1v1h1v1h-1M2 17H1v-1h1m4 1H5v-1h1m4 1H9v-1h1m4 1h-1v-1h1Z\"/>"
+		},
+		"box-light-down-right-stipple-inner": {
+			"body": "<path fill=\"currentColor\" d=\"M6 3H5V2h1M3 6H2V5h1m4 0h1V4H7M4 8h1V7H4m5 2H8V8H7v1H6V8H5v1H4V8H3v1H2V8H1v1H0V8h1V7H0V6h1v1h1v1h1V7h1V6h1v1h1v1h1V7h1V6H7V5H6V4h1V3h1V2H7V1H6V0h1v1h1V0h1v1H8v1h1v1H8v1h1v1H8v1h1v1H8v1h1m3 4H0v-2h10V0h2Z\"/>"
+		},
+		"box-light-down-right-stipple-outer": {
+			"body": "<path fill=\"currentColor\" d=\"M17 2h-1V1h1m-3 3h1V3h-1m3 3h-1V5h1m-3 3h1V7h-1m3 3h-1V9h1m-3 3h1v-1h-1m3 3h-1v-1h1m-2 2h-1v-1h1M3 15h1v-1H3m4 1h1v-1H7m4 1h1v-1h-1m1 2h-1v-1h-1v-1H9v1H8v1H7v-1H6v-1H5v1H4v1H3v-1H2v-1H1v1H0v-1h1v-1h1v1h1v-1h1v1h1v-1h1v1h1v-1h1v1h1v-1h1v1h1v-1h1v-1H0v-2h10V0h2v12h1v-1h1v-1h-1V9h1V8h-1V7h1V6h-1V5h1V4h-1V3h1V2h-1V1h1V0h1v1h-1v1h1v1h1v1h-1v1h-1v1h1v1h1v1h-1v1h-1v1h1v1h1v1h-1v1h-1v-1h-1v1h-1v1h1v1h-1M2 17H1v-1h1m4 1H5v-1h1m4 1H9v-1h1m4 1h-1v-1h1Z\"/>"
+		},
+		"box-light-fold-down-left": {
+			"body": "<path fill=\"currentColor\" d=\"M18 9h1V3h-6v1h1v1h1v1h1v1h1v1h1m4 4h-3v-1h-1v-1h-1V9h-1V8h-1V7h-1V6h-1V5h-1V4h-1V3h-1V0h2v1h9v9h1Z\"/>"
+		},
+		"box-light-fold-down-right": {
+			"body": "<path fill=\"currentColor\" d=\"M3 9h1V8h1V7h1V6h1V5h1V4h1V3H3m0 9H0v-2h1V1h9V0h2v3h-1v1h-1v1H9v1H8v1H7v1H6v1H5v1H4v1H3Z\"/>"
+		},
+		"box-light-fold-up-left": {
+			"body": "<path fill=\"currentColor\" d=\"M12 22h-2v-3h1v-1h1v-1h1v-1h1v-1h1v-1h1v-1h1v-1h1v-1h1v-1h3v2h-1v9h-9m7-2v-6h-1v1h-1v1h-1v1h-1v1h-1v1h-1v1Z\"/>"
+		},
+		"box-light-fold-up-right": {
+			"body": "<path fill=\"currentColor\" d=\"M12 22h-2v-1H1v-9H0v-2h3v1h1v1h1v1h1v1h1v1h1v1h1v1h1v1h1v1h1m-3 0v-1H8v-1H7v-1H6v-1H5v-1H4v-1H3v6Z\"/>"
+		},
 		"box-light-horizontal": {
 			"body": "<path fill=\"currentColor\" d=\"M0 10h22v2H0v-2Z\"/>"
 		},
 		"box-light-horizontal-circle": {
 			"body": "<path fill=\"currentColor\" d=\"M13 15H9v-1H8v-1H7v-1H0v-2h7V9h1V8h1V7h4v1h1v1h1v1h7v2h-7v1h-1v1h-1m-1-1v-1h1v-2h-1V9h-2v1H9v2h1v1Z\"/>"
+		},
+		"box-light-horizontal-down": {
+			"body": "<path fill=\"currentColor\" d=\"M12 22h-2V12H0v-2h22v2H12Z\"/>"
+		},
+		"box-light-horizontal-down-stipple": {
+			"body": "<path fill=\"currentColor\" d=\"M3 6H2V5h1m4 1H6V5h1m5 1h-1V5h1m5 1h-1V5h1m4 1h-1V5h1M4 8h1V7H4m4 1h1V7H8m6 1h1V7h-1m4 1h1V7h-1m3 2h-1V8h-1v1h-1V8h-1v1h-1V8h-1v1h-1V8h-1v1h-1V8h-1v1h-1V8H9v1H8V8H7v1H6V8H5v1H4V8H3v1H2V8H1v1H0V8h1V7H0V6h1v1h1v1h1V7h1V6h1v1h1v1h1V7h1V6h1v1h1v1h1V7h1v1h1V7h1V6h1v1h1v1h1V7h1V6h1v1h1v1h1V7h1v1h-1M3 15h1v-1H3m4 1h1v-1H7m10 1h1v-1h-1M2 17H1v-1h1m4 1H5v-1h1m14 1h-1v-1h1m-6 2h1v-1h-1m-7 2h1v-1H7m10 2h-1v-1h1M6 21H5v-1h1m2 2H7v-1h1v-1H7v-1H6v-1h1v-1h1v-1H7v-1H6v-1H5v1H4v1H3v-1H2v-1H1v1H0v-1h1v-1h1v1h1v-1h1v1h1v-1h1v1h1v-1h1v1h1v1H8v1h1v1H8v1h1v1H8v1h1v1H8m4 1h-2V12H0v-2h22v2H12m4 10h-1v-1h-1v1h-1v-1h1v-1h-1v-1h1v-1h-1v-1h1v-1h-1v-1h1v-1h-1v-1h1v1h1v-1h1v1h1v-1h1v1h1v-1h1v1h1v-1h1v1h-1v1h1v1h-1v-1h-1v-1h-1v1h-1v1h-1v-1h-1v-1h-1v1h-1v1h1v1h1v1h-1v1h-1v1h1v1h1Z\"/>"
+		},
+		"box-light-horizontal-down-stipple-down": {
+			"body": "<path fill=\"currentColor\" d=\"M3 15h1v-1H3m4 1h1v-1H7m10 1h1v-1h-1M2 17H1v-1h1m4 1H5v-1h1m14 1h-1v-1h1m-6 2h1v-1h-1m-7 2h1v-1H7m10 2h-1v-1h1M6 21H5v-1h1m2 2H7v-1h1v-1H7v-1H6v-1h1v-1h1v-1H7v-1H6v-1H5v1H4v1H3v-1H2v-1H1v1H0v-1h1v-1h1v1h1v-1h1v1h1v-1h1v1h1v-1h1v1h1v1H8v1h1v1H8v1h1v1H8v1h1v1H8m4 1h-2V12H0v-2h22v2H12m4 10h-1v-1h-1v1h-1v-1h1v-1h-1v-1h1v-1h-1v-1h1v-1h-1v-1h1v-1h-1v-1h1v1h1v-1h1v1h1v-1h1v1h1v-1h1v1h1v-1h1v1h-1v1h1v1h-1v-1h-1v-1h-1v1h-1v1h-1v-1h-1v-1h-1v1h-1v1h1v1h1v1h-1v1h-1v1h1v1h1Z\"/>"
+		},
+		"box-light-horizontal-down-stipple-down-left": {
+			"body": "<path fill=\"currentColor\" d=\"M3 15h1v-1H3m4 1h1v-1H7m-5 3H1v-1h1m4 1H5v-1h1m1 3h1v-1H7m-1 3H5v-1h1m2 2H7v-1h1v-1H7v-1H6v-1h1v-1h1v-1H7v-1H6v-1H5v1H4v1H3v-1H2v-1H1v1H0v-1h1v-1h1v1h1v-1h1v1h1v-1h1v1h1v-1h1v1h1v1H8v1h1v1H8v1h1v1H8v1h1v1H8m4 1h-2V12H0v-2h22v2H12Z\"/>"
+		},
+		"box-light-horizontal-down-stipple-down-right": {
+			"body": "<path fill=\"currentColor\" d=\"M17 15h1v-1h-1m3 3h-1v-1h1m-6 2h1v-1h-1m3 3h-1v-1h1m-5 3h-2V12H0v-2h22v2H12m4 10h-1v-1h-1v1h-1v-1h1v-1h-1v-1h1v-1h-1v-1h1v-1h-1v-1h1v-1h-1v-1h1v1h1v-1h1v1h1v-1h1v1h1v-1h1v1h1v-1h1v1h-1v1h1v1h-1v-1h-1v-1h-1v1h-1v1h-1v-1h-1v-1h-1v1h-1v1h1v1h1v1h-1v1h-1v1h1v1h1Z\"/>"
 		},
 		"box-light-horizontal-menu-down": {
 			"body": "<path fill=\"currentColor\" d=\"M12 12h-2v-1H9v-1H8V9H7V8H6V7H5V5h12v2h-1v1h-1v1h-1v1h-1v1h-1m0 6h-2v-1H9v-1H8v-1H7v-1H6v-1H0v-2h7v1h1v1h1v1h1v1h2v-1h1v-1h1v-1h1v-1h7v2h-6v1h-1v1h-1v1h-1v1h-1m0-7V8h1V7H9v1h1v1Z\"/>"
@@ -491,17 +605,80 @@
 		"box-light-horizontal-menu-up": {
 			"body": "<path fill=\"currentColor\" d=\"M22 12h-7v-1h-1v-1h-1V9h-1V8h-2v1H9v1H8v1H7v1H0v-2h6V9h1V8h1V7h1V6h1V5h2v1h1v1h1v1h1v1h1v1h6m-5 7H5v-2h1v-1h1v-1h1v-1h1v-1h1v-1h2v1h1v1h1v1h1v1h1v1h1m-4 0v-1h-1v-1h-2v1H9v1Z\"/>"
 		},
+		"box-light-horizontal-stipple": {
+			"body": "<path fill=\"currentColor\" d=\"M3 6H2V5h1m4 1H6V5h1m5 1h-1V5h1m5 1h-1V5h1m4 1h-1V5h1M4 8h1V7H4m4 1h1V7H8m6 1h1V7h-1m4 1h1V7h-1m3 2h-1V8h-1v1h-1V8h-1v1h-1V8h-1v1h-1V8h-1v1h-1V8h-1v1h-1V8H9v1H8V8H7v1H6V8H5v1H4V8H3v1H2V8H1v1H0V8h1V7H0V6h1v1h1v1h1V7h1V6h1v1h1v1h1V7h1V6h1v1h1v1h1V7h1v1h1V7h1V6h1v1h1v1h1V7h1V6h1v1h1v1h1V7h1v1h-1m1 4H0v-2h22M3 15h1v-1H3m4 1h1v-1H7m6 1h1v-1h-1m4 1h1v-1h-1m5 2h-1v-1h-1v-1h-1v1h-1v1h-1v-1h-1v-1h-1v1h-1v1h-1v-1h-1v-1h-1v1h-1v-1H9v1H8v1H7v-1H6v-1H5v1H4v1H3v-1H2v-1H1v1H0v-1h1v-1h1v1h1v-1h1v1h1v-1h1v1h1v-1h1v1h1v-1h1v1h1v-1h1v1h1v-1h1v1h1v-1h1v1h1v-1h1v1h1v-1h1v1h1v-1h1v1h-1v1h1M2 17H1v-1h1m4 1H5v-1h1m5 1h-1v-1h1m5 1h-1v-1h1m4 1h-1v-1h1Z\"/>"
+		},
+		"box-light-horizontal-stipple-down": {
+			"body": "<path fill=\"currentColor\" d=\"M22 12H0v-2h22M3 15h1v-1H3m4 1h1v-1H7m6 1h1v-1h-1m4 1h1v-1h-1m5 2h-1v-1h-1v-1h-1v1h-1v1h-1v-1h-1v-1h-1v1h-1v1h-1v-1h-1v-1h-1v1h-1v-1H9v1H8v1H7v-1H6v-1H5v1H4v1H3v-1H2v-1H1v1H0v-1h1v-1h1v1h1v-1h1v1h1v-1h1v1h1v-1h1v1h1v-1h1v1h1v-1h1v1h1v-1h1v1h1v-1h1v1h1v-1h1v1h1v-1h1v1h1v-1h1v1h-1v1h1M2 17H1v-1h1m4 1H5v-1h1m5 1h-1v-1h1m5 1h-1v-1h1m4 1h-1v-1h1Z\"/>"
+		},
+		"box-light-horizontal-stipple-up": {
+			"body": "<path fill=\"currentColor\" d=\"M3 6H2V5h1m4 1H6V5h1m5 1h-1V5h1m5 1h-1V5h1m4 1h-1V5h1M4 8h1V7H4m4 1h1V7H8m6 1h1V7h-1m4 1h1V7h-1m3 2h-1V8h-1v1h-1V8h-1v1h-1V8h-1v1h-1V8h-1v1h-1V8h-1v1h-1V8H9v1H8V8H7v1H6V8H5v1H4V8H3v1H2V8H1v1H0V8h1V7H0V6h1v1h1v1h1V7h1V6h1v1h1v1h1V7h1V6h1v1h1v1h1V7h1v1h1V7h1V6h1v1h1v1h1V7h1V6h1v1h1v1h1V7h1v1h-1m1 4H0v-2h22Z\"/>"
+		},
+		"box-light-horizontal-up": {
+			"body": "<path fill=\"currentColor\" d=\"M22 12H0v-2h10V0h2v10h10Z\"/>"
+		},
+		"box-light-horizontal-up-stipple": {
+			"body": "<path fill=\"currentColor\" d=\"M17 2h-1V1h1M6 3H5V2h1m8 2h1V3h-1M3 6H2V5h1m4 0h1V4H7m10 2h-1V5h1m4 1h-1V5h1M4 8h1V7H4m5 2H8V8H7v1H6V8H5v1H4V8H3v1H2V8H1v1H0V8h1V7H0V6h1v1h1v1h1V7h1V6h1v1h1v1h1V7h1V6H7V5H6V4h1V3h1V2H7V1H6V0h1v1h1V0h1v1H8v1h1v1H8v1h1v1H8v1h1v1H8v1h1m5 0h1V7h-1m4 1h1V7h-1m3 2h-1V8h-1v1h-1V8h-1v1h-1V8h-1v1h-1V8h-1V7h1V6h-1V5h1V4h-1V3h1V2h-1V1h1V0h1v1h-1v1h1v1h1v1h-1v1h-1v1h1v1h1v1h1V7h1V6h1v1h1v1h1V7h1v1h-1m1 4H0v-2h10V0h2v10h10M3 15h1v-1H3m4 1h1v-1H7m6 1h1v-1h-1m4 1h1v-1h-1m5 2h-1v-1h-1v-1h-1v1h-1v1h-1v-1h-1v-1h-1v1h-1v1h-1v-1h-1v-1h-1v1h-1v-1H9v1H8v1H7v-1H6v-1H5v1H4v1H3v-1H2v-1H1v1H0v-1h1v-1h1v1h1v-1h1v1h1v-1h1v1h1v-1h1v1h1v-1h1v1h1v-1h1v1h1v-1h1v1h1v-1h1v1h1v-1h1v1h1v-1h1v1h1v-1h1v1h-1v1h1M2 17H1v-1h1m4 1H5v-1h1m5 1h-1v-1h1m5 1h-1v-1h1m4 1h-1v-1h1Z\"/>"
+		},
+		"box-light-horizontal-up-stipple-down": {
+			"body": "<path fill=\"currentColor\" d=\"M22 12H0v-2h10V0h2v10h10M3 15h1v-1H3m4 1h1v-1H7m6 1h1v-1h-1m4 1h1v-1h-1m5 2h-1v-1h-1v-1h-1v1h-1v1h-1v-1h-1v-1h-1v1h-1v1h-1v-1h-1v-1h-1v1h-1v-1H9v1H8v1H7v-1H6v-1H5v1H4v1H3v-1H2v-1H1v1H0v-1h1v-1h1v1h1v-1h1v1h1v-1h1v1h1v-1h1v1h1v-1h1v1h1v-1h1v1h1v-1h1v1h1v-1h1v1h1v-1h1v1h1v-1h1v1h1v-1h1v1h-1v1h1M2 17H1v-1h1m4 1H5v-1h1m5 1h-1v-1h1m5 1h-1v-1h1m4 1h-1v-1h1Z\"/>"
+		},
+		"box-light-horizontal-up-stipple-up": {
+			"body": "<path fill=\"currentColor\" d=\"M17 2h-1V1h1M6 3H5V2h1m8 2h1V3h-1M3 6H2V5h1m4 0h1V4H7m10 2h-1V5h1m4 1h-1V5h1M4 8h1V7H4m5 2H8V8H7v1H6V8H5v1H4V8H3v1H2V8H1v1H0V8h1V7H0V6h1v1h1v1h1V7h1V6h1v1h1v1h1V7h1V6H7V5H6V4h1V3h1V2H7V1H6V0h1v1h1V0h1v1H8v1h1v1H8v1h1v1H8v1h1v1H8v1h1m5 0h1V7h-1m4 1h1V7h-1m3 2h-1V8h-1v1h-1V8h-1v1h-1V8h-1v1h-1V8h-1V7h1V6h-1V5h1V4h-1V3h1V2h-1V1h1V0h1v1h-1v1h1v1h1v1h-1v1h-1v1h1v1h1v1h1V7h1V6h1v1h1v1h1V7h1v1h-1m1 4H0v-2h10V0h2v10h10Z\"/>"
+		},
+		"box-light-horizontal-up-stipple-up-left": {
+			"body": "<path fill=\"currentColor\" d=\"M6 3H5V2h1M3 6H2V5h1m4 0h1V4H7M4 8h1V7H4m5 2H8V8H7v1H6V8H5v1H4V8H3v1H2V8H1v1H0V8h1V7H0V6h1v1h1v1h1V7h1V6h1v1h1v1h1V7h1V6H7V5H6V4h1V3h1V2H7V1H6V0h1v1h1V0h1v1H8v1h1v1H8v1h1v1H8v1h1v1H8v1h1m13 4H0v-2h10V0h2v10h10Z\"/>"
+		},
+		"box-light-horizontal-up-stipple-up-right": {
+			"body": "<path fill=\"currentColor\" d=\"M17 2h-1V1h1m-3 3h1V3h-1m3 3h-1V5h1m4 1h-1V5h1m-7 3h1V7h-1m4 1h1V7h-1m3 2h-1V8h-1v1h-1V8h-1v1h-1V8h-1v1h-1V8h-1V7h1V6h-1V5h1V4h-1V3h1V2h-1V1h1V0h1v1h-1v1h1v1h1v1h-1v1h-1v1h1v1h1v1h1V7h1V6h1v1h1v1h1V7h1v1h-1m1 4H0v-2h10V0h2v10h10Z\"/>"
+		},
 		"box-light-round-down-left": {
 			"body": "<path fill=\"currentColor\" d=\"M22 12h-4v-1h-3v-1h-1V9h-1V8h-1V7h-1V4h-1V0h2v3h1v3h1v1h1v1h1v1h3v1h3v2Z\"/>"
+		},
+		"box-light-round-down-left-stipple": {
+			"body": "<path fill=\"currentColor\" d=\"M6 3H5V2h1m12 1h-1V2h1m2 3h-1V4h1M7 5h1V4H7m8 1h1V4h-1M8 6h1V5H8m13 4h-1V8h-1V7h-1v1h-1V7h-1V6h-1V5h-1V4h1V3h-1V2h-1V1h1V0h1v1h-1v1h1v1h1v1h1v1h-1v1h1v1h1V6h1v1h1v1h1V7h1v1h-1M9 10H8V9h1m13 3h-4v-1h-3v-1h-1V9h-1V8h-1V7h-1V4h-1V0h2v3h1v3h1v1h1v1h1v1h3v1h3m-10 3h-1v-1h1m4 2h1v-1h-1m-1 3h-1v-1h1m2 0h1v-1h-1m5 2h-1v-1h-1v-1h-1v1h-1v1h-1v-1h-1v-1h-1v-1h-1v1h-1v-1h1v-1h-1v-1h-1v-1h-1v1h-1v-1h1V9h-1V8H9V7H8v1H7V7h1V6H7V5H6V4h1V3h1V2H7V1H6V0h1v1h1V0h1v1H8v1h1v1H8v1h1v1h1v1H9v1h1v1h1v1h1v1h1v1h1v1h1v1h1v-1h1v1h1v1h1v-1h1v1h1v-1h1v1h-1v1h1m-2 2h-1v-1h1Z\"/>"
+		},
+		"box-light-round-down-left-stipple-inner": {
+			"body": "<path fill=\"currentColor\" d=\"M18 3h-1V2h1m2 3h-1V4h1m-5 1h1V4h-1m6 5h-1V8h-1V7h-1v1h-1V7h-1V6h-1V5h-1V4h1V3h-1V2h-1V1h1V0h1v1h-1v1h1v1h1v1h1v1h-1v1h1v1h1V6h1v1h1v1h1V7h1v1h-1m1 4h-4v-1h-3v-1h-1V9h-1V8h-1V7h-1V4h-1V0h2v3h1v3h1v1h1v1h1v1h3v1h3Z\"/>"
+		},
+		"box-light-round-down-left-stipple-outer": {
+			"body": "<path fill=\"currentColor\" d=\"M6 3H5V2h1m1 3h1V4H7m1 2h1V5H8m1 5H8V9h1m13 3h-4v-1h-3v-1h-1V9h-1V8h-1V7h-1V4h-1V0h2v3h1v3h1v1h1v1h1v1h3v1h3m-10 3h-1v-1h1m4 2h1v-1h-1m-1 3h-1v-1h1m2 0h1v-1h-1m5 2h-1v-1h-1v-1h-1v1h-1v1h-1v-1h-1v-1h-1v-1h-1v1h-1v-1h1v-1h-1v-1h-1v-1h-1v1h-1v-1h1V9h-1V8H9V7H8v1H7V7h1V6H7V5H6V4h1V3h1V2H7V1H6V0h1v1h1V0h1v1H8v1h1v1H8v1h1v1h1v1H9v1h1v1h1v1h1v1h1v1h1v1h1v1h1v-1h1v1h1v1h1v-1h1v1h1v-1h1v1h-1v1h1m-2 2h-1v-1h1Z\"/>"
 		},
 		"box-light-round-down-right": {
 			"body": "<path fill=\"currentColor\" d=\"M12 0v4h-1v3h-1v1H9v1H8v1H7v1H4v1H0v-2h3V9h3V8h1V7h1V6h1V3h1V0h2Z\"/>"
 		},
+		"box-light-round-down-right-stipple": {
+			"body": "<path fill=\"currentColor\" d=\"M5 2H4V1h1m12 1h-1V1h1M2 5H1V4h1m4 0h1V3H6m8 1h1V3h-1m2 4h-1V6h1M3 7h1V6H3M1 9H0V8h1V7h1V6h1V5h1v1h1V5h1V4H5V3h1V2h1V1h1V0h1v1H8v1H7v1h1v1H7v1H6v1H5v1H4v1H3V7H2v1H1m13 3h-1v-1h1M4 12H0v-2h3V9h3V8h1V7h1V6h1V3h1V0h2v4h-1v3h-1v1H9v1H8v1H7v1H4m7 3h-1v-1h1m-5 1h1v-1H6m-3 2h1v-1H3m1 2H3v-1H2v-1H1v1H0v-1h1v-1h1v1h1v-1h1v1h1v-1h1v-1h1v1h1v-1h1v-1h1v-1h1V9h1V8h1V7h-1V6h1V5h1V4h-1V3h1V2h-1V1h1V0h1v1h-1v1h1v1h1v1h-1v1h-1v1h-1v1h1v1h-1v1h-1v1h-1v1h1v1h-1v-1h-1v1H9v1H8v1H7v1H6v-1H5v1H4m5 1H8v-1h1m-7 2H1v-1h1m4 1H5v-1h1Z\"/>"
+		},
+		"box-light-round-down-right-stipple-inner": {
+			"body": "<path fill=\"currentColor\" d=\"M5 2H4V1h1M2 5H1V4h1m4 0h1V3H6M3 7h1V6H3M1 9H0V8h1V7h1V6h1V5h1v1h1V5h1V4H5V3h1V2h1V1h1V0h1v1H8v1H7v1h1v1H7v1H6v1H5v1H4v1H3V7H2v1H1m3 4H0v-2h3V9h3V8h1V7h1V6h1V3h1V0h2v4h-1v3h-1v1H9v1H8v1H7v1H4Z\"/>"
+		},
+		"box-light-round-down-right-stipple-outer": {
+			"body": "<path fill=\"currentColor\" d=\"M17 2h-1V1h1m-3 3h1V3h-1m2 4h-1V6h1m-2 5h-1v-1h1M4 12H0v-2h3V9h3V8h1V7h1V6h1V3h1V0h2v4h-1v3h-1v1H9v1H8v1H7v1H4m7 3h-1v-1h1m-5 1h1v-1H6m-3 2h1v-1H3m1 2H3v-1H2v-1H1v1H0v-1h1v-1h1v1h1v-1h1v1h1v-1h1v-1h1v1h1v-1h1v-1h1v-1h1V9h1V8h1V7h-1V6h1V5h1V4h-1V3h1V2h-1V1h1V0h1v1h-1v1h1v1h1v1h-1v1h-1v1h-1v1h1v1h-1v1h-1v1h-1v1h1v1h-1v-1h-1v1H9v1H8v1H7v1H6v-1H5v1H4m5 1H8v-1h1m-7 2H1v-1h1m4 1H5v-1h1Z\"/>"
+		},
 		"box-light-round-up-left": {
 			"body": "<path fill=\"currentColor\" d=\"M10 22v-4h1v-3h1v-1h1v-1h1v-1h1v-1h3v-1h4v2h-3v1h-3v1h-1v1h-1v1h-1v3h-1v3h-2Z\"/>"
 		},
+		"box-light-round-up-left-stipple": {
+			"body": "<path fill=\"currentColor\" d=\"M17 6h-1V5h1m4 1h-1V5h1m-7 2h-1V6h1m-2 3h-1V8h1m6 0h1V7h-1m-3 2h1V8h-1m-6 4H8v-1h1m-2 5H6v-1h1m11 1h1v-1h-1m3 3h-1v-1h1M7 19h1v-1H7m8 1h1v-1h-1m-9 3H5v-1h1m12 1h-1v-1h1M8 22H7v-1h1v-1H7v-1H6v-1h1v-1h1v-1h1v-1H8v-1h1v-1h1v-1h1v-1h-1v-1h1v1h1v-1h1V9h1V8h1V7h1v1h1V7h1V6h1v1h1v1h1V7h1v1h-1v1h-1V8h-1v1h-1V8h-1v1h-1v1h-1V9h-1v1h-1v1h-1v1h-1v1h-1v1H9v1h1v1H9v1H8v1h1v1H8v1h1v1H8m4 1h-2v-4h1v-3h1v-1h1v-1h1v-1h1v-1h3v-1h4v2h-3v1h-3v1h-1v1h-1v1h-1v3h-1m2 3h-1v-1h1v-1h1v-1h-1v-1h1v-1h1v-1h1v-1h1v-1h1v1h1v-1h1v-1h1v1h-1v1h-1v1h-1v1h-1v-1h-1v1h-1v1h1v1h-1v1h-1v1h-1Z\"/>"
+		},
+		"box-light-round-up-left-stipple-inner": {
+			"body": "<path fill=\"currentColor\" d=\"M18 16h1v-1h-1m3 3h-1v-1h1m-6 2h1v-1h-1m3 3h-1v-1h1m-6 2h-2v-4h1v-3h1v-1h1v-1h1v-1h1v-1h3v-1h4v2h-3v1h-3v1h-1v1h-1v1h-1v3h-1m2 3h-1v-1h1v-1h1v-1h-1v-1h1v-1h1v-1h1v-1h1v-1h1v1h1v-1h1v-1h1v1h-1v1h-1v1h-1v1h-1v-1h-1v1h-1v1h1v1h-1v1h-1v1h-1Z\"/>"
+		},
+		"box-light-round-up-left-stipple-outer": {
+			"body": "<path fill=\"currentColor\" d=\"M17 6h-1V5h1m4 1h-1V5h1m-7 2h-1V6h1m-2 3h-1V8h1m6 0h1V7h-1m-3 2h1V8h-1m-6 4H8v-1h1m-2 5H6v-1h1m0 4h1v-1H7m-1 3H5v-1h1m2 2H7v-1h1v-1H7v-1H6v-1h1v-1h1v-1h1v-1H8v-1h1v-1h1v-1h1v-1h-1v-1h1v1h1v-1h1V9h1V8h1V7h1v1h1V7h1V6h1v1h1v1h1V7h1v1h-1v1h-1V8h-1v1h-1V8h-1v1h-1v1h-1V9h-1v1h-1v1h-1v1h-1v1h-1v1H9v1h1v1H9v1H8v1h1v1H8v1h1v1H8m4 1h-2v-4h1v-3h1v-1h1v-1h1v-1h1v-1h3v-1h4v2h-3v1h-3v1h-1v1h-1v1h-1v3h-1Z\"/>"
+		},
 		"box-light-round-up-right": {
 			"body": "<path fill=\"currentColor\" d=\"M0 10h4v1h3v1h1v1h1v1h1v1h1v3h1v4h-2v-3H9v-3H8v-1H7v-1H6v-1H3v-1H0v-2Z\"/>"
+		},
+		"box-light-round-up-right-stipple": {
+			"body": "<path fill=\"currentColor\" d=\"M3 6H2V5h1m5 2H7V6h1M4 8h1V7H4m1 2h1V8H5m6 2h-1V9h1m3 4h-1v-1h1M3 18H2v-1h1m10 0h1v-1h-1m-7 2h1v-1H6m8 1h1v-1h-1m-9 3H4v-1h1m12 1h-1v-1h1m-9 3H7v-1h1v-1H7v-1H6v-1H5v-1h1v-1H5v-1H4v1H3v-1H2v-1H1v1H0v-1h1v-1h1v1h1v1h1v-1h1v1h1v1h1v1h1v1H7v1h1v1h1v1H8m4 1h-2v-3H9v-3H8v-1H7v-1H6v-1H3v-1H0v-2h4v1h3v1h1v1h1v1h1v1h1v3h1m4 4h-1v-1h-1v1h-1v-1h1v-1h-1v-1h1v-1h-1v-1h-1v-1h1v-1h-1v-1h-1v-1h-1v-1H9v-1H8v-1H7V9H6v1H5V9H4V8H3v1H2V8H1v1H0V8h1V7H0V6h1v1h1v1h1V7h1V6h1v1h1v1h1v1h1V8h1v1H8v1h1v1h1v1h1v-1h1v1h-1v1h1v1h1v1h1v-1h1v1h-1v1h1v1h1v1h-1v1h-1v1h1v1h1Z\"/>"
+		},
+		"box-light-round-up-right-stipple-inner": {
+			"body": "<path fill=\"currentColor\" d=\"M3 18H2v-1h1m3 1h1v-1H6m-1 3H4v-1h1m3 3H7v-1h1v-1H7v-1H6v-1H5v-1h1v-1H5v-1H4v1H3v-1H2v-1H1v1H0v-1h1v-1h1v1h1v1h1v-1h1v1h1v1h1v1h1v1H7v1h1v1h1v1H8m4 1h-2v-3H9v-3H8v-1H7v-1H6v-1H3v-1H0v-2h4v1h3v1h1v1h1v1h1v1h1v3h1Z\"/>"
+		},
+		"box-light-round-up-right-stipple-outer": {
+			"body": "<path fill=\"currentColor\" d=\"M3 6H2V5h1m5 2H7V6h1M4 8h1V7H4m1 2h1V8H5m6 2h-1V9h1m3 4h-1v-1h1m-1 5h1v-1h-1m1 2h1v-1h-1m3 3h-1v-1h1m-5 3h-2v-3H9v-3H8v-1H7v-1H6v-1H3v-1H0v-2h4v1h3v1h1v1h1v1h1v1h1v3h1m4 4h-1v-1h-1v1h-1v-1h1v-1h-1v-1h1v-1h-1v-1h-1v-1h1v-1h-1v-1h-1v-1h-1v-1H9v-1H8v-1H7V9H6v1H5V9H4V8H3v1H2V8H1v1H0V8h1V7H0V6h1v1h1v1h1V7h1V6h1v1h1v1h1v1h1V8h1v1H8v1h1v1h1v1h1v-1h1v1h-1v1h1v1h1v1h1v-1h1v1h-1v1h1v1h1v1h-1v1h-1v1h1v1h1Z\"/>"
 		},
 		"box-light-up-left": {
 			"body": "<path fill=\"currentColor\" d=\"M10 22V10h12v2H12v10h-2Z\"/>"
@@ -509,17 +686,89 @@
 		"box-light-up-left-circle": {
 			"body": "<path fill=\"currentColor\" d=\"M7 13V9h1V8h1V7h4v1h1v1h1v1h7v2h-7v1h-1v1h-1v1h-1v7h-2v-7H9v-1H8v-1H7m3-4v1H9v2h1v1h2v-1h1v-2h-1V9h-2Z\"/>"
 		},
+		"box-light-up-left-stipple": {
+			"body": "<path fill=\"currentColor\" d=\"M9 6H8V5h1m4 1h-1V5h1m4 1h-1V5h1m4 1h-1V5h1M8 8H7V7h1M6 9H5V8h1m4 0h1V7h-1m4 1h1V7h-1m4 1h1V7h-1M7 11h1v-1H7m-1 3H5v-1h1m1 3h1v-1H7m10 1h1v-1h-1M6 17H5v-1h1m14 1h-1v-1h1m-6 2h1v-1h-1m-7 2h1v-1H7m10 2h-1v-1h1M6 21H5v-1h1m6 2h-2V10H9v1H8v1h1v1H8v1h1v1H8v1h1v1H8v1h1v1H8v1h1v1H8v1H7v-1h1v-1H7v-1H6v-1h1v-1h1v-1H7v-1H6v-1h1v-1h1v-1H7v-1H6v-1h1V9h1v1h1V9h1V8H9V7h1V6h1v1h1v1h1V7h1V6h1v1h1v1h1V7h1V6h1v1h1v1h1V7h1v1h-1v1h-1V8h-1v1h-1V8h-1v1h-1V8h-1v1h-1V8h-1v1h-1V8h-1v1h-1v1h12v2H12m4 10h-1v-1h-1v1h-1v-1h1v-1h-1v-1h1v-1h-1v-1h1v-1h-1v-1h1v-1h-1v-1h1v1h1v-1h1v1h1v-1h1v1h1v-1h1v1h1v-1h1v1h-1v1h1v1h-1v-1h-1v-1h-1v1h-1v1h-1v-1h-1v-1h-1v1h-1v1h1v1h1v1h-1v1h-1v1h1v1h1Z\"/>"
+		},
+		"box-light-up-left-stipple-inner": {
+			"body": "<path fill=\"currentColor\" d=\"M17 15h1v-1h-1m3 3h-1v-1h1m-6 2h1v-1h-1m3 3h-1v-1h1m-5 3h-2V10h12v2H12m4 10h-1v-1h-1v1h-1v-1h1v-1h-1v-1h1v-1h-1v-1h1v-1h-1v-1h1v-1h-1v-1h1v1h1v-1h1v1h1v-1h1v1h1v-1h1v1h1v-1h1v1h-1v1h1v1h-1v-1h-1v-1h-1v1h-1v1h-1v-1h-1v-1h-1v1h-1v1h1v1h1v1h-1v1h-1v1h1v1h1Z\"/>"
+		},
+		"box-light-up-left-stipple-outer": {
+			"body": "<path fill=\"currentColor\" d=\"M9 6H8V5h1m4 1h-1V5h1m4 1h-1V5h1m4 1h-1V5h1M8 8H7V7h1M6 9H5V8h1m4 0h1V7h-1m4 1h1V7h-1m4 1h1V7h-1M7 11h1v-1H7m-1 3H5v-1h1m1 3h1v-1H7m-1 3H5v-1h1m1 3h1v-1H7m-1 3H5v-1h1m6 2h-2V10H9v1H8v1h1v1H8v1h1v1H8v1h1v1H8v1h1v1H8v1h1v1H8v1H7v-1h1v-1H7v-1H6v-1h1v-1h1v-1H7v-1H6v-1h1v-1h1v-1H7v-1H6v-1h1V9h1v1h1V9h1V8H9V7h1V6h1v1h1v1h1V7h1V6h1v1h1v1h1V7h1V6h1v1h1v1h1V7h1v1h-1v1h-1V8h-1v1h-1V8h-1v1h-1V8h-1v1h-1V8h-1v1h-1V8h-1v1h-1v1h12v2H12Z\"/>"
+		},
 		"box-light-up-right": {
 			"body": "<path fill=\"currentColor\" d=\"M0 10h12v12h-2V12H0v-2Z\"/>"
 		},
 		"box-light-up-right-circle": {
 			"body": "<path fill=\"currentColor\" d=\"M9 7h4v1h1v1h1v4h-1v1h-1v1h-1v7h-2v-7H9v-1H8v-1H7v-1H0v-2h7V9h1V8h1V7m4 3h-1V9h-2v1H9v2h1v1h2v-1h1v-2Z\"/>"
 		},
+		"box-light-up-right-stipple": {
+			"body": "<path fill=\"currentColor\" d=\"M3 6H2V5h1m4 1H6V5h1m4 1h-1V5h1m4 3h-1V7h1M4 8h1V7H4m4 1h1V7H8m9 5h-1v-1h1m-3 3h1v-1h-1M3 15h1v-1H3m4 1h1v-1H7m10 2h-1v-1h1M2 17H1v-1h1m4 1H5v-1h1m8 2h1v-1h-1m-7 2h1v-1H7m10 2h-1v-1h1M6 21H5v-1h1m2 2H7v-1h1v-1H7v-1H6v-1h1v-1h1v-1H7v-1H6v-1H5v1H4v1H3v-1H2v-1H1v1H0v-1h1v-1h1v1h1v-1h1v1h1v-1h1v1h1v-1h1v1h1v1H8v1h1v1H8v1h1v1H8v1h1v1H8m4 1h-2V12H0v-2h12m4 12h-1v-1h-1v1h-1v-1h1v-1h-1v-1h1v-1h-1v-1h1v-1h-1v-1h1v-1h-1v-1h1v-1h-1v-1h1v-1h-1V9h-1V8h-1v1h-1V8H9v1H8V8H7v1H6V8H5v1H4V8H3v1H2V8H1v1H0V8h1V7h1v1h1V7h1V6h1v1h1v1h1V7h1V6h1v1h1v1h1V7h1V6h1v1h-1v1h1v1h1v1h1V9h1v1h-1v1h-1v1h1v1h1v1h-1v1h-1v1h1v1h1v1h-1v1h-1v1h1v1h1Z\"/>"
+		},
+		"box-light-up-right-stipple-inner": {
+			"body": "<path fill=\"currentColor\" d=\"M3 15h1v-1H3m4 1h1v-1H7m-5 3H1v-1h1m4 1H5v-1h1m1 3h1v-1H7m-1 3H5v-1h1m2 2H7v-1h1v-1H7v-1H6v-1h1v-1h1v-1H7v-1H6v-1H5v1H4v1H3v-1H2v-1H1v1H0v-1h1v-1h1v1h1v-1h1v1h1v-1h1v1h1v-1h1v1h1v1H8v1h1v1H8v1h1v1H8v1h1v1H8m4 1h-2V12H0v-2h12Z\"/>"
+		},
+		"box-light-up-right-stipple-outer": {
+			"body": "<path fill=\"currentColor\" d=\"M3 6H2V5h1m4 1H6V5h1m4 1h-1V5h1m4 3h-1V7h1M4 8h1V7H4m4 1h1V7H8m9 5h-1v-1h1m-3 3h1v-1h-1m3 3h-1v-1h1m-3 3h1v-1h-1m3 3h-1v-1h1m-5 3h-2V12H0v-2h12m4 12h-1v-1h-1v1h-1v-1h1v-1h-1v-1h1v-1h-1v-1h1v-1h-1v-1h1v-1h-1v-1h1v-1h-1v-1h1v-1h-1V9h-1V8h-1v1h-1V8H9v1H8V8H7v1H6V8H5v1H4V8H3v1H2V8H1v1H0V8h1V7h1v1h1V7h1V6h1v1h1v1h1V7h1V6h1v1h1v1h1V7h1V6h1v1h-1v1h1v1h1v1h1V9h1v1h-1v1h-1v1h1v1h1v1h-1v1h-1v1h1v1h1v1h-1v1h-1v1h1v1h1Z\"/>"
+		},
 		"box-light-vertical": {
 			"body": "<path fill=\"currentColor\" d=\"M12 0v22h-2V0h2Z\"/>"
 		},
 		"box-light-vertical-circle": {
 			"body": "<path fill=\"currentColor\" d=\"M12 22h-2v-7H9v-1H8v-1H7V9h1V8h1V7h1V0h2v7h1v1h1v1h1v4h-1v1h-1v1h-1m0-2v-1h1v-2h-1V9h-2v1H9v2h1v1Z\"/>"
+		},
+		"box-light-vertical-horizontal-stipple": {
+			"body": "<path fill=\"currentColor\" d=\"M17 2h-1V1h1M6 3H5V2h1m8 2h1V3h-1M3 6H2V5h1m4 0h1V4H7m10 2h-1V5h1m4 1h-1V5h1M4 8h1V7H4m5 2H8V8H7v1H6V8H5v1H4V8H3v1H2V8H1v1H0V8h1V7H0V6h1v1h1v1h1V7h1V6h1v1h1v1h1V7h1V6H7V5H6V4h1V3h1V2H7V1H6V0h1v1h1V0h1v1H8v1h1v1H8v1h1v1H8v1h1v1H8v1h1m5 0h1V7h-1m4 1h1V7h-1m3 2h-1V8h-1v1h-1V8h-1v1h-1V8h-1v1h-1V8h-1V7h1V6h-1V5h1V4h-1V3h1V2h-1V1h1V0h1v1h-1v1h1v1h1v1h-1v1h-1v1h1v1h1v1h1V7h1V6h1v1h1v1h1V7h1v1h-1M3 15h1v-1H3m4 1h1v-1H7m10 1h1v-1h-1M2 17H1v-1h1m4 1H5v-1h1m14 1h-1v-1h1m-6 2h1v-1h-1m-7 2h1v-1H7m10 2h-1v-1h1M6 21H5v-1h1m2 2H7v-1h1v-1H7v-1H6v-1h1v-1h1v-1H7v-1H6v-1H5v1H4v1H3v-1H2v-1H1v1H0v-1h1v-1h1v1h1v-1h1v1h1v-1h1v1h1v-1h1v1h1v1H8v1h1v1H8v1h1v1H8v1h1v1H8m4 1h-2V12H0v-2h10V0h2v10h10v2H12m4 10h-1v-1h-1v1h-1v-1h1v-1h-1v-1h1v-1h-1v-1h1v-1h-1v-1h1v-1h-1v-1h1v1h1v-1h1v1h1v-1h1v1h1v-1h1v1h1v-1h1v1h-1v1h1v1h-1v-1h-1v-1h-1v1h-1v1h-1v-1h-1v-1h-1v1h-1v1h1v1h1v1h-1v1h-1v1h1v1h1Z\"/>"
+		},
+		"box-light-vertical-horizontal-stipple-down": {
+			"body": "<path fill=\"currentColor\" d=\"M3 15h1v-1H3m4 1h1v-1H7m10 1h1v-1h-1M2 17H1v-1h1m4 1H5v-1h1m14 1h-1v-1h1m-6 2h1v-1h-1m-7 2h1v-1H7m10 2h-1v-1h1M6 21H5v-1h1m2 2H7v-1h1v-1H7v-1H6v-1h1v-1h1v-1H7v-1H6v-1H5v1H4v1H3v-1H2v-1H1v1H0v-1h1v-1h1v1h1v-1h1v1h1v-1h1v1h1v-1h1v1h1v1H8v1h1v1H8v1h1v1H8v1h1v1H8m4 1h-2V12H0v-2h10V0h2v10h10v2H12m4 10h-1v-1h-1v1h-1v-1h1v-1h-1v-1h1v-1h-1v-1h1v-1h-1v-1h1v-1h-1v-1h1v1h1v-1h1v1h1v-1h1v1h1v-1h1v1h1v-1h1v1h-1v1h1v1h-1v-1h-1v-1h-1v1h-1v1h-1v-1h-1v-1h-1v1h-1v1h1v1h1v1h-1v1h-1v1h1v1h1Z\"/>"
+		},
+		"box-light-vertical-horizontal-stipple-down-left": {
+			"body": "<path fill=\"currentColor\" d=\"M17 15h1v-1h-1m3 3h-1v-1h1m-6 2h1v-1h-1m3 3h-1v-1h1m-5 3h-2V12H0v-2h10V0h2v10h10v2H12m4 10h-1v-1h-1v1h-1v-1h1v-1h-1v-1h1v-1h-1v-1h1v-1h-1v-1h1v-1h-1v-1h1v1h1v-1h1v1h1v-1h1v1h1v-1h1v1h1v-1h1v1h-1v1h1v1h-1v-1h-1v-1h-1v1h-1v1h-1v-1h-1v-1h-1v1h-1v1h1v1h1v1h-1v1h-1v1h1v1h1Z\"/>"
+		},
+		"box-light-vertical-horizontal-stipple-down-right": {
+			"body": "<path fill=\"currentColor\" d=\"M3 15h1v-1H3m4 1h1v-1H7m-5 3H1v-1h1m4 1H5v-1h1m1 3h1v-1H7m-1 3H5v-1h1m2 2H7v-1h1v-1H7v-1H6v-1h1v-1h1v-1H7v-1H6v-1H5v1H4v1H3v-1H2v-1H1v1H0v-1h1v-1h1v1h1v-1h1v1h1v-1h1v1h1v-1h1v1h1v1H8v1h1v1H8v1h1v1H8v1h1v1H8m4 1h-2V12H0v-2h10V0h2v10h10v2H12Z\"/>"
+		},
+		"box-light-vertical-horizontal-stipple-left": {
+			"body": "<path fill=\"currentColor\" d=\"M6 3H5V2h1M3 6H2V5h1m4 0h1V4H7M4 8h1V7H4m5 2H8V8H7v1H6V8H5v1H4V8H3v1H2V8H1v1H0V8h1V7H0V6h1v1h1v1h1V7h1V6h1v1h1v1h1V7h1V6H7V5H6V4h1V3h1V2H7V1H6V0h1v1h1V0h1v1H8v1h1v1H8v1h1v1H8v1h1v1H8v1h1m-6 7h1v-1H3m4 1h1v-1H7m-5 3H1v-1h1m4 1H5v-1h1m1 3h1v-1H7m-1 3H5v-1h1m2 2H7v-1h1v-1H7v-1H6v-1h1v-1h1v-1H7v-1H6v-1H5v1H4v1H3v-1H2v-1H1v1H0v-1h1v-1h1v1h1v-1h1v1h1v-1h1v1h1v-1h1v1h1v1H8v1h1v1H8v1h1v1H8v1h1v1H8m4 1h-2V12H0v-2h10V0h2v10h10v2H12Z\"/>"
+		},
+		"box-light-vertical-horizontal-stipple-left-down-right": {
+			"body": "<path fill=\"currentColor\" d=\"M6 3H5V2h1M3 6H2V5h1m4 0h1V4H7M4 8h1V7H4m5 2H8V8H7v1H6V8H5v1H4V8H3v1H2V8H1v1H0V8h1V7H0V6h1v1h1v1h1V7h1V6h1v1h1v1h1V7h1V6H7V5H6V4h1V3h1V2H7V1H6V0h1v1h1V0h1v1H8v1h1v1H8v1h1v1H8v1h1v1H8v1h1m-6 7h1v-1H3m4 1h1v-1H7m10 1h1v-1h-1M2 17H1v-1h1m4 1H5v-1h1m14 1h-1v-1h1m-6 2h1v-1h-1m-7 2h1v-1H7m10 2h-1v-1h1M6 21H5v-1h1m2 2H7v-1h1v-1H7v-1H6v-1h1v-1h1v-1H7v-1H6v-1H5v1H4v1H3v-1H2v-1H1v1H0v-1h1v-1h1v1h1v-1h1v1h1v-1h1v1h1v-1h1v1h1v1H8v1h1v1H8v1h1v1H8v1h1v1H8m4 1h-2V12H0v-2h10V0h2v10h10v2H12m4 10h-1v-1h-1v1h-1v-1h1v-1h-1v-1h1v-1h-1v-1h1v-1h-1v-1h1v-1h-1v-1h1v1h1v-1h1v1h1v-1h1v1h1v-1h1v1h1v-1h1v1h-1v1h1v1h-1v-1h-1v-1h-1v1h-1v1h-1v-1h-1v-1h-1v1h-1v1h1v1h1v1h-1v1h-1v1h1v1h1Z\"/>"
+		},
+		"box-light-vertical-horizontal-stipple-left-up-right": {
+			"body": "<path fill=\"currentColor\" d=\"M17 2h-1V1h1M6 3H5V2h1m8 2h1V3h-1M3 6H2V5h1m4 0h1V4H7m10 2h-1V5h1m4 1h-1V5h1M4 8h1V7H4m5 2H8V8H7v1H6V8H5v1H4V8H3v1H2V8H1v1H0V8h1V7H0V6h1v1h1v1h1V7h1V6h1v1h1v1h1V7h1V6H7V5H6V4h1V3h1V2H7V1H6V0h1v1h1V0h1v1H8v1h1v1H8v1h1v1H8v1h1v1H8v1h1m5 0h1V7h-1m4 1h1V7h-1m3 2h-1V8h-1v1h-1V8h-1v1h-1V8h-1v1h-1V8h-1V7h1V6h-1V5h1V4h-1V3h1V2h-1V1h1V0h1v1h-1v1h1v1h1v1h-1v1h-1v1h1v1h1v1h1V7h1V6h1v1h1v1h1V7h1v1h-1M3 15h1v-1H3m4 1h1v-1H7m-5 3H1v-1h1m4 1H5v-1h1m1 3h1v-1H7m-1 3H5v-1h1m2 2H7v-1h1v-1H7v-1H6v-1h1v-1h1v-1H7v-1H6v-1H5v1H4v1H3v-1H2v-1H1v1H0v-1h1v-1h1v1h1v-1h1v1h1v-1h1v1h1v-1h1v1h1v1H8v1h1v1H8v1h1v1H8v1h1v1H8m4 1h-2V12H0v-2h10V0h2v10h10v2H12Z\"/>"
+		},
+		"box-light-vertical-horizontal-stipple-right": {
+			"body": "<path fill=\"currentColor\" d=\"M17 2h-1V1h1m-3 3h1V3h-1m3 3h-1V5h1m4 1h-1V5h1m-7 3h1V7h-1m4 1h1V7h-1m3 2h-1V8h-1v1h-1V8h-1v1h-1V8h-1v1h-1V8h-1V7h1V6h-1V5h1V4h-1V3h1V2h-1V1h1V0h1v1h-1v1h1v1h1v1h-1v1h-1v1h1v1h1v1h1V7h1V6h1v1h1v1h1V7h1v1h-1m-4 7h1v-1h-1m3 3h-1v-1h1m-6 2h1v-1h-1m3 3h-1v-1h1m-5 3h-2V12H0v-2h10V0h2v10h10v2H12m4 10h-1v-1h-1v1h-1v-1h1v-1h-1v-1h1v-1h-1v-1h1v-1h-1v-1h1v-1h-1v-1h1v1h1v-1h1v1h1v-1h1v1h1v-1h1v1h1v-1h1v1h-1v1h1v1h-1v-1h-1v-1h-1v1h-1v1h-1v-1h-1v-1h-1v1h-1v1h1v1h1v1h-1v1h-1v1h1v1h1Z\"/>"
+		},
+		"box-light-vertical-horizontal-stipple-right-down-left": {
+			"body": "<path fill=\"currentColor\" d=\"M17 2h-1V1h1m-3 3h1V3h-1m3 3h-1V5h1m4 1h-1V5h1m-7 3h1V7h-1m4 1h1V7h-1m3 2h-1V8h-1v1h-1V8h-1v1h-1V8h-1v1h-1V8h-1V7h1V6h-1V5h1V4h-1V3h1V2h-1V1h1V0h1v1h-1v1h1v1h1v1h-1v1h-1v1h1v1h1v1h1V7h1V6h1v1h1v1h1V7h1v1h-1M3 15h1v-1H3m4 1h1v-1H7m10 1h1v-1h-1M2 17H1v-1h1m4 1H5v-1h1m14 1h-1v-1h1m-6 2h1v-1h-1m-7 2h1v-1H7m10 2h-1v-1h1M6 21H5v-1h1m2 2H7v-1h1v-1H7v-1H6v-1h1v-1h1v-1H7v-1H6v-1H5v1H4v1H3v-1H2v-1H1v1H0v-1h1v-1h1v1h1v-1h1v1h1v-1h1v1h1v-1h1v1h1v1H8v1h1v1H8v1h1v1H8v1h1v1H8m4 1h-2V12H0v-2h10V0h2v10h10v2H12m4 10h-1v-1h-1v1h-1v-1h1v-1h-1v-1h1v-1h-1v-1h1v-1h-1v-1h1v-1h-1v-1h1v1h1v-1h1v1h1v-1h1v1h1v-1h1v1h1v-1h1v1h-1v1h1v1h-1v-1h-1v-1h-1v1h-1v1h-1v-1h-1v-1h-1v1h-1v1h1v1h1v1h-1v1h-1v1h1v1h1Z\"/>"
+		},
+		"box-light-vertical-horizontal-stipple-right-up-left": {
+			"body": "<path fill=\"currentColor\" d=\"M17 2h-1V1h1M6 3H5V2h1m8 2h1V3h-1M3 6H2V5h1m4 0h1V4H7m10 2h-1V5h1m4 1h-1V5h1M4 8h1V7H4m5 2H8V8H7v1H6V8H5v1H4V8H3v1H2V8H1v1H0V8h1V7H0V6h1v1h1v1h1V7h1V6h1v1h1v1h1V7h1V6H7V5H6V4h1V3h1V2H7V1H6V0h1v1h1V0h1v1H8v1h1v1H8v1h1v1H8v1h1v1H8v1h1m5 0h1V7h-1m4 1h1V7h-1m3 2h-1V8h-1v1h-1V8h-1v1h-1V8h-1v1h-1V8h-1V7h1V6h-1V5h1V4h-1V3h1V2h-1V1h1V0h1v1h-1v1h1v1h1v1h-1v1h-1v1h1v1h1v1h1V7h1V6h1v1h1v1h1V7h1v1h-1m-4 7h1v-1h-1m3 3h-1v-1h1m-6 2h1v-1h-1m3 3h-1v-1h1m-5 3h-2V12H0v-2h10V0h2v10h10v2H12m4 10h-1v-1h-1v1h-1v-1h1v-1h-1v-1h1v-1h-1v-1h1v-1h-1v-1h1v-1h-1v-1h1v1h1v-1h1v1h1v-1h1v1h1v-1h1v1h1v-1h1v1h-1v1h1v1h-1v-1h-1v-1h-1v1h-1v1h-1v-1h-1v-1h-1v1h-1v1h1v1h1v1h-1v1h-1v1h1v1h1Z\"/>"
+		},
+		"box-light-vertical-horizontal-stipple-up": {
+			"body": "<path fill=\"currentColor\" d=\"M17 2h-1V1h1M6 3H5V2h1m8 2h1V3h-1M3 6H2V5h1m4 0h1V4H7m10 2h-1V5h1m4 1h-1V5h1M4 8h1V7H4m5 2H8V8H7v1H6V8H5v1H4V8H3v1H2V8H1v1H0V8h1V7H0V6h1v1h1v1h1V7h1V6h1v1h1v1h1V7h1V6H7V5H6V4h1V3h1V2H7V1H6V0h1v1h1V0h1v1H8v1h1v1H8v1h1v1H8v1h1v1H8v1h1m5 0h1V7h-1m4 1h1V7h-1m3 2h-1V8h-1v1h-1V8h-1v1h-1V8h-1v1h-1V8h-1V7h1V6h-1V5h1V4h-1V3h1V2h-1V1h1V0h1v1h-1v1h1v1h1v1h-1v1h-1v1h1v1h1v1h1V7h1V6h1v1h1v1h1V7h1v1h-1m-9 14h-2V12H0v-2h10V0h2v10h10v2H12Z\"/>"
+		},
+		"box-light-vertical-horizontal-stipple-up-left": {
+			"body": "<path fill=\"currentColor\" d=\"M6 3H5V2h1M3 6H2V5h1m4 0h1V4H7M4 8h1V7H4m5 2H8V8H7v1H6V8H5v1H4V8H3v1H2V8H1v1H0V8h1V7H0V6h1v1h1v1h1V7h1V6h1v1h1v1h1V7h1V6H7V5H6V4h1V3h1V2H7V1H6V0h1v1h1V0h1v1H8v1h1v1H8v1h1v1H8v1h1v1H8v1h1m3 14h-2V12H0v-2h10V0h2v10h10v2H12Z\"/>"
+		},
+		"box-light-vertical-horizontal-stipple-up-right": {
+			"body": "<path fill=\"currentColor\" d=\"M17 2h-1V1h1m-3 3h1V3h-1m3 3h-1V5h1m4 1h-1V5h1m-7 3h1V7h-1m4 1h1V7h-1m3 2h-1V8h-1v1h-1V8h-1v1h-1V8h-1v1h-1V8h-1V7h1V6h-1V5h1V4h-1V3h1V2h-1V1h1V0h1v1h-1v1h1v1h1v1h-1v1h-1v1h1v1h1v1h1V7h1V6h1v1h1v1h1V7h1v1h-1m-9 14h-2V12H0v-2h10V0h2v10h10v2H12Z\"/>"
+		},
+		"box-light-vertical-left": {
+			"body": "<path fill=\"currentColor\" d=\"M12 22h-2V12H0v-2h10V0h2Z\"/>"
+		},
+		"box-light-vertical-left-stipple": {
+			"body": "<path fill=\"currentColor\" d=\"M17 2h-1V1h1M6 3H5V2h1m8 2h1V3h-1M3 6H2V5h1m4 0h1V4H7m10 2h-1V5h1M4 8h1V7H4m5 2H8V8H7v1H6V8H5v1H4V8H3v1H2V8H1v1H0V8h1V7H0V6h1v1h1v1h1V7h1V6h1v1h1v1h1V7h1V6H7V5H6V4h1V3h1V2H7V1H6V0h1v1h1V0h1v1H8v1h1v1H8v1h1v1H8v1h1v1H8v1h1m5 0h1V7h-1m3 4h-1v-1h1m-3 4h1v-1h-1M3 15h1v-1H3m4 1h1v-1H7m10 2h-1v-1h1M2 17H1v-1h1m4 1H5v-1h1m8 2h1v-1h-1m-7 2h1v-1H7m10 2h-1v-1h1M6 21H5v-1h1m2 2H7v-1h1v-1H7v-1H6v-1h1v-1h1v-1H7v-1H6v-1H5v1H4v1H3v-1H2v-1H1v1H0v-1h1v-1h1v1h1v-1h1v1h1v-1h1v1h1v-1h1v1h1v1H8v1h1v1H8v1h1v1H8v1h1v1H8m4 1h-2V12H0v-2h10V0h2m4 22h-1v-1h-1v1h-1v-1h1v-1h-1v-1h1v-1h-1v-1h1v-1h-1v-1h1v-1h-1v-1h1v-1h-1v-1h1v-1h-1V9h1V8h-1V7h1V6h-1V5h1V4h-1V3h1V2h-1V1h1V0h1v1h-1v1h1v1h1v1h-1v1h-1v1h1v1h1v1h-1v1h-1v1h1v1h-1v1h1v1h1v1h-1v1h-1v1h1v1h1v1h-1v1h-1v1h1v1h1Z\"/>"
+		},
+		"box-light-vertical-left-stipple-down-left": {
+			"body": "<path fill=\"currentColor\" d=\"M3 15h1v-1H3m4 1h1v-1H7m-5 3H1v-1h1m4 1H5v-1h1m1 3h1v-1H7m-1 3H5v-1h1m2 2H7v-1h1v-1H7v-1H6v-1h1v-1h1v-1H7v-1H6v-1H5v1H4v1H3v-1H2v-1H1v1H0v-1h1v-1h1v1h1v-1h1v1h1v-1h1v1h1v-1h1v1h1v1H8v1h1v1H8v1h1v1H8v1h1v1H8m4 1h-2V12H0v-2h10V0h2Z\"/>"
+		},
+		"box-light-vertical-left-stipple-left": {
+			"body": "<path fill=\"currentColor\" d=\"M6 3H5V2h1M3 6H2V5h1m4 0h1V4H7M4 8h1V7H4m5 2H8V8H7v1H6V8H5v1H4V8H3v1H2V8H1v1H0V8h1V7H0V6h1v1h1v1h1V7h1V6h1v1h1v1h1V7h1V6H7V5H6V4h1V3h1V2H7V1H6V0h1v1h1V0h1v1H8v1h1v1H8v1h1v1H8v1h1v1H8v1h1m-6 7h1v-1H3m4 1h1v-1H7m-5 3H1v-1h1m4 1H5v-1h1m1 3h1v-1H7m-1 3H5v-1h1m2 2H7v-1h1v-1H7v-1H6v-1h1v-1h1v-1H7v-1H6v-1H5v1H4v1H3v-1H2v-1H1v1H0v-1h1v-1h1v1h1v-1h1v1h1v-1h1v1h1v-1h1v1h1v1H8v1h1v1H8v1h1v1H8v1h1v1H8m4 1h-2V12H0v-2h10V0h2Z\"/>"
+		},
+		"box-light-vertical-left-stipple-up-left": {
+			"body": "<path fill=\"currentColor\" d=\"M6 3H5V2h1M3 6H2V5h1m4 0h1V4H7M4 8h1V7H4m5 2H8V8H7v1H6V8H5v1H4V8H3v1H2V8H1v1H0V8h1V7H0V6h1v1h1v1h1V7h1V6h1v1h1v1h1V7h1V6H7V5H6V4h1V3h1V2H7V1H6V0h1v1h1V0h1v1H8v1h1v1H8v1h1v1H8v1h1v1H8v1h1m3 14h-2V12H0v-2h10V0h2Z\"/>"
 		},
 		"box-light-vertical-menu-down": {
 			"body": "<path fill=\"currentColor\" d=\"M12 6h-2V0h2m0 15h-2v-1H9v-1H8v-1H7v-1H6v-1H5V8h12v2h-1v1h-1v1h-1v1h-1v1h-1m0 8h-2v-5h2m0-5v-1h1v-1H9v1h1v1Z\"/>"
@@ -532,6 +781,33 @@
 		},
 		"box-light-vertical-menu-up": {
 			"body": "<path fill=\"currentColor\" d=\"M12 5h-2V0h2m5 14H5v-2h1v-1h1v-1h1V9h1V8h1V7h2v1h1v1h1v1h1v1h1v1h1m-5 10h-2v-6h2m1-4v-1h-1v-1h-2v1H9v1Z\"/>"
+		},
+		"box-light-vertical-right": {
+			"body": "<path fill=\"currentColor\" d=\"M12 22h-2V0h2v10h10v2H12Z\"/>"
+		},
+		"box-light-vertical-right-stipple": {
+			"body": "<path fill=\"currentColor\" d=\"M17 2h-1V1h1M6 3H5V2h1m8 2h1V3h-1M7 5h1V4H7m10 2h-1V5h1m4 1h-1V5h1M6 7H5V6h1m8 2h1V7h-1m4 1h1V7h-1m3 2h-1V8h-1v1h-1V8h-1v1h-1V8h-1v1h-1V8h-1V7h1V6h-1V5h1V4h-1V3h1V2h-1V1h1V0h1v1h-1v1h1v1h1v1h-1v1h-1v1h1v1h1v1h1V7h1V6h1v1h1v1h1V7h1v1h-1M7 9h1V8H7m-1 4H5v-1h1m1 4h1v-1H7m10 1h1v-1h-1M6 17H5v-1h1m14 1h-1v-1h1m-6 2h1v-1h-1m-7 2h1v-1H7m10 2h-1v-1h1M6 21H5v-1h1m2 2H7v-1h1v-1H7v-1H6v-1h1v-1h1v-1H7v-1H6v-1h1v-1h1v-1H7v-1h1v-1H7V9H6V8h1V7h1V6H7V5H6V4h1V3h1V2H7V1H6V0h1v1h1V0h1v1H8v1h1v1H8v1h1v1H8v1h1v1H8v1h1v1H8v1h1v1H8v1h1v1H8v1h1v1H8v1h1v1H8v1h1v1H8v1h1v1H8m4 1h-2V0h2v10h10v2H12m4 10h-1v-1h-1v1h-1v-1h1v-1h-1v-1h1v-1h-1v-1h1v-1h-1v-1h1v-1h-1v-1h1v1h1v-1h1v1h1v-1h1v1h1v-1h1v1h1v-1h1v1h-1v1h1v1h-1v-1h-1v-1h-1v1h-1v1h-1v-1h-1v-1h-1v1h-1v1h1v1h1v1h-1v1h-1v1h1v1h1Z\"/>"
+		},
+		"box-light-vertical-right-stipple-down-right": {
+			"body": "<path fill=\"currentColor\" d=\"M17 15h1v-1h-1m3 3h-1v-1h1m-6 2h1v-1h-1m3 3h-1v-1h1m-5 3h-2V0h2v10h10v2H12m4 10h-1v-1h-1v1h-1v-1h1v-1h-1v-1h1v-1h-1v-1h1v-1h-1v-1h1v-1h-1v-1h1v1h1v-1h1v1h1v-1h1v1h1v-1h1v1h1v-1h1v1h-1v1h1v1h-1v-1h-1v-1h-1v1h-1v1h-1v-1h-1v-1h-1v1h-1v1h1v1h1v1h-1v1h-1v1h1v1h1Z\"/>"
+		},
+		"box-light-vertical-right-stipple-left": {
+			"body": "<path fill=\"currentColor\" d=\"M6 3H5V2h1m1 3h1V4H7M6 7H5V6h1m1 3h1V8H7m-1 4H5v-1h1m1 4h1v-1H7m-1 3H5v-1h1m1 3h1v-1H7m-1 3H5v-1h1m2 2H7v-1h1v-1H7v-1H6v-1h1v-1h1v-1H7v-1H6v-1h1v-1h1v-1H7v-1h1v-1H7V9H6V8h1V7h1V6H7V5H6V4h1V3h1V2H7V1H6V0h1v1h1V0h1v1H8v1h1v1H8v1h1v1H8v1h1v1H8v1h1v1H8v1h1v1H8v1h1v1H8v1h1v1H8v1h1v1H8v1h1v1H8v1h1v1H8m4 1h-2V0h2v10h10v2H12Z\"/>"
+		},
+		"box-light-vertical-right-stipple-right": {
+			"body": "<path fill=\"currentColor\" d=\"M17 2h-1V1h1m-3 3h1V3h-1m3 3h-1V5h1m4 1h-1V5h1m-7 3h1V7h-1m4 1h1V7h-1m3 2h-1V8h-1v1h-1V8h-1v1h-1V8h-1v1h-1V8h-1V7h1V6h-1V5h1V4h-1V3h1V2h-1V1h1V0h1v1h-1v1h1v1h1v1h-1v1h-1v1h1v1h1v1h1V7h1V6h1v1h1v1h1V7h1v1h-1m-4 7h1v-1h-1m3 3h-1v-1h1m-6 2h1v-1h-1m3 3h-1v-1h1m-5 3h-2V0h2v10h10v2H12m4 10h-1v-1h-1v1h-1v-1h1v-1h-1v-1h1v-1h-1v-1h1v-1h-1v-1h1v-1h-1v-1h1v1h1v-1h1v1h1v-1h1v1h1v-1h1v1h1v-1h1v1h-1v1h1v1h-1v-1h-1v-1h-1v1h-1v1h-1v-1h-1v-1h-1v1h-1v1h1v1h1v1h-1v1h-1v1h1v1h1Z\"/>"
+		},
+		"box-light-vertical-right-stipple-up-right": {
+			"body": "<path fill=\"currentColor\" d=\"M17 2h-1V1h1m-3 3h1V3h-1m3 3h-1V5h1m4 1h-1V5h1m-7 3h1V7h-1m4 1h1V7h-1m3 2h-1V8h-1v1h-1V8h-1v1h-1V8h-1v1h-1V8h-1V7h1V6h-1V5h1V4h-1V3h1V2h-1V1h1V0h1v1h-1v1h1v1h1v1h-1v1h-1v1h1v1h1v1h1V7h1V6h1v1h1v1h1V7h1v1h-1m-9 14h-2V0h2v10h10v2H12Z\"/>"
+		},
+		"box-light-vertical-stipple": {
+			"body": "<path fill=\"currentColor\" d=\"M17 2h-1V1h1M6 3H5V2h1m8 2h1V3h-1M7 5h1V4H7m10 2h-1V5h1M6 7H5V6h1m8 2h1V7h-1M7 9h1V8H7m10 3h-1v-1h1M6 12H5v-1h1m8 3h1v-1h-1m-7 2h1v-1H7m10 2h-1v-1h1M6 17H5v-1h1m8 2h1v-1h-1m-7 2h1v-1H7m10 2h-1v-1h1M6 21H5v-1h1m2 2H7v-1h1v-1H7v-1H6v-1h1v-1h1v-1H7v-1H6v-1h1v-1h1v-1H7v-1h1v-1H7V9H6V8h1V7h1V6H7V5H6V4h1V3h1V2H7V1H6V0h1v1h1V0h1v1H8v1h1v1H8v1h1v1H8v1h1v1H8v1h1v1H8v1h1v1H8v1h1v1H8v1h1v1H8v1h1v1H8v1h1v1H8v1h1v1H8m4 1h-2V0h2m4 22h-1v-1h-1v1h-1v-1h1v-1h-1v-1h1v-1h-1v-1h1v-1h-1v-1h1v-1h-1v-1h1v-1h-1v-1h1v-1h-1V9h1V8h-1V7h1V6h-1V5h1V4h-1V3h1V2h-1V1h1V0h1v1h-1v1h1v1h1v1h-1v1h-1v1h1v1h1v1h-1v1h-1v1h1v1h-1v1h1v1h1v1h-1v1h-1v1h1v1h1v1h-1v1h-1v1h1v1h1Z\"/>"
+		},
+		"box-light-vertical-stipple-left": {
+			"body": "<path fill=\"currentColor\" d=\"M6 3H5V2h1m1 3h1V4H7M6 7H5V6h1m1 3h1V8H7m-1 4H5v-1h1m1 4h1v-1H7m-1 3H5v-1h1m1 3h1v-1H7m-1 3H5v-1h1m2 2H7v-1h1v-1H7v-1H6v-1h1v-1h1v-1H7v-1H6v-1h1v-1h1v-1H7v-1h1v-1H7V9H6V8h1V7h1V6H7V5H6V4h1V3h1V2H7V1H6V0h1v1h1V0h1v1H8v1h1v1H8v1h1v1H8v1h1v1H8v1h1v1H8v1h1v1H8v1h1v1H8v1h1v1H8v1h1v1H8v1h1v1H8v1h1v1H8m4 1h-2V0h2Z\"/>"
+		},
+		"box-light-vertical-stipple-right": {
+			"body": "<path fill=\"currentColor\" d=\"M17 2h-1V1h1m-3 3h1V3h-1m3 3h-1V5h1m-3 3h1V7h-1m3 4h-1v-1h1m-3 4h1v-1h-1m3 3h-1v-1h1m-3 3h1v-1h-1m3 3h-1v-1h1m-5 3h-2V0h2m4 22h-1v-1h-1v1h-1v-1h1v-1h-1v-1h1v-1h-1v-1h1v-1h-1v-1h1v-1h-1v-1h1v-1h-1v-1h1v-1h-1V9h1V8h-1V7h1V6h-1V5h1V4h-1V3h1V2h-1V1h1V0h1v1h-1v1h1v1h1v1h-1v1h-1v1h1v1h1v1h-1v1h-1v1h1v1h-1v1h1v1h1v1h-1v1h-1v1h1v1h1v1h-1v1h-1v1h1v1h1Z\"/>"
 		},
 		"box-outer-light-all": {
 			"body": "<path fill=\"currentColor\" d=\"M0 0h22v22H0V0m2 2v18h18V2H2Z\"/>"
@@ -550,6 +826,18 @@
 		},
 		"box-outer-light-dashed-down-right": {
 			"body": "<path fill=\"currentColor\" d=\"M18 22v-2h2v-2h2v4h-4m2-6v-4h2v4h-2m0-6V6h2v4h-2m0-6V1h2v3h-2m-4 18h-4v-2h4v2m-6 0H7v-2h3v2m-5 0H1v-2h4v2Z\"/>"
+		},
+		"box-outer-light-dashed-fold-down-left": {
+			"body": "<path fill=\"currentColor\" d=\"M8 4H4V2h4m6 2h-4V2h4M2 6H1V5H0V1h2v3h1v1H2m18 1h-2V4h-2V2h4M7 10H5V9H4V8H3V6h2v1h1v1h1m13 4h-2V8h2m-9 7h-1v-1H9v-1H8v-1H7v-1h1v-1h1v1h1v1h1v1h1v1h-1m9 4h-2v-4h2m-4 5h-2v-1h-1v-1h-1v-2h2v1h1v1h1m5 5h-4v-1h-1v-1h1v-1h1v1h3Z\"/>"
+		},
+		"box-outer-light-dashed-fold-down-right": {
+			"body": "<path fill=\"currentColor\" d=\"M12 4H8V2h4m6 2h-4V2h4M4 6H2V2h4v2H4m17 2h-1V5h-1V4h1V1h2v4h-1m-4 5h-2V8h1V7h1V6h2v2h-1v1h-1M4 12H2V8h2m8 7h-1v-1h-1v-1h1v-1h1v-1h1v-1h1v1h1v1h-1v1h-1v1h-1m-8 4H2v-4h2m4 5H6v-2h1v-1h1v-1h2v2H9v1H8m-3 4H1v-2h3v-1h1v1h1v1H5Z\"/>"
+		},
+		"box-outer-light-dashed-fold-up-left": {
+			"body": "<path fill=\"currentColor\" d=\"M18 3h-1V2h-1V1h1V0h4v2h-3m-4 5h-2V5h1V4h1V3h2v2h-1v1h-1m6 2h-2V4h2M9 12H8v-1H7v-1h1V9h1V8h1V7h1v1h1v1h-1v1h-1v1H9m11 3h-2v-4h2M5 16H3v-2h1v-1h1v-1h2v2H6v1H5m3 5H4v-2h4m6 2h-4v-2h4m6 2h-4v-2h2v-2h2M2 21H0v-4h1v-1h1v1h1v1H2Z\"/>"
+		},
+		"box-outer-light-dashed-fold-up-right": {
+			"body": "<path fill=\"currentColor\" d=\"M5 3H4V2H1V0h4v1h1v1H5m5 5H8V6H7V5H6V3h2v1h1v1h1M4 8H2V4h2m10 8h-1v-1h-1v-1h-1V9h-1V8h1V7h1v1h1v1h1v1h1v1h-1M4 14H2v-4h2m15 6h-2v-1h-1v-1h-1v-2h2v1h1v1h1M6 20H2v-4h2v2h2m6 2H8v-2h4m6 2h-4v-2h4m4 3h-2v-3h-1v-1h1v-1h1v1h1Z\"/>"
 		},
 		"box-outer-light-dashed-left": {
 			"body": "<path fill=\"currentColor\" d=\"M0 21v-4h2v4H0m0-6v-3h2v3H0m0-5V6h2v4H0m0-6V1h2v3H0Z\"/>"
@@ -590,17 +878,62 @@
 		"box-outer-light-down-left-right": {
 			"body": "<path fill=\"currentColor\" d=\"M22 22H0V0h2v20h18V0h2v22Z\"/>"
 		},
+		"box-outer-light-down-left-stipple": {
+			"body": "<path fill=\"currentColor\" d=\"M7 2H6V1h1M4 4h1V3H4m3 3H6V5h1M4 8h1V7H4m3 4H6v-1h1m-3 4h1v-1H4m3 3H6v-1h1m5 1h-1v-1h1m5 1h-1v-1h1m4 1h-1v-1h1M4 18h1v-1H4m4 1h1v-1H8m6 1h1v-1h-1m4 1h1v-1h-1m3 2h-1v-1h-1v1h-1v-1h-1v1h-1v-1h-1v1h-1v-1h-1v1h-1v-1h-1v1h-1v-1H9v1H8v-1H7v1H6v-1H5v1H4v-1H3v-1h1v-1H3v-1h1v-1H3v-1h1v-1H3v-1h1v-1H3V9h1V8H3V7h1V6H3V5h1V4H3V3h1V2H3V1h1V0h1v1H4v1h1v1h1v1H5v1H4v1h1v1h1v1H5v1H4v1h1v1H4v1h1v1h1v1H5v1H4v1h1v1h1v1h1v-1h1v-1h1v1h1v1h1v-1h1v1h1v-1h1v-1h1v1h1v1h1v-1h1v-1h1v1h1v1h1v-1h1v1h-1m1 4H0V0h2v20h20Z\"/>"
+		},
 		"box-outer-light-down-right": {
 			"body": "<path fill=\"currentColor\" d=\"M0 22v-2h20V0h2v22H0Z\"/>"
+		},
+		"box-outer-light-down-right-stipple": {
+			"body": "<path fill=\"currentColor\" d=\"M7 2H6V1h1M4 4h1V3H4m3 3H6V5h1M4 8h1V7H4m3 4H6v-1h1m-3 4h1v-1H4m3 3H6v-1h1m5 1h-1v-1h1m5 1h-1v-1h1m4 1h-1v-1h1M4 18h1v-1H4m4 1h1v-1H8m6 1h1v-1h-1m4 1h1v-1h-1m3 2h-1v-1h-1v1h-1v-1h-1v1h-1v-1h-1v1h-1v-1h-1v1h-1v-1h-1v1h-1v-1H9v1H8v-1H7v1H6v-1H5v1H4v-1H3v-1h1v-1H3v-1h1v-1H3v-1h1v-1H3v-1h1v-1H3V9h1V8H3V7h1V6H3V5h1V4H3V3h1V2H3V1h1V0h1v1H4v1h1v1h1v1H5v1H4v1h1v1h1v1H5v1H4v1h1v1H4v1h1v1h1v1H5v1H4v1h1v1h1v1h1v-1h1v-1h1v1h1v1h1v-1h1v1h1v-1h1v-1h1v1h1v1h1v-1h1v-1h1v1h1v1h1v-1h1v1h-1m1 4H0V0h2v20h20Z\"/>"
+		},
+		"box-outer-light-down-stipple": {
+			"body": "<path fill=\"currentColor\" d=\"M3 16H2v-1h1m4 1H6v-1h1m5 1h-1v-1h1m5 1h-1v-1h1m4 1h-1v-1h1M4 18h1v-1H4m4 1h1v-1H8m6 1h1v-1h-1m4 1h1v-1h-1m3 2h-1v-1h-1v1h-1v-1h-1v1h-1v-1h-1v1h-1v-1h-1v1h-1v-1h-1v1h-1v-1H9v1H8v-1H7v1H6v-1H5v1H4v-1H3v1H2v-1H1v1H0v-1h1v-1H0v-1h1v1h1v1h1v-1h1v-1h1v1h1v1h1v-1h1v-1h1v1h1v1h1v-1h1v1h1v-1h1v-1h1v1h1v1h1v-1h1v-1h1v1h1v1h1v-1h1v1h-1m1 4H0v-2h22Z\"/>"
+		},
+		"box-outer-light-down-vertical-stipple": {
+			"body": "<path fill=\"currentColor\" d=\"M17 2h-1V1h1M6 3H5V2h1m8 2h1V3h-1M7 5h1V4H7m10 3h-1V6h1M6 8H5V7h1m8 3h1V9h-1m-7 2h1v-1H7m10 2h-1v-1h1M6 13H5v-1h1m8 2h1v-1h-1M3 16H2v-1h1m4 0h1v-1H7m10 2h-1v-1h1m4 1h-1v-1h1M4 18h1v-1H4m5 2H8v-1H7v1H6v-1H5v1H4v-1H3v1H2v-1H1v1H0v-1h1v-1H0v-1h1v1h1v1h1v-1h1v-1h1v1h1v1h1v-1h1v-1H7v-1H6v-1h1v-1h1v-1H7v-1H6v-1h1V9h1V8H7V7h1V6H7V5H6V4h1V3h1V2H7V1H6V0h1v1h1V0h1v1H8v1h1v1H8v1h1v1H8v1h1v1H8v1h1v1H8v1h1v1H8v1h1v1H8v1h1v1H8v1h1v1H8v1h1m5 0h1v-1h-1m4 1h1v-1h-1m3 2h-1v-1h-1v1h-1v-1h-1v1h-1v-1h-1v1h-1v-1h-1v-1h1v-1h-1v-1h1v-1h-1v-1h1v-1h-1v-1h1v-1h-1V9h1V8h-1V7h1V6h-1V5h1V4h-1V3h1V2h-1V1h1V0h1v1h-1v1h1v1h1v1h-1v1h-1v1h1v1h-1v1h1v1h1v1h-1v1h-1v1h1v1h1v1h-1v1h-1v1h1v1h1v1h1v-1h1v-1h1v1h1v1h1v-1h1v1h-1m1 4H0v-2h10V0h2v20h10Z\"/>"
+		},
+		"box-outer-light-down-vertical-stipple-left": {
+			"body": "<path fill=\"currentColor\" d=\"M6 3H5V2h1m1 3h1V4H7M6 8H5V7h1m1 4h1v-1H7m-1 3H5v-1h1m-3 4H2v-1h1m4 0h1v-1H7m-3 4h1v-1H4m5 2H8v-1H7v1H6v-1H5v1H4v-1H3v1H2v-1H1v1H0v-1h1v-1H0v-1h1v1h1v1h1v-1h1v-1h1v1h1v1h1v-1h1v-1H7v-1H6v-1h1v-1h1v-1H7v-1H6v-1h1V9h1V8H7V7h1V6H7V5H6V4h1V3h1V2H7V1H6V0h1v1h1V0h1v1H8v1h1v1H8v1h1v1H8v1h1v1H8v1h1v1H8v1h1v1H8v1h1v1H8v1h1v1H8v1h1v1H8v1h1m13 4H0v-2h10V0h2v20h10Z\"/>"
+		},
+		"box-outer-light-down-vertical-stipple-right": {
+			"body": "<path fill=\"currentColor\" d=\"M17 2h-1V1h1m-3 3h1V3h-1m3 4h-1V6h1m-3 4h1V9h-1m3 3h-1v-1h1m-3 3h1v-1h-1m3 3h-1v-1h1m4 1h-1v-1h1m-7 3h1v-1h-1m4 1h1v-1h-1m3 2h-1v-1h-1v1h-1v-1h-1v1h-1v-1h-1v1h-1v-1h-1v-1h1v-1h-1v-1h1v-1h-1v-1h1v-1h-1v-1h1v-1h-1V9h1V8h-1V7h1V6h-1V5h1V4h-1V3h1V2h-1V1h1V0h1v1h-1v1h1v1h1v1h-1v1h-1v1h1v1h-1v1h1v1h1v1h-1v1h-1v1h1v1h1v1h-1v1h-1v1h1v1h1v1h1v-1h1v-1h1v1h1v1h1v-1h1v1h-1m1 4H0v-2h10V0h2v20h10Z\"/>"
 		},
 		"box-outer-light-left": {
 			"body": "<path fill=\"currentColor\" d=\"M0 22V0h2v22H0Z\"/>"
 		},
+		"box-outer-light-left-horizontal-stipple": {
+			"body": "<path fill=\"currentColor\" d=\"M7 2H6V1h1M4 4h1V3H4m3 3H6V5h1m4 1h-1V5h1m5 1h-1V5h1m5 1h-1V5h1M4 8h1V7H4m4 1h1V7H8m4 1h1V7h-1m6 1h1V7h-1m3 2h-1V8h-1v1h-1V8h-1v1h-1V8h-1v1h-1V8h-1v1h-1V8h-1v1h-1V8H9v1H8V8H7v1H6V8H5v1H4V8H3V7h1V6H3V5h1V4H3V3h1V2H3V1h1V0h1v1H4v1h1v1h1v1H5v1H4v1h1v1h1v1h1V7h1V6h1v1h1v1h1V7h1V6h1v1h1v1h1V7h1v1h1V7h1V6h1v1h1v1h1V7h1v1h-1M7 15h1v-1H7m4 1h1v-1h-1m6 1h1v-1h-1m-7 3H9v-1h1m5 1h-1v-1h1m5 1h-1v-1h1M4 18h1v-1H4m3 3H6v-1h1m-5 3H0V0h2v10h20v2H2m4 10H5v-1H4v1H3v-1h1v-1H3v-1h1v-1H3v-1h1v-1H3v-1h1v-1H3v-1h1v1h1v-1h1v1h1v-1h1v1h1v-1h1v1h1v-1h1v1h1v-1h1v1h1v-1h1v1h1v-1h1v1h1v-1h1v1h1v-1h1v1h-1v1h1v1h-1v-1h-1v-1h-1v1h-1v1h-1v-1h-1v-1h-1v1h-1v-1h-1v1h-1v1h-1v-1h-1v-1H9v1H8v1H7v-1H6v-1H5v1H4v1h1v1h1v1H5v1H4v1h1v1h1Z\"/>"
+		},
+		"box-outer-light-left-horizontal-stipple-down": {
+			"body": "<path fill=\"currentColor\" d=\"M7 15h1v-1H7m4 1h1v-1h-1m6 1h1v-1h-1m-7 3H9v-1h1m5 1h-1v-1h1m5 1h-1v-1h1M4 18h1v-1H4m3 3H6v-1h1m-5 3H0V0h2v10h20v2H2m4 10H5v-1H4v1H3v-1h1v-1H3v-1h1v-1H3v-1h1v-1H3v-1h1v-1H3v-1h1v1h1v-1h1v1h1v-1h1v1h1v-1h1v1h1v-1h1v1h1v-1h1v1h1v-1h1v1h1v-1h1v1h1v-1h1v1h1v-1h1v1h-1v1h1v1h-1v-1h-1v-1h-1v1h-1v1h-1v-1h-1v-1h-1v1h-1v-1h-1v1h-1v1h-1v-1h-1v-1H9v1H8v1H7v-1H6v-1H5v1H4v1h1v1h1v1H5v1H4v1h1v1h1Z\"/>"
+		},
+		"box-outer-light-left-horizontal-stipple-up": {
+			"body": "<path fill=\"currentColor\" d=\"M7 2H6V1h1M4 4h1V3H4m3 3H6V5h1m4 1h-1V5h1m5 1h-1V5h1m5 1h-1V5h1M4 8h1V7H4m4 1h1V7H8m4 1h1V7h-1m6 1h1V7h-1m3 2h-1V8h-1v1h-1V8h-1v1h-1V8h-1v1h-1V8h-1v1h-1V8h-1v1h-1V8H9v1H8V8H7v1H6V8H5v1H4V8H3V7h1V6H3V5h1V4H3V3h1V2H3V1h1V0h1v1H4v1h1v1h1v1H5v1H4v1h1v1h1v1h1V7h1V6h1v1h1v1h1V7h1V6h1v1h1v1h1V7h1v1h1V7h1V6h1v1h1v1h1V7h1v1h-1M2 22H0V0h2v10h20v2H2Z\"/>"
+		},
 		"box-outer-light-left-right": {
 			"body": "<path fill=\"currentColor\" d=\"M0 22V0h2v22H0m20 0V0h2v22h-2Z\"/>"
 		},
+		"box-outer-light-left-right-stipple": {
+			"body": "<path fill=\"currentColor\" d=\"M7 2H6V1h1m9 2h-1V2h1M4 4h1V3H4m3 3H6V5h1m10 0h1V4h-1m-1 3h-1V6h1M4 8h1V7H4m13 2h1V8h-1M7 11H6v-1h1m9 2h-1v-1h1M4 14h1v-1H4m3 3H6v-1h1m10 0h1v-1h-1m-1 3h-1v-1h1M4 18h1v-1H4m3 3H6v-1h1m10 0h1v-1h-1m-1 3h-1v-1h1M2 22H0V0h2m4 22H5v-1H4v1H3v-1h1v-1H3v-1h1v-1H3v-1h1v-1H3v-1h1v-1H3v-1h1v-1H3v-1h1v-1H3V9h1V8H3V7h1V6H3V5h1V4H3V3h1V2H3V1h1V0h1v1H4v1h1v1h1v1H5v1H4v1h1v1h1v1H5v1H4v1h1v1H4v1h1v1h1v1H5v1H4v1h1v1h1v1H5v1H4v1h1v1h1m12 1h-1v-1h1v-1h-1v-1h-1v-1h1v-1h1v-1h-1v-1h-1v-1h1v-1h1v-1h-1v-1h1v-1h-1V9h-1V8h1V7h1V6h-1V5h-1V4h1V3h1V2h-1V1h-1V0h1v1h1V0h1v1h-1v1h1v1h-1v1h1v1h-1v1h1v1h-1v1h1v1h-1v1h1v1h-1v1h1v1h-1v1h1v1h-1v1h1v1h-1v1h1v1h-1v1h1v1h-1m4 1h-2V0h2Z\"/>"
+		},
+		"box-outer-light-left-stipple": {
+			"body": "<path fill=\"currentColor\" d=\"M7 2H6V1h1M4 4h1V3H4m3 3H6V5h1M4 8h1V7H4m3 4H6v-1h1m-3 4h1v-1H4m3 3H6v-1h1m-3 3h1v-1H4m3 3H6v-1h1m-5 3H0V0h2m4 22H5v-1H4v1H3v-1h1v-1H3v-1h1v-1H3v-1h1v-1H3v-1h1v-1H3v-1h1v-1H3v-1h1v-1H3V9h1V8H3V7h1V6H3V5h1V4H3V3h1V2H3V1h1V0h1v1H4v1h1v1h1v1H5v1H4v1h1v1h1v1H5v1H4v1h1v1H4v1h1v1h1v1H5v1H4v1h1v1h1v1H5v1H4v1h1v1h1Z\"/>"
+		},
 		"box-outer-light-right": {
 			"body": "<path fill=\"currentColor\" d=\"M20 22V0h2v22h-2Z\"/>"
+		},
+		"box-outer-light-right-horizontal-stipple": {
+			"body": "<path fill=\"currentColor\" d=\"M16 3h-1V2h1M3 6H2V5h1m5 1H7V5h1m5 1h-1V5h1m4 0h1V4h-1M4 8h1V7H4m6 1h1V7h-1m4 1h1V7h-1m5 2h-1V8h-1v1h-1V8h-1v1h-1V8h-1v1h-1V8h-1v1h-1V8H9v1H8V8H7v1H6V8H5v1H4V8H3v1H2V8H1v1H0V8h1V7H0V6h1v1h1v1h1V7h1V6h1v1h1v1h1V7h1v1h1V7h1V6h1v1h1v1h1V7h1V6h1v1h1v1h1V7h1V6h-1V5h-1V4h1V3h1V2h-1V1h-1V0h1v1h1V0h1v1h-1v1h1v1h-1v1h1v1h-1v1h1v1h-1v1h1M3 15h1v-1H3m6 1h1v-1H9m4 1h1v-1h-1m4 1h1v-1h-1M2 17H1v-1h1m5 1H6v-1h1m5 1h-1v-1h1m4 1h-1v-1h1m1 3h1v-1h-1m-1 3h-1v-1h1m2 2h-1v-1h1v-1h-1v-1h-1v-1h1v-1h1v-1h-1v-1h-1v-1h-1v1h-1v1h-1v-1h-1v-1h-1v1h-1v1H9v-1H8v-1H7v1H6v-1H5v1H4v1H3v-1H2v-1H1v1H0v-1h1v-1h1v1h1v-1h1v1h1v-1h1v1h1v-1h1v1h1v-1h1v1h1v-1h1v1h1v-1h1v1h1v-1h1v1h1v-1h1v1h1v1h-1v1h1v1h-1v1h1v1h-1v1h1v1h-1m4 1h-2V12H0v-2h20V0h2Z\"/>"
+		},
+		"box-outer-light-right-horizontal-stipple-down": {
+			"body": "<path fill=\"currentColor\" d=\"M3 15h1v-1H3m6 1h1v-1H9m4 1h1v-1h-1m4 1h1v-1h-1M2 17H1v-1h1m5 1H6v-1h1m5 1h-1v-1h1m4 1h-1v-1h1m1 3h1v-1h-1m-1 3h-1v-1h1m2 2h-1v-1h1v-1h-1v-1h-1v-1h1v-1h1v-1h-1v-1h-1v-1h-1v1h-1v1h-1v-1h-1v-1h-1v1h-1v1H9v-1H8v-1H7v1H6v-1H5v1H4v1H3v-1H2v-1H1v1H0v-1h1v-1h1v1h1v-1h1v1h1v-1h1v1h1v-1h1v1h1v-1h1v1h1v-1h1v1h1v-1h1v1h1v-1h1v1h1v-1h1v1h1v1h-1v1h1v1h-1v1h1v1h-1v1h1v1h-1m4 1h-2V12H0v-2h20V0h2Z\"/>"
+		},
+		"box-outer-light-right-horizontal-stipple-up": {
+			"body": "<path fill=\"currentColor\" d=\"M16 3h-1V2h1M3 6H2V5h1m5 1H7V5h1m5 1h-1V5h1m4 0h1V4h-1M4 8h1V7H4m6 1h1V7h-1m4 1h1V7h-1m5 2h-1V8h-1v1h-1V8h-1v1h-1V8h-1v1h-1V8h-1v1h-1V8H9v1H8V8H7v1H6V8H5v1H4V8H3v1H2V8H1v1H0V8h1V7H0V6h1v1h1v1h1V7h1V6h1v1h1v1h1V7h1v1h1V7h1V6h1v1h1v1h1V7h1V6h1v1h1v1h1V7h1V6h-1V5h-1V4h1V3h1V2h-1V1h-1V0h1v1h1V0h1v1h-1v1h1v1h-1v1h1v1h-1v1h1v1h-1v1h1m3 14h-2V12H0v-2h20V0h2Z\"/>"
+		},
+		"box-outer-light-right-stipple": {
+			"body": "<path fill=\"currentColor\" d=\"M16 3h-1V2h1m1 3h1V4h-1m-1 3h-1V6h1m1 3h1V8h-1m-1 4h-1v-1h1m1 4h1v-1h-1m-1 3h-1v-1h1m1 3h1v-1h-1m-1 3h-1v-1h1m2 2h-1v-1h1v-1h-1v-1h-1v-1h1v-1h1v-1h-1v-1h-1v-1h1v-1h1v-1h-1v-1h1v-1h-1V9h-1V8h1V7h1V6h-1V5h-1V4h1V3h1V2h-1V1h-1V0h1v1h1V0h1v1h-1v1h1v1h-1v1h1v1h-1v1h1v1h-1v1h1v1h-1v1h1v1h-1v1h1v1h-1v1h1v1h-1v1h1v1h-1v1h1v1h-1v1h1v1h-1m4 1h-2V0h2Z\"/>"
 		},
 		"box-outer-light-round-down-left": {
 			"body": "<path fill=\"currentColor\" d=\"M0 0h2v5h1v4h1v2h1v2h1v1h1v1h1v1h1v1h2v1h2v1h4v1h5v2h-6v-1h-4v-1h-2v-1H8v-1H7v-1H6v-1H5v-1H4v-1H3v-2H2v-2H1V6H0V0Z\"/>"
@@ -626,14 +959,35 @@
 		"box-outer-light-up-down-right": {
 			"body": "<path fill=\"currentColor\" d=\"M22 0v22H0v-2h20V2H0V0h22Z\"/>"
 		},
+		"box-outer-light-up-down-stipple": {
+			"body": "<path fill=\"currentColor\" d=\"M22 2H0V0h22M3 5h1V4H3m4 1h1V4H7m6 1h1V4h-1m4 1h1V4h-1m5 2h-1V5h-1V4h-1v1h-1v1h-1V5h-1V4h-1v1h-1v1h-1V5h-1V4h-1v1h-1V4H9v1H8v1H7V5H6V4H5v1H4v1H3V5H2V4H1v1H0V4h1V3h1v1h1V3h1v1h1V3h1v1h1V3h1v1h1V3h1v1h1V3h1v1h1V3h1v1h1V3h1v1h1V3h1v1h1V3h1v1h1V3h1v1h-1v1h1M2 7H1V6h1m4 1H5V6h1m5 1h-1V6h1m5 1h-1V6h1m4 1h-1V6h1M3 16H2v-1h1m4 1H6v-1h1m5 1h-1v-1h1m5 1h-1v-1h1m4 1h-1v-1h1M4 18h1v-1H4m4 1h1v-1H8m6 1h1v-1h-1m4 1h1v-1h-1m3 2h-1v-1h-1v1h-1v-1h-1v1h-1v-1h-1v1h-1v-1h-1v1h-1v-1h-1v1h-1v-1H9v1H8v-1H7v1H6v-1H5v1H4v-1H3v1H2v-1H1v1H0v-1h1v-1H0v-1h1v1h1v1h1v-1h1v-1h1v1h1v1h1v-1h1v-1h1v1h1v1h1v-1h1v1h1v-1h1v-1h1v1h1v1h1v-1h1v-1h1v1h1v1h1v-1h1v1h-1m1 4H0v-2h22Z\"/>"
+		},
 		"box-outer-light-up-left": {
 			"body": "<path fill=\"currentColor\" d=\"M22 0v2H2v20H0V0h22Z\"/>"
 		},
 		"box-outer-light-up-left-right": {
 			"body": "<path fill=\"currentColor\" d=\"M0 0h22v22h-2V2H2v20H0V0Z\"/>"
 		},
+		"box-outer-light-up-left-stipple": {
+			"body": "<path fill=\"currentColor\" d=\"M5 5h1V4H5m2 1h1V4H7m6 1h1V4h-1m4 1h1V4h-1M4 6h1V5H4m7 2h-1V6h1m5 1h-1V6h1m4 1h-1V6h1M8 8H7V7h1M4 8h1V7H4m3 4H6v-1h1m-3 4h1v-1H4m3 3H6v-1h1m-3 3h1v-1H4m3 3H6v-1h1m-5 3H0V0h22v2H2m4 20H5v-1H4v1H3v-1h1v-1H3v-1h1v-1H3v-1h1v-1H3v-1h1v-1H3v-1h1v-1H3v-1h1v-1H3V9h1V8H3V7h1V6H3V5h1V4H3V3h1v1h1V3h1v1h1V3h1v1h1V3h1v1h1V3h1v1h1V3h1v1h1V3h1v1h1V3h1v1h1V3h1v1h1V3h1v1h-1v1h1v1h-1V5h-1V4h-1v1h-1v1h-1V5h-1V4h-1v1h-1v1h-1V5h-1V4h-1v1h-1V4H9v1H8v1H7V5H6v1H5v1h1v1H5v1H4v1h1v1H4v1h1v1h1v1H5v1H4v1h1v1h1v1H5v1H4v1h1v1h1Z\"/>"
+		},
 		"box-outer-light-up-right": {
 			"body": "<path fill=\"currentColor\" d=\"M22 22h-2V2H.002V0H22v22Z\"/>"
+		},
+		"box-outer-light-up-right-stipple": {
+			"body": "<path fill=\"currentColor\" d=\"M3 5h1V4H3m4 1h1V4H7m6 1h1V4h-1m4 1h1V4h-1M2 7H1V6h1m4 1H5V6h1m5 1h-1V6h1m5 1h-1V6h1m1 3h1V8h-1m-1 4h-1v-1h1m1 4h1v-1h-1m-1 3h-1v-1h1m1 3h1v-1h-1m-1 3h-1v-1h1m2 2h-1v-1h1v-1h-1v-1h-1v-1h1v-1h1v-1h-1v-1h-1v-1h1v-1h1v-1h-1v-1h1v-1h-1V9h-1V8h1V7h1V6h-1V5h-1V4h-1v1h-1v1h-1V5h-1V4h-1v1h-1V4H9v1H8v1H7V5H6V4H5v1H4v1H3V5H2V4H1v1H0V4h1V3h1v1h1V3h1v1h1V3h1v1h1V3h1v1h1V3h1v1h1V3h1v1h1V3h1v1h1V3h1v1h1V3h1v1h1v1h-1v1h1v1h-1v1h1v1h-1v1h1v1h-1v1h1v1h-1v1h1v1h-1v1h1v1h-1v1h1v1h-1v1h1v1h-1m4 1h-2V2H0V0h22Z\"/>"
+		},
+		"box-outer-light-up-stipple": {
+			"body": "<path fill=\"currentColor\" d=\"M22 2H0V0h22M3 5h1V4H3m4 1h1V4H7m6 1h1V4h-1m4 1h1V4h-1m5 2h-1V5h-1V4h-1v1h-1v1h-1V5h-1V4h-1v1h-1v1h-1V5h-1V4h-1v1h-1V4H9v1H8v1H7V5H6V4H5v1H4v1H3V5H2V4H1v1H0V4h1V3h1v1h1V3h1v1h1V3h1v1h1V3h1v1h1V3h1v1h1V3h1v1h1V3h1v1h1V3h1v1h1V3h1v1h1V3h1v1h1V3h1v1h-1v1h1M2 7H1V6h1m4 1H5V6h1m5 1h-1V6h1m5 1h-1V6h1m4 1h-1V6h1Z\"/>"
+		},
+		"box-outer-light-up-vertical-stipple": {
+			"body": "<path fill=\"currentColor\" d=\"M3 5h1V4H3m4 1h1V4H7m10 1h1V4h-1M2 7H1V6h1m4 1H5V6h1m14 1h-1V6h1m-6 2h1V7h-1M7 9h1V8H7m10 2h-1V9h1M6 11H5v-1h1m8 2h1v-1h-1m-7 2h1v-1H7m10 3h-1v-1h1M6 16H5v-1h1m8 3h1v-1h-1m-7 2h1v-1H7m10 2h-1v-1h1M6 21H5v-1h1m2 2H7v-1h1v-1H7v-1H6v-1h1v-1h1v-1H7v-1h1v-1H7v-1H6v-1h1v-1h1v-1H7V9H6V8h1V7h1V6H7V5H6V4H5v1H4v1H3V5H2V4H1v1H0V4h1V3h1v1h1V3h1v1h1V3h1v1h1V3h1v1h1v1H8v1h1v1H8v1h1v1H8v1h1v1H8v1h1v1H8v1h1v1H8v1h1v1H8v1h1v1H8v1h1v1H8m4 1h-2V2H0V0h22v2H12m4 20h-1v-1h-1v1h-1v-1h1v-1h-1v-1h1v-1h-1v-1h1v-1h-1v-1h1v-1h-1v-1h1v-1h-1v-1h1v-1h-1V9h1V8h-1V7h1V6h-1V5h1V4h-1V3h1v1h1V3h1v1h1V3h1v1h1V3h1v1h1V3h1v1h-1v1h1v1h-1V5h-1V4h-1v1h-1v1h-1V5h-1V4h-1v1h-1v1h1v1h1v1h-1v1h-1v1h1v1h1v1h-1v1h-1v1h1v1h-1v1h1v1h1v1h-1v1h-1v1h1v1h1Z\"/>"
+		},
+		"box-outer-light-up-vertical-stipple-left": {
+			"body": "<path fill=\"currentColor\" d=\"M3 5h1V4H3m4 1h1V4H7M2 7H1V6h1m4 1H5V6h1m1 3h1V8H7m-1 3H5v-1h1m1 3h1v-1H7m-1 4H5v-1h1m1 4h1v-1H7m-1 3H5v-1h1m2 2H7v-1h1v-1H7v-1H6v-1h1v-1h1v-1H7v-1h1v-1H7v-1H6v-1h1v-1h1v-1H7V9H6V8h1V7h1V6H7V5H6V4H5v1H4v1H3V5H2V4H1v1H0V4h1V3h1v1h1V3h1v1h1V3h1v1h1V3h1v1h1v1H8v1h1v1H8v1h1v1H8v1h1v1H8v1h1v1H8v1h1v1H8v1h1v1H8v1h1v1H8v1h1v1H8m4 1h-2V2H0V0h22v2H12Z\"/>"
+		},
+		"box-outer-light-up-vertical-stipple-right": {
+			"body": "<path fill=\"currentColor\" d=\"M17 5h1V4h-1m3 3h-1V6h1m-6 2h1V7h-1m3 3h-1V9h1m-3 3h1v-1h-1m3 4h-1v-1h1m-3 4h1v-1h-1m3 3h-1v-1h1m-5 3h-2V2H0V0h22v2H12m4 20h-1v-1h-1v1h-1v-1h1v-1h-1v-1h1v-1h-1v-1h1v-1h-1v-1h1v-1h-1v-1h1v-1h-1v-1h1v-1h-1V9h1V8h-1V7h1V6h-1V5h1V4h-1V3h1v1h1V3h1v1h1V3h1v1h1V3h1v1h1V3h1v1h-1v1h1v1h-1V5h-1V4h-1v1h-1v1h-1V5h-1V4h-1v1h-1v1h1v1h1v1h-1v1h-1v1h1v1h1v1h-1v1h-1v1h1v1h-1v1h1v1h1v1h-1v1h-1v1h1v1h1Z\"/>"
 		},
 		"briefcase": {
 			"body": "<path fill=\"currentColor\" d=\"M2 6h5V3h1V2h6v1h1v3h5v1h1v12h-1v1H2v-1H1V7h1V6m7 0h4V4H9v2m10 2H3v10h16V8Z\"/>"
@@ -664,6 +1018,9 @@
 		},
 		"cart": {
 			"body": "<path fill=\"currentColor\" d=\"M19 14v2H6v-1H5v-4H4V8H3V3H1V1h4v3h16v4h-1v3h-1v1H7v2h12M5 7h1v3h12V7h1V6H5v1m2 10h2v1h1v2H9v1H7v-1H6v-2h1v-1m8 0h2v1h1v2h-1v1h-2v-1h-1v-2h1v-1Z\"/>"
+		},
+		"castle": {
+			"body": "<path fill=\"currentColor\" d=\"M19 19h-7v-6h-2v6H3v-6H2V4h5v2h1V4h6v2h1V4h5v9h-1m-2 4v-5h1V6h-1v2h-5V6h-2v2H5V6H4v6h1v5h3v-5h1v-1h4v1h1v5Z\"/>"
 		},
 		"chart-bar": {
 			"body": "<path fill=\"currentColor\" d=\"M2 2h2v16h16v2H2V2m4 14V8h4v8H6m5 0V4h4v12h-4m5 0v-5h4v5h-4Z\"/>"
@@ -752,6 +1109,9 @@
 		"comment-text": {
 			"body": "<path fill=\"currentColor\" d=\"M2 2h18v1h1v14h-1v1h-8v1h-1v1h-1v1H6v-3H2v-1H1V3h1V2m1 2v12h5v3h1v-1h1v-1h1v-1h8V4H3m2 3h12v2H5V7m0 4h10v2H5v-2Z\"/>"
 		},
+		"comment-user": {
+			"body": "<path fill=\"currentColor\" d=\"M12 10h-2V9H9V7h1V6h2v1h1v2h-1m3 5H7v-2h1v-1h6v1h1m-7 7h1v-1h1v-1h1v-1h8V4H3v12h5m2 5H6v-3H2v-1H1V3h1V2h18v1h1v14h-1v1h-8v1h-1v1h-1Z\"/>"
+		},
 		"compass": {
 			"body": "<path fill=\"currentColor\" d=\"M15 1v1h2v1h1v1h1v1h1v2h1v8h-1v2h-1v1h-1v1h-1v1h-2v1H7v-1H5v-1H4v-1H3v-1H2v-2H1V7h1V5h1V4h1V3h1V2h2V1h8m-1 2H8v1H6v1H5v1H4v2H3v6h1v2h1v1h1v1h2v1h6v-1h2v-1h1v-1h1v-2h1V8h-1V6h-1V5h-1V4h-2V3m-4 6V8h2V7h2V6h2v2h-1v2h-1v2h-1v1h-1v1h-2v1H8v1H6v-2h1v-2h1v-2h1V9h1m2 1h-2v2h2v-2Z\"/>"
 		},
@@ -815,6 +1175,12 @@
 		"door-open": {
 			"body": "<path fill=\"currentColor\" d=\"M10 10v2H9v-2h1M6 2h10v1h1v15h2v2H3v-2h2V3h1V2m1 2v14h4V4H7m6 0v1h1V4h-1m1 1v1h1V5h-1m0 1h-1v1h1V6m0 1v1h1V7h-1m0 1h-1v1h1V8m0 1v1h1V9h-1m0 1h-1v1h1v-1m0 1v1h1v-1h-1m0 1h-1v1h1v-1m0 1v1h1v-1h-1m0 1h-1v1h1v-1m0 1v1h1v-1h-1m0 1h-1v1h1v-1m0 1v1h1v-1h-1Z\"/>"
 		},
+		"dot-hexagon": {
+			"body": "<path fill=\"currentColor\" d=\"M12 13h-2v-1H9v-2h1V9h2v1h1v2h-1m0 9h-2v-1H8v-1H6v-1H4v-1H2V5h2V4h2V3h2V2h2V1h2v1h2v1h2v1h2v1h2v12h-2v1h-2v1h-2v1h-2m0-1v-1h2v-1h2v-1h2V6h-2V5h-2V4h-2V3h-2v1H8v1H6v1H4v10h2v1h2v1h2v1Z\"/>"
+		},
+		"dot-octagon": {
+			"body": "<path fill=\"currentColor\" d=\"M12 13h-2v-1H9v-2h1V9h2v1h1v2h-1m3 9H7v-1H6v-1H5v-1H4v-1H3v-1H2v-1H1V7h1V6h1V5h1V4h1V3h1V2h1V1h8v1h1v1h1v1h1v1h1v1h1v1h1v8h-1v1h-1v1h-1v1h-1v1h-1v1h-1m-1-1v-1h1v-1h1v-1h1v-1h1v-1h1V8h-1V7h-1V6h-1V5h-1V4h-1V3H8v1H7v1H6v1H5v1H4v1H3v6h1v1h1v1h1v1h1v1h1v1Z\"/>"
+		},
 		"download": {
 			"body": "<path fill=\"currentColor\" d=\"M18 17v2H4v-2h14M14 2v6h4v1h-1v1h-1v1h-1v1h-1v1h-1v1h-1v1h-2v-1H9v-1H8v-1H7v-1H6v-1H5V9H4V8h4V2h6m-2 2h-2v6H9v1h1v1h2v-1h1v-1h-1V4Z\"/>"
 		},
@@ -823,6 +1189,9 @@
 		},
 		"file": {
 			"body": "<path fill=\"currentColor\" d=\"M13 1v1h1v1h1v1h1v1h1v1h1v1h1v13h-1v1H4v-1H3V2h1V1h9m0 3h-1v4h4V7h-1V6h-1V5h-1V4M5 3v16h12v-9h-6V9h-1V3H5Z\"/>"
+		},
+		"fill": {
+			"body": "<path fill=\"currentColor\" d=\"M22 22H0V0h22Z\"/>"
 		},
 		"fire": {
 			"body": "<path fill=\"currentColor\" d=\"M14 20H7v-1H6v-1H5v-1H4v-5h1v-2h1V9h1V8h1v1h1v2h1V9h1V5h-1V4H9V3H8V2h3v1h2v1h1v1h1v1h1v1h1v2h1v7h-1v2h-1v1h-2m-2-1v-1h2v-1h1v-2h1v-4h-1V8h-1V7h-1v4h-1v2h-1v1h-1v1H9v-1H8v-3H7v1H6v4h1v1h1v1Z\"/>"
@@ -887,41 +1256,77 @@
 		"format-vertical-align-center": {
 			"body": "<path fill=\"currentColor\" d=\"M12 9h-2V8H9V7H8V6H7V5h3V2h2v3h3v1h-1v1h-1v1h-1m6 4H4v-2h14m-6 10h-2v-3H7v-1h1v-1h1v-1h1v-1h2v1h1v1h1v1h1v1h-3Z\"/>"
 		},
-		"gamepad-center": {
-			"body": "<path fill=\"currentColor\" d=\"M14 1v1h1v5h5v1h1v6h-1v1h-5v5h-1v1H8v-1H7v-5H2v-1H1V8h1V7h5V2h1V1h6m-1 7H9v1H8v4h1v1h4v-1h1V9h-1V8Z\"/>"
-		},
-		"gamepad-down": {
-			"body": "<path fill=\"currentColor\" d=\"M14 1v1h1v5h5v1h1v6h-1v1h-5v5h-1v1H8v-1H7v-5H2v-1H1V8h1V7h5V2h1V1h6m-1 14H9v4h4v-4Z\"/>"
-		},
-		"gamepad-down-left": {
-			"body": "<path fill=\"currentColor\" d=\"M14 1v1h1v5h5v1h1v6h-1v1h-5v5h-1v1H8v-1H7v-5H2v-1H1V8h1V7h5V2h1V1h6M7 9H3v4h4V9m2 6v4h4v-4H9Z\"/>"
-		},
-		"gamepad-down-right": {
-			"body": "<path fill=\"currentColor\" d=\"M14 1v1h1v5h5v1h1v6h-1v1h-5v5h-1v1H8v-1H7v-5H2v-1H1V8h1V7h5V2h1V1h6m5 8h-4v4h4V9M9 15v4h4v-4H9Z\"/>"
-		},
-		"gamepad-empty": {
+		"gamepad": {
 			"body": "<path fill=\"currentColor\" d=\"M14 1v1h1v5h5v1h1v6h-1v1h-5v5h-1v1H8v-1H7v-5H2v-1H1V8h1V7h5V2h1V1h6m-1 2H9v6H3v4h6v6h4v-6h6V9h-6V3Z\"/>"
 		},
+		"gamepad-center": {
+			"body": "<path fill=\"currentColor\" d=\"M12 13h-2v-1H9v-2h1V9h2v1h1v2h-1m2 9H8v-1H7v-5H2v-1H1V8h1V7h5V2h1V1h6v1h1v5h5v1h1v6h-1v1h-5v5h-1m-1-1v-6h6V9h-6V3H9v6H3v4h6v6Z\"/>"
+		},
+		"gamepad-center-fill": {
+			"body": "<path fill=\"currentColor\" d=\"M13 21H9v-1H8v-6H2v-1H1V9h1V8h6V2h1V1h4v1h1v6h6v1h1v4h-1v1h-6v6h-1m-1-7v-1h1v-2h-1V9h-2v1H9v2h1v1Z\"/>"
+		},
+		"gamepad-down": {
+			"body": "<path fill=\"currentColor\" d=\"M12 18h-2v-2h2m2 5H8v-1H7v-5H2v-1H1V8h1V7h5V2h1V1h6v1h1v5h5v1h1v6h-1v1h-5v5h-1m-1-1v-6h6V9h-6V3H9v6H3v4h6v6Z\"/>"
+		},
+		"gamepad-down-fill": {
+			"body": "<path fill=\"currentColor\" d=\"M13 21H9v-1H8v-6H2v-1H1V9h1V8h6V2h1V1h4v1h1v6h6v1h1v4h-1v1h-6v6h-1m-1-1v-2h-2v2Z\"/>"
+		},
+		"gamepad-down-left": {
+			"body": "<path fill=\"currentColor\" d=\"M6 12H4v-2h2m6 8h-2v-2h2m2 5H8v-1H7v-5H2v-1H1V8h1V7h5V2h1V1h6v1h1v5h5v1h1v6h-1v1h-5v5h-1m-1-1v-6h6V9h-6V3H9v6H3v4h6v6Z\"/>"
+		},
+		"gamepad-down-left-fill": {
+			"body": "<path fill=\"currentColor\" d=\"M13 21H9v-1H8v-6H2v-1H1V9h1V8h6V2h1V1h4v1h1v6h6v1h1v4h-1v1h-6v6h-1m-8-8v-2H3v2m9 7v-2h-2v2Z\"/>"
+		},
+		"gamepad-down-right": {
+			"body": "<path fill=\"currentColor\" d=\"M18 12h-2v-2h2m-6 8h-2v-2h2m2 5H8v-1H7v-5H2v-1H1V8h1V7h5V2h1V1h6v1h1v5h5v1h1v6h-1v1h-5v5h-1m-1-1v-6h6V9h-6V3H9v6H3v4h6v6Z\"/>"
+		},
+		"gamepad-down-right-fill": {
+			"body": "<path fill=\"currentColor\" d=\"M13 21H9v-1H8v-6H2v-1H1V9h1V8h6V2h1V1h4v1h1v6h6v1h1v4h-1v1h-6v6h-1m6-8v-2h-2v2m-5 7v-2h-2v2Z\"/>"
+		},
+		"gamepad-fill": {
+			"body": "<path fill=\"currentColor\" d=\"M13 21H9v-1H8v-6H2v-1H1V9h1V8h6V2h1V1h4v1h1v6h6v1h1v4h-1v1h-6v6h-1Z\"/>"
+		},
 		"gamepad-left": {
-			"body": "<path fill=\"currentColor\" d=\"M14 1v1h1v5h5v1h1v6h-1v1h-5v5h-1v1H8v-1H7v-5H2v-1H1V8h1V7h5V2h1V1h6M7 9H3v4h4V9Z\"/>"
+			"body": "<path fill=\"currentColor\" d=\"M6 12H4v-2h2m8 11H8v-1H7v-5H2v-1H1V8h1V7h5V2h1V1h6v1h1v5h5v1h1v6h-1v1h-5v5h-1m-1-1v-6h6V9h-6V3H9v6H3v4h6v6Z\"/>"
+		},
+		"gamepad-left-fill": {
+			"body": "<path fill=\"currentColor\" d=\"M13 21H9v-1H8v-6H2v-1H1V9h1V8h6V2h1V1h4v1h1v6h6v1h1v4h-1v1h-6v6h-1m-8-8v-2H3v2Z\"/>"
 		},
 		"gamepad-right": {
-			"body": "<path fill=\"currentColor\" d=\"M14 1v1h1v5h5v1h1v6h-1v1h-5v5h-1v1H8v-1H7v-5H2v-1H1V8h1V7h5V2h1V1h6m5 8h-4v4h4V9Z\"/>"
+			"body": "<path fill=\"currentColor\" d=\"M18 12h-2v-2h2m-4 11H8v-1H7v-5H2v-1H1V8h1V7h5V2h1V1h6v1h1v5h5v1h1v6h-1v1h-5v5h-1m-1-1v-6h6V9h-6V3H9v6H3v4h6v6Z\"/>"
+		},
+		"gamepad-right-fill": {
+			"body": "<path fill=\"currentColor\" d=\"M13 21H9v-1H8v-6H2v-1H1V9h1V8h6V2h1V1h4v1h1v6h6v1h1v4h-1v1h-6v6h-1m6-8v-2h-2v2Z\"/>"
 		},
 		"gamepad-up": {
-			"body": "<path fill=\"currentColor\" d=\"M14 1v1h1v5h5v1h1v6h-1v1h-5v5h-1v1H8v-1H7v-5H2v-1H1V8h1V7h5V2h1V1h6m-1 2H9v4h4V3Z\"/>"
+			"body": "<path fill=\"currentColor\" d=\"M12 6h-2V4h2m2 17H8v-1H7v-5H2v-1H1V8h1V7h5V2h1V1h6v1h1v5h5v1h1v6h-1v1h-5v5h-1m-1-1v-6h6V9h-6V3H9v6H3v4h6v6Z\"/>"
+		},
+		"gamepad-up-fill": {
+			"body": "<path fill=\"currentColor\" d=\"M13 21H9v-1H8v-6H2v-1H1V9h1V8h6V2h1V1h4v1h1v6h6v1h1v4h-1v1h-6v6h-1M12 5V3h-2v2Z\"/>"
 		},
 		"gamepad-up-left": {
-			"body": "<path fill=\"currentColor\" d=\"M14 1v1h1v5h5v1h1v6h-1v1h-5v5h-1v1H8v-1H7v-5H2v-1H1V8h1V7h5V2h1V1h6M7 9H3v4h4V9m2-6v4h4V3H9Z\"/>"
+			"body": "<path fill=\"currentColor\" d=\"M12 6h-2V4h2m-6 8H4v-2h2m8 11H8v-1H7v-5H2v-1H1V8h1V7h5V2h1V1h6v1h1v5h5v1h1v6h-1v1h-5v5h-1m-1-1v-6h6V9h-6V3H9v6H3v4h6v6Z\"/>"
+		},
+		"gamepad-up-left-fill": {
+			"body": "<path fill=\"currentColor\" d=\"M13 21H9v-1H8v-6H2v-1H1V9h1V8h6V2h1V1h4v1h1v6h6v1h1v4h-1v1h-6v6h-1M12 5V3h-2v2m-5 7v-2H3v2Z\"/>"
 		},
 		"gamepad-up-right": {
-			"body": "<path fill=\"currentColor\" d=\"M14 1v1h1v5h5v1h1v6h-1v1h-5v5h-1v1H8v-1H7v-5H2v-1H1V8h1V7h5V2h1V1h6m5 8h-4v4h4V9M9 3v4h4V3H9Z\"/>"
+			"body": "<path fill=\"currentColor\" d=\"M12 6h-2V4h2m6 8h-2v-2h2m-4 11H8v-1H7v-5H2v-1H1V8h1V7h5V2h1V1h6v1h1v5h5v1h1v6h-1v1h-5v5h-1m-1-1v-6h6V9h-6V3H9v6H3v4h6v6Z\"/>"
+		},
+		"gamepad-up-right-fill": {
+			"body": "<path fill=\"currentColor\" d=\"M13 21H9v-1H8v-6H2v-1H1V9h1V8h6V2h1V1h4v1h1v6h6v1h1v4h-1v1h-6v6h-1M12 5V3h-2v2m9 7v-2h-2v2Z\"/>"
+		},
+		"glasses": {
+			"body": "<path fill=\"currentColor\" d=\"M19 16h-6v-1h-1v-1h-2v1H9v1H3v-1H2v-1H1V8h1V7h18v1h1v6h-1v1h-1M8 14v-1h1v-1h1V9H3v4h1v1m14 0v-1h1V9h-7v3h1v1h1v1Z\"/>"
 		},
 		"heart": {
 			"body": "<path fill=\"currentColor\" d=\"M12 20h-2v-1H9v-1H8v-1H7v-1H6v-1H5v-1H4v-1H3v-1H2v-2H1V5h1V4h1V3h1V2h5v1h1v1h2V3h1V2h5v1h1v1h1v1h1v5h-1v2h-1v1h-1v1h-1v1h-1v1h-1v1h-1v1h-1v1h-1v1m-7-9v1h1v1h1v1h1v1h1v1h1v1h2v-1h1v-1h1v-1h1v-1h1v-1h1v-1h1V9h1V6h-1V5h-1V4h-3v1h-1v1h-1v1h-2V6H9V5H8V4H5v1H4v1H3v3h1v2h1Z\"/>"
 		},
 		"heart-broken": {
 			"body": "<path fill=\"currentColor\" d=\"M14 14h1v-1h1v-1h1v-1h1V9h1V6h-1V5h-1V4h-3v5h-1v2h1Zm-6 1h1v-2H8v-1H7V8h1V6h1V5H8V4H5v1H4v1H3v3h1v2h1v1h1v1h1v1h1Zm6 3h-1v-1h-1v-5h-1V8h1V3h1V2h5v1h1v1h1v1h1v5h-1v2h-1v1h-1v1h-1v1h-1v1h-1v1h-1Zm-2 2h-2v-1H9v-1H8v-1H7v-1H6v-1H5v-1H4v-1H3v-1H2v-2H1V5h1V4h1V3h1V2h5v1h1v1h1v3h-1v2H9v2h1v2h1v5h1Z\"/>"
+		},
+		"hexagon": {
+			"body": "<path fill=\"currentColor\" d=\"M12 21h-2v-1H8v-1H6v-1H4v-1H2V5h2V4h2V3h2V2h2V1h2v1h2v1h2v1h2v1h2v12h-2v1h-2v1h-2v1h-2m0-1v-1h2v-1h2v-1h2V6h-2V5h-2V4h-2V3h-2v1H8v1H6v1H4v10h2v1h2v1h2v1Z\"/>"
 		},
 		"image": {
 			"body": "<path fill=\"currentColor\" d=\"M1 4h1V3h18v1h1v14h-1v1H2v-1H1V4m2 10h1v-1h1v-1h1v-1h1v-1h1V9h2v1h1v1h1v1h1v1h1v1h1v1h1v1h1v1h2V5H3v9m11 3v-1h-1v-1h-1v-1h-1v-1h-1v-1H8v1H7v1H6v1H5v1H4v1h10m-1-9h1V7h2v1h1v2h-1v1h-2v-1h-1V8Z\"/>"
@@ -949,6 +1354,12 @@
 		},
 		"logout": {
 			"body": "<path fill=\"currentColor\" d=\"M17 1v1h1v4h-1V5h-1V3H6v16h10v-2h1v-1h1v4h-1v1H5v-1H4V2h1V1h12m-4 5h2v1h1v1h1v1h1v1h1v2h-1v1h-1v1h-1v1h-1v1h-2v-2h1v-1h1v-1H8v-2h7V9h-1V8h-1V6Z\"/>"
+		},
+		"magnify-minus": {
+			"body": "<path fill=\"currentColor\" d=\"M12 10H6V8h6m7 12h-2v-1h-1v-1h-1v-1h-1v-2h-2v1H6v-1H5v-1H4v-1H3v-1H2V6h1V5h1V4h1V3h1V2h6v1h1v1h1v1h1v1h1v6h-1v2h2v1h1v1h1v1h1v2h-1m-8-5v-1h2v-2h1V7h-1V5h-2V4H7v1H5v2H4v4h1v2h2v1Z\"/>"
+		},
+		"magnify-plus": {
+			"body": "<path fill=\"currentColor\" d=\"M10 12H8v-2H6V8h2V6h2v2h2v2h-2m9 10h-2v-1h-1v-1h-1v-1h-1v-2h-2v1H6v-1H5v-1H4v-1H3v-1H2V6h1V5h1V4h1V3h1V2h6v1h1v1h1v1h1v1h1v6h-1v2h2v1h1v1h1v1h1v2h-1m-8-5v-1h2v-2h1V7h-1V5h-2V4H7v1H5v2H4v4h1v2h2v1Z\"/>"
 		},
 		"map": {
 			"body": "<path fill=\"currentColor\" d=\"M2 4h2V3h2V2h4v1h3v1h2V3h2V2h3v16h-2v1h-2v1h-4v-1H9v-1H7v1H5v1H2V4m2 2v11h2v-1h1V5H5v1H4m8-1H9v11h1v1h3V6h-1V5m4 1h-1v11h2v-1h1V5h-2v1Z\"/>"
@@ -1004,6 +1415,9 @@
 		"message-text": {
 			"body": "<path fill=\"currentColor\" d=\"M2 1h18v1h1v14h-1v1H5v1H4v1H3v1H2v1H1V2h1V1m1 2v13h1v-1h15V3H3m2 3h12v2H5V6m0 4h9v2H5v-2Z\"/>"
 		},
+		"message-user": {
+			"body": "<path fill=\"currentColor\" d=\"M12 9h-2V8H9V6h1V5h2v1h1v2h-1m3 5H7v-2h1v-1h6v1h1M3 16h1v-1h15V3H3M2 21H1V2h1V1h18v1h1v14h-1v1H5v1H4v1H3v1H2Z\"/>"
+		},
 		"microphone": {
 			"body": "<path fill=\"currentColor\" d=\"M10 21v-3H8v-1H6v-1H5v-1H4v-2H3V9h2v3h1v2h1v1h2v1h4v-1h2v-1h1v-2h1V9h2v4h-1v2h-1v1h-1v1h-2v1h-2v3h-2m-2-8v-1H7V3h1V2h1V1h4v1h1v1h1v9h-1v1h-1v1H9v-1H8m1-2h1v1h2v-1h1V4h-1V3h-2v1H9v7Z\"/>"
 		},
@@ -1058,6 +1472,9 @@
 		"pause": {
 			"body": "<path fill=\"currentColor\" d=\"M6 4h3v14H6V4m7 14V4h3v14h-3Z\"/>"
 		},
+		"peace": {
+			"body": "<path fill=\"currentColor\" d=\"M4 15h1v-1h1v-1h1v-1h1v-1h1v-1h1V3H8v1H6v1H5v1H4v2H3v6h1m13 1h1v-1h1V8h-1V6h-1V5h-1V4h-2V3h-2v7h1v1h1v1h1v1h1v1h1m-2 7H7v-1H5v-1H4v-1H3v-1H2v-2H1V7h1V5h1V4h1V3h1V2h2V1h8v1h2v1h1v1h1v1h1v2h1v8h-1v2h-1v1h-1v1h-1v1h-2m-5-1v-6H9v1H8v1H7v1H6v2h2v1m6 0v-1h2v-2h-1v-1h-1v-1h-1v-1h-1v6Z\"/>"
+		},
 		"pencil": {
 			"body": "<path fill=\"currentColor\" d=\"M16 2h1v1h1v1h1v1h1v1h-1v1h-1v1h-1V7h-1V6h-1V5h-1V4h1V3h1m-4 3h2v1h1v1h1v2h-1v1h-1v1h-1v1h-1v1h-1v1h-1v1H9v1H8v1H7v1H6v1H2v-4h1v-1h1v-1h1v-1h1v-1h1v-1h1v-1h1V9h1V8h1V7h1\"/>"
 		},
@@ -1091,6 +1508,9 @@
 		"radiobox-marked": {
 			"body": "<path fill=\"currentColor\" d=\"M8 2h6v1h2v1h1v1h1v1h1v2h1v6h-1v2h-1v1h-1v1h-1v1h-2v1H8v-1H6v-1H5v-1H4v-1H3v-2H2V8h1V6h1V5h1V4h1V3h2V2m1 2v1H7v1H6v1H5v2H4v4h1v2h1v1h1v1h2v1h4v-1h2v-1h1v-1h1v-2h1V9h-1V7h-1V6h-1V5h-2V4H9m4 3v1h1v1h1v4h-1v1h-1v1H9v-1H8v-1H7V9h1V8h1V7h4Z\"/>"
 		},
+		"relative-scale": {
+			"body": "<path fill=\"currentColor\" d=\"M7 10H5V9h1V8h2v1H7m4 1H9V9h1V8h2v1h-1m4 1h-2V9h1V8h2v1h-1m0 5h-1v-2h1v-1h1v2h-1m4 6H3v-1H2V4h1V3h16v1h1v14h-1m-1-1V5H4v12h10v-1h1v-1h1v2Z\"/>"
+		},
 		"remove-circle": {
 			"body": "<path fill=\"currentColor\" d=\"M21 7v8h-1v2h-1v1h-1v1h-1v1h-2v1H7v-1H5v-1H4v-1H3v-1H2v-2H1V7h1V5h1V4h1V3h1V2h2V1h8v1h2v1h1v1h1v1h1v2h1m-4-1V5h-1V4h-2V3H8v1H6v1H5v1H4v2H3v6h1v2h1v1h1v1h2v1h6v-1h2v-1h1v-1h1v-2h1V8h-1V6h-1m-3 1v1h1v1h-1v1h-1v2h1v1h1v1h-1v1h-1v-1h-1v-1h-2v1H9v1H8v-1H7v-1h1v-1h1v-2H8V9H7V8h1V7h1v1h1v1h2V8h1V7h1Z\"/>"
 		},
@@ -1102,6 +1522,9 @@
 		},
 		"script": {
 			"body": "<path fill=\"currentColor\" d=\"M20 1H5v1H4v13h2V3h9v16h-2v-1h-1v-1H1v3h1v1h14v-1h1V3h2v2h2V2h-1\"/>"
+		},
+		"search": {
+			"body": "<path fill=\"currentColor\" d=\"M19 20h-1v-1h-1v-1h-1v-1h-1v-1h-1v-1h-1v-1h-2v1H6v-1H4v-1H3v-2H2V6h1V4h1V3h2V2h5v1h2v1h1v2h1v5h-1v2h1v1h1v1h1v1h1v1h1v1h1v1h-1m-8-6v-1h1v-1h1V6h-1V5h-1V4H6v1H5v1H4v5h1v1h1v1Z\"/>"
 		},
 		"shield": {
 			"body": "<path fill=\"currentColor\" d=\"M3 4h2V3h2V2h2V1h4v1h2v1h2v1h2v10h-1v2h-1v2h-1v1h-1v1h-2v1H9v-1H7v-1H6v-1H5v-2H4v-2H3V4m7-1v1H8v1H6v1H5v7h1v2h1v2h1v1h2v1h2v-1h2v-1h1v-2h1v-2h1V6h-1V5h-2V4h-2V3h-2Z\"/>"
@@ -1117,6 +1540,24 @@
 		},
 		"sword": {
 			"body": "<path fill=\"currentColor\" d=\"M5 20H3v-1H2v-2h1v-1h1v-1h1v-1H4v-1H3v-2h2v1h1v-1h1v-1h1V9h1V8h1V7h1V6h1V5h1V4h1V3h1V2h5v5h-1v1h-1v1h-1v1h-1v1h-1v1h-1v1h-1v1h-1v1h-1v1h-1v1h1v2H9v-1H8v-1H7v1H6v1H5m5-6v-1h1v-1h1v-1h1V9h1V8h1V7h1V6h1V5h1V4h-2v1h-1v1h-1v1h-1v1h-1v1h-1v1h-1v1H9v1H8v1Z\"/>"
+		},
+		"table-top-door-horizontal": {
+			"body": "<path fill=\"currentColor\" d=\"M18 15H4v-3H0v-2h4V7h14v3h4v2h-4m-2 1V9H6v4Z\"/>"
+		},
+		"table-top-door-one-way-down": {
+			"body": "<path fill=\"currentColor\" d=\"M22 12H0v-2h4V6h14v4h4M12 20h-2v-1H9v-1H8v-1H7v-1h3v-3h2v3h3v1h-1v1h-1v1h-1m4-8V8H6v3Z\"/>"
+		},
+		"table-top-door-one-way-left": {
+			"body": "<path fill=\"currentColor\" d=\"M6 15H5v-1H4v-1H3v-1H2v-2h1V9h1V8h1V7h1v3h3v2H6m6 10h-2V0h2v4h4v14h-4m2-2V6h-3v10Z\"/>"
+		},
+		"table-top-door-one-way-right": {
+			"body": "<path fill=\"currentColor\" d=\"M17 15h-1v-3h-3v-2h3V7h1v1h1v1h1v1h1v2h-1v1h-1v1h-1m-5 8h-2v-4H6V4h4V0h2m-1 16V6H8v10Z\"/>"
+		},
+		"table-top-door-one-way-up": {
+			"body": "<path fill=\"currentColor\" d=\"M12 9h-2V6H7V5h1V4h1V3h1V2h2v1h1v1h1v1h1v1h-3m6 10H4v-4H0v-2h22v2h-4m-2 2v-3H6v3Z\"/>"
+		},
+		"table-top-door-vertical": {
+			"body": "<path fill=\"currentColor\" d=\"M12 22h-2v-4H7V4h3V0h2v4h3v14h-3m1-2V6H9v10Z\"/>"
 		},
 		"tag": {
 			"body": "<path fill=\"currentColor\" d=\"M1 2h1V1h9v1h1v1h1v1h1v1h1v1h1v1h1v1h1v1h1v1h1v1h1v2h-1v1h-1v1h-1v1h-1v1h-1v1h-1v1h-1v1h-1v1h-2v-1h-1v-1H9v-1H8v-1H7v-1H6v-1H5v-1H4v-1H3v-1H2v-1H1V2m2 8h1v1h1v1h1v1h1v1h1v1h1v1h1v1h1v1h2v-1h1v-1h1v-1h1v-1h1v-1h1v-2h-1v-1h-1V9h-1V8h-1V7h-1V6h-1V5h-1V4h-1V3H3v7m2-6h2v1h1v2H7v1H5V7H4V5h1V4Z\"/>"
@@ -1193,6 +1634,9 @@
 		"trash": {
 			"body": "<path fill=\"currentColor\" d=\"M10 7v9H8V7h2m2 0h2v9h-2V7M8 2h6v1h5v2h-1v14h-1v1H5v-1H4V5H3V3h5V2M6 5v13h10V5H6Z\"/>"
 		},
+		"umbrella": {
+			"body": "<path fill=\"currentColor\" d=\"M11 20H7v-1H6v-3h2v2h2v-6H3V7h1V6h1V5h1V4h2V3h6v1h2v1h1v1h1v1h1v5h-7v7h-1m6-9V8h-1V7h-1V6h-2V5H9v1H7v1H6v1H5v2Z\"/>"
+		},
 		"upload": {
 			"body": "<path fill=\"currentColor\" d=\"M18 17v2H4v-2h14M8 15V9H4V8h1V7h1V6h1V5h1V4h1V3h1V2h2v1h1v1h1v1h1v1h1v1h1v1h1v1h-4v6H8m2-2h2V7h1V6h-1V5h-2v1H9v1h1v6Z\"/>"
 		},
@@ -1214,6 +1658,15 @@
 		"wall-fill": {
 			"body": "<path fill=\"currentColor\" d=\"M5 3h6v4H5m8-4h5v4h-5m-8 8v4h6v-4m2 0h5v4h-5M8 9H3v4h5m2-4h10v4H10\"/>"
 		},
+		"wall-front": {
+			"body": "<path fill=\"currentColor\" d=\"M20 18H2V4h2v2h2V4h2v2h2V4h2v2h2V4h2v2h2V4h2m-2 12V8H4v8Z\"/>"
+		},
+		"wall-front-damaged": {
+			"body": "<path fill=\"currentColor\" d=\"M4 16h1v-2h1v-1h1v-1h1v-1h2v-1h5v1h1v2h1v2h1V8H4m16 10h-4v-2h-1v-2h-1v-2h-3v1H9v1H8v1H7v2H6v1H2V4h2v2h2V4h2v2h2V4h2v2h2V4h2v2h2V4h2m-9 16H6v-1h1v-1h3v1h1m5 1h-4v-2h1v-1h1v1h1v1h1Z\"/>"
+		},
+		"wall-front-gate": {
+			"body": "<path fill=\"currentColor\" d=\"M20 18h-7v-5h-1v-1h-2v1H9v5H2V4h2v2h2V4h2v2h2V4h2v2h2V4h2v2h2V4h2m-2 12V8H4v8h3v-4h1v-1h1v-1h4v1h1v1h1v4Z\"/>"
+		},
 		"water": {
 			"body": "<path fill=\"currentColor\" d=\"M14 21H8v-1H6v-1H5v-1H4v-2H3v-3h1v-2h1V9h1V7h1V6h1V4h1V3h1V1h2v2h1v1h1v2h1v1h1v2h1v2h1v2h1v3h-1v2h-1v1h-1v1h-2Zm-1-2v-1h2v-1h1v-2h1v-1h-1v-2h-1v-2h-1V8h-1V7h-1V5h-2v2H9v1H8v2H7v2H6v2H5v1h1v2h1v1h2v1Z\"/>"
 		},
@@ -1225,6 +1678,9 @@
 		}
 	},
 	"aliases": {
+		"gamepad-empty": {
+			"parent": "gamepad"
+		},
 		"user": {
 			"parent": "account"
 		},
@@ -1240,6 +1696,7 @@
 		"f0148": "alert-box-fill",
 		"f0149": "alert-circle",
 		"f014a": "alert-circle-fill",
+		"f0198": "alert-hexagon",
 		"f0153": "alert-rhombus",
 		"f0154": "alert-rhombus-fill",
 		"f0187": "align-horizontal-center",
@@ -1312,17 +1769,22 @@
 		"f00dc": "arrow-bottom-right-circle",
 		"f0005": "arrow-down",
 		"f0006": "arrow-down-bold",
+		"f0218": "arrow-down-box",
 		"f00d0": "arrow-down-circle",
 		"f0007": "arrow-down-left",
+		"f021c": "arrow-down-left-box",
 		"f0008": "arrow-down-right",
+		"f021d": "arrow-down-right-box",
 		"f0009": "arrow-left",
 		"f000a": "arrow-left-bold",
+		"f0219": "arrow-left-box",
 		"f00d1": "arrow-left-circle",
 		"f000b": "arrow-left-down",
 		"f000c": "arrow-left-right",
 		"f000d": "arrow-left-up",
 		"f000e": "arrow-right",
 		"f000f": "arrow-right-bold",
+		"f021a": "arrow-right-box",
 		"f00d2": "arrow-right-circle",
 		"f0010": "arrow-right-down",
 		"f0011": "arrow-right-up",
@@ -1332,10 +1794,14 @@
 		"f00de": "arrow-top-right-circle",
 		"f0012": "arrow-up",
 		"f0013": "arrow-up-bold",
+		"f021b": "arrow-up-box",
 		"f00d3": "arrow-up-circle",
 		"f0014": "arrow-up-down",
 		"f0015": "arrow-up-left",
+		"f021e": "arrow-up-left-box",
 		"f0016": "arrow-up-right",
+		"f021f": "arrow-up-right-box",
+		"f0194": "aspect-ratio",
 		"f0017": "axe",
 		"f00f1": "bag-personal",
 		"f00cc": "bag-personal-fill",
@@ -1373,42 +1839,128 @@
 		"f0145": "box-light-dashed-down-right",
 		"f0143": "box-light-dashed-up-left",
 		"f0144": "box-light-dashed-up-right",
+		"f01b0": "box-light-double-down-left",
+		"f01b1": "box-light-double-down-right",
 		"f0118": "box-light-double-horizontal",
+		"f019f": "box-light-double-horizontal-down",
+		"f01b5": "box-light-double-horizontal-light-down",
+		"f01b6": "box-light-double-horizontal-light-up",
+		"f01a0": "box-light-double-horizontal-up",
 		"f0117": "box-light-double-round-down-left",
 		"f0116": "box-light-double-round-down-right",
 		"f0115": "box-light-double-round-up-left",
 		"f0114": "box-light-double-round-up-right",
+		"f01b2": "box-light-double-up-left",
+		"f01b3": "box-light-double-up-right",
 		"f0119": "box-light-double-vertical",
+		"f01b4": "box-light-double-vertical-horizontal",
+		"f01a1": "box-light-double-vertical-left",
+		"f01b7": "box-light-double-vertical-light-left",
+		"f01b8": "box-light-double-vertical-light-right",
+		"f01a2": "box-light-double-vertical-right",
 		"f010f": "box-light-down-left",
 		"f0125": "box-light-down-left-circle",
+		"f01c5": "box-light-down-left-stipple",
+		"f01c6": "box-light-down-left-stipple-inner",
+		"f01c7": "box-light-down-left-stipple-outer",
 		"f010e": "box-light-down-right",
 		"f0126": "box-light-down-right-circle",
+		"f01c8": "box-light-down-right-stipple",
+		"f01c9": "box-light-down-right-stipple-inner",
+		"f01ca": "box-light-down-right-stipple-outer",
+		"f01a3": "box-light-fold-down-left",
+		"f01a4": "box-light-fold-down-right",
+		"f01a5": "box-light-fold-up-left",
+		"f01a6": "box-light-fold-up-right",
 		"f010a": "box-light-horizontal",
 		"f0171": "box-light-horizontal-circle",
+		"f01a7": "box-light-horizontal-down",
+		"f01cb": "box-light-horizontal-down-stipple",
+		"f01cc": "box-light-horizontal-down-stipple-down",
+		"f01cd": "box-light-horizontal-down-stipple-down-left",
+		"f01ce": "box-light-horizontal-down-stipple-down-right",
 		"f0173": "box-light-horizontal-menu-down",
 		"f017a": "box-light-horizontal-menu-left",
 		"f0179": "box-light-horizontal-menu-right",
 		"f0174": "box-light-horizontal-menu-up",
+		"f01cf": "box-light-horizontal-stipple",
+		"f01d0": "box-light-horizontal-stipple-down",
+		"f01d1": "box-light-horizontal-stipple-up",
+		"f01a8": "box-light-horizontal-up",
+		"f01d2": "box-light-horizontal-up-stipple",
+		"f01d3": "box-light-horizontal-up-stipple-down",
+		"f01d4": "box-light-horizontal-up-stipple-up",
+		"f01d5": "box-light-horizontal-up-stipple-up-left",
+		"f01d6": "box-light-horizontal-up-stipple-up-right",
 		"f0113": "box-light-round-down-left",
+		"f01d7": "box-light-round-down-left-stipple",
+		"f01d8": "box-light-round-down-left-stipple-inner",
+		"f01d9": "box-light-round-down-left-stipple-outer",
 		"f0112": "box-light-round-down-right",
+		"f01da": "box-light-round-down-right-stipple",
+		"f01db": "box-light-round-down-right-stipple-inner",
+		"f01dc": "box-light-round-down-right-stipple-outer",
 		"f0111": "box-light-round-up-left",
+		"f01dd": "box-light-round-up-left-stipple",
+		"f01de": "box-light-round-up-left-stipple-inner",
+		"f01df": "box-light-round-up-left-stipple-outer",
 		"f0110": "box-light-round-up-right",
+		"f01e0": "box-light-round-up-right-stipple",
+		"f01e1": "box-light-round-up-right-stipple-inner",
+		"f01e2": "box-light-round-up-right-stipple-outer",
 		"f010d": "box-light-up-left",
 		"f0127": "box-light-up-left-circle",
+		"f01e3": "box-light-up-left-stipple",
+		"f01e4": "box-light-up-left-stipple-inner",
+		"f01e5": "box-light-up-left-stipple-outer",
 		"f010c": "box-light-up-right",
 		"f0128": "box-light-up-right-circle",
+		"f01e6": "box-light-up-right-stipple",
+		"f01e7": "box-light-up-right-stipple-inner",
+		"f01e8": "box-light-up-right-stipple-outer",
 		"f010b": "box-light-vertical",
 		"f0172": "box-light-vertical-circle",
+		"f01e9": "box-light-vertical-horizontal-stipple",
+		"f01ea": "box-light-vertical-horizontal-stipple-down",
+		"f01eb": "box-light-vertical-horizontal-stipple-down-left",
+		"f01ec": "box-light-vertical-horizontal-stipple-down-right",
+		"f01ed": "box-light-vertical-horizontal-stipple-left",
+		"f01ee": "box-light-vertical-horizontal-stipple-left-down-right",
+		"f01ef": "box-light-vertical-horizontal-stipple-left-up-right",
+		"f01f0": "box-light-vertical-horizontal-stipple-right",
+		"f01f1": "box-light-vertical-horizontal-stipple-right-down-left",
+		"f01f2": "box-light-vertical-horizontal-stipple-right-up-left",
+		"f01f3": "box-light-vertical-horizontal-stipple-up",
+		"f01f4": "box-light-vertical-horizontal-stipple-up-left",
+		"f01f5": "box-light-vertical-horizontal-stipple-up-right",
+		"f01a9": "box-light-vertical-left",
+		"f01f6": "box-light-vertical-left-stipple",
+		"f01f7": "box-light-vertical-left-stipple-down-left",
+		"f01f8": "box-light-vertical-left-stipple-left",
+		"f01f9": "box-light-vertical-left-stipple-up-left",
 		"f0178": "box-light-vertical-menu-down",
 		"f0175": "box-light-vertical-menu-left",
 		"f0176": "box-light-vertical-menu-right",
 		"f0177": "box-light-vertical-menu-up",
+		"f01aa": "box-light-vertical-right",
+		"f01fa": "box-light-vertical-right-stipple",
+		"f01fb": "box-light-vertical-right-stipple-down-right",
+		"f01fc": "box-light-vertical-right-stipple-left",
+		"f01fd": "box-light-vertical-right-stipple-right",
+		"f01fe": "box-light-vertical-right-stipple-up-right",
+		"f01ff": "box-light-vertical-stipple",
+		"f0200": "box-light-vertical-stipple-left",
+		"f0201": "box-light-vertical-stipple-right",
 		"f0133": "box-outer-light-all",
 		"f0122": "box-outer-light-dashed-all",
 		"f0120": "box-outer-light-dashed-down",
 		"f013d": "box-outer-light-dashed-down-left",
 		"f011c": "box-outer-light-dashed-down-left-right",
 		"f013c": "box-outer-light-dashed-down-right",
+		"f01ab": "box-outer-light-dashed-fold-down-left",
+		"f01ac": "box-outer-light-dashed-fold-down-right",
+		"f01ad": "box-outer-light-dashed-fold-up-left",
+		"f01ae": "box-outer-light-dashed-fold-up-right",
 		"f0121": "box-outer-light-dashed-left",
 		"f0123": "box-outer-light-dashed-left-right",
 		"f011f": "box-outer-light-dashed-right",
@@ -1422,10 +1974,25 @@
 		"f0131": "box-outer-light-down",
 		"f0139": "box-outer-light-down-left",
 		"f012b": "box-outer-light-down-left-right",
+		"f0202": "box-outer-light-down-left-stipple",
 		"f0138": "box-outer-light-down-right",
+		"f0203": "box-outer-light-down-right-stipple",
+		"f0204": "box-outer-light-down-stipple",
+		"f0205": "box-outer-light-down-vertical-stipple",
+		"f0206": "box-outer-light-down-vertical-stipple-left",
+		"f0207": "box-outer-light-down-vertical-stipple-right",
 		"f0132": "box-outer-light-left",
+		"f0208": "box-outer-light-left-horizontal-stipple",
+		"f0209": "box-outer-light-left-horizontal-stipple-down",
+		"f020a": "box-outer-light-left-horizontal-stipple-up",
 		"f012e": "box-outer-light-left-right",
+		"f020b": "box-outer-light-left-right-stipple",
+		"f020c": "box-outer-light-left-stipple",
 		"f0130": "box-outer-light-right",
+		"f020d": "box-outer-light-right-horizontal-stipple",
+		"f020e": "box-outer-light-right-horizontal-stipple-down",
+		"f020f": "box-outer-light-right-horizontal-stipple-up",
+		"f0211": "box-outer-light-right-stipple",
 		"f0141": "box-outer-light-round-down-left",
 		"f0140": "box-outer-light-round-down-right",
 		"f013f": "box-outer-light-round-up-left",
@@ -1434,9 +2001,16 @@
 		"f012d": "box-outer-light-up-down",
 		"f012c": "box-outer-light-up-down-left",
 		"f012a": "box-outer-light-up-down-right",
+		"f0210": "box-outer-light-up-down-stipple",
 		"f013a": "box-outer-light-up-left",
 		"f0129": "box-outer-light-up-left-right",
+		"f0212": "box-outer-light-up-left-stipple",
 		"f0137": "box-outer-light-up-right",
+		"f0213": "box-outer-light-up-right-stipple",
+		"f0214": "box-outer-light-up-stipple",
+		"f0215": "box-outer-light-up-vertical-stipple",
+		"f0216": "box-outer-light-up-vertical-stipple-left",
+		"f0217": "box-outer-light-up-vertical-stipple-right",
 		"f00d8": "briefcase",
 		"f0023": "bug",
 		"f00fd": "bug-fill",
@@ -1447,6 +2021,7 @@
 		"f0026": "card",
 		"f0027": "card-text",
 		"f00fe": "cart",
+		"f0227": "castle",
 		"f0107": "chart-bar",
 		"f00ed": "chat",
 		"f0028": "check",
@@ -1476,6 +2051,7 @@
 		"f0169": "coin-silver",
 		"f0108": "comment",
 		"f0109": "comment-text",
+		"f0196": "comment-user",
 		"f0030": "compass",
 		"f0072": "compass-east-arrow",
 		"f0073": "compass-north-arrow",
@@ -1497,9 +2073,12 @@
 		"f0032": "door",
 		"f014b": "door-box",
 		"f0033": "door-open",
+		"f0199": "dot-hexagon",
+		"f0191": "dot-octagon",
 		"f0034": "download",
 		"f00d5": "email",
 		"f0035": "file",
+		"f01af": "fill",
 		"f015d": "fire",
 		"f0036": "flask",
 		"f0037": "flask-empty",
@@ -1521,18 +2100,30 @@
 		"f018e": "format-italic",
 		"f018c": "format-line-spacing",
 		"f018a": "format-vertical-align-center",
-		"f003c": "gamepad-center",
-		"f003d": "gamepad-down",
-		"f003e": "gamepad-down-left",
-		"f003f": "gamepad-down-right",
-		"f0040": "gamepad-empty",
-		"f0041": "gamepad-left",
-		"f0042": "gamepad-right",
-		"f0043": "gamepad-up",
-		"f0044": "gamepad-up-left",
-		"f0045": "gamepad-up-right",
+		"f0040": "gamepad",
+		"f01b9": "gamepad-center",
+		"f003c": "gamepad-center-fill",
+		"f01ba": "gamepad-down",
+		"f003d": "gamepad-down-fill",
+		"f01be": "gamepad-down-left",
+		"f003e": "gamepad-down-left-fill",
+		"f01bf": "gamepad-down-right",
+		"f003f": "gamepad-down-right-fill",
+		"f01c2": "gamepad-fill",
+		"f01bb": "gamepad-left",
+		"f0041": "gamepad-left-fill",
+		"f01bc": "gamepad-right",
+		"f0042": "gamepad-right-fill",
+		"f01bd": "gamepad-up",
+		"f0043": "gamepad-up-fill",
+		"f01c0": "gamepad-up-left",
+		"f0044": "gamepad-up-left-fill",
+		"f01c1": "gamepad-up-right",
+		"f0045": "gamepad-up-right-fill",
+		"f0192": "glasses",
 		"f0046": "heart",
 		"f016b": "heart-broken",
+		"f019a": "hexagon",
 		"f0047": "image",
 		"f00e1": "label",
 		"f00e2": "label-variant",
@@ -1542,6 +2133,8 @@
 		"f0049": "lock-open",
 		"f007a": "login",
 		"f007b": "logout",
+		"f019d": "magnify-minus",
+		"f019c": "magnify-plus",
 		"f004a": "map",
 		"f0088": "menu-bottom-left",
 		"f0089": "menu-bottom-right",
@@ -1560,6 +2153,7 @@
 		"f004b": "message",
 		"f00e5": "message-processing",
 		"f004c": "message-text",
+		"f0197": "message-user",
 		"f00cd": "microphone",
 		"f0157": "minus",
 		"f014e": "minus-box",
@@ -1578,6 +2172,7 @@
 		"f0100": "octagon-alert",
 		"f016d": "paperclip",
 		"f0134": "pause",
+		"f0193": "peace",
 		"f0051": "pencil",
 		"f0052": "pickaxe",
 		"f0001": "pictogrammers",
@@ -1589,15 +2184,23 @@
 		"f014c": "plus-circle-fill",
 		"f0053": "radiobox",
 		"f0054": "radiobox-marked",
+		"f0195": "relative-scale",
 		"f00eb": "remove-circle",
 		"f0082": "rotate-clockwise",
 		"f0083": "rotate-counterclockwise",
 		"f0055": "script",
+		"f019b": "search",
 		"f0056": "shield",
 		"f00ec": "skull",
 		"f00f0": "speaker",
 		"f0136": "stop",
 		"f0057": "sword",
+		"f0226": "table-top-door-horizontal",
+		"f0225": "table-top-door-one-way-down",
+		"f0224": "table-top-door-one-way-left",
+		"f0223": "table-top-door-one-way-right",
+		"f0222": "table-top-door-one-way-up",
+		"f0221": "table-top-door-vertical",
 		"f0058": "tag",
 		"f0059": "tag-text",
 		"f014d": "target",
@@ -1623,6 +2226,7 @@
 		"f0093": "tooltip-start-alert",
 		"f0064": "tooltip-start-text",
 		"f0065": "trash",
+		"f0220": "umbrella",
 		"f0066": "upload",
 		"f0084": "volume-high",
 		"f0085": "volume-low",
@@ -1630,6 +2234,9 @@
 		"f0087": "volume-mute",
 		"f015a": "wall",
 		"f0067": "wall-fill",
+		"f019e": "wall-front",
+		"f01c4": "wall-front-damaged",
+		"f01c3": "wall-front-gate",
 		"f015f": "water",
 		"f015e": "water-fill",
 		"f00e8": "well"
@@ -1818,16 +2425,16 @@
 			"bow",
 			"bow-arrow",
 			"device",
-			"gamepad-center",
-			"gamepad-down",
-			"gamepad-down-left",
-			"gamepad-down-right",
-			"gamepad-empty",
-			"gamepad-left",
-			"gamepad-right",
-			"gamepad-up",
-			"gamepad-up-left",
-			"gamepad-up-right",
+			"gamepad",
+			"gamepad-center-fill",
+			"gamepad-down-fill",
+			"gamepad-down-left-fill",
+			"gamepad-down-right-fill",
+			"gamepad-left-fill",
+			"gamepad-right-fill",
+			"gamepad-up-fill",
+			"gamepad-up-left-fill",
+			"gamepad-up-right-fill",
 			"pickaxe",
 			"shield",
 			"sword"

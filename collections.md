@@ -2,7 +2,7 @@
 
 
 ## Material Symbols
-* Number of icons: 11565
+* Number of icons: 11599
 * Author: Google
 * URL: https://github.com/google/material-design-icons
 * License: Apache 2.0
@@ -269,7 +269,7 @@
 * File: [json/cil.json](json/cil.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Lucide
-* Number of icons: 1294
+* Number of icons: 1306
 * Author: Lucide Contributors
 * URL: https://github.com/lucide-icons/lucide
 * License: ISC
@@ -622,7 +622,7 @@
 * File: [json/jam.json](json/jam.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## HeroIcons
-* Number of icons: 876
+* Number of icons: 885
 * Author: Refactoring UI Inc
 * URL: https://github.com/tailwindlabs/heroicons
 * License: MIT
@@ -752,7 +752,7 @@
 * File: [json/fa6-regular.json](json/fa6-regular.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## OOUI
-* Number of icons: 354
+* Number of icons: 355
 * Author: OOUI Team
 * URL: https://github.com/wikimedia/oojs-ui
 * License: MIT
@@ -1005,7 +1005,7 @@
 * File: [json/nonicons.json](json/nonicons.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Arcticons
-* Number of icons: 7376
+* Number of icons: 7540
 * Author: Donnnno
 * URL: https://github.com/Donnnno/Arcticons
 * License: CC BY-SA 4.0

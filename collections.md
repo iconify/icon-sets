@@ -150,7 +150,7 @@
 * File: [json/teenyicons.json](json/teenyicons.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## MingCute Icon
-* Number of icons: 2558
+* Number of icons: 2666
 * Author: MingCute Design
 * URL: https://github.com/Richard9394/MingCute
 * License: Apache 2.0
@@ -846,7 +846,7 @@
 * File: [json/noto.json](json/noto.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Fluent Emoji
-* Number of icons: 2980
+* Number of icons: 2961
 * Author: Microsoft Corporation
 * URL: https://github.com/microsoft/fluentui-emoji
 * License: MIT
@@ -1005,7 +1005,7 @@
 * File: [json/nonicons.json](json/nonicons.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Arcticons
-* Number of icons: 7540
+* Number of icons: 7537
 * Author: Donnnno
 * URL: https://github.com/Donnnno/Arcticons
 * License: CC BY-SA 4.0

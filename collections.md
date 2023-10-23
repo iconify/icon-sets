@@ -331,7 +331,7 @@
 * File: [json/akar-icons.json](json/akar-icons.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Memory Icons
-* Number of icons: 551
+* Number of icons: 601
 * Author: Pictogrammers
 * URL: https://github.com/Pictogrammers/Memory
 * License: Apache 2.0
@@ -344,7 +344,7 @@
 * Number of icons: 336
 * Author: Stephen Hutchings
 * URL: https://github.com/stephenhutchings/typicons.font
-* License: CC BY SA 4.0
+* License: CC BY-SA 4.0
 * License URL: https://creativecommons.org/licenses/by-sa/4.0/
 * Version: 2.1.2
 * Palette: Colorless
@@ -546,12 +546,12 @@
 * File: [json/gala.json](json/gala.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Fluent UI System Icons
-* Number of icons: 14695
+* Number of icons: 14775
 * Author: Microsoft Corporation
 * URL: https://github.com/microsoft/fluentui-system-icons
 * License: MIT
 * License URL: https://github.com/microsoft/fluentui-system-icons/blob/main/LICENSE
-* Version: 1.1.220
+* Version: 1.1.221
 * Palette: Colorless
 * Icon set prefix: `fluent`
 * File: [json/fluent.json](json/fluent.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
@@ -601,12 +601,12 @@
 * File: [json/icon-park.json](json/icon-park.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## VSCode Icons
-* Number of icons: 1229
+* Number of icons: 1240
 * Author: Roberto Huertas
 * URL: https://github.com/vscode-icons/vscode-icons
 * License: MIT
 * License URL: https://github.com/vscode-icons/vscode-icons/blob/master/LICENSE
-* Version: 12.5.0
+* Version: 12.6.0
 * Palette: Colorful
 * Icon set prefix: `vscode-icons`
 * File: [json/vscode-icons.json](json/vscode-icons.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
@@ -961,12 +961,12 @@
 * File: [json/logos.json](json/logos.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Simple Icons
-* Number of icons: 2746
+* Number of icons: 2750
 * Author: Simple Icons Collaborators
 * URL: https://github.com/simple-icons/simple-icons
 * License: CC0 1.0
 * License URL: https://github.com/simple-icons/simple-icons/blob/develop/LICENSE.md
-* Version: 9.18.0
+* Version: 9.19.0
 * Palette: Colorless
 * Icon set prefix: `simple-icons`
 * File: [json/simple-icons.json](json/simple-icons.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
@@ -1005,7 +1005,7 @@
 * File: [json/nonicons.json](json/nonicons.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Arcticons
-* Number of icons: 7537
+* Number of icons: 7533
 * Author: Donnnno
 * URL: https://github.com/Donnnno/Arcticons
 * License: CC BY-SA 4.0
@@ -1025,7 +1025,7 @@
 * File: [json/file-icons.json](json/file-icons.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Devicon
-* Number of icons: 696
+* Number of icons: 707
 * Author: konpa
 * URL: https://github.com/devicons/devicon/tree/master
 * License: MIT
@@ -1035,7 +1035,7 @@
 * File: [json/devicon.json](json/devicon.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Devicon Plain
-* Number of icons: 527
+* Number of icons: 534
 * Author: konpa
 * URL: https://github.com/devicons/devicon/tree/master
 * License: MIT

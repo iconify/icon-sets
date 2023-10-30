@@ -11,6 +11,16 @@
 * Icon set prefix: `material-symbols`
 * File: [json/material-symbols.json](json/material-symbols.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
+## Material Symbols Light
+* Number of icons: 12073
+* Author: Google
+* URL: https://github.com/google/material-design-icons
+* License: Apache 2.0
+* License URL: https://github.com/google/material-design-icons/blob/master/LICENSE
+* Palette: Colorless
+* Icon set prefix: `material-symbols-light`
+* File: [json/material-symbols-light.json](json/material-symbols-light.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
+
 ## Google Material Icons
 * Number of icons: 10955
 * Author: Material Design Authors
@@ -91,7 +101,7 @@
 * Author: IBM
 * URL: https://github.com/carbon-design-system/carbon/tree/main/packages/icons
 * License: Apache 2.0
-* Version: 11.28.0
+* Version: 11.29.1
 * Palette: Colorless
 * Icon set prefix: `carbon`
 * File: [json/carbon.json](json/carbon.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
@@ -170,12 +180,12 @@
 * File: [json/clarity.json](json/clarity.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Iconoir
-* Number of icons: 1371
+* Number of icons: 1506
 * Author: Luca Burgio
 * URL: https://github.com/iconoir-icons/iconoir
 * License: MIT
 * License URL: https://github.com/iconoir-icons/iconoir/blob/main/LICENSE
-* Version: 6.11.0
+* Version: 7.0.0
 * Palette: Colorless
 * Icon set prefix: `iconoir`
 * File: [json/iconoir.json](json/iconoir.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
@@ -269,7 +279,7 @@
 * File: [json/cil.json](json/cil.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Lucide
-* Number of icons: 1308
+* Number of icons: 1314
 * Author: Lucide Contributors
 * URL: https://github.com/lucide-icons/lucide
 * License: ISC
@@ -638,7 +648,7 @@
 * URL: https://github.com/microsoft/vscode-codicons
 * License: CC BY 4.0
 * License URL: https://github.com/microsoft/vscode-codicons/blob/main/LICENSE
-* Version: 0.0.32
+* Version: 0.0.35
 * Palette: Colorless
 * Icon set prefix: `codicon`
 * File: [json/codicon.json](json/codicon.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
@@ -1025,7 +1035,7 @@
 * File: [json/file-icons.json](json/file-icons.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Devicon
-* Number of icons: 721
+* Number of icons: 720
 * Author: konpa
 * URL: https://github.com/devicons/devicon/tree/master
 * License: MIT
@@ -1035,7 +1045,7 @@
 * File: [json/devicon.json](json/devicon.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Devicon Plain
-* Number of icons: 542
+* Number of icons: 544
 * Author: konpa
 * URL: https://github.com/devicons/devicon/tree/master
 * License: MIT

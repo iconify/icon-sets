@@ -279,7 +279,7 @@
 * File: [json/cil.json](json/cil.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Lucide
-* Number of icons: 1314
+* Number of icons: 1315
 * Author: Lucide Contributors
 * URL: https://github.com/lucide-icons/lucide
 * License: ISC
@@ -659,40 +659,40 @@
 * URL: https://gitlab.com/gitlab-org/gitlab-svgs/-/tree/main
 * License: MIT
 * License URL: https://gitlab.com/gitlab-org/gitlab-svgs/-/blob/main/LICENSE
-* Version: 3.68.0
+* Version: 3.69.0
 * Palette: Colorless
 * Icon set prefix: `pajamas`
 * File: [json/pajamas.json](json/pajamas.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Pepicons Pop!
-* Number of icons: 1250
+* Number of icons: 1275
 * Author: CyCraft
 * URL: https://github.com/CyCraft/pepicons
 * License: CC BY 4.0
 * License URL: https://github.com/CyCraft/pepicons/blob/dev/LICENSE
-* Version: 3.0.7
+* Version: 3.1.1
 * Palette: Colorless
 * Icon set prefix: `pepicons-pop`
 * File: [json/pepicons-pop.json](json/pepicons-pop.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Pepicons Print
-* Number of icons: 1250
+* Number of icons: 1275
 * Author: CyCraft
 * URL: https://github.com/CyCraft/pepicons
 * License: CC BY 4.0
 * License URL: https://github.com/CyCraft/pepicons/blob/dev/LICENSE
-* Version: 3.0.7
+* Version: 3.1.1
 * Palette: Colorless
 * Icon set prefix: `pepicons-print`
 * File: [json/pepicons-print.json](json/pepicons-print.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Pepicons Pencil
-* Number of icons: 1250
+* Number of icons: 1275
 * Author: CyCraft
 * URL: https://github.com/CyCraft/pepicons
 * License: CC BY 4.0
 * License URL: https://github.com/CyCraft/pepicons/blob/dev/LICENSE
-* Version: 3.0.7
+* Version: 3.1.1
 * Palette: Colorless
 * Icon set prefix: `pepicons-pencil`
 * File: [json/pepicons-pencil.json](json/pepicons-pencil.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
@@ -826,7 +826,7 @@
 * File: [json/svg-spinners.json](json/svg-spinners.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## OpenMoji
-* Number of icons: 4108
+* Number of icons: 4109
 * Author: OpenMoji
 * URL: https://github.com/hfg-gmuend/openmoji
 * License: CC BY-SA 4.0

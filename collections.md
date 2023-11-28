@@ -388,7 +388,7 @@
 * URL: https://github.com/element-plus/element-plus-icons
 * License: MIT
 * License URL: https://github.com/element-plus/element-plus-icons/blob/main/packages/svg/package.json
-* Version: 2.1.0
+* Version: 2.3.1
 * Palette: Colorless
 * Icon set prefix: `ep`
 * File: [json/ep.json](json/ep.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
@@ -663,7 +663,7 @@
 * File: [json/heroicons.json](json/heroicons.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Codicons
-* Number of icons: 440
+* Number of icons: 441
 * Author: Microsoft Corporation
 * URL: https://github.com/microsoft/vscode-codicons
 * License: CC BY 4.0

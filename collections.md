@@ -2,7 +2,7 @@
 
 
 ## Material Symbols
-* Number of icons: 12163
+* Number of icons: 12191
 * Author: Google
 * URL: https://github.com/google/material-design-icons
 * License: Apache 2.0
@@ -12,7 +12,7 @@
 * File: [json/material-symbols.json](json/material-symbols.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Material Symbols Light
-* Number of icons: 12216
+* Number of icons: 12249
 * Author: Google
 * URL: https://github.com/google/material-design-icons
 * License: Apache 2.0
@@ -254,6 +254,17 @@
 * Palette: Colorless
 * Icon set prefix: `gg`
 * File: [json/gg.json](json/gg.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
+
+## Gravity UI Icons
+* Number of icons: 640
+* Author: YANDEX LLC
+* URL: https://github.com/gravity-ui/icons/
+* License: MIT
+* License URL: https://github.com/gravity-ui/icons/blob/main/LICENSE
+* Version: 2.8.1
+* Palette: Colorless
+* Icon set prefix: `gravity-ui`
+* File: [json/gravity-ui.json](json/gravity-ui.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Octicons
 * Number of icons: 604
@@ -663,7 +674,7 @@
 * File: [json/heroicons.json](json/heroicons.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Codicons
-* Number of icons: 443
+* Number of icons: 445
 * Author: Microsoft Corporation
 * URL: https://github.com/microsoft/vscode-codicons
 * License: CC BY 4.0
@@ -787,7 +798,7 @@
 * URL: https://github.com/wikimedia/oojs-ui
 * License: MIT
 * License URL: https://github.com/wikimedia/oojs-ui/blob/master/LICENSE-MIT
-* Version: 0.48.2
+* Version: 0.48.3
 * Palette: Colorless
 * Icon set prefix: `ooui`
 * File: [json/ooui.json](json/ooui.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
@@ -846,7 +857,7 @@
 * File: [json/svg-spinners.json](json/svg-spinners.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## OpenMoji
-* Number of icons: 4109
+* Number of icons: 4127
 * Author: OpenMoji
 * URL: https://github.com/hfg-gmuend/openmoji
 * License: CC BY-SA 4.0
@@ -1065,7 +1076,7 @@
 * File: [json/devicon.json](json/devicon.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Devicon Plain
-* Number of icons: 563
+* Number of icons: 565
 * Author: konpa
 * URL: https://github.com/devicons/devicon/tree/master
 * License: MIT

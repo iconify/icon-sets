@@ -577,7 +577,7 @@
 * File: [json/gala.json](json/gala.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Lets Icons
-* Number of icons: 1544
+* Number of icons: 1528
 * Author: Leonid Tsvetkov
 * URL: https://www.figma.com/community/file/886554014393250663
 * License: CC BY 4.0

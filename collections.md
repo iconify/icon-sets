@@ -1143,7 +1143,7 @@
 * URL: https://github.com/lipis/flag-icons
 * License: MIT
 * License URL: https://github.com/lipis/flag-icons/blob/main/LICENSE
-* Version: 7.0.3
+* Version: 7.1.0
 * Palette: Colorful
 * Icon set prefix: `flag`
 * File: [json/flag.json](json/flag.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))

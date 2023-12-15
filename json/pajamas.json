@@ -2,8 +2,8 @@
 	"prefix": "pajamas",
 	"info": {
 		"name": "Gitlab SVGs",
-		"total": 374,
-		"version": "3.72.0",
+		"total": 373,
+		"version": "3.73.0",
 		"author": {
 			"name": "GitLab B.V.",
 			"url": "https://gitlab.com/gitlab-org/gitlab-svgs/-/tree/main"
@@ -1152,9 +1152,6 @@
 		"trigger-source": {
 			"body": "<path fill=\"currentColor\" fill-rule=\"evenodd\" d=\"M7.25.75a.75.75 0 0 1 1.5 0V2c0 2.9 2.35 5.25 5.25 5.25h1.25a.75.75 0 0 1 0 1.5H14A5.25 5.25 0 0 0 8.75 14v1.25a.75.75 0 0 1-1.5 0V14c0-2.9-2.35-5.25-5.25-5.25H.75a.75.75 0 0 1 0-1.5H2C4.9 7.25 7.25 4.9 7.25 2zM5.095 8A6.78 6.78 0 0 1 8 10.905A6.78 6.78 0 0 1 10.905 8A6.78 6.78 0 0 1 8 5.095A6.78 6.78 0 0 1 5.095 8\" clip-rule=\"evenodd\"/>"
 		},
-		"twitter": {
-			"body": "<path fill=\"currentColor\" d=\"M9.294 6.928L14.357 1h-1.2L8.762 6.147L5.25 1H1.2l5.31 7.784L1.2 15h1.2l4.642-5.436L10.751 15h4.05zM7.651 8.852l-.538-.775L2.832 1.91h1.843l3.454 4.977l.538.775l4.491 6.47h-1.843z\"/>"
-		},
 		"unapproval": {
 			"body": "<path fill=\"currentColor\" fill-rule=\"evenodd\" d=\"M4 6.5a1.5 1.5 0 1 0 0-3a1.5 1.5 0 0 0 0 3M7 5a2.99 2.99 0 0 1-.87 2.113A3.997 3.997 0 0 1 8 10.5V12a2 2 0 0 1-2 2H2a2 2 0 0 1-2-2v-1.5c0-1.427.747-2.679 1.87-3.387A3 3 0 1 1 7 5m-5.5 5.5a2.5 2.5 0 0 1 5 0V12a.5.5 0 0 1-.5.5H2a.5.5 0 0 1-.5-.5zm9.72-6.28a.75.75 0 0 1 1.06 0l1.22 1.22l1.22-1.22a.75.75 0 1 1 1.06 1.06L14.56 6.5l1.22 1.22a.75.75 0 0 1-1.06 1.06L13.5 7.56l-1.22 1.22a.75.75 0 1 1-1.06-1.06l1.22-1.22l-1.22-1.22a.75.75 0 0 1 0-1.06\" clip-rule=\"evenodd\"/>"
 		},
@@ -1204,6 +1201,9 @@
 	"aliases": {
 		"issue-type-key-result": {
 			"parent": "issue-type-keyresult"
+		},
+		"twitter": {
+			"parent": "x"
 		}
 	}
 }

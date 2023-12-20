@@ -663,12 +663,12 @@
 * File: [json/jam.json](json/jam.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## HeroIcons
-* Number of icons: 900
+* Number of icons: 1176
 * Author: Refactoring UI Inc
 * URL: https://github.com/tailwindlabs/heroicons
 * License: MIT
 * License URL: https://github.com/tailwindlabs/heroicons/blob/master/LICENSE
-* Version: 2.0.18
+* Version: 2.1.1
 * Palette: Colorless
 * Icon set prefix: `heroicons`
 * File: [json/heroicons.json](json/heroicons.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
@@ -1257,7 +1257,7 @@
 * File: [json/wi.json](json/wi.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Health Icons
-* Number of icons: 1776
+* Number of icons: 1788
 * Author: Resolve to Save Lives
 * URL: https://github.com/resolvetosavelives/healthicons
 * License: MIT

@@ -2,7 +2,7 @@
 
 
 ## Material Symbols
-* Number of icons: 12201
+* Number of icons: 12225
 * Author: Google
 * URL: https://github.com/google/material-design-icons
 * License: Apache 2.0
@@ -12,7 +12,7 @@
 * File: [json/material-symbols.json](json/material-symbols.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Material Symbols Light
-* Number of icons: 12259
+* Number of icons: 12283
 * Author: Google
 * URL: https://github.com/google/material-design-icons
 * License: Apache 2.0
@@ -101,7 +101,7 @@
 * URL: https://github.com/twbs/icons
 * License: MIT
 * License URL: https://github.com/twbs/icons/blob/main/LICENSE.md
-* Version: 1.11.2
+* Version: 1.11.3
 * Palette: Colorless
 * Icon set prefix: `bi`
 * File: [json/bi.json](json/bi.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
@@ -149,7 +149,7 @@
 * File: [json/ion.json](json/ion.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Lucide
-* Number of icons: 1368
+* Number of icons: 1370
 * Author: Lucide Contributors
 * URL: https://github.com/lucide-icons/lucide
 * License: ISC
@@ -446,6 +446,17 @@
 * Palette: Colorless
 * Icon set prefix: `eos-icons`
 * File: [json/eos-icons.json](json/eos-icons.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
+
+## Bitcoin Icons
+* Number of icons: 250
+* Author: Bitcoin Design Community
+* URL: https://github.com/BitcoinDesign/Bitcoin-Icons
+* License: MIT
+* License URL: https://github.com/BitcoinDesign/Bitcoin-Icons/blob/main/LICENSE-MIT
+* Version: 0.1.10
+* Palette: Colorless
+* Icon set prefix: `bitcoin-icons`
+* File: [json/bitcoin-icons.json](json/bitcoin-icons.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Charm Icons
 * Number of icons: 261
@@ -1086,7 +1097,7 @@
 * File: [json/devicon-plain.json](json/devicon-plain.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Skill Icons
-* Number of icons: 317
+* Number of icons: 337
 * Author: tandpfun
 * URL: https://github.com/tandpfun/skill-icons
 * License: MIT

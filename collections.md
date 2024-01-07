@@ -149,7 +149,7 @@
 * File: [json/ion.json](json/ion.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Lucide
-* Number of icons: 1370
+* Number of icons: 1383
 * Author: Lucide Contributors
 * URL: https://github.com/lucide-icons/lucide
 * License: ISC
@@ -597,6 +597,17 @@
 * Icon set prefix: `lets-icons`
 * File: [json/lets-icons.json](json/lets-icons.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
+## Framework7 Icons
+* Number of icons: 1253
+* Author: Vladimir Kharlampidi
+* URL: https://github.com/framework7io/framework7-icons
+* License: MIT
+* License URL: https://github.com/framework7io/framework7-icons/blob/master/LICENSE
+* Version: 5.0.5
+* Palette: Colorless
+* Icon set prefix: `f7`
+* File: [json/f7.json](json/f7.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
+
 ## Fluent UI System Icons
 * Number of icons: 15373
 * Author: Microsoft Corporation
@@ -1013,12 +1024,12 @@
 * File: [json/logos.json](json/logos.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Simple Icons
-* Number of icons: 2926
+* Number of icons: 2930
 * Author: Simple Icons Collaborators
 * URL: https://github.com/simple-icons/simple-icons
 * License: CC0 1.0
 * License URL: https://github.com/simple-icons/simple-icons/blob/develop/LICENSE.md
-* Version: 10.4.0
+* Version: 11.0.0
 * Palette: Colorless
 * Icon set prefix: `simple-icons`
 * File: [json/simple-icons.json](json/simple-icons.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))

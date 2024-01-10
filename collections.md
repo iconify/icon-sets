@@ -48,7 +48,7 @@
 * URL: https://github.com/phosphor-icons/core
 * License: MIT
 * License URL: https://github.com/phosphor-icons/core/blob/main/LICENSE
-* Version: 2.0.3
+* Version: 2.0.4
 * Palette: Colorless
 * Icon set prefix: `ph`
 * File: [json/ph.json](json/ph.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
@@ -696,7 +696,7 @@
 * File: [json/heroicons.json](json/heroicons.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Codicons
-* Number of icons: 445
+* Number of icons: 448
 * Author: Microsoft Corporation
 * URL: https://github.com/microsoft/vscode-codicons
 * License: CC BY 4.0
@@ -820,7 +820,7 @@
 * URL: https://github.com/wikimedia/oojs-ui
 * License: MIT
 * License URL: https://github.com/wikimedia/oojs-ui/blob/master/LICENSE-MIT
-* Version: 0.48.3
+* Version: 0.48.4
 * Palette: Colorless
 * Icon set prefix: `ooui`
 * File: [json/ooui.json](json/ooui.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
@@ -1088,7 +1088,7 @@
 * File: [json/file-icons.json](json/file-icons.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Devicon
-* Number of icons: 762
+* Number of icons: 764
 * Author: konpa
 * URL: https://github.com/devicons/devicon/tree/master
 * License: MIT
@@ -1098,7 +1098,7 @@
 * File: [json/devicon.json](json/devicon.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Devicon Plain
-* Number of icons: 574
+* Number of icons: 575
 * Author: konpa
 * URL: https://github.com/devicons/devicon/tree/master
 * License: MIT
@@ -1279,7 +1279,7 @@
 * File: [json/wi.json](json/wi.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Health Icons
-* Number of icons: 1851
+* Number of icons: 1917
 * Author: Resolve to Save Lives
 * URL: https://github.com/resolvetosavelives/healthicons
 * License: MIT

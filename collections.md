@@ -107,11 +107,11 @@
 * File: [json/bi.json](json/bi.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Carbon
-* Number of icons: 2075
+* Number of icons: 2077
 * Author: IBM
 * URL: https://github.com/carbon-design-system/carbon/tree/main/packages/icons
 * License: Apache 2.0
-* Version: 11.33.0
+* Version: 11.34.0
 * Palette: Colorless
 * Icon set prefix: `carbon`
 * File: [json/carbon.json](json/carbon.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
@@ -149,7 +149,7 @@
 * File: [json/ion.json](json/ion.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Lucide
-* Number of icons: 1401
+* Number of icons: 1408
 * Author: Lucide Contributors
 * URL: https://github.com/lucide-icons/lucide
 * License: ISC
@@ -1024,12 +1024,12 @@
 * File: [json/logos.json](json/logos.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Simple Icons
-* Number of icons: 2950
+* Number of icons: 2973
 * Author: Simple Icons Collaborators
 * URL: https://github.com/simple-icons/simple-icons
 * License: CC0 1.0
 * License URL: https://github.com/simple-icons/simple-icons/blob/develop/LICENSE.md
-* Version: 11.1.0
+* Version: 11.2.0
 * Palette: Colorless
 * Icon set prefix: `simple-icons`
 * File: [json/simple-icons.json](json/simple-icons.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
@@ -1068,7 +1068,7 @@
 * File: [json/nonicons.json](json/nonicons.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Arcticons
-* Number of icons: 8298
+* Number of icons: 8297
 * Author: Donnnno
 * URL: https://github.com/Donnnno/Arcticons
 * License: CC BY-SA 4.0
@@ -1076,6 +1076,16 @@
 * Palette: Colorless
 * Icon set prefix: `arcticons`
 * File: [json/arcticons.json](json/arcticons.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
+
+## Custom Brand Icons
+* Number of icons: 1074
+* Author: Emanuele
+* URL: https://github.com/elax46/custom-brand-icons
+* License: CC BY-NC-SA 4.0
+* License URL: https://github.com/elax46/custom-brand-icons/blob/main/LICENSE
+* Palette: Colorless
+* Icon set prefix: `cbi`
+* File: [json/cbi.json](json/cbi.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## File Icons
 * Number of icons: 930

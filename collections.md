@@ -298,6 +298,16 @@
 * Icon set prefix: `cil`
 * File: [json/cil.json](json/cil.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
+## Flowbite Icons
+* Number of icons: 531
+* Author: Themesberg
+* URL: https://github.com/themesberg/flowbite-icons
+* License: MIT
+* License URL: https://github.com/themesberg/flowbite-icons/blob/main/LICENSE
+* Palette: Colorless
+* Icon set prefix: `flowbite`
+* File: [json/flowbite.json](json/flowbite.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
+
 ## Myna UI Icons
 * Number of icons: 1089
 * Author: Praveen Juge
@@ -837,7 +847,7 @@
 * File: [json/nimbus.json](json/nimbus.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## OpenSearch UI
-* Number of icons: 393
+* Number of icons: 386
 * Author: OpenSearch Contributors
 * URL: https://github.com/opensearch-project/oui
 * License: Apache 2.0

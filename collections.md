@@ -2,7 +2,7 @@
 
 
 ## Material Symbols
-* Number of icons: 12237
+* Number of icons: 12278
 * Author: Google
 * URL: https://github.com/google/material-design-icons
 * License: Apache 2.0
@@ -12,7 +12,7 @@
 * File: [json/material-symbols.json](json/material-symbols.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Material Symbols Light
-* Number of icons: 12295
+* Number of icons: 12336
 * Author: Google
 * URL: https://github.com/google/material-design-icons
 * License: Apache 2.0
@@ -48,7 +48,7 @@
 * URL: https://github.com/phosphor-icons/core
 * License: MIT
 * License URL: https://github.com/phosphor-icons/core/blob/main/LICENSE
-* Version: 2.0.5
+* Version: 2.0.6
 * Palette: Colorless
 * Icon set prefix: `ph`
 * File: [json/ph.json](json/ph.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
@@ -111,7 +111,7 @@
 * Author: IBM
 * URL: https://github.com/carbon-design-system/carbon/tree/main/packages/icons
 * License: Apache 2.0
-* Version: 11.34.0
+* Version: 11.34.1
 * Palette: Colorless
 * Icon set prefix: `carbon`
 * File: [json/carbon.json](json/carbon.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
@@ -149,7 +149,7 @@
 * File: [json/ion.json](json/ion.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Lucide
-* Number of icons: 1408
+* Number of icons: 1411
 * Author: Lucide Contributors
 * URL: https://github.com/lucide-icons/lucide
 * License: ISC
@@ -239,7 +239,7 @@
 * URL: https://github.com/ant-design/ant-design-icons
 * License: MIT
 * License URL: https://github.com/ant-design/ant-design-icons/blob/master/LICENSE
-* Version: 4.3.1
+* Version: 4.3.2
 * Palette: Colorless
 * Icon set prefix: `ant-design`
 * File: [json/ant-design.json](json/ant-design.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
@@ -712,7 +712,7 @@
 * URL: https://gitlab.com/gitlab-org/gitlab-svgs/-/tree/main
 * License: MIT
 * License URL: https://gitlab.com/gitlab-org/gitlab-svgs/-/blob/main/LICENSE
-* Version: 3.75.0
+* Version: 3.77.0
 * Palette: Colorless
 * Icon set prefix: `pajamas`
 * File: [json/pajamas.json](json/pajamas.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
@@ -835,6 +835,17 @@
 * Palette: Colorless
 * Icon set prefix: `nimbus`
 * File: [json/nimbus.json](json/nimbus.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
+
+## OpenSearch UI
+* Number of icons: 393
+* Author: OpenSearch Contributors
+* URL: https://github.com/opensearch-project/oui
+* License: Apache 2.0
+* License URL: https://github.com/opensearch-project/oui/blob/main/LICENSE.txt
+* Version: 2.0.0
+* Palette: Colorless
+* Icon set prefix: `oui`
+* File: [json/oui.json](json/oui.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## FormKit Icons
 * Number of icons: 141
@@ -1078,7 +1089,7 @@
 * File: [json/arcticons.json](json/arcticons.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Custom Brand Icons
-* Number of icons: 1074
+* Number of icons: 1075
 * Author: Emanuele
 * URL: https://github.com/elax46/custom-brand-icons
 * License: CC BY-NC-SA 4.0

@@ -149,7 +149,7 @@
 * File: [json/ion.json](json/ion.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Lucide
-* Number of icons: 1412
+* Number of icons: 1415
 * Author: Lucide Contributors
 * URL: https://github.com/lucide-icons/lucide
 * License: ISC
@@ -619,12 +619,12 @@
 * File: [json/f7.json](json/f7.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Fluent UI System Icons
-* Number of icons: 15433
+* Number of icons: 15481
 * Author: Microsoft Corporation
 * URL: https://github.com/microsoft/fluentui-system-icons
 * License: MIT
 * License URL: https://github.com/microsoft/fluentui-system-icons/blob/main/LICENSE
-* Version: 1.1.225
+* Version: 1.1.226
 * Palette: Colorless
 * Icon set prefix: `fluent`
 * File: [json/fluent.json](json/fluent.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
@@ -717,12 +717,12 @@
 * File: [json/codicon.json](json/codicon.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Gitlab SVGs
-* Number of icons: 373
+* Number of icons: 374
 * Author: GitLab B.V.
 * URL: https://gitlab.com/gitlab-org/gitlab-svgs/-/tree/main
 * License: MIT
 * License URL: https://gitlab.com/gitlab-org/gitlab-svgs/-/blob/main/LICENSE
-* Version: 3.78.0
+* Version: 3.79.0
 * Palette: Colorless
 * Icon set prefix: `pajamas`
 * File: [json/pajamas.json](json/pajamas.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
@@ -1045,12 +1045,12 @@
 * File: [json/logos.json](json/logos.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Simple Icons
-* Number of icons: 2973
+* Number of icons: 2988
 * Author: Simple Icons Collaborators
 * URL: https://github.com/simple-icons/simple-icons
 * License: CC0 1.0
 * License URL: https://github.com/simple-icons/simple-icons/blob/develop/LICENSE.md
-* Version: 11.2.0
+* Version: 11.3.0
 * Palette: Colorless
 * Icon set prefix: `simple-icons`
 * File: [json/simple-icons.json](json/simple-icons.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
@@ -1089,7 +1089,7 @@
 * File: [json/nonicons.json](json/nonicons.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Arcticons
-* Number of icons: 8671
+* Number of icons: 8669
 * Author: Donnnno
 * URL: https://github.com/Donnnno/Arcticons
 * License: CC BY-SA 4.0

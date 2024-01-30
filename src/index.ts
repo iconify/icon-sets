@@ -26,7 +26,10 @@ const _dirname =
     ? __dirname
     : dirname(fileURLToPath(import.meta.url));
 
-const dir = join(_dirname, '/..');
+/**
+ * Directory of this package
+ */
+export const dir = join(_dirname, '/..');
 
 /**
  * Locate JSON file

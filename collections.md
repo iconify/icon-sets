@@ -2,7 +2,7 @@
 
 
 ## Material Symbols
-* Number of icons: 12278
+* Number of icons: 12282
 * Author: Google
 * URL: https://github.com/google/material-design-icons
 * License: Apache 2.0
@@ -12,7 +12,7 @@
 * File: [json/material-symbols.json](json/material-symbols.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Material Symbols Light
-* Number of icons: 12336
+* Number of icons: 12340
 * Author: Google
 * URL: https://github.com/google/material-design-icons
 * License: Apache 2.0
@@ -48,7 +48,7 @@
 * URL: https://github.com/phosphor-icons/core
 * License: MIT
 * License URL: https://github.com/phosphor-icons/core/blob/main/LICENSE
-* Version: 2.0.6
+* Version: 2.0.7
 * Palette: Colorless
 * Icon set prefix: `ph`
 * File: [json/ph.json](json/ph.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
@@ -64,12 +64,12 @@
 * File: [json/solar.json](json/solar.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Tabler Icons
-* Number of icons: 4944
+* Number of icons: 4962
 * Author: Paweł Kuna
 * URL: https://github.com/tabler/tabler-icons
 * License: MIT
 * License URL: https://github.com/tabler/tabler-icons/blob/master/LICENSE
-* Version: 2.46.0
+* Version: 2.47.0
 * Palette: Colorless
 * Icon set prefix: `tabler`
 * File: [json/tabler.json](json/tabler.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
@@ -149,7 +149,7 @@
 * File: [json/ion.json](json/ion.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Lucide
-* Number of icons: 1418
+* Number of icons: 1421
 * Author: Lucide Contributors
 * URL: https://github.com/lucide-icons/lucide
 * License: ISC
@@ -234,12 +234,12 @@
 * File: [json/majesticons.json](json/majesticons.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Ant Design Icons
-* Number of icons: 789
+* Number of icons: 830
 * Author: HeskeyBaozi
 * URL: https://github.com/ant-design/ant-design-icons
 * License: MIT
 * License URL: https://github.com/ant-design/ant-design-icons/blob/master/LICENSE
-* Version: 4.3.2
+* Version: 4.4.2
 * Palette: Colorless
 * Icon set prefix: `ant-design`
 * File: [json/ant-design.json](json/ant-design.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
@@ -717,12 +717,12 @@
 * File: [json/codicon.json](json/codicon.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Gitlab SVGs
-* Number of icons: 374
+* Number of icons: 375
 * Author: GitLab B.V.
 * URL: https://gitlab.com/gitlab-org/gitlab-svgs/-/tree/main
 * License: MIT
 * License URL: https://gitlab.com/gitlab-org/gitlab-svgs/-/blob/main/LICENSE
-* Version: 3.79.0
+* Version: 3.83.0
 * Palette: Colorless
 * Icon set prefix: `pajamas`
 * File: [json/pajamas.json](json/pajamas.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
@@ -868,12 +868,12 @@
 * File: [json/formkit.json](json/formkit.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Material Line Icons
-* Number of icons: 545
+* Number of icons: 561
 * Author: Vjacheslav Trushkin
 * URL: https://github.com/cyberalien/line-md
 * License: MIT
 * License URL: https://github.com/cyberalien/line-md/blob/master/license.txt
-* Version: 0.2.19
+* Version: 0.2.21
 * Palette: Colorless
 * Icon set prefix: `line-md`
 * File: [json/line-md.json](json/line-md.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
@@ -1235,12 +1235,12 @@
 * File: [json/cif.json](json/cif.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Font-GIS
-* Number of icons: 344
+* Number of icons: 345
 * Author: Jean-Marc Viglino
 * URL: https://github.com/viglino/font-gis
 * License: CC BY 4.0
 * License URL: https://github.com/Viglino/font-gis/blob/main/LICENSE-CC-BY.md
-* Version: 1.0.5
+* Version: 1.0.6
 * Palette: Colorless
 * Icon set prefix: `gis`
 * File: [json/gis.json](json/gis.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))

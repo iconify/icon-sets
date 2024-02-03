@@ -299,7 +299,7 @@
 * File: [json/cil.json](json/cil.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Flowbite Icons
-* Number of icons: 531
+* Number of icons: 537
 * Author: Themesberg
 * URL: https://github.com/themesberg/flowbite-icons
 * License: MIT
@@ -868,12 +868,12 @@
 * File: [json/formkit.json](json/formkit.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Material Line Icons
-* Number of icons: 561
+* Number of icons: 587
 * Author: Vjacheslav Trushkin
 * URL: https://github.com/cyberalien/line-md
 * License: MIT
 * License URL: https://github.com/cyberalien/line-md/blob/master/license.txt
-* Version: 0.2.21
+* Version: 1.0.2
 * Palette: Colorless
 * Icon set prefix: `line-md`
 * File: [json/line-md.json](json/line-md.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
@@ -1099,7 +1099,7 @@
 * File: [json/arcticons.json](json/arcticons.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Custom Brand Icons
-* Number of icons: 1075
+* Number of icons: 1086
 * Author: Emanuele
 * URL: https://github.com/elax46/custom-brand-icons
 * License: CC BY-NC-SA 4.0

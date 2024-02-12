@@ -2,8 +2,8 @@
 	"prefix": "carbon",
 	"info": {
 		"name": "Carbon",
-		"total": 2077,
-		"version": "11.35.0",
+		"total": 2078,
+		"version": "11.36.0",
 		"author": {
 			"name": "IBM",
 			"url": "https://github.com/carbon-design-system/carbon/tree/main/packages/icons"
@@ -22,7 +22,7 @@
 		"category": "General",
 		"palette": false
 	},
-	"lastModified": 1707324478,
+	"lastModified": 1707721020,
 	"icons": {
 		"3d-cursor": {
 			"body": "<path d=\"M13 4H4v9.01h2V6h7V4z\" fill=\"currentColor\"/><path d=\"M29.49 13.12l-9-5a1 1 0 0 0-1 0l-9 5A1 1 0 0 0 10 14v10a1 1 0 0 0 .52.87l9 5A1 1 0 0 0 20 30a1.05 1.05 0 0 0 .49-.13l9-5A1 1 0 0 0 30 24V14a1 1 0 0 0-.51-.88zM19 27.3l-7-3.89v-7.72l7 3.89zm1-9.45L13.06 14L20 10.14L26.94 14zm8 5.56l-7 3.89v-7.72l7-3.89z\" fill=\"currentColor\"/>",
@@ -5715,6 +5715,9 @@
 		"switcher": {
 			"body": "<path fill=\"currentColor\" d=\"M14 4h4v4h-4zM4 4h4v4H4zm20 0h4v4h-4zM14 14h4v4h-4zM4 14h4v4H4zm20 0h4v4h-4zM14 24h4v4h-4zM4 24h4v4H4zm20 0h4v4h-4z\"/>"
 		},
+		"sync-settings": {
+			"body": "<path fill=\"currentColor\" d=\"M15 24v-2h-3.6L22 11.4V15h2V8h-7v2h3.6L10 20.6V17H8v7zm10-4v2h3c1.1 0 2-.9 2-2v-3h-2v3zm3-10h2v4h-2zm-3-8v2h3v3h2V4c0-1.1-.9-2-2-2zm-7 0h4v2h-4z\"/><path fill=\"currentColor\" d=\"M10 4v3h2V4h3V2h-3c-1.1 0-2 .9-2 2m2 6H4c-1.1 0-2 .9-2 2v16c0 1.1.9 2 2 2h16c1.1 0 2-.9 2-2v-8h-2v8H4V12h8z\"/>"
+		},
 		"sys-provision": {
 			"body": "<path fill=\"currentColor\" d=\"M21 20v10l9-5z\"/><circle cx=\"14\" cy=\"14\" r=\"2\" fill=\"currentColor\"/><path fill=\"currentColor\" d=\"M14 20a6 6 0 1 1 6-6a6.007 6.007 0 0 1-6 6m0-10a4 4 0 1 0 4 4a4.005 4.005 0 0 0-4-4\"/><path fill=\"currentColor\" d=\"M25.951 12.91h-.006A12.05 12.05 0 1 0 17 25.605v-2.066a9.981 9.981 0 1 1 6.624-6.81l1.924.544A12.034 12.034 0 0 0 26 14q0-.55-.049-1.09\"/>"
 		},
@@ -7283,6 +7286,7 @@
 			"subtract-filled",
 			"subtract-large",
 			"switcher",
+			"sync-settings",
 			"tag",
 			"tag-edit",
 			"tag-export",

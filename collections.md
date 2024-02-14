@@ -48,7 +48,7 @@
 * URL: https://github.com/phosphor-icons/core
 * License: MIT
 * License URL: https://github.com/phosphor-icons/core/blob/main/LICENSE
-* Version: 2.0.7
+* Version: 2.0.8
 * Palette: Colorless
 * Icon set prefix: `ph`
 * File: [json/ph.json](json/ph.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
@@ -149,7 +149,7 @@
 * File: [json/ion.json](json/ion.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Lucide
-* Number of icons: 1424
+* Number of icons: 1425
 * Author: Lucide Contributors
 * URL: https://github.com/lucide-icons/lucide
 * License: ISC

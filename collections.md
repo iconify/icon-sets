@@ -149,7 +149,7 @@
 * File: [json/ion.json](json/ion.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Lucide
-* Number of icons: 1426
+* Number of icons: 1427
 * Author: Lucide Contributors
 * URL: https://github.com/lucide-icons/lucide
 * License: ISC
@@ -624,7 +624,7 @@
 * URL: https://github.com/microsoft/fluentui-system-icons
 * License: MIT
 * License URL: https://github.com/microsoft/fluentui-system-icons/blob/main/LICENSE
-* Version: 1.1.227
+* Version: 1.1.228
 * Palette: Colorless
 * Icon set prefix: `fluent`
 * File: [json/fluent.json](json/fluent.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
@@ -722,7 +722,7 @@
 * URL: https://gitlab.com/gitlab-org/gitlab-svgs/-/tree/main
 * License: MIT
 * License URL: https://gitlab.com/gitlab-org/gitlab-svgs/-/blob/main/LICENSE
-* Version: 3.84.0
+* Version: 3.85.0
 * Palette: Colorless
 * Icon set prefix: `pajamas`
 * File: [json/pajamas.json](json/pajamas.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
@@ -1099,7 +1099,7 @@
 * File: [json/arcticons.json](json/arcticons.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Custom Brand Icons
-* Number of icons: 1094
+* Number of icons: 1096
 * Author: Emanuele
 * URL: https://github.com/elax46/custom-brand-icons
 * License: CC BY-NC-SA 4.0
@@ -1139,7 +1139,7 @@
 * File: [json/devicon-plain.json](json/devicon-plain.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Skill Icons
-* Number of icons: 337
+* Number of icons: 397
 * Author: tandpfun
 * URL: https://github.com/tandpfun/skill-icons
 * License: MIT
@@ -1315,7 +1315,7 @@
 * URL: https://github.com/resolvetosavelives/healthicons
 * License: MIT
 * License URL: https://github.com/resolvetosavelives/healthicons/blob/main/LICENSE
-* Version: 0.1.0
+* Version: 1.0.1
 * Palette: Colorless
 * Icon set prefix: `healthicons`
 * File: [json/healthicons.json](json/healthicons.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))

@@ -64,12 +64,12 @@
 * File: [json/solar.json](json/solar.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Tabler Icons
-* Number of icons: 4962
+* Number of icons: 5200
 * Author: Paweł Kuna
 * URL: https://github.com/tabler/tabler-icons
 * License: MIT
 * License URL: https://github.com/tabler/tabler-icons/blob/master/LICENSE
-* Version: 2.47.0
+* Version: 3.0.0-beta.2
 * Palette: Colorless
 * Icon set prefix: `tabler`
 * File: [json/tabler.json](json/tabler.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
@@ -149,7 +149,7 @@
 * File: [json/ion.json](json/ion.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Lucide
-* Number of icons: 1432
+* Number of icons: 1435
 * Author: Lucide Contributors
 * URL: https://github.com/lucide-icons/lucide
 * License: ISC
@@ -256,12 +256,12 @@
 * File: [json/gg.json](json/gg.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Gravity UI Icons
-* Number of icons: 640
+* Number of icons: 663
 * Author: YANDEX LLC
 * URL: https://github.com/gravity-ui/icons/
 * License: MIT
 * License URL: https://github.com/gravity-ui/icons/blob/main/LICENSE
-* Version: 2.8.1
+* Version: 2.9.1
 * Palette: Colorless
 * Icon set prefix: `gravity-ui`
 * File: [json/gravity-ui.json](json/gravity-ui.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
@@ -732,7 +732,7 @@
 * URL: https://gitlab.com/gitlab-org/gitlab-svgs/-/tree/main
 * License: MIT
 * License URL: https://gitlab.com/gitlab-org/gitlab-svgs/-/blob/main/LICENSE
-* Version: 3.85.0
+* Version: 3.87.0
 * Palette: Colorless
 * Icon set prefix: `pajamas`
 * File: [json/pajamas.json](json/pajamas.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
@@ -910,7 +910,7 @@
 * File: [json/svg-spinners.json](json/svg-spinners.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## OpenMoji
-* Number of icons: 4128
+* Number of icons: 4129
 * Author: OpenMoji
 * URL: https://github.com/hfg-gmuend/openmoji
 * License: CC BY-SA 4.0
@@ -1109,7 +1109,7 @@
 * File: [json/arcticons.json](json/arcticons.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Custom Brand Icons
-* Number of icons: 1101
+* Number of icons: 1106
 * Author: Emanuele
 * URL: https://github.com/elax46/custom-brand-icons
 * License: CC BY-NC-SA 4.0

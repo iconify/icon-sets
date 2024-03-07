@@ -149,7 +149,7 @@
 * File: [json/ion.json](json/ion.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Lucide
-* Number of icons: 1435
+* Number of icons: 1441
 * Author: Lucide Contributors
 * URL: https://github.com/lucide-icons/lucide
 * License: ISC
@@ -634,7 +634,7 @@
 * URL: https://github.com/microsoft/fluentui-system-icons
 * License: MIT
 * License URL: https://github.com/microsoft/fluentui-system-icons/blob/main/LICENSE
-* Version: 1.1.230
+* Version: 1.1.231
 * Palette: Colorless
 * Icon set prefix: `fluent`
 * File: [json/fluent.json](json/fluent.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
@@ -727,12 +727,12 @@
 * File: [json/codicon.json](json/codicon.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Gitlab SVGs
-* Number of icons: 375
+* Number of icons: 376
 * Author: GitLab B.V.
 * URL: https://gitlab.com/gitlab-org/gitlab-svgs/-/tree/main
 * License: MIT
 * License URL: https://gitlab.com/gitlab-org/gitlab-svgs/-/blob/main/LICENSE
-* Version: 3.88.0
+* Version: 3.90.0
 * Palette: Colorless
 * Icon set prefix: `pajamas`
 * File: [json/pajamas.json](json/pajamas.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
@@ -1206,7 +1206,7 @@
 * URL: https://github.com/lipis/flag-icons
 * License: MIT
 * License URL: https://github.com/lipis/flag-icons/blob/main/LICENSE
-* Version: 7.1.0
+* Version: 7.2.0
 * Palette: Colorful
 * Icon set prefix: `flag`
 * File: [json/flag.json](json/flag.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))

@@ -272,7 +272,7 @@
 * URL: https://github.com/primer/octicons/
 * License: MIT
 * License URL: https://github.com/primer/octicons/blob/main/LICENSE
-* Version: 19.8.0
+* Version: 19.9.0
 * Palette: Colorless
 * Icon set prefix: `octicon`
 * File: [json/octicon.json](json/octicon.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
@@ -1157,6 +1157,15 @@
 * Palette: Colorful
 * Icon set prefix: `skill-icons`
 * File: [json/skill-icons.json](json/skill-icons.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
+
+## UnJS Logos
+* Number of icons: 63
+* Author: UnJS
+* URL: https://github.com/unjs
+* License: Apache 2.0
+* Palette: Colorful
+* Icon set prefix: `unjs`
+* File: [json/unjs.json](json/unjs.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Brandico
 * Number of icons: 45

@@ -2,8 +2,8 @@
 	"prefix": "line-md",
 	"info": {
 		"name": "Material Line Icons",
-		"total": 601,
-		"version": "1.0.4",
+		"total": 605,
+		"version": "1.0.5",
 		"author": {
 			"name": "Vjacheslav Trushkin",
 			"url": "https://github.com/cyberalien/line-md"
@@ -22,7 +22,7 @@
 		"category": "Animated Icons",
 		"palette": false
 	},
-	"lastModified": 1707117463,
+	"lastModified": 1711104095,
 	"icons": {
 		"account": {
 			"body": "<g fill=\"none\" stroke=\"currentColor\" stroke-dasharray=\"28\" stroke-dashoffset=\"28\" stroke-linecap=\"round\" stroke-width=\"2\"><path d=\"M4 21V20C4 16.6863 6.68629 14 10 14H14C17.3137 14 20 16.6863 20 20V21\"><animate fill=\"freeze\" attributeName=\"stroke-dashoffset\" dur=\"0.4s\" values=\"28;0\"/></path><path d=\"M12 11C9.79086 11 8 9.20914 8 7C8 4.79086 9.79086 3 12 3C14.2091 3 16 4.79086 16 7C16 9.20914 14.2091 11 12 11Z\"><animate fill=\"freeze\" attributeName=\"stroke-dashoffset\" begin=\"0.5s\" dur=\"0.4s\" values=\"28;0\"/></path></g>"
@@ -672,6 +672,15 @@
 		},
 		"facebook": {
 			"body": "<g fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-width=\"4\"><path stroke-dasharray=\"24\" stroke-dashoffset=\"24\" d=\"M17 4L15 4C12.5 4 11 5.5 11 8V20\"><animate fill=\"freeze\" attributeName=\"stroke-dashoffset\" dur=\"0.4s\" values=\"24;0\"/></path><path stroke-dasharray=\"12\" stroke-dashoffset=\"12\" d=\"M8 12H15\"><animate fill=\"freeze\" attributeName=\"stroke-dashoffset\" begin=\"0.5s\" dur=\"0.2s\" values=\"12;0\"/></path></g>"
+		},
+		"filter": {
+			"body": "<path fill=\"none\" stroke=\"currentColor\" stroke-dasharray=\"54\" stroke-dashoffset=\"54\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" d=\"M5 4h14l-5 6.5v9.5l-4 -4v-5.5z\"><animate fill=\"freeze\" attributeName=\"stroke-dashoffset\" dur=\"0.6s\" values=\"54;0\"/></path>"
+		},
+		"filter-filled": {
+			"body": "<path fill=\"currentColor\" fill-opacity=\"0\" stroke=\"currentColor\" stroke-dasharray=\"54\" stroke-dashoffset=\"54\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" d=\"M5 4h14l-5 6.5v9.5l-4 -4v-5.5z\"><animate fill=\"freeze\" attributeName=\"stroke-dashoffset\" dur=\"0.6s\" values=\"54;0\"/><animate fill=\"freeze\" attributeName=\"fill-opacity\" begin=\"0.7s\" dur=\"0.5s\" values=\"0;1\"/></path>"
+		},
+		"filter-twotone": {
+			"body": "<path fill=\"currentColor\" fill-opacity=\"0\" stroke=\"currentColor\" stroke-dasharray=\"54\" stroke-dashoffset=\"54\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" d=\"M5 4h14l-5 6.5v9.5l-4 -4v-5.5z\"><animate fill=\"freeze\" attributeName=\"stroke-dashoffset\" dur=\"0.6s\" values=\"54;0\"/><animate fill=\"freeze\" attributeName=\"fill-opacity\" begin=\"0.7s\" dur=\"0.15s\" values=\"0;0.3\"/></path>"
 		},
 		"fork-left": {
 			"body": "<g fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\"><path stroke-dasharray=\"18\" stroke-dashoffset=\"18\" d=\"M5 13H9C11.7614 13 14 15.2386 14 18V20M14 4v16\"><animate fill=\"freeze\" attributeName=\"stroke-dashoffset\" dur=\"0.4s\" values=\"18;36\"/></path><path stroke-dasharray=\"6\" stroke-dashoffset=\"6\" d=\"M5 13l3 -3M5 13l3 3M14 4l3 3M14 4l-3 3\" opacity=\"0\"><set attributeName=\"opacity\" begin=\"0.4s\" to=\"1\"/><animate fill=\"freeze\" attributeName=\"stroke-dashoffset\" begin=\"0.4s\" dur=\"0.2s\" values=\"6;0\"/></path></g>"
@@ -1327,6 +1336,9 @@
 		},
 		"roundabout-left": {
 			"body": "<g fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\"><path stroke-dasharray=\"40\" stroke-dashoffset=\"40\" d=\"M16 20V15C16 14.4477 16.4522 14.0104 16.9936 13.9013C19.279 13.4405 21 11.4212 21 9C21 6.23858 18.7614 4 16 4C13.5788 4 11.5595 5.72096 11.0987 8.00638C10.9896 8.54777 10.5523 9 10 9H3\"><animate fill=\"freeze\" attributeName=\"stroke-dashoffset\" dur=\"0.5s\" values=\"40;0\"/></path><path stroke-dasharray=\"6\" stroke-dashoffset=\"6\" d=\"M3 9l3 -3M3 9l3 3\" opacity=\"0\"><set attributeName=\"opacity\" begin=\"0.5s\" to=\"1\"/><animate fill=\"freeze\" attributeName=\"stroke-dashoffset\" begin=\"0.5s\" dur=\"0.2s\" values=\"6;0\"/></path></g>"
+		},
+		"rss": {
+			"body": "<g fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\"><path stroke-dasharray=\"16\" stroke-dashoffset=\"16\" d=\"M4 11C6.39 11 8.68 11.95 10.36 13.64C12.05 15.32 13 17.61 13 20\" opacity=\"0\"><set attributeName=\"opacity\" begin=\"0.3s\" to=\"1\"/><animate fill=\"freeze\" attributeName=\"stroke-dashoffset\" begin=\"0.3s\" dur=\"0.3s\" values=\"16;0\"/></path><path stroke-dasharray=\"28\" stroke-dashoffset=\"28\" d=\"M4 4C8.24 4 12.31 5.69 15.31 8.69C18.31 11.69 20 15.76 20 20\" opacity=\"0\"><set attributeName=\"opacity\" begin=\"0.7s\" to=\"1\"/><animate fill=\"freeze\" attributeName=\"stroke-dashoffset\" begin=\"0.7s\" dur=\"0.4s\" values=\"28;0\"/></path></g><circle cx=\"5\" cy=\"19\" r=\"2\" fill=\"currentColor\" fill-opacity=\"0\"><animate fill=\"freeze\" attributeName=\"fill-opacity\" dur=\"0.2s\" values=\"0;1\"/></circle>"
 		},
 		"search": {
 			"body": "<g fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-width=\"2\"><path stroke-dasharray=\"16\" stroke-dashoffset=\"16\" d=\"M10.5 13.5L3 21\"><animate fill=\"freeze\" attributeName=\"stroke-dashoffset\" begin=\"0.4s\" dur=\"0.2s\" values=\"16;0\"/></path><path stroke-dasharray=\"40\" stroke-dashoffset=\"40\" d=\"M10.7574 13.2426C8.41421 10.8995 8.41421 7.10051 10.7574 4.75736C13.1005 2.41421 16.8995 2.41421 19.2426 4.75736C21.5858 7.10051 21.5858 10.8995 19.2426 13.2426C16.8995 15.5858 13.1005 15.5858 10.7574 13.2426Z\"><animate fill=\"freeze\" attributeName=\"stroke-dashoffset\" dur=\"0.4s\" values=\"40;0\"/></path></g>"
@@ -2386,7 +2398,10 @@
 			"cog-off",
 			"cog-off-filled",
 			"cog-off-filled-loop",
-			"cog-off-loop"
+			"cog-off-loop",
+			"filter",
+			"filter-filled",
+			"filter-twotone"
 		],
 		"Social": [
 			"buy-me-a-coffee",
@@ -2430,6 +2445,7 @@
 			"reddit-circle",
 			"reddit-circle-loop",
 			"reddit-loop",
+			"rss",
 			"star",
 			"star-alt",
 			"star-alt-filled",

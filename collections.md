@@ -2,7 +2,7 @@
 
 
 ## Material Symbols
-* Number of icons: 12511
+* Number of icons: 12588
 * Author: Google
 * URL: https://github.com/google/material-design-icons
 * License: Apache 2.0
@@ -12,7 +12,7 @@
 * File: [json/material-symbols.json](json/material-symbols.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Material Symbols Light
-* Number of icons: 12573
+* Number of icons: 12650
 * Author: Google
 * URL: https://github.com/google/material-design-icons
 * License: Apache 2.0
@@ -75,7 +75,7 @@
 * File: [json/tabler.json](json/tabler.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## MingCute Icon
-* Number of icons: 2806
+* Number of icons: 2922
 * Author: MingCute Design
 * URL: https://github.com/Richard9394/MingCute
 * License: Apache 2.0
@@ -138,12 +138,12 @@
 * File: [json/iconoir.json](json/iconoir.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## IonIcons
-* Number of icons: 1338
+* Number of icons: 1355
 * Author: Ben Sperry
 * URL: https://github.com/ionic-team/ionicons
 * License: MIT
 * License URL: https://github.com/ionic-team/ionicons/blob/main/LICENSE
-* Version: 7.2.2
+* Version: 7.3.0
 * Palette: Colorless
 * Icon set prefix: `ion`
 * File: [json/ion.json](json/ion.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
@@ -309,7 +309,7 @@
 * File: [json/flowbite.json](json/flowbite.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Myna UI Icons
-* Number of icons: 1089
+* Number of icons: 1092
 * Author: Praveen Juge
 * URL: https://github.com/praveenjuge/mynaui-icons
 * License: MIT
@@ -340,12 +340,12 @@
 * File: [json/pixelarticons.json](json/pixelarticons.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Akar Icons
-* Number of icons: 453
+* Number of icons: 454
 * Author: Arturo Wibawa
 * URL: https://github.com/artcoholic/akar-icons
 * License: MIT
 * License URL: https://github.com/artcoholic/akar-icons/blob/master/LICENSE
-* Version: 1.9.30
+* Version: 1.9.31
 * Palette: Colorless
 * Icon set prefix: `akar-icons`
 * File: [json/akar-icons.json](json/akar-icons.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
@@ -480,7 +480,7 @@
 * File: [json/charm.json](json/charm.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Prime Icons
-* Number of icons: 260
+* Number of icons: 313
 * Author: PrimeTek
 * URL: https://github.com/primefaces/primeicons
 * License: MIT
@@ -716,7 +716,7 @@
 * File: [json/heroicons.json](json/heroicons.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Codicons
-* Number of icons: 455
+* Number of icons: 458
 * Author: Microsoft Corporation
 * URL: https://github.com/microsoft/vscode-codicons
 * License: CC BY 4.0
@@ -878,12 +878,12 @@
 * File: [json/formkit.json](json/formkit.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Material Line Icons
-* Number of icons: 601
+* Number of icons: 605
 * Author: Vjacheslav Trushkin
 * URL: https://github.com/cyberalien/line-md
 * License: MIT
 * License URL: https://github.com/cyberalien/line-md/blob/master/license.txt
-* Version: 1.0.4
+* Version: 1.0.5
 * Palette: Colorless
 * Icon set prefix: `line-md`
 * File: [json/line-md.json](json/line-md.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))

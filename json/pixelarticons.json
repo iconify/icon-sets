@@ -3,7 +3,7 @@
 	"info": {
 		"name": "Pixelarticons",
 		"total": 486,
-		"version": "1.8.0",
+		"version": "1.8.1",
 		"author": {
 			"name": "Gerrit Halfmann",
 			"url": "https://github.com/halfmage/pixelarticons"
@@ -22,7 +22,7 @@
 		"category": "General",
 		"palette": false
 	},
-	"lastModified": 1712229521,
+	"lastModified": 1713419144,
 	"icons": {
 		"4g": {
 			"body": "<path fill=\"currentColor\" d=\"M5 7H3v6h5v4h2V7H8v4H5zm16 0h-9v10h9v-6h-4v2h2v2h-5V9h7z\"/>"
@@ -561,7 +561,7 @@
 		"cut": {
 			"body": "<path fill=\"currentColor\" d=\"M2 2h2v2H2zm4 4H4V4h2zm2 2H6V6h2zm2 2V8H8v2zm4 0h-4v4H2v8h8v-8h4v8h8v-8h-8zm2-2v2h-2V8zm2-2v2h-2V6zm2-2h-2v2h2zm0 0V2h2v2zM4 20v-4h4v4zm12 0v-4h4v4z\"/>"
 		},
-		"dashbaord": {
+		"dashboard": {
 			"body": "<path fill=\"currentColor\" d=\"M3 3h8v10H3zm2 2v6h4V5zm8-2h8v6h-8zm2 2v2h4V5zm-2 6h8v10h-8zm2 2v6h4v-6zM3 15h8v6H3zm2 2v2h4v-2z\"/>"
 		},
 		"debug": {
@@ -1484,6 +1484,9 @@
 		}
 	},
 	"aliases": {
+		"dashbaord": {
+			"parent": "dashboard"
+		},
 		"sort-alpabetic": {
 			"parent": "sort-alphabetic"
 		}

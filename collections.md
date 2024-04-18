@@ -149,7 +149,7 @@
 * File: [json/ion.json](json/ion.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Lucide
-* Number of icons: 1452
+* Number of icons: 1453
 * Author: Lucide Contributors
 * URL: https://github.com/lucide-icons/lucide
 * License: ISC
@@ -334,7 +334,7 @@
 * URL: https://github.com/halfmage/pixelarticons
 * License: MIT
 * License URL: https://github.com/halfmage/pixelarticons/blob/master/LICENSE
-* Version: 1.8.0
+* Version: 1.8.1
 * Palette: Colorless
 * Icon set prefix: `pixelarticons`
 * File: [json/pixelarticons.json](json/pixelarticons.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
@@ -1196,23 +1196,23 @@
 * File: [json/entypo-social.json](json/entypo-social.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Token Icons
-* Number of icons: 1629
+* Number of icons: 1636
 * Author: 0xa3k5
 * URL: https://github.com/0xa3k5/token-icons
 * License: MIT
 * License URL: https://github.com/0xa3k5/token-icons/blob/main/LICENCE
-* Version: 2.1.0
+* Version: 2.3.1
 * Palette: Colorless
 * Icon set prefix: `token`
 * File: [json/token.json](json/token.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Token Icons Branded
-* Number of icons: 1812
+* Number of icons: 1818
 * Author: 0xa3k5
 * URL: https://github.com/0xa3k5/token-icons
 * License: MIT
 * License URL: https://github.com/0xa3k5/token-icons/blob/main/LICENCE
-* Version: 2.1.0
+* Version: 2.3.1
 * Palette: Colorful
 * Icon set prefix: `token-branded`
 * File: [json/token-branded.json](json/token-branded.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))

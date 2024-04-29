@@ -2,8 +2,8 @@
 	"prefix": "iconoir",
 	"info": {
 		"name": "Iconoir",
-		"total": 1573,
-		"version": "7.6.0",
+		"total": 1583,
+		"version": "7.7.0",
 		"author": {
 			"name": "Luca Burgio",
 			"url": "https://github.com/iconoir-icons/iconoir"
@@ -22,7 +22,7 @@
 		"category": "General",
 		"palette": false
 	},
-	"lastModified": 1712503254,
+	"lastModified": 1714370944,
 	"icons": {
 		"accessibility": {
 			"body": "<g fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"1.5\"><path d=\"M12 22c5.523 0 10-4.477 10-10S17.523 2 12 2S2 6.477 2 12s4.477 10 10 10M7 9l5 1m5-1l-5 1m0 0v3m0 0l-2 5m2-5l2 5\"/><path fill=\"currentColor\" d=\"M12 7a.5.5 0 1 1 0-1a.5.5 0 0 1 0 1\"/></g>"
@@ -2788,6 +2788,9 @@
 		"microphone-mute": {
 			"body": "<g fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"1.5\"><path d=\"m3 3l18 18M9 9a5 5 0 0 0 5 5v0m1-3.5V5a3 3 0 0 0-3-3v0a3 3 0 0 0-3 3v.5\"/><path d=\"M5 10v1a7 7 0 0 0 7 7v0a7 7 0 0 0 7-7v-1m-7 8v4m0 0H9m3 0h3\"/></g>"
 		},
+		"microphone-mute-solid": {
+			"body": "<g fill=\"currentColor\" fill-rule=\"evenodd\" stroke-width=\"1.5\" clip-rule=\"evenodd\"><path d=\"M2.47 2.47a.75.75 0 0 1 1.06 0l18 18a.75.75 0 1 1-1.06 1.06l-18-18a.75.75 0 0 1 0-1.06\"/><path d=\"M8.25 4.384a3.134 3.134 0 0 1 3.134-3.134H12A3.75 3.75 0 0 1 15.75 5v5.5a.75.75 0 0 1-1.23.576L9.378 6.791A3.13 3.13 0 0 1 8.25 4.384M14 14.75A5.75 5.75 0 0 1 8.25 9h1.5A4.25 4.25 0 0 0 14 13.25z\"/><path d=\"M5 9.25a.75.75 0 0 1 .75.75v1a6.25 6.25 0 1 0 12.5 0v-1a.75.75 0 0 1 1.5 0v1a7.75 7.75 0 0 1-15.5 0v-1A.75.75 0 0 1 5 9.25\"/><path d=\"M12 17.25a.75.75 0 0 1 .75.75v3.25H15a.75.75 0 0 1 0 1.5H9a.75.75 0 0 1 0-1.5h2.25V18a.75.75 0 0 1 .75-.75\"/></g>"
+		},
 		"microphone-plus": {
 			"body": "<g fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M16.992 19h3m3 0h-3m0 0v-3m0 3v3\"/><rect width=\"6\" height=\"12\" x=\"5\" y=\"2\" rx=\"3\"/><path stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M1 10v1a7 7 0 0 0 7 7v0a7 7 0 0 0 7-7v-1m-7 8v4m0 0H5m3 0h3\"/></g>"
 		},
@@ -4003,14 +4006,26 @@
 		"sound-high": {
 			"body": "<g fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M1 13.857v-3.714a2 2 0 0 1 2-2h2.9a1 1 0 0 0 .55-.165l6-3.956a1 1 0 0 1 1.55.835v14.286a1 1 0 0 1-1.55.835l-6-3.956a1 1 0 0 0-.55-.165H3a2 2 0 0 1-2-2Z\"/><path stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M17.5 7.5S19 9 19 11.5s-1.5 4-1.5 4m3-11S23 7 23 11.5s-2.5 7-2.5 7\"/></g>"
 		},
+		"sound-high-solid": {
+			"body": "<g fill=\"currentColor\" fill-rule=\"evenodd\" stroke-width=\"1.5\" clip-rule=\"evenodd\"><path d=\"M16.97 6.97a.75.75 0 0 1 1.06 0l-.53.53l.53-.53h.001l.001.002l.003.002l.007.007l.02.02l.062.069c.05.057.12.138.201.241A6.87 6.87 0 0 1 19.75 11.5a6.87 6.87 0 0 1-1.425 4.189a5 5 0 0 1-.264.31l-.02.02l-.006.007l-.003.002v.001h-.001l-.51-.508l.51.51a.75.75 0 1 1-1.061-1.061l.53.53l-.53-.53h-.001v.001l-.002.001l.005-.005l.033-.036q.048-.052.139-.167a5.37 5.37 0 0 0 .448-5.843a5 5 0 0 0-.448-.685a3 3 0 0 0-.172-.203l-.005-.005a.75.75 0 0 1 .003-1.058\"/><path d=\"M19.97 3.97a.75.75 0 0 1 1.06 0l-.53.53l.53-.53h.001l.002.002l.003.003l.009.01a2 2 0 0 1 .124.134c.079.089.188.218.316.385c.257.333.594.823.929 1.46c.67 1.274 1.336 3.143 1.336 5.536s-.666 4.262-1.336 5.537a10 10 0 0 1-.929 1.46a7 7 0 0 1-.44.518l-.01.01l-.002.003l-.002.001l-.531-.529l.53.53a.75.75 0 0 1-1.061-1.06v.001h-.001l.001-.001l.014-.014l.063-.07q.089-.098.25-.304c.212-.276.5-.693.79-1.244c.58-1.1 1.164-2.731 1.164-4.838s-.584-3.738-1.164-4.838a8.7 8.7 0 0 0-.79-1.244a6 6 0 0 0-.313-.374l-.014-.014l-.001-.002v.002h.001a.75.75 0 0 1 0-1.06m-7.932-.574c1.163-.767 2.713.068 2.713 1.461v14.286c0 1.394-1.55 2.228-2.713 1.461l-6-3.955a.25.25 0 0 0-.137-.042H3a2.75 2.75 0 0 1-2.75-2.75v-3.714A2.75 2.75 0 0 1 3 7.393h2.9a.25.25 0 0 0 .138-.041z\"/></g>"
+		},
 		"sound-low": {
 			"body": "<g fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M19.5 7.5S21 9 21 11.5s-1.5 4-1.5 4\"/><path d=\"M2 13.857v-3.714a2 2 0 0 1 2-2h2.9a1 1 0 0 0 .55-.165l6-3.956a1 1 0 0 1 1.55.835v14.286a1 1 0 0 1-1.55.835l-6-3.956a1 1 0 0 0-.55-.165H4a2 2 0 0 1-2-2Z\"/></g>"
+		},
+		"sound-low-solid": {
+			"body": "<path fill=\"currentColor\" fill-rule=\"evenodd\" d=\"M18.97 6.97a.75.75 0 0 1 1.06 0l-.53.53l.53-.53h.001l.001.002l.003.002l.007.007l.02.02l.062.069c.05.057.12.138.201.241A6.87 6.87 0 0 1 21.75 11.5a6.87 6.87 0 0 1-1.425 4.189a5 5 0 0 1-.264.31l-.02.02l-.006.007l-.003.002v.001h-.001l-.51-.508l.51.51a.75.75 0 1 1-1.061-1.061l.53.53l-.53-.53h-.001v.001l-.002.001l.005-.005l.033-.036q.048-.052.139-.167a5.37 5.37 0 0 0 .448-5.843a5 5 0 0 0-.448-.685a3 3 0 0 0-.172-.203l-.005-.005a.75.75 0 0 1 .003-1.058m-5.933-3.574c1.163-.767 2.713.068 2.713 1.461v14.286c0 1.394-1.55 2.228-2.713 1.461l-6-3.955a.25.25 0 0 0-.137-.042H4a2.75 2.75 0 0 1-2.75-2.75v-3.714A2.75 2.75 0 0 1 4 7.393h2.9a.25.25 0 0 0 .138-.041z\" clip-rule=\"evenodd\"/>"
 		},
 		"sound-min": {
 			"body": "<g fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M3.5 13.857v-3.714a2 2 0 0 1 2-2h2.9a1 1 0 0 0 .55-.165l6-3.956a1 1 0 0 1 1.55.835v14.286a1 1 0 0 1-1.55.835l-6-3.956a1 1 0 0 0-.55-.165H5.5a2 2 0 0 1-2-2Z\"/><path stroke-linecap=\"round\" d=\"M20.5 15V9\"/></g>"
 		},
+		"sound-min-solid": {
+			"body": "<path fill=\"currentColor\" fill-rule=\"evenodd\" d=\"M14.537 3.396c1.163-.767 2.713.068 2.713 1.461v14.286c0 1.394-1.55 2.228-2.713 1.461l-6-3.955a.25.25 0 0 0-.137-.042H5.5a2.75 2.75 0 0 1-2.75-2.75v-3.714a2.75 2.75 0 0 1 2.75-2.75h2.9a.25.25 0 0 0 .138-.041zM20.5 8.25a.75.75 0 0 1 .75.75v6a.75.75 0 0 1-1.5 0V9a.75.75 0 0 1 .75-.75\" clip-rule=\"evenodd\"/>"
+		},
 		"sound-off": {
 			"body": "<g fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"m18 14l2-2m2-2l-2 2m0 0l-2-2m2 2l2 2\"/><path d=\"M2 13.857v-3.714a2 2 0 0 1 2-2h2.9a1 1 0 0 0 .55-.165l6-3.956a1 1 0 0 1 1.55.835v14.286a1 1 0 0 1-1.55.835l-6-3.956a1 1 0 0 0-.55-.165H4a2 2 0 0 1-2-2Z\"/></g>"
+		},
+		"sound-off-solid": {
+			"body": "<path fill=\"currentColor\" fill-rule=\"evenodd\" d=\"M17.47 9.47a.75.75 0 0 1 1.06 0L20 10.94l1.47-1.47a.75.75 0 0 1 1.06 1.06L21.061 12l1.47 1.47a.75.75 0 0 1-1.061 1.06L20 13.06l-1.47 1.47a.75.75 0 0 1-1.06-1.06L18.94 12l-1.47-1.47a.75.75 0 0 1 0-1.06m-4.433-6.074c1.163-.767 2.713.068 2.713 1.461v14.286c0 1.394-1.55 2.228-2.713 1.461l-6-3.955a.25.25 0 0 0-.137-.042H4a2.75 2.75 0 0 1-2.75-2.75v-3.714A2.75 2.75 0 0 1 4 7.393h2.9a.25.25 0 0 0 .138-.041z\" clip-rule=\"evenodd\"/>"
 		},
 		"spades": {
 			"body": "<g fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-width=\"1.5\"><path stroke-linejoin=\"round\" d=\"M12 14.5c3 4.5 9 4.47 9-.5c0-4-4-7-9-12c-5 5-9 8-9 12c0 4.97 6 5 9 .5\"/><path d=\"m11.47 15.493l-3 5.625A.6.6 0 0 0 9 22h6a.6.6 0 0 0 .53-.882l-3-5.625a.6.6 0 0 0-1.06 0Z\"/></g>"
@@ -4643,8 +4658,17 @@
 		"web-window-energy-consumption": {
 			"body": "<g fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M5 7h1\"/><path d=\"M2 17.714V6.286C2 5.023 2.995 4 4.222 4h15.556C21.005 4 22 5.023 22 6.286v11.428C22 18.977 21.005 20 19.778 20H4.222C2.995 20 2 18.977 2 17.714Z\"/><path stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M11.667 9L10 12h4l-1.667 3\"/></g>"
 		},
+		"web-window-energy-consumption-solid": {
+			"body": "<path fill=\"currentColor\" fill-rule=\"evenodd\" d=\"M1.25 6.286c0-1.657 1.31-3.036 2.972-3.036h15.556c1.661 0 2.972 1.38 2.972 3.036v11.428c0 1.657-1.31 3.036-2.972 3.036H4.222c-1.661 0-2.972-1.38-2.972-3.036zm3 .714A.75.75 0 0 1 5 6.25h1a.75.75 0 0 1 0 1.5H5A.75.75 0 0 1 4.25 7m8.072 2.364a.75.75 0 1 0-1.31-.728l-1.668 3A.75.75 0 0 0 10 12.75h2.725l-1.047 1.886a.75.75 0 0 0 1.31.728l1.668-3A.75.75 0 0 0 14 11.25h-2.725z\" clip-rule=\"evenodd\"/>"
+		},
+		"web-window-solid": {
+			"body": "<path fill=\"currentColor\" fill-rule=\"evenodd\" d=\"M4.222 3.25c-1.661 0-2.972 1.38-2.972 3.036v11.428c0 1.657 1.31 3.036 2.972 3.036h15.556c1.661 0 2.972-1.38 2.972-3.036V6.286c0-1.657-1.31-3.036-2.972-3.036zm.778 3a.75.75 0 0 0 0 1.5h1a.75.75 0 0 0 0-1.5z\" clip-rule=\"evenodd\"/>"
+		},
 		"web-window-xmark": {
 			"body": "<g fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M5 7h1\"/><path d=\"M2 17.714V6.286C2 5.023 2.995 4 4.222 4h15.556C21.005 4 22 5.023 22 6.286v11.428C22 18.977 21.005 20 19.778 20H4.222C2.995 20 2 18.977 2 17.714Z\"/><path stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"m10 14l2-2m0 0l2-2m-2 2l-2-2m2 2l2 2\"/></g>"
+		},
+		"web-window-xmark-solid": {
+			"body": "<path fill=\"currentColor\" fill-rule=\"evenodd\" d=\"M1.25 6.286c0-1.657 1.31-3.036 2.972-3.036h15.556c1.661 0 2.972 1.38 2.972 3.036v11.428c0 1.657-1.31 3.036-2.972 3.036H4.222c-1.661 0-2.972-1.38-2.972-3.036zm3 .714A.75.75 0 0 1 5 6.25h1a.75.75 0 0 1 0 1.5H5A.75.75 0 0 1 4.25 7m6.28 2.47a.75.75 0 1 0-1.06 1.06L10.94 12l-1.47 1.47a.75.75 0 1 0 1.06 1.06L12 13.06l1.47 1.47a.75.75 0 1 0 1.06-1.06L13.06 12l1.47-1.47a.75.75 0 1 0-1.06-1.06L12 10.94z\" clip-rule=\"evenodd\"/>"
 		},
 		"webp-format": {
 			"body": "<g fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-width=\"1.5\"><path d=\"M4 6V3.6a.6.6 0 0 1 .6-.6h14.8a.6.6 0 0 1 .6.6V6M4 18v2.4a.6.6 0 0 0 .6.6h14.8a.6.6 0 0 0 .6-.6V18\"/><path stroke-linejoin=\"round\" d=\"M13.5 15V9h2.4a.6.6 0 0 1 .6.6v.9A1.5 1.5 0 0 1 15 12v0\"/><path stroke-linejoin=\"round\" d=\"M13.5 15h2.4a.6.6 0 0 0 .6-.6v-.9A1.5 1.5 0 0 0 15 12v0h-1.5m6 3v-3m0 0V9h3v3zm-18-3v6L3 12l1.5 3V9m6 0h-3v6h3m-3-3h2\"/></g>"
@@ -4699,6 +4723,12 @@
 		},
 		"window-no-access": {
 			"body": "<g fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-width=\"1.5\"><path d=\"M12 21H4a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h16a2 2 0 0 1 2 2v8\"/><path stroke-linejoin=\"round\" d=\"M2 7h20M5 5.01l.01-.011M8 5.01l.01-.011M11 5.01l.01-.011M21 16.05a3.5 3.5 0 1 0-5 4.9m5-4.9a3.5 3.5 0 0 1-5 4.9m5-4.9l-5 4.9\"/></g>"
+		},
+		"window-tabs": {
+			"body": "<g fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M22 8h-6.5M9 4v4h6.5m0 0V4\"/><path d=\"M2 17.714V6.286C2 5.023 2.995 4 4.222 4h15.556C21.005 4 22 5.023 22 6.286v11.428C22 18.977 21.005 20 19.778 20H4.222C2.995 20 2 18.977 2 17.714Z\"/></g>"
+		},
+		"window-tabs-solid": {
+			"body": "<path fill=\"currentColor\" fill-rule=\"evenodd\" d=\"M4.222 3.25c-1.661 0-2.972 1.38-2.972 3.036v11.428c0 1.657 1.31 3.036 2.972 3.036h15.556c1.661 0 2.972-1.38 2.972-3.036V6.286c0-1.657-1.31-3.036-2.972-3.036zM9.75 5.5a.75.75 0 0 0-1.5 0V8c0 .414.336.75.75.75h11.25a.75.75 0 0 0 0-1.5h-4V5.5a.75.75 0 0 0-1.5 0v1.75h-5z\" clip-rule=\"evenodd\"/>"
 		},
 		"window-xmark": {
 			"body": "<g fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-width=\"1.5\"><path d=\"M15 21H4a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h16a2 2 0 0 1 2 2v10\"/><path stroke-linejoin=\"round\" d=\"M2 7h20M5 5.01l.01-.011M8 5.01l.01-.011M11 5.01l.01-.011M18 22.243l2.121-2.122m0 0L22.243 18m-2.122 2.121L18 18m2.121 2.121l2.122 2.122\"/></g>"
@@ -6050,6 +6080,7 @@
 			"microphone-minus",
 			"microphone-minus-solid",
 			"microphone-mute",
+			"microphone-mute-solid",
 			"microphone-plus",
 			"microphone-plus-solid",
 			"microphone-solid",
@@ -6058,9 +6089,13 @@
 			"microphone-warning",
 			"microphone-warning-solid",
 			"sound-high",
+			"sound-high-solid",
 			"sound-low",
+			"sound-low-solid",
 			"sound-min",
-			"sound-off"
+			"sound-min-solid",
+			"sound-off",
+			"sound-off-solid"
 		],
 		"Buildings": [
 			"balcony",
@@ -7364,10 +7399,15 @@
 			"warning-window",
 			"web-window",
 			"web-window-energy-consumption",
+			"web-window-energy-consumption-solid",
+			"web-window-solid",
 			"web-window-xmark",
+			"web-window-xmark-solid",
 			"window-check",
 			"window-lock",
 			"window-no-access",
+			"window-tabs",
+			"window-tabs-solid",
 			"window-xmark",
 			"windows"
 		],

@@ -2,7 +2,7 @@
 
 
 ## Material Symbols
-* Number of icons: 12663
+* Number of icons: 12670
 * Author: Google
 * URL: https://github.com/google/material-design-icons
 * License: Apache 2.0
@@ -12,7 +12,7 @@
 * File: [json/material-symbols.json](json/material-symbols.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Material Symbols Light
-* Number of icons: 12728
+* Number of icons: 12735
 * Author: Google
 * URL: https://github.com/google/material-design-icons
 * License: Apache 2.0
@@ -107,11 +107,11 @@
 * File: [json/bi.json](json/bi.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Carbon
-* Number of icons: 2082
+* Number of icons: 2106
 * Author: IBM
 * URL: https://github.com/carbon-design-system/carbon/tree/main/packages/icons
 * License: Apache 2.0
-* Version: 11.39.0
+* Version: 11.40.0
 * Palette: Colorless
 * Icon set prefix: `carbon`
 * File: [json/carbon.json](json/carbon.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
@@ -127,12 +127,12 @@
 * File: [json/iconamoon.json](json/iconamoon.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Iconoir
-* Number of icons: 1573
+* Number of icons: 1583
 * Author: Luca Burgio
 * URL: https://github.com/iconoir-icons/iconoir
 * License: MIT
 * License URL: https://github.com/iconoir-icons/iconoir/blob/main/LICENSE
-* Version: 7.6.0
+* Version: 7.7.0
 * Palette: Colorless
 * Icon set prefix: `iconoir`
 * File: [json/iconoir.json](json/iconoir.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
@@ -149,7 +149,7 @@
 * File: [json/ion.json](json/ion.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Lucide
-* Number of icons: 1456
+* Number of icons: 1458
 * Author: Lucide Contributors
 * URL: https://github.com/lucide-icons/lucide
 * License: ISC
@@ -1063,12 +1063,12 @@
 * File: [json/logos.json](json/logos.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Simple Icons
-* Number of icons: 3120
+* Number of icons: 3124
 * Author: Simple Icons Collaborators
 * URL: https://github.com/simple-icons/simple-icons
 * License: CC0 1.0
 * License URL: https://github.com/simple-icons/simple-icons/blob/develop/LICENSE.md
-* Version: 11.13.0
+* Version: 11.14.0
 * Palette: Colorless
 * Icon set prefix: `simple-icons`
 * File: [json/simple-icons.json](json/simple-icons.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
@@ -1359,7 +1359,7 @@
 * File: [json/wi.json](json/wi.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Health Icons
-* Number of icons: 1917
+* Number of icons: 1935
 * Author: Resolve to Save Lives
 * URL: https://github.com/resolvetosavelives/healthicons
 * License: MIT

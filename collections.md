@@ -149,7 +149,7 @@
 * File: [json/ion.json](json/ion.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Lucide
-* Number of icons: 1458
+* Number of icons: 1460
 * Author: Lucide Contributors
 * URL: https://github.com/lucide-icons/lucide
 * License: ISC
@@ -637,12 +637,12 @@
 * File: [json/marketeq.json](json/marketeq.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Fluent UI System Icons
-* Number of icons: 15907
+* Number of icons: 15948
 * Author: Microsoft Corporation
 * URL: https://github.com/microsoft/fluentui-system-icons
 * License: MIT
 * License URL: https://github.com/microsoft/fluentui-system-icons/blob/main/LICENSE
-* Version: 1.1.237
+* Version: 1.1.239
 * Palette: Colorless
 * Icon set prefix: `fluent`
 * File: [json/fluent.json](json/fluent.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
@@ -1107,7 +1107,7 @@
 * File: [json/nonicons.json](json/nonicons.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Arcticons
-* Number of icons: 9240
+* Number of icons: 9238
 * Author: Donnnno
 * URL: https://github.com/Arcticons-Team/Arcticons
 * License: CC BY-SA 4.0
@@ -1137,7 +1137,7 @@
 * File: [json/file-icons.json](json/file-icons.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Devicon
-* Number of icons: 770
+* Number of icons: 772
 * Author: konpa
 * URL: https://github.com/devicons/devicon/tree/master
 * License: MIT
@@ -1147,7 +1147,7 @@
 * File: [json/devicon.json](json/devicon.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Devicon Plain
-* Number of icons: 580
+* Number of icons: 582
 * Author: konpa
 * URL: https://github.com/devicons/devicon/tree/master
 * License: MIT

@@ -2,7 +2,7 @@
 
 
 ## Material Symbols
-* Number of icons: 12670
+* Number of icons: 12679
 * Author: Google
 * URL: https://github.com/google/material-design-icons
 * License: Apache 2.0
@@ -12,7 +12,7 @@
 * File: [json/material-symbols.json](json/material-symbols.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Material Symbols Light
-* Number of icons: 12735
+* Number of icons: 12744
 * Author: Google
 * URL: https://github.com/google/material-design-icons
 * License: Apache 2.0
@@ -73,6 +73,15 @@
 * Palette: Colorless
 * Icon set prefix: `tabler`
 * File: [json/tabler.json](json/tabler.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
+
+## Huge Icons
+* Number of icons: 3929
+* Author: Hugeicons
+* URL: https://icon-sets.iconify.design/icon-sets/hugeicons/
+* License: MIT
+* Palette: Colorless
+* Icon set prefix: `hugeicons`
+* File: [json/hugeicons.json](json/hugeicons.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## MingCute Icon
 * Number of icons: 2922
@@ -724,7 +733,7 @@
 * File: [json/heroicons.json](json/heroicons.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Codicons
-* Number of icons: 459
+* Number of icons: 460
 * Author: Microsoft Corporation
 * URL: https://github.com/microsoft/vscode-codicons
 * License: CC BY 4.0

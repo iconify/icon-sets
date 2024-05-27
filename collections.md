@@ -1072,12 +1072,12 @@
 * File: [json/logos.json](json/logos.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Simple Icons
-* Number of icons: 3146
+* Number of icons: 3150
 * Author: Simple Icons Collaborators
 * URL: https://github.com/simple-icons/simple-icons
 * License: CC0 1.0
 * License URL: https://github.com/simple-icons/simple-icons/blob/develop/LICENSE.md
-* Version: 11.15.0
+* Version: 12.0.0
 * Palette: Colorless
 * Icon set prefix: `simple-icons`
 * File: [json/simple-icons.json](json/simple-icons.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
@@ -1146,7 +1146,7 @@
 * File: [json/file-icons.json](json/file-icons.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Devicon
-* Number of icons: 772
+* Number of icons: 779
 * Author: konpa
 * URL: https://github.com/devicons/devicon/tree/master
 * License: MIT
@@ -1156,7 +1156,7 @@
 * File: [json/devicon.json](json/devicon.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Devicon Plain
-* Number of icons: 582
+* Number of icons: 585
 * Author: konpa
 * URL: https://github.com/devicons/devicon/tree/master
 * License: MIT
@@ -1205,23 +1205,23 @@
 * File: [json/entypo-social.json](json/entypo-social.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Token Icons
-* Number of icons: 1639
+* Number of icons: 1642
 * Author: 0xa3k5
 * URL: https://github.com/0xa3k5/token-icons
 * License: MIT
 * License URL: https://github.com/0xa3k5/token-icons/blob/main/LICENCE
-* Version: 2.7.0
+* Version: 2.8.2
 * Palette: Colorless
 * Icon set prefix: `token`
 * File: [json/token.json](json/token.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Token Icons Branded
-* Number of icons: 1822
+* Number of icons: 1825
 * Author: 0xa3k5
 * URL: https://github.com/0xa3k5/token-icons
 * License: MIT
 * License URL: https://github.com/0xa3k5/token-icons/blob/main/LICENCE
-* Version: 2.7.0
+* Version: 2.8.2
 * Palette: Colorful
 * Icon set prefix: `token-branded`
 * File: [json/token-branded.json](json/token-branded.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
@@ -1663,12 +1663,12 @@
 * File: [json/vaadin.json](json/vaadin.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Grommet Icons
-* Number of icons: 614
+* Number of icons: 634
 * Author: Grommet
 * URL: https://github.com/grommet/grommet-icons
 * License: Apache 2.0
 * License URL: https://www.apache.org/licenses/LICENSE-2.0
-* Version: 4.7.0
+* Version: 4.12.1
 * Palette: Colorless
 * Icon set prefix: `grommet-icons`
 * File: [json/grommet-icons.json](json/grommet-icons.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))

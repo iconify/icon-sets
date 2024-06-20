@@ -116,11 +116,11 @@
 * File: [json/bi.json](json/bi.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Carbon
-* Number of icons: 2211
+* Number of icons: 2213
 * Author: IBM
 * URL: https://github.com/carbon-design-system/carbon/tree/main/packages/icons
 * License: Apache 2.0
-* Version: 11.43.0
+* Version: 11.44.1
 * Palette: Colorless
 * Icon set prefix: `carbon`
 * File: [json/carbon.json](json/carbon.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
@@ -281,7 +281,7 @@
 * URL: https://github.com/primer/octicons/
 * License: MIT
 * License URL: https://github.com/primer/octicons/blob/main/LICENSE
-* Version: 19.9.0
+* Version: 19.10.0
 * Palette: Colorless
 * Icon set prefix: `octicon`
 * File: [json/octicon.json](json/octicon.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
@@ -586,6 +586,15 @@
 * Icon set prefix: `mi`
 * File: [json/mi.json](json/mi.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
+## WeUI Icon
+* Number of icons: 162
+* Author: WeUI
+* URL: https://github.com/weui/weui-icon
+* License: MIT
+* Palette: Colorless
+* Icon set prefix: `weui`
+* File: [json/weui.json](json/weui.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
+
 ## Quill Icons
 * Number of icons: 140
 * Author: Casper Lourens
@@ -651,7 +660,7 @@
 * URL: https://github.com/microsoft/fluentui-system-icons
 * License: MIT
 * License URL: https://github.com/microsoft/fluentui-system-icons/blob/main/LICENSE
-* Version: 1.1.244
+* Version: 1.1.245
 * Palette: Colorless
 * Icon set prefix: `fluent`
 * File: [json/fluent.json](json/fluent.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
@@ -727,7 +736,7 @@
 * URL: https://github.com/tailwindlabs/heroicons
 * License: MIT
 * License URL: https://github.com/tailwindlabs/heroicons/blob/master/LICENSE
-* Version: 2.1.3
+* Version: 2.1.4
 * Palette: Colorless
 * Icon set prefix: `heroicons`
 * File: [json/heroicons.json](json/heroicons.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
@@ -749,7 +758,7 @@
 * URL: https://gitlab.com/gitlab-org/gitlab-svgs/-/tree/main
 * License: MIT
 * License URL: https://gitlab.com/gitlab-org/gitlab-svgs/-/blob/main/LICENSE
-* Version: 3.102.0
+* Version: 3.103.0
 * Palette: Colorless
 * Icon set prefix: `pajamas`
 * File: [json/pajamas.json](json/pajamas.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
@@ -862,6 +871,16 @@
 * Icon set prefix: `ooui`
 * File: [json/ooui.json](json/ooui.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
+## Rivet Icons
+* Number of icons: 210
+* Author: Indiana University
+* URL: https://github.com/indiana-university/rivet-icons
+* License: BSD 3-Clause
+* License URL: https://github.com/indiana-university/rivet-icons/blob/develop/LICENSE
+* Palette: Colorless
+* Icon set prefix: `rivet-icons`
+* File: [json/rivet-icons.json](json/rivet-icons.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
+
 ## Nimbus
 * Number of icons: 140
 * Author: Linkedstore S.A.
@@ -895,12 +914,12 @@
 * File: [json/formkit.json](json/formkit.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Material Line Icons
-* Number of icons: 605
+* Number of icons: 606
 * Author: Vjacheslav Trushkin
 * URL: https://github.com/cyberalien/line-md
 * License: MIT
 * License URL: https://github.com/cyberalien/line-md/blob/master/license.txt
-* Version: 1.0.5
+* Version: 1.0.6
 * Palette: Colorless
 * Icon set prefix: `line-md`
 * File: [json/line-md.json](json/line-md.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
@@ -927,7 +946,7 @@
 * File: [json/svg-spinners.json](json/svg-spinners.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## OpenMoji
-* Number of icons: 4145
+* Number of icons: 4146
 * Author: OpenMoji
 * URL: https://github.com/hfg-gmuend/openmoji
 * License: CC BY-SA 4.0
@@ -1146,7 +1165,7 @@
 * File: [json/file-icons.json](json/file-icons.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Devicon
-* Number of icons: 781
+* Number of icons: 782
 * Author: konpa
 * URL: https://github.com/devicons/devicon/tree/master
 * License: MIT

@@ -21,7 +21,7 @@
 		"category": "General",
 		"palette": false
 	},
-	"lastModified": 1717394691,
+	"lastModified": 1718880575,
 	"icons": {
 		"activity": {
 			"body": "<path fill=\"currentColor\" d=\"M22 2H2v20h20zm-2 2v7h-2.554l-2.021 3.233l-5.865-7.82L5.546 11H4V4zM4 13h2.454L9.44 9.587l6.135 8.18L18.555 13H20v7H4z\"/>"
@@ -583,7 +583,7 @@
 		"chart-bubble": {
 			"body": "<path fill=\"currentColor\" d=\"M4 2v18h18v2H2V2zm12 3a1 1 0 1 0 0 2a1 1 0 0 0 0-2m-3 1a3 3 0 1 1 6 0a3 3 0 0 1-6 0m-3 6a2 2 0 1 0 0 4a2 2 0 0 0 0-4m-4 2a4 4 0 1 1 8 0a4 4 0 0 1-8 0m11 0a2 2 0 1 1 4 0a2 2 0 0 1-4 0\"/>"
 		},
-		"chart-colum": {
+		"chart-column": {
 			"body": "<path fill=\"currentColor\" d=\"M4 2v2h15v6H4v2h11v6H4v2h18v2H2V2zm0 14h9v-2H4zm0-8h13V6H4z\"/>"
 		},
 		"chart-combo": {
@@ -3644,6 +3644,11 @@
 		},
 		"zoom-out": {
 			"body": "<path fill=\"currentColor\" d=\"M15.096 5.904a6.5 6.5 0 1 0-9.192 9.192a6.5 6.5 0 0 0 9.192-9.192M4.49 4.49a8.5 8.5 0 0 1 12.686 11.272l5.345 5.345l-1.414 1.414l-5.345-5.345A8.501 8.501 0 0 1 4.49 4.49M6.5 11.5v-2h8v2z\"/>"
+		}
+	},
+	"aliases": {
+		"chart-colum": {
+			"parent": "chart-column"
 		}
 	},
 	"width": 24,

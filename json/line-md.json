@@ -2,8 +2,8 @@
 	"prefix": "line-md",
 	"info": {
 		"name": "Material Line Icons",
-		"total": 605,
-		"version": "1.0.5",
+		"total": 606,
+		"version": "1.0.6",
 		"author": {
 			"name": "Vjacheslav Trushkin",
 			"url": "https://github.com/cyberalien/line-md"
@@ -22,7 +22,7 @@
 		"category": "Animated Icons",
 		"palette": false
 	},
-	"lastModified": 1711104095,
+	"lastModified": 1718880249,
 	"icons": {
 		"account": {
 			"body": "<g fill=\"none\" stroke=\"currentColor\" stroke-dasharray=\"28\" stroke-dashoffset=\"28\" stroke-linecap=\"round\" stroke-width=\"2\"><path d=\"M4 21V20C4 16.6863 6.68629 14 10 14H14C17.3137 14 20 16.6863 20 20V21\"><animate fill=\"freeze\" attributeName=\"stroke-dashoffset\" dur=\"0.4s\" values=\"28;0\"/></path><path d=\"M12 11C9.79086 11 8 9.20914 8 7C8 4.79086 9.79086 3 12 3C14.2091 3 16 4.79086 16 7C16 9.20914 14.2091 11 12 11Z\"><animate fill=\"freeze\" attributeName=\"stroke-dashoffset\" begin=\"0.5s\" dur=\"0.4s\" values=\"28;0\"/></path></g>"
@@ -832,6 +832,9 @@
 		},
 		"lightbulb-twotone": {
 			"body": "<g fill=\"currentColor\"><path fill-opacity=\"0\" stroke=\"currentColor\" stroke-dasharray=\"46\" stroke-dashoffset=\"46\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" d=\"M12 17H9V14.1973C7.2066 13.1599 6 11.2208 6 9C6 5.68629 8.68629 3 12 3C15.3137 3 18 5.68629 18 9C18 11.2208 16.7934 13.1599 15 14.1973V17z\"><animate fill=\"freeze\" attributeName=\"stroke-dashoffset\" dur=\"0.4s\" values=\"46;0\"/><animate fill=\"freeze\" attributeName=\"fill-opacity\" begin=\"0.7s\" dur=\"0.15s\" values=\"0;0.3\"/></path><rect width=\"6\" height=\"0\" x=\"9\" y=\"20\" rx=\"1\"><animate fill=\"freeze\" attributeName=\"height\" begin=\"0.5s\" dur=\"0.2s\" values=\"0;2\"/></rect></g>"
+		},
+		"link": {
+			"body": "<path fill=\"none\" stroke=\"currentColor\" stroke-dasharray=\"28\" stroke-dashoffset=\"28\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" d=\"M13 6L15 4C16 3 18 3 19 4L20 5C21 6 21 8 20 9L15 14C14 15 12 15 11 14M11 18L9 20C8 21 6 21 5 20L4 19C3 18 3 16 4 15L9 10C10 9 12 9 13 10\"><animate fill=\"freeze\" attributeName=\"stroke-dashoffset\" dur=\"0.6s\" values=\"28;0\"/></path>"
 		},
 		"linkedin": {
 			"body": "<circle cx=\"4\" cy=\"4\" r=\"2\" fill=\"currentColor\" fill-opacity=\"0\"><animate fill=\"freeze\" attributeName=\"fill-opacity\" dur=\"0.4s\" values=\"0;1\"/></circle><g fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-width=\"4\"><path stroke-dasharray=\"12\" stroke-dashoffset=\"12\" d=\"M4 10V20\"><animate fill=\"freeze\" attributeName=\"stroke-dashoffset\" begin=\"0.2s\" dur=\"0.2s\" values=\"12;0\"/></path><path stroke-dasharray=\"12\" stroke-dashoffset=\"12\" d=\"M10 10V20\"><animate fill=\"freeze\" attributeName=\"stroke-dashoffset\" begin=\"0.5s\" dur=\"0.2s\" values=\"12;0\"/></path><path stroke-dasharray=\"24\" stroke-dashoffset=\"24\" d=\"M10 15C10 12.2386 12.2386 10 15 10C17.7614 10 20 12.2386 20 15V20\"><animate fill=\"freeze\" attributeName=\"stroke-dashoffset\" begin=\"0.7s\" dur=\"0.5s\" values=\"24;0\"/></path></g>"
@@ -2381,6 +2384,7 @@
 			"home-simple-twotone",
 			"home-twotone",
 			"home-twotone-alt",
+			"link",
 			"menu",
 			"menu-fold-left",
 			"menu-fold-right",

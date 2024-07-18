@@ -2,7 +2,7 @@
 
 
 ## Material Symbols
-* Number of icons: 13016
+* Number of icons: 13024
 * Author: Google
 * URL: https://github.com/google/material-design-icons
 * License: Apache 2.0
@@ -12,7 +12,7 @@
 * File: [json/material-symbols.json](json/material-symbols.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Material Symbols Light
-* Number of icons: 13083
+* Number of icons: 13091
 * Author: Google
 * URL: https://github.com/google/material-design-icons
 * License: Apache 2.0
@@ -64,12 +64,12 @@
 * File: [json/solar.json](json/solar.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Tabler Icons
-* Number of icons: 5397
+* Number of icons: 5450
 * Author: Paweł Kuna
 * URL: https://github.com/tabler/tabler-icons
 * License: MIT
 * License URL: https://github.com/tabler/tabler-icons/blob/master/LICENSE
-* Version: 3.10.0
+* Version: 3.11.0
 * Palette: Colorless
 * Icon set prefix: `tabler`
 * File: [json/tabler.json](json/tabler.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
@@ -709,17 +709,6 @@
 * Icon set prefix: `icon-park`
 * File: [json/icon-park.json](json/icon-park.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
-## VSCode Icons
-* Number of icons: 1292
-* Author: Roberto Huertas
-* URL: https://github.com/vscode-icons/vscode-icons
-* License: MIT
-* License URL: https://github.com/vscode-icons/vscode-icons/blob/master/LICENSE
-* Version: 12.8.0
-* Palette: Colorful
-* Icon set prefix: `vscode-icons`
-* File: [json/vscode-icons.json](json/vscode-icons.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
-
 ## Jam Icons
 * Number of icons: 940
 * Author: Michael Amprimo
@@ -741,24 +730,13 @@
 * Icon set prefix: `heroicons`
 * File: [json/heroicons.json](json/heroicons.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
-## Codicons
-* Number of icons: 460
-* Author: Microsoft Corporation
-* URL: https://github.com/microsoft/vscode-codicons
-* License: CC BY 4.0
-* License URL: https://github.com/microsoft/vscode-codicons/blob/main/LICENSE
-* Version: 0.0.36
-* Palette: Colorless
-* Icon set prefix: `codicon`
-* File: [json/codicon.json](json/codicon.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
-
 ## Gitlab SVGs
 * Number of icons: 378
 * Author: GitLab B.V.
 * URL: https://gitlab.com/gitlab-org/gitlab-svgs/-/tree/main
 * License: MIT
 * License URL: https://gitlab.com/gitlab-org/gitlab-svgs/-/blob/main/LICENSE
-* Version: 3.105.0
+* Version: 3.107.0
 * Palette: Colorless
 * Icon set prefix: `pajamas`
 * File: [json/pajamas.json](json/pajamas.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
@@ -839,12 +817,12 @@
 * File: [json/guidance.json](json/guidance.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Font Awesome Solid
-* Number of icons: 1392
+* Number of icons: 1395
 * Author: Dave Gandy
 * URL: https://github.com/FortAwesome/Font-Awesome
 * License: CC BY 4.0
 * License URL: https://creativecommons.org/licenses/by/4.0/
-* Version: 6.5.2
+* Version: 6.6.0
 * Palette: Colorless
 * Icon set prefix: `fa6-solid`
 * File: [json/fa6-solid.json](json/fa6-solid.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
@@ -855,7 +833,7 @@
 * URL: https://github.com/FortAwesome/Font-Awesome
 * License: CC BY 4.0
 * License URL: https://creativecommons.org/licenses/by/4.0/
-* Version: 6.5.2
+* Version: 6.6.0
 * Palette: Colorless
 * Icon set prefix: `fa6-regular`
 * File: [json/fa6-regular.json](json/fa6-regular.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
@@ -1113,12 +1091,12 @@
 * File: [json/cib.json](json/cib.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Font Awesome Brands
-* Number of icons: 490
+* Number of icons: 492
 * Author: Dave Gandy
 * URL: https://github.com/FortAwesome/Font-Awesome
 * License: CC BY 4.0
 * License URL: https://creativecommons.org/licenses/by/4.0/
-* Version: 6.5.2
+* Version: 6.6.0
 * Palette: Colorless
 * Icon set prefix: `fa6-brands`
 * File: [json/fa6-brands.json](json/fa6-brands.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
@@ -1145,7 +1123,7 @@
 * File: [json/arcticons.json](json/arcticons.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Custom Brand Icons
-* Number of icons: 1196
+* Number of icons: 1220
 * Author: Emanuele & rchiileea
 * URL: https://github.com/elax46/custom-brand-icons
 * License: CC BY-NC-SA 4.0
@@ -1153,55 +1131,6 @@
 * Palette: Colorless
 * Icon set prefix: `cbi`
 * File: [json/cbi.json](json/cbi.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
-
-## File Icons
-* Number of icons: 930
-* Author: John Gardner
-* URL: https://github.com/file-icons/icons
-* License: ISC
-* License URL: https://github.com/file-icons/icons/blob/master/LICENSE.md
-* Palette: Colorless
-* Icon set prefix: `file-icons`
-* File: [json/file-icons.json](json/file-icons.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
-
-## Devicon
-* Number of icons: 786
-* Author: konpa
-* URL: https://github.com/devicons/devicon/tree/master
-* License: MIT
-* License URL: https://github.com/devicons/devicon/blob/master/LICENSE
-* Palette: Colorful
-* Icon set prefix: `devicon`
-* File: [json/devicon.json](json/devicon.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
-
-## Devicon Plain
-* Number of icons: 588
-* Author: konpa
-* URL: https://github.com/devicons/devicon/tree/master
-* License: MIT
-* License URL: https://github.com/devicons/devicon/blob/master/LICENSE
-* Palette: Colorless
-* Icon set prefix: `devicon-plain`
-* File: [json/devicon-plain.json](json/devicon-plain.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
-
-## Skill Icons
-* Number of icons: 397
-* Author: tandpfun
-* URL: https://github.com/tandpfun/skill-icons
-* License: MIT
-* License URL: https://github.com/tandpfun/skill-icons/blob/main/LICENSE
-* Palette: Colorful
-* Icon set prefix: `skill-icons`
-* File: [json/skill-icons.json](json/skill-icons.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
-
-## UnJS Logos
-* Number of icons: 63
-* Author: UnJS
-* URL: https://github.com/unjs
-* License: Apache 2.0
-* Palette: Colorful
-* Icon set prefix: `unjs`
-* File: [json/unjs.json](json/unjs.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Brandico
 * Number of icons: 45
@@ -1343,6 +1272,87 @@
 * Palette: Colorless
 * Icon set prefix: `geo`
 * File: [json/geo.json](json/geo.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
+
+## VSCode Icons
+* Number of icons: 1292
+* Author: Roberto Huertas
+* URL: https://github.com/vscode-icons/vscode-icons
+* License: MIT
+* License URL: https://github.com/vscode-icons/vscode-icons/blob/master/LICENSE
+* Version: 12.8.0
+* Palette: Colorful
+* Icon set prefix: `vscode-icons`
+* File: [json/vscode-icons.json](json/vscode-icons.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
+
+## Codicons
+* Number of icons: 460
+* Author: Microsoft Corporation
+* URL: https://github.com/microsoft/vscode-codicons
+* License: CC BY 4.0
+* License URL: https://github.com/microsoft/vscode-codicons/blob/main/LICENSE
+* Version: 0.0.36
+* Palette: Colorless
+* Icon set prefix: `codicon`
+* File: [json/codicon.json](json/codicon.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
+
+## File Icons
+* Number of icons: 930
+* Author: John Gardner
+* URL: https://github.com/file-icons/icons
+* License: ISC
+* License URL: https://github.com/file-icons/icons/blob/master/LICENSE.md
+* Palette: Colorless
+* Icon set prefix: `file-icons`
+* File: [json/file-icons.json](json/file-icons.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
+
+## Devicon
+* Number of icons: 786
+* Author: konpa
+* URL: https://github.com/devicons/devicon/tree/master
+* License: MIT
+* License URL: https://github.com/devicons/devicon/blob/master/LICENSE
+* Palette: Colorful
+* Icon set prefix: `devicon`
+* File: [json/devicon.json](json/devicon.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
+
+## Devicon Plain
+* Number of icons: 588
+* Author: konpa
+* URL: https://github.com/devicons/devicon/tree/master
+* License: MIT
+* License URL: https://github.com/devicons/devicon/blob/master/LICENSE
+* Palette: Colorless
+* Icon set prefix: `devicon-plain`
+* File: [json/devicon-plain.json](json/devicon-plain.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
+
+## Catppuccin Icons
+* Number of icons: 508
+* Author: Catppuccin
+* URL: https://github.com/catppuccin/vscode-icons
+* License: MIT
+* License URL: https://github.com/catppuccin/vscode-icons/blob/main/LICENSE
+* Palette: Colorful
+* Icon set prefix: `catppuccin`
+* File: [json/catppuccin.json](json/catppuccin.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
+
+## Skill Icons
+* Number of icons: 397
+* Author: tandpfun
+* URL: https://github.com/tandpfun/skill-icons
+* License: MIT
+* License URL: https://github.com/tandpfun/skill-icons/blob/main/LICENSE
+* Palette: Colorful
+* Icon set prefix: `skill-icons`
+* File: [json/skill-icons.json](json/skill-icons.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
+
+## UnJS Logos
+* Number of icons: 63
+* Author: UnJS
+* URL: https://github.com/unjs
+* License: Apache 2.0
+* Palette: Colorful
+* Icon set prefix: `unjs`
+* File: [json/unjs.json](json/unjs.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Game Icons
 * Number of icons: 4102

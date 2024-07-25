@@ -158,7 +158,7 @@
 * File: [json/ion.json](json/ion.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Lucide
-* Number of icons: 1489
+* Number of icons: 1508
 * Author: Lucide Contributors
 * URL: https://github.com/lucide-icons/lucide
 * License: ISC
@@ -300,8 +300,8 @@
 * Number of icons: 554
 * Author: creativeLabs Łukasz Holeczek
 * URL: https://github.com/coreui/coreui-icons
-* License: CC0 1.0
-* License URL: https://creativecommons.org/publicdomain/zero/1.0/
+* License: CC BY 4.0
+* License URL: https://creativecommons.org/licenses/by/4.0/
 * Version: 2.0.1
 * Palette: Colorless
 * Icon set prefix: `cil`
@@ -731,12 +731,12 @@
 * File: [json/heroicons.json](json/heroicons.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Gitlab SVGs
-* Number of icons: 378
+* Number of icons: 380
 * Author: GitLab B.V.
 * URL: https://gitlab.com/gitlab-org/gitlab-svgs/-/tree/main
 * License: MIT
 * License URL: https://gitlab.com/gitlab-org/gitlab-svgs/-/blob/main/LICENSE
-* Version: 3.108.0
+* Version: 3.110.0
 * Palette: Colorless
 * Icon set prefix: `pajamas`
 * File: [json/pajamas.json](json/pajamas.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
@@ -1069,12 +1069,12 @@
 * File: [json/logos.json](json/logos.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Simple Icons
-* Number of icons: 3153
+* Number of icons: 3157
 * Author: Simple Icons Collaborators
 * URL: https://github.com/simple-icons/simple-icons
 * License: CC0 1.0
 * License URL: https://github.com/simple-icons/simple-icons/blob/develop/LICENSE.md
-* Version: 13.1.0
+* Version: 13.2.0
 * Palette: Colorless
 * Icon set prefix: `simple-icons`
 * File: [json/simple-icons.json](json/simple-icons.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
@@ -1233,8 +1233,8 @@
 * Number of icons: 199
 * Author: creativeLabs Łukasz Holeczek
 * URL: https://github.com/coreui/coreui-icons
-* License: CC BY 4.0
-* License URL: https://creativecommons.org/licenses/by/4.0/
+* License: CC0 1.0
+* License URL: https://creativecommons.org/publicdomain/zero/1.0/
 * Version: 2.0.1
 * Palette: Colorful
 * Icon set prefix: `cif`

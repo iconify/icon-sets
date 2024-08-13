@@ -1152,23 +1152,23 @@
 * Icon set prefix: `entypo-social`
 * File: [json/entypo-social.json](json/entypo-social.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
-## Token Icons
+## Web3 Icons
 * Number of icons: 1686
 * Author: 0xa3k5
-* URL: https://github.com/0xa3k5/token-icons
+* URL: https://github.com/0xa3k5/web3icons
 * License: MIT
-* License URL: https://github.com/0xa3k5/token-icons/blob/main/LICENCE
+* License URL: https://github.com/0xa3k5/web3icons/blob/main/LICENCE
 * Version: 3.2.1
 * Palette: Colorless
 * Icon set prefix: `token`
 * File: [json/token.json](json/token.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
-## Token Icons Branded
+## Web3 Icons Branded
 * Number of icons: 1870
 * Author: 0xa3k5
-* URL: https://github.com/0xa3k5/token-icons
+* URL: https://github.com/0xa3k5/web3icons
 * License: MIT
-* License URL: https://github.com/0xa3k5/token-icons/blob/main/LICENCE
+* License URL: https://github.com/0xa3k5/web3icons/blob/main/LICENCE
 * Version: 3.2.1
 * Palette: Colorful
 * Icon set prefix: `token-branded`

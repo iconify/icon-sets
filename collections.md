@@ -167,6 +167,16 @@
 * Icon set prefix: `lucide`
 * File: [json/lucide.json](json/lucide.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
+## Lucide Lab
+* Number of icons: 373
+* Author: Lucide Contributors
+* URL: https://github.com/lucide-icons/lucide-lab
+* License: ISC
+* License URL: https://github.com/lucide-icons/lucide-lab/blob/main/LICENSE
+* Palette: Colorless
+* Icon set prefix: `lucide-lab`
+* File: [json/lucide-lab.json](json/lucide-lab.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
+
 ## Unicons
 * Number of icons: 1206
 * Author: Iconscout
@@ -655,12 +665,12 @@
 * File: [json/marketeq.json](json/marketeq.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Fluent UI System Icons
-* Number of icons: 16535
+* Number of icons: 16570
 * Author: Microsoft Corporation
 * URL: https://github.com/microsoft/fluentui-system-icons
 * License: MIT
 * License URL: https://github.com/microsoft/fluentui-system-icons/blob/main/LICENSE
-* Version: 1.1.254
+* Version: 1.1.255
 * Palette: Colorless
 * Icon set prefix: `fluent`
 * File: [json/fluent.json](json/fluent.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
@@ -892,12 +902,12 @@
 * File: [json/formkit.json](json/formkit.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Material Line Icons
-* Number of icons: 606
+* Number of icons: 1021
 * Author: Vjacheslav Trushkin
 * URL: https://github.com/cyberalien/line-md
 * License: MIT
 * License URL: https://github.com/cyberalien/line-md/blob/master/license.txt
-* Version: 1.0.6
+* Version: 2.0.0
 * Palette: Colorless
 * Icon set prefix: `line-md`
 * File: [json/line-md.json](json/line-md.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))

@@ -64,12 +64,12 @@
 * File: [json/solar.json](json/solar.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Tabler Icons
-* Number of icons: 5467
+* Number of icons: 5556
 * Author: Paweł Kuna
 * URL: https://github.com/tabler/tabler-icons
 * License: MIT
 * License URL: https://github.com/tabler/tabler-icons/blob/master/LICENSE
-* Version: 3.12.0
+* Version: 3.14.0
 * Palette: Colorless
 * Icon set prefix: `tabler`
 * File: [json/tabler.json](json/tabler.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
@@ -269,7 +269,7 @@
 * URL: https://github.com/astrit/css.gg
 * License: MIT
 * License URL: https://github.com/astrit/css.gg/blob/master/LICENSE
-* Version: 2.1.1
+* Version: 2.1.4
 * Palette: Colorless
 * Icon set prefix: `gg`
 * File: [json/gg.json](json/gg.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
@@ -328,7 +328,7 @@
 * File: [json/flowbite.json](json/flowbite.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Myna UI Icons
-* Number of icons: 1092
+* Number of icons: 1100
 * Author: Praveen Juge
 * URL: https://github.com/praveenjuge/mynaui-icons
 * License: MIT
@@ -670,7 +670,7 @@
 * URL: https://github.com/microsoft/fluentui-system-icons
 * License: MIT
 * License URL: https://github.com/microsoft/fluentui-system-icons/blob/main/LICENSE
-* Version: 1.1.255
+* Version: 1.1.256
 * Palette: Colorless
 * Icon set prefix: `fluent`
 * File: [json/fluent.json](json/fluent.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
@@ -902,12 +902,12 @@
 * File: [json/formkit.json](json/formkit.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Material Line Icons
-* Number of icons: 1021
+* Number of icons: 1082
 * Author: Vjacheslav Trushkin
 * URL: https://github.com/cyberalien/line-md
 * License: MIT
 * License URL: https://github.com/cyberalien/line-md/blob/master/license.txt
-* Version: 2.0.0
+* Version: 2.0.1
 * Palette: Colorless
 * Icon set prefix: `line-md`
 * File: [json/line-md.json](json/line-md.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
@@ -1079,12 +1079,12 @@
 * File: [json/logos.json](json/logos.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Simple Icons
-* Number of icons: 3162
+* Number of icons: 3165
 * Author: Simple Icons Collaborators
 * URL: https://github.com/simple-icons/simple-icons
 * License: CC0 1.0
 * License URL: https://github.com/simple-icons/simple-icons/blob/develop/LICENSE.md
-* Version: 13.6.0
+* Version: 13.7.0
 * Palette: Colorless
 * Icon set prefix: `simple-icons`
 * File: [json/simple-icons.json](json/simple-icons.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
@@ -1316,7 +1316,7 @@
 * File: [json/file-icons.json](json/file-icons.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Devicon
-* Number of icons: 787
+* Number of icons: 788
 * Author: konpa
 * URL: https://github.com/devicons/devicon/tree/master
 * License: MIT
@@ -1326,7 +1326,7 @@
 * File: [json/devicon.json](json/devicon.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Devicon Plain
-* Number of icons: 589
+* Number of icons: 590
 * Author: konpa
 * URL: https://github.com/devicons/devicon/tree/master
 * License: MIT

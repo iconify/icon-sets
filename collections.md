@@ -2,7 +2,7 @@
 
 
 ## Material Symbols
-* Number of icons: 13130
+* Number of icons: 13161
 * Author: Google
 * URL: https://github.com/google/material-design-icons
 * License: Apache 2.0
@@ -12,7 +12,7 @@
 * File: [json/material-symbols.json](json/material-symbols.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Material Symbols Light
-* Number of icons: 13197
+* Number of icons: 13228
 * Author: Google
 * URL: https://github.com/google/material-design-icons
 * License: Apache 2.0
@@ -902,12 +902,12 @@
 * File: [json/formkit.json](json/formkit.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Material Line Icons
-* Number of icons: 1082
+* Number of icons: 1085
 * Author: Vjacheslav Trushkin
 * URL: https://github.com/cyberalien/line-md
 * License: MIT
 * License URL: https://github.com/cyberalien/line-md/blob/master/license.txt
-* Version: 2.0.1
+* Version: 2.0.2
 * Palette: Colorless
 * Icon set prefix: `line-md`
 * File: [json/line-md.json](json/line-md.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))

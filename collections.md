@@ -64,12 +64,12 @@
 * File: [json/solar.json](json/solar.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Tabler Icons
-* Number of icons: 5628
+* Number of icons: 5664
 * Author: Paweł Kuna
 * URL: https://github.com/tabler/tabler-icons
 * License: MIT
 * License URL: https://github.com/tabler/tabler-icons/blob/master/LICENSE
-* Version: 3.17.0
+* Version: 3.19.0
 * Palette: Colorless
 * Icon set prefix: `tabler`
 * File: [json/tabler.json](json/tabler.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
@@ -120,7 +120,7 @@
 * Author: IBM
 * URL: https://github.com/carbon-design-system/carbon/tree/main/packages/icons
 * License: Apache 2.0
-* Version: 11.49.0
+* Version: 11.50.0
 * Palette: Colorless
 * Icon set prefix: `carbon`
 * File: [json/carbon.json](json/carbon.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
@@ -379,6 +379,17 @@
 * Icon set prefix: `ci`
 * File: [json/ci.json](json/ci.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
+## ProIcons
+* Number of icons: 431
+* Author: ProCode
+* URL: https://github.com/ProCode-Software/proicons
+* License: MIT
+* License URL: https://github.com/ProCode-Software/proicons/blob/main/LICENSE
+* Version: 4.9.0
+* Palette: Colorless
+* Icon set prefix: `proicons`
+* File: [json/proicons.json](json/proicons.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
+
 ## System UIcons
 * Number of icons: 430
 * Author: Corey Ginnivan
@@ -615,6 +626,17 @@
 * Icon set prefix: `quill`
 * File: [json/quill.json](json/quill.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
+## Duoicons
+* Number of icons: 91
+* Author: fernandcf
+* URL: https://github.com/fazdiu/duo-icons
+* License: MIT
+* License URL: https://github.com/fazdiu/duo-icons/blob/master/LICENSE
+* Version: 1.1.4
+* Palette: Colorless
+* Icon set prefix: `duo-icons`
+* File: [json/duo-icons.json](json/duo-icons.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
+
 ## Gala Icons
 * Number of icons: 51
 * Author: Jake Wells
@@ -665,12 +687,12 @@
 * File: [json/marketeq.json](json/marketeq.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Fluent UI System Icons
-* Number of icons: 16621
+* Number of icons: 16753
 * Author: Microsoft Corporation
 * URL: https://github.com/microsoft/fluentui-system-icons
 * License: MIT
 * License URL: https://github.com/microsoft/fluentui-system-icons/blob/main/LICENSE
-* Version: 1.1.258
+* Version: 1.1.259
 * Palette: Colorless
 * Icon set prefix: `fluent`
 * File: [json/fluent.json](json/fluent.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
@@ -1123,7 +1145,7 @@
 * File: [json/nonicons.json](json/nonicons.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Arcticons
-* Number of icons: 10399
+* Number of icons: 10844
 * Author: Donnnno
 * URL: https://github.com/Arcticons-Team/Arcticons
 * License: CC BY-SA 4.0
@@ -1385,7 +1407,7 @@
 * File: [json/fad.json](json/fad.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Academicons
-* Number of icons: 157
+* Number of icons: 158
 * Author: James Walsh
 * URL: https://github.com/jpswalsh/academicons
 * License: Open Font License

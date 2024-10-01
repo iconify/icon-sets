@@ -2,7 +2,7 @@
 
 
 ## Material Symbols
-* Number of icons: 13161
+* Number of icons: 13287
 * Author: Google
 * URL: https://github.com/google/material-design-icons
 * License: Apache 2.0
@@ -12,7 +12,7 @@
 * File: [json/material-symbols.json](json/material-symbols.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Material Symbols Light
-* Number of icons: 13228
+* Number of icons: 13354
 * Author: Google
 * URL: https://github.com/google/material-design-icons
 * License: Apache 2.0
@@ -1091,7 +1091,7 @@
 * File: [json/bxl.json](json/bxl.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## SVG Logos
-* Number of icons: 1822
+* Number of icons: 1825
 * Author: Gil Barbara
 * URL: https://github.com/gilbarbara/logos
 * License: CC0
@@ -1101,12 +1101,12 @@
 * File: [json/logos.json](json/logos.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Simple Icons
-* Number of icons: 3205
+* Number of icons: 3209
 * Author: Simple Icons Collaborators
 * URL: https://github.com/simple-icons/simple-icons
 * License: CC0 1.0
 * License URL: https://github.com/simple-icons/simple-icons/blob/develop/LICENSE.md
-* Version: 13.11.0
+* Version: 13.12.0
 * Palette: Colorless
 * Icon set prefix: `simple-icons`
 * File: [json/simple-icons.json](json/simple-icons.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))

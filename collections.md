@@ -120,7 +120,7 @@
 * Author: IBM
 * URL: https://github.com/carbon-design-system/carbon/tree/main/packages/icons
 * License: Apache 2.0
-* Version: 11.50.0
+* Version: 11.50.1
 * Palette: Colorless
 * Icon set prefix: `carbon`
 * File: [json/carbon.json](json/carbon.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
@@ -262,6 +262,16 @@
 * Palette: Colorless
 * Icon set prefix: `ant-design`
 * File: [json/ant-design.json](json/ant-design.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
+
+## Lsicon
+* Number of icons: 716
+* Author: Faure Wu
+* URL: https://www.figma.com/community/file/1411589715699221517/lsicon
+* License: MIT
+* License URL: https://github.com/wisdesignsystem/lsicon/blob/main/LICENSE
+* Palette: Colorless
+* Icon set prefix: `lsicon`
+* File: [json/lsicon.json](json/lsicon.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## css.gg
 * Number of icons: 704
@@ -607,6 +617,17 @@
 * Icon set prefix: `mi`
 * File: [json/mi.json](json/mi.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
+## Cuida Icons
+* Number of icons: 164
+* Author: Sysvale
+* URL: https://github.com/Sysvale/cuida-icons
+* License: Apache 2.0
+* License URL: https://github.com/Sysvale/cuida-icons/blob/main/LICENSE
+* Version: 1.15.1
+* Palette: Colorless
+* Icon set prefix: `cuida`
+* File: [json/cuida.json](json/cuida.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
+
 ## WeUI Icon
 * Number of icons: 162
 * Author: WeUI
@@ -692,10 +713,21 @@
 * URL: https://github.com/microsoft/fluentui-system-icons
 * License: MIT
 * License URL: https://github.com/microsoft/fluentui-system-icons/blob/main/LICENSE
-* Version: 1.1.259
+* Version: 1.1.260
 * Palette: Colorless
 * Icon set prefix: `fluent`
 * File: [json/fluent.json](json/fluent.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
+
+## Fluent UI System Color Icons
+* Number of icons: 311
+* Author: Microsoft Corporation
+* URL: https://github.com/microsoft/fluentui-system-icons
+* License: MIT
+* License URL: https://github.com/microsoft/fluentui-system-icons/blob/main/LICENSE
+* Version: 1.1.260
+* Palette: Colorful
+* Icon set prefix: `fluent-color`
+* File: [json/fluent-color.json](json/fluent-color.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## IconPark Outline
 * Number of icons: 2658
@@ -986,7 +1018,7 @@
 * File: [json/noto.json](json/noto.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Fluent Emoji
-* Number of icons: 2961
+* Number of icons: 3126
 * Author: Microsoft Corporation
 * URL: https://github.com/microsoft/fluentui-emoji
 * License: MIT
@@ -996,7 +1028,7 @@
 * File: [json/fluent-emoji.json](json/fluent-emoji.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Fluent Emoji Flat
-* Number of icons: 2980
+* Number of icons: 3145
 * Author: Microsoft Corporation
 * URL: https://github.com/microsoft/fluentui-emoji
 * License: MIT
@@ -1006,7 +1038,7 @@
 * File: [json/fluent-emoji-flat.json](json/fluent-emoji-flat.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Fluent Emoji High Contrast
-* Number of icons: 1545
+* Number of icons: 1595
 * Author: Microsoft Corporation
 * URL: https://github.com/microsoft/fluentui-emoji
 * License: MIT
@@ -1091,7 +1123,7 @@
 * File: [json/bxl.json](json/bxl.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## SVG Logos
-* Number of icons: 1825
+* Number of icons: 1838
 * Author: Gil Barbara
 * URL: https://github.com/gilbarbara/logos
 * License: CC0
@@ -1190,7 +1222,7 @@
 * URL: https://github.com/0xa3k5/web3icons
 * License: MIT
 * License URL: https://github.com/0xa3k5/web3icons/blob/main/LICENCE
-* Version: 3.6.1
+* Version: 3.6.2
 * Palette: Colorless
 * Icon set prefix: `token`
 * File: [json/token.json](json/token.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
@@ -1201,7 +1233,7 @@
 * URL: https://github.com/0xa3k5/web3icons
 * License: MIT
 * License URL: https://github.com/0xa3k5/web3icons/blob/main/LICENCE
-* Version: 3.6.1
+* Version: 3.6.2
 * Palette: Colorful
 * Icon set prefix: `token-branded`
 * File: [json/token-branded.json](json/token-branded.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
@@ -1338,7 +1370,7 @@
 * File: [json/file-icons.json](json/file-icons.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Devicon
-* Number of icons: 790
+* Number of icons: 791
 * Author: konpa
 * URL: https://github.com/devicons/devicon/tree/master
 * License: MIT

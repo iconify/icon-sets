@@ -3,7 +3,7 @@
 	"info": {
 		"name": "ProIcons",
 		"total": 431,
-		"version": "4.9.0",
+		"version": "4.10.0",
 		"author": {
 			"name": "ProCode",
 			"url": "https://github.com/ProCode-Software/proicons"
@@ -25,7 +25,7 @@
 		"category": "General",
 		"palette": false
 	},
-	"lastModified": 1727504093,
+	"lastModified": 1728278484,
 	"icons": {
 		"accessibility": {
 			"body": "<g fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"1.5\"><path d=\"M6.867 5.543a1.58 1.58 0 0 0-2.155.576a1.57 1.57 0 0 0 .577 2.15l2.63 1.515a1 1 0 0 1 .5.866v3.536a1 1 0 0 1-.134.5l-2.408 4.162a1.57 1.57 0 0 0 .577 2.15a1.58 1.58 0 0 0 2.156-.576l3.258-5.629h.258l3.258 5.629a1.58 1.58 0 0 0 2.156.576a1.57 1.57 0 0 0 .577-2.15l-2.402-4.15a1 1 0 0 1-.135-.502V10.65a1 1 0 0 1 .501-.866l2.63-1.514a1.57 1.57 0 0 0 .577-2.15a1.58 1.58 0 0 0-2.155-.577l-3.636 2.094a3 3 0 0 1-2.994 0z\"/><path d=\"M14.623 5.414a2.623 2.623 0 1 1-5.246 0a2.623 2.623 0 0 1 5.246 0\"/></g>"
@@ -144,6 +144,9 @@
 		"arrow-left": {
 			"body": "<path fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"1.5\" d=\"M20 12H4.121m6.129 6.75l-5.69-5.69A1.5 1.5 0 0 1 4.122 12m6.129-6.75l-5.69 5.69A1.5 1.5 0 0 0 4.122 12\"/>"
 		},
+		"arrow-left-right": {
+			"body": "<path fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"1.5\" d=\"m16.25 17l3.94-3.94c.292-.292.439-.676.439-1.06M16.25 7l3.94 3.94c.292.292.439.676.439 1.06M7.75 17l-3.94-3.94A1.5 1.5 0 0 1 3.372 12M7.75 7l-3.94 3.94A1.5 1.5 0 0 0 3.371 12m0 0H20.63\"/>"
+		},
 		"arrow-maximize": {
 			"body": "<path fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"1.5\" d=\"M3.75 12.75v6c0 .414.168.79.44 1.06m7.06.44h-6a1.5 1.5 0 0 1-1.06-.44m16.06-8.56v-6c0-.414-.168-.79-.44-1.06m-7.06-.44h6c.414 0 .79.168 1.06.44M4.19 19.81l.56-.56l14.5-14.5l.56-.56\"/>"
 		},
@@ -197,9 +200,6 @@
 		},
 		"arrow-up-down": {
 			"body": "<path fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"1.5\" d=\"m7 16.25l3.94 3.94c.292.292.676.439 1.06.439m5-4.379l-3.94 3.94a1.5 1.5 0 0 1-1.06.439M7 7.75l3.94-3.94A1.5 1.5 0 0 1 12 3.371m5 4.379l-3.94-3.94A1.5 1.5 0 0 0 12 3.372m0 0V20.63\"/>"
-		},
-		"arrow-up-down-1": {
-			"body": "<path fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"1.5\" d=\"m16.25 17l3.94-3.94c.292-.292.439-.676.439-1.06M16.25 7l3.94 3.94c.292.292.439.676.439 1.06M7.75 17l-3.94-3.94A1.5 1.5 0 0 1 3.372 12M7.75 7l-3.94 3.94A1.5 1.5 0 0 0 3.371 12m0 0H20.63\"/>"
 		},
 		"arrow-upload": {
 			"body": "<path fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"1.5\" d=\"M12 16.349V3.87M6.118 9.132l4.821-4.821c.293-.293.677-.44 1.061-.44m5.882 5.261l-4.821-4.821A1.5 1.5 0 0 0 12 3.87m8.75 12.645v.935a3.3 3.3 0 0 1-3.3 3.3H6.55a3.3 3.3 0 0 1-3.3-3.3v-.935\"/>"
@@ -873,9 +873,6 @@
 		"panel-left-open": {
 			"body": "<g fill=\"none\"><path fill=\"currentColor\" d=\"M16.75 3.75a3.5 3.5 0 0 1 3.5 3.5v9.5a3.5 3.5 0 0 1-3.5 3.5h-2.297V3.75z\"/><path stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"1.5\" d=\"M14.453 3.75h2.297a3.5 3.5 0 0 1 3.5 3.5v9.5a3.5 3.5 0 0 1-3.5 3.5h-2.297m0-16.5H7.25a3.5 3.5 0 0 0-3.5 3.5v9.5a3.5 3.5 0 0 0 3.5 3.5h7.203m0-16.5v16.5\"/></g>"
 		},
-		"panel-left-open-1": {
-			"body": "<g fill=\"none\"><path fill=\"currentColor\" d=\"M7.25 3.75a3.5 3.5 0 0 0-3.5 3.5v9.5a3.5 3.5 0 0 0 3.5 3.5h2.297V3.75z\"/><path stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"1.5\" d=\"M9.547 3.75H7.25a3.5 3.5 0 0 0-3.5 3.5v9.5a3.5 3.5 0 0 0 3.5 3.5h2.297m0-16.5h7.203a3.5 3.5 0 0 1 3.5 3.5v9.5a3.5 3.5 0 0 1-3.5 3.5H9.547m0-16.5v16.5\"/></g>"
-		},
 		"panel-right": {
 			"body": "<path fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"1.5\" d=\"M14.453 3.75h2.297a3.5 3.5 0 0 1 3.5 3.5v9.5a3.5 3.5 0 0 1-3.5 3.5h-2.297m0-16.5H7.25a3.5 3.5 0 0 0-3.5 3.5v9.5a3.5 3.5 0 0 0 3.5 3.5h7.203m0-16.5v16.5\"/>"
 		},
@@ -884,6 +881,9 @@
 		},
 		"panel-right-expand": {
 			"body": "<path fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"1.5\" d=\"M14.75 4.75h3.5a3 3 0 0 1 3 3v8.5a3 3 0 0 1-3 3h-3.5m0-14.5h-9a3 3 0 0 0-3 3v8.5a3 3 0 0 0 3 3h9m0-14.5v14.5m-6.14-5L6.4 12m0 0l2.21-2.25M6.4 12h4.7\"/>"
+		},
+		"panel-right-open": {
+			"body": "<g fill=\"none\"><path fill=\"currentColor\" d=\"M7.25 3.75a3.5 3.5 0 0 0-3.5 3.5v9.5a3.5 3.5 0 0 0 3.5 3.5h2.297V3.75z\"/><path stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"1.5\" d=\"M9.547 3.75H7.25a3.5 3.5 0 0 0-3.5 3.5v9.5a3.5 3.5 0 0 0 3.5 3.5h2.297m0-16.5h7.203a3.5 3.5 0 0 1 3.5 3.5v9.5a3.5 3.5 0 0 1-3.5 3.5H9.547m0-16.5v16.5\"/></g>"
 		},
 		"pause": {
 			"body": "<g fill=\"none\" stroke=\"currentColor\" stroke-linejoin=\"round\" stroke-width=\"1.5\"><rect width=\"5\" height=\"16.5\" x=\"5\" y=\"3.75\" rx=\"2\"/><rect width=\"5\" height=\"16.5\" x=\"14\" y=\"3.75\" rx=\"2\"/></g>"
@@ -1319,6 +1319,14 @@
 		},
 		"zoom-out": {
 			"body": "<g fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"1.5\"><path d=\"M7.56 10.56h6m1.993 4.993a7.06 7.06 0 1 0-9.985-9.985a7.06 7.06 0 0 0 9.985 9.985m0 0L20 20\"/><path d=\"M15.553 5.568a7.06 7.06 0 1 1-9.985 9.985a7.06 7.06 0 0 1 9.985-9.985\"/></g>"
+		}
+	},
+	"aliases": {
+		"arrow-up-down-1": {
+			"parent": "arrow-left-right"
+		},
+		"panel-left-open-1": {
+			"parent": "panel-right-open"
 		}
 	},
 	"width": 24,

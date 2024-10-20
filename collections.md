@@ -2,7 +2,7 @@
 
 
 ## Material Symbols
-* Number of icons: 13349
+* Number of icons: 13460
 * Author: Google
 * URL: https://github.com/google/material-design-icons
 * License: Apache 2.0
@@ -12,7 +12,7 @@
 * File: [json/material-symbols.json](json/material-symbols.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Material Symbols Light
-* Number of icons: 13416
+* Number of icons: 13527
 * Author: Google
 * URL: https://github.com/google/material-design-icons
 * License: Apache 2.0
@@ -293,7 +293,7 @@
 * File: [json/ci.json](json/ci.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## ProIcons
-* Number of icons: 431
+* Number of icons: 446
 * Author: ProCode
 * URL: https://github.com/ProCode-Software/proicons
 * License: MIT
@@ -966,7 +966,7 @@
 * File: [json/ooui.json](json/ooui.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## OpenSearch UI
-* Number of icons: 393
+* Number of icons: 401
 * Author: OpenSearch Contributors
 * URL: https://github.com/opensearch-project/oui
 * License: Apache 2.0
@@ -1093,7 +1093,7 @@
 * URL: https://github.com/simple-icons/simple-icons
 * License: CC0 1.0
 * License URL: https://github.com/simple-icons/simple-icons/blob/develop/LICENSE.md
-* Version: 13.14.0
+* Version: 13.14.1
 * Palette: Colorless
 * Icon set prefix: `simple-icons`
 * File: [json/simple-icons.json](json/simple-icons.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
@@ -1193,23 +1193,23 @@
 * File: [json/entypo-social.json](json/entypo-social.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Web3 Icons
-* Number of icons: 1717
+* Number of icons: 1721
 * Author: 0xa3k5
 * URL: https://github.com/0xa3k5/web3icons
 * License: MIT
 * License URL: https://github.com/0xa3k5/web3icons/blob/main/LICENCE
-* Version: 3.7.1
+* Version: 3.8.0
 * Palette: Colorless
 * Icon set prefix: `token`
 * File: [json/token.json](json/token.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Web3 Icons Branded
-* Number of icons: 1905
+* Number of icons: 1909
 * Author: 0xa3k5
 * URL: https://github.com/0xa3k5/web3icons
 * License: MIT
 * License URL: https://github.com/0xa3k5/web3icons/blob/main/LICENCE
-* Version: 3.7.1
+* Version: 3.8.0
 * Palette: Colorful
 * Icon set prefix: `token-branded`
 * File: [json/token-branded.json](json/token-branded.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
@@ -1491,12 +1491,12 @@
 * File: [json/meteocons.json](json/meteocons.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Health Icons
-* Number of icons: 1362
+* Number of icons: 1502
 * Author: Resolve to Save Lives
 * URL: https://github.com/resolvetosavelives/healthicons
 * License: MIT
 * License URL: https://github.com/resolvetosavelives/healthicons/blob/main/LICENSE
-* Version: 1.0.2
+* Version: 2.0.0
 * Palette: Colorless
 * Icon set prefix: `healthicons`
 * File: [json/healthicons.json](json/healthicons.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))

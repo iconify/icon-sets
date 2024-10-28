@@ -505,6 +505,16 @@
 * Icon set prefix: `stash`
 * File: [json/stash.json](json/stash.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
+## Lineicons
+* Number of icons: 606
+* Author: Lineicons
+* URL: https://github.com/LineiconsHQ/Lineicons
+* License: MIT
+* License URL: https://github.com/LineiconsHQ/Lineicons/blob/main/LICENSE.md
+* Palette: Colorless
+* Icon set prefix: `lineicons`
+* File: [json/lineicons.json](json/lineicons.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
+
 ## IconPark Outline
 * Number of icons: 2658
 * Author: ByteDance
@@ -592,8 +602,8 @@
 
 ## Lsicon
 * Number of icons: 716
-* Author: Faure Wu
-* URL: https://www.figma.com/community/file/1411589715699221517/lsicon
+* Author: Wis Design
+* URL: https://www.lsicon.com/
 * License: MIT
 * License URL: https://github.com/wisdesignsystem/lsicon/blob/main/LICENSE
 * Palette: Colorless
@@ -674,16 +684,6 @@
 * Palette: Colorless
 * Icon set prefix: `gala`
 * File: [json/gala.json](json/gala.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
-
-## Lineicons
-* Number of icons: 606
-* Author: Lineicons
-* URL: https://github.com/LineiconsHQ/Lineicons
-* License: MIT
-* License URL: https://github.com/LineiconsHQ/Lineicons/blob/main/LICENSE.md
-* Palette: Colorless
-* Icon set prefix: `lineicons`
-* File: [json/lineicons.json](json/lineicons.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Bootstrap Icons
 * Number of icons: 2050
@@ -1088,12 +1088,12 @@
 * File: [json/unjs.json](json/unjs.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Simple Icons
-* Number of icons: 3216
+* Number of icons: 3217
 * Author: Simple Icons Collaborators
 * URL: https://github.com/simple-icons/simple-icons
 * License: CC0 1.0
 * License URL: https://github.com/simple-icons/simple-icons/blob/develop/LICENSE.md
-* Version: 13.14.1
+* Version: 13.15.0
 * Palette: Colorless
 * Icon set prefix: `simple-icons`
 * File: [json/simple-icons.json](json/simple-icons.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))

@@ -146,7 +146,7 @@
 * File: [json/iconoir.json](json/iconoir.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Lucide
-* Number of icons: 1534
+* Number of icons: 1535
 * Author: Lucide Contributors
 * URL: https://github.com/lucide-icons/lucide
 * License: ISC
@@ -177,7 +177,7 @@
 * File: [json/uil.json](json/uil.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## TDesign Icons
-* Number of icons: 1208
+* Number of icons: 2113
 * Author: TDesign
 * URL: https://github.com/Tencent/tdesign-icons
 * License: MIT
@@ -293,7 +293,7 @@
 * File: [json/ci.json](json/ci.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## ProIcons
-* Number of icons: 446
+* Number of icons: 466
 * Author: ProCode
 * URL: https://github.com/ProCode-Software/proicons
 * License: MIT
@@ -313,6 +313,16 @@
 * Palette: Colorless
 * Icon set prefix: `typcn`
 * File: [json/typcn.json](json/typcn.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
+
+## Meteor Icons
+* Number of icons: 321
+* Author: zkreations
+* URL: https://github.com/zkreations/icons
+* License: MIT
+* License URL: https://github.com/zkreations/icons/blob/main/LICENSE
+* Palette: Colorless
+* Icon set prefix: `meteor-icons`
+* File: [json/meteor-icons.json](json/meteor-icons.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Prime Icons
 * Number of icons: 313
@@ -728,12 +738,12 @@
 * File: [json/formkit.json](json/formkit.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Fluent UI System Icons
-* Number of icons: 16942
+* Number of icons: 16985
 * Author: Microsoft Corporation
 * URL: https://github.com/microsoft/fluentui-system-icons
 * License: MIT
 * License URL: https://github.com/microsoft/fluentui-system-icons/blob/main/LICENSE
-* Version: 1.1.264
+* Version: 1.1.265
 * Palette: Colorless
 * Icon set prefix: `fluent`
 * File: [json/fluent.json](json/fluent.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
@@ -769,6 +779,16 @@
 * Palette: Colorless
 * Icon set prefix: `clarity`
 * File: [json/clarity.json](json/clarity.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
+
+## Siemens Industrial Experience Icons
+* Number of icons: 815
+* Author: Siemens AG
+* URL: https://github.com/siemens/ix-icons
+* License: MIT
+* License URL: https://github.com/siemens/ix-icons/blob/main/LICENSE.md
+* Palette: Colorless
+* Icon set prefix: `ix`
+* File: [json/ix.json](json/ix.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Octicons
 * Number of icons: 643
@@ -976,13 +996,33 @@
 * Icon set prefix: `oui`
 * File: [json/oui.json](json/oui.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
+## NRK Core Icons
+* Number of icons: 229
+* Author: Norsk rikskringkasting
+* URL: https://github.com/nrkno/core-icons
+* License: CC BY 4.0
+* License URL: https://creativecommons.org/licenses/by/4.0/
+* Palette: Colorless
+* Icon set prefix: `nrk`
+* File: [json/nrk.json](json/nrk.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
+
+## Qlementine Icons
+* Number of icons: 428
+* Author: Olivier Cléro
+* URL: https://github.com/oclero/qlementine-icons
+* License: MIT
+* License URL: https://github.com/oclero/qlementine-icons/blob/master/LICENSE
+* Palette: Colorless
+* Icon set prefix: `qlementine-icons`
+* File: [json/qlementine-icons.json](json/qlementine-icons.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
+
 ## Fluent UI System Color Icons
 * Number of icons: 311
 * Author: Microsoft Corporation
 * URL: https://github.com/microsoft/fluentui-system-icons
 * License: MIT
 * License URL: https://github.com/microsoft/fluentui-system-icons/blob/main/LICENSE
-* Version: 1.1.264
+* Version: 1.1.265
 * Palette: Colorful
 * Icon set prefix: `fluent-color`
 * File: [json/fluent-color.json](json/fluent-color.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
@@ -1059,7 +1099,7 @@
 * File: [json/devicon-plain.json](json/devicon-plain.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Catppuccin Icons
-* Number of icons: 536
+* Number of icons: 537
 * Author: Catppuccin
 * URL: https://github.com/catppuccin/vscode-icons
 * License: MIT

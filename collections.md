@@ -135,12 +135,12 @@
 * File: [json/iconamoon.json](json/iconamoon.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Iconoir
-* Number of icons: 1613
+* Number of icons: 1628
 * Author: Luca Burgio
 * URL: https://github.com/iconoir-icons/iconoir
 * License: MIT
 * License URL: https://github.com/iconoir-icons/iconoir/blob/main/LICENSE
-* Version: 7.9.0
+* Version: 7.10.0
 * Palette: Colorless
 * Icon set prefix: `iconoir`
 * File: [json/iconoir.json](json/iconoir.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
@@ -177,7 +177,7 @@
 * File: [json/uil.json](json/uil.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## TDesign Icons
-* Number of icons: 2113
+* Number of icons: 2114
 * Author: TDesign
 * URL: https://github.com/Tencent/tdesign-icons
 * License: MIT
@@ -293,7 +293,7 @@
 * File: [json/ci.json](json/ci.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## ProIcons
-* Number of icons: 466
+* Number of icons: 459
 * Author: ProCode
 * URL: https://github.com/ProCode-Software/proicons
 * License: MIT
@@ -379,12 +379,12 @@
 * File: [json/bitcoin-icons.json](json/bitcoin-icons.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Humbleicons
-* Number of icons: 250
+* Number of icons: 252
 * Author: Jiří Zralý
 * URL: https://github.com/zraly/humbleicons
 * License: MIT
 * License URL: https://github.com/zraly/humbleicons/blob/master/license
-* Version: 1.13.0
+* Version: 1.14.0
 * Palette: Colorless
 * Icon set prefix: `humbleicons`
 * File: [json/humbleicons.json](json/humbleicons.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
@@ -1079,7 +1079,7 @@
 * File: [json/file-icons.json](json/file-icons.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Devicon
-* Number of icons: 793
+* Number of icons: 818
 * Author: konpa
 * URL: https://github.com/devicons/devicon/tree/master
 * License: MIT
@@ -1089,7 +1089,7 @@
 * File: [json/devicon.json](json/devicon.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Devicon Plain
-* Number of icons: 591
+* Number of icons: 609
 * Author: konpa
 * URL: https://github.com/devicons/devicon/tree/master
 * License: MIT

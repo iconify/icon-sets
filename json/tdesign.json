@@ -2,7 +2,7 @@
 	"prefix": "tdesign",
 	"info": {
 		"name": "TDesign Icons",
-		"total": 2113,
+		"total": 2114,
 		"author": {
 			"name": "TDesign",
 			"url": "https://github.com/Tencent/tdesign-icons"
@@ -24,7 +24,7 @@
 		"category": "UI 24px",
 		"palette": false
 	},
-	"lastModified": 1731134096,
+	"lastModified": 1731395095,
 	"icons": {
 		"accessibility": {
 			"body": "<path fill=\"currentColor\" d=\"M12 2a1.25 1.25 0 1 1 0 2.5A1.25 1.25 0 0 1 12 2M8.75 3.25a3.25 3.25 0 1 0 6.5 0a3.25 3.25 0 0 0-6.5 0m-6.5 6.375A2.625 2.625 0 0 1 4.875 7h14.25a2.625 2.625 0 0 1 0 5.25h-2.628l1.823 8.208a2.5 2.5 0 0 1-2.44 3.042h-2.142L12 17.198L10.261 23.5H8.12a2.5 2.5 0 0 1-2.44-3.042l1.823-8.208H4.875A2.625 2.625 0 0 1 2.25 9.625M4.875 9a.625.625 0 1 0 0 1.25h5.122L7.632 20.892a.5.5 0 0 0 .488.608h.619l2-7.25h2.522l2 7.25h.62a.5.5 0 0 0 .487-.608L14.003 10.25h5.122a.625.625 0 1 0 0-1.25z\"/>"
@@ -2011,7 +2011,10 @@
 		"download-1": {
 			"body": "<path fill=\"currentColor\" d=\"M13 3v9.586l4-4L18.414 10L12 16.414L5.586 10L7 8.586l4 4V3zM3 18h18v2H3z\"/>"
 		},
-		"download-1-filled": {
+		"download-2": {
+			"body": "<path fill=\"currentColor\" d=\"M1 2h22v16H1zm2 2v12h18V4zm10 2v4.657l1.53-1.466l1.384 1.445L12 14.385l-3.914-3.75L9.47 9.192L11 10.657V6zM3 20h18v2H3z\"/>"
+		},
+		"download-2-filled": {
 			"body": "<path fill=\"currentColor\" d=\"M23 2H1v16h22zm-7.086 8.636L12 14.385l-3.914-3.75l1.383-1.444L11 10.657V6h2v4.657l1.531-1.466zM21 20H3v2h18z\"/>"
 		},
 		"downscale": {
@@ -6421,6 +6424,9 @@
 	"aliases": {
 		"chart-colum": {
 			"parent": "chart-column"
+		},
+		"download-1-filled": {
+			"parent": "download-2-filled"
 		},
 		"gesture-up-1": {
 			"parent": "gesture-typing"

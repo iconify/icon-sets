@@ -74,12 +74,12 @@
 * File: [json/solar.json](json/solar.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Tabler Icons
-* Number of icons: 5700
+* Number of icons: 5718
 * Author: Paweł Kuna
 * URL: https://github.com/tabler/tabler-icons
 * License: MIT
 * License URL: https://github.com/tabler/tabler-icons/blob/master/LICENSE
-* Version: 3.21.0
+* Version: 3.22.0
 * Palette: Colorless
 * Icon set prefix: `tabler`
 * File: [json/tabler.json](json/tabler.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
@@ -685,16 +685,6 @@
 * Icon set prefix: `bytesize`
 * File: [json/bytesize.json](json/bytesize.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
-## Gala Icons
-* Number of icons: 51
-* Author: Jake Wells
-* URL: https://github.com/sisyphusion/gala-icons
-* License: GPL
-* License URL: https://github.com/sisyphusion/gala-icons/blob/main/LICENSE
-* Palette: Colorless
-* Icon set prefix: `gala`
-* File: [json/gala.json](json/gala.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
-
 ## Bootstrap Icons
 * Number of icons: 2050
 * Author: The Bootstrap Authors
@@ -932,12 +922,12 @@
 * File: [json/f7.json](json/f7.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Gitlab SVGs
-* Number of icons: 383
+* Number of icons: 385
 * Author: GitLab B.V.
 * URL: https://gitlab.com/gitlab-org/gitlab-svgs/-/tree/main
 * License: MIT
 * License URL: https://gitlab.com/gitlab-org/gitlab-svgs/-/blob/main/LICENSE
-* Version: 3.120.0
+* Version: 3.121.0
 * Palette: Colorless
 * Icon set prefix: `pajamas`
 * File: [json/pajamas.json](json/pajamas.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
@@ -980,7 +970,7 @@
 * URL: https://github.com/wikimedia/oojs-ui
 * License: MIT
 * License URL: https://github.com/wikimedia/oojs-ui/blob/master/LICENSE-MIT
-* Version: 0.51.1
+* Version: 0.51.2
 * Palette: Colorless
 * Icon set prefix: `ooui`
 * File: [json/ooui.json](json/ooui.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
@@ -997,7 +987,7 @@
 * File: [json/oui.json](json/oui.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## NRK Core Icons
-* Number of icons: 229
+* Number of icons: 230
 * Author: Norsk rikskringkasting
 * URL: https://github.com/nrkno/core-icons
 * License: CC BY 4.0
@@ -1654,6 +1644,16 @@
 * Palette: Colorless
 * Icon set prefix: `iwwa`
 * File: [json/iwwa.json](json/iwwa.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
+
+## Gala Icons
+* Number of icons: 51
+* Author: Jake Wells
+* URL: https://github.com/cyberalien/gala-icons
+* License: GPL
+* License URL: https://github.com/cyberalien/gala-icons/blob/main/LICENSE
+* Palette: Colorless
+* Icon set prefix: `gala`
+* File: [json/gala.json](json/gala.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## HeroIcons v1 Outline
 * Number of icons: 230

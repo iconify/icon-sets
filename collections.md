@@ -2,7 +2,7 @@
 
 
 ## Material Symbols
-* Number of icons: 13616
+* Number of icons: 13693
 * Author: Google
 * URL: https://github.com/google/material-design-icons
 * License: Apache 2.0
@@ -12,7 +12,7 @@
 * File: [json/material-symbols.json](json/material-symbols.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Material Symbols Light
-* Number of icons: 13682
+* Number of icons: 13759
 * Author: Google
 * URL: https://github.com/google/material-design-icons
 * License: Apache 2.0
@@ -583,7 +583,7 @@
 * Author: IBM
 * URL: https://github.com/carbon-design-system/carbon/tree/main/packages/icons
 * License: Apache 2.0
-* Version: 11.52.0
+* Version: 11.53.0
 * Palette: Colorless
 * Icon set prefix: `carbon`
 * File: [json/carbon.json](json/carbon.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
@@ -948,7 +948,7 @@
 * URL: https://github.com/FortAwesome/Font-Awesome
 * License: CC BY 4.0
 * License URL: https://creativecommons.org/licenses/by/4.0/
-* Version: 6.7.0
+* Version: 6.7.1
 * Palette: Colorless
 * Icon set prefix: `fa6-solid`
 * File: [json/fa6-solid.json](json/fa6-solid.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
@@ -959,7 +959,7 @@
 * URL: https://github.com/FortAwesome/Font-Awesome
 * License: CC BY 4.0
 * License URL: https://creativecommons.org/licenses/by/4.0/
-* Version: 6.7.0
+* Version: 6.7.1
 * Palette: Colorless
 * Icon set prefix: `fa6-regular`
 * File: [json/fa6-regular.json](json/fa6-regular.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
@@ -1150,12 +1150,12 @@
 * File: [json/cib.json](json/cib.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Font Awesome Brands
-* Number of icons: 493
+* Number of icons: 495
 * Author: Dave Gandy
 * URL: https://github.com/FortAwesome/Font-Awesome
 * License: CC BY 4.0
 * License URL: https://creativecommons.org/licenses/by/4.0/
-* Version: 6.7.0
+* Version: 6.7.1
 * Palette: Colorless
 * Icon set prefix: `fa6-brands`
 * File: [json/fa6-brands.json](json/fa6-brands.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))

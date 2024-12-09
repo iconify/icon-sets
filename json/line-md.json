@@ -2,8 +2,8 @@
 	"prefix": "line-md",
 	"info": {
 		"name": "Material Line Icons",
-		"total": 1085,
-		"version": "2.0.2",
+		"total": 1087,
+		"version": "2.0.4",
 		"author": {
 			"name": "Vjacheslav Trushkin",
 			"url": "https://github.com/cyberalien/line-md"
@@ -25,7 +25,7 @@
 		"category": "Material",
 		"palette": false
 	},
-	"lastModified": 1725600523,
+	"lastModified": 1733726635,
 	"icons": {
 		"account": {
 			"body": "<g fill=\"none\" stroke=\"currentColor\" stroke-dasharray=\"28\" stroke-dashoffset=\"28\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\"><path d=\"M4 21v-1c0 -3.31 2.69 -6 6 -6h4c3.31 0 6 2.69 6 6v1\"><animate fill=\"freeze\" attributeName=\"stroke-dashoffset\" dur=\"0.4s\" values=\"28;0\"/></path><path d=\"M12 11c-2.21 0 -4 -1.79 -4 -4c0 -2.21 1.79 -4 4 -4c2.21 0 4 1.79 4 4c0 2.21 -1.79 4 -4 4Z\"><animate fill=\"freeze\" attributeName=\"stroke-dashoffset\" begin=\"0.4s\" dur=\"0.4s\" values=\"28;0\"/></path></g>"
@@ -2017,6 +2017,12 @@
 		"iconify2": {
 			"body": "<g fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\"><path d=\"M4 7V21\" class=\"il-md-length-15 il-md-duration-2 il-md-delay-0\"/><path d=\"M4 3V5\" class=\"il-md-length-15 il-md-duration-2 il-md-delay-0\"/><path stroke-linecap=\"round\" d=\"M18 4.25204C17.3608 4.08751 16.6906 4 16 4C11.5817 4 8 7.58172 8 12C8 16.4183 11.5817 20 16 20C16.6906 20 17.3608 19.9125 18 19.748\" class=\"il-md-length-40 il-md-duration-3 il-md-delay-2\"/><path stroke-linecap=\"round\" d=\"M16 8C13.7909 8 12 9.79086 12 12C12 14.2091 13.7909 16 16 16C18.2091 16 20 14.2091 20 12C20 9.79086 18.2091 8 16 8Z\" class=\"il-md-length-40 il-md-duration-5 il-md-delay-5\"/></g>",
 			"hidden": true
+		},
+		"iconify2-static": {
+			"body": "<mask id=\"lineMdIconify2Static0\"><g fill=\"none\" stroke=\"#fff\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\"><path stroke-width=\"1.5\" d=\"M3.25 22.25h17.5\"/><path d=\"M7 3v3M5 8v11h14v-11\"/><path stroke=\"#000\" stroke-width=\"4\" d=\"M12 16v4.5M12 3l8.5 5.5\"/><path d=\"M12 3l8.5 5.5\"/><path stroke=\"#000\" stroke-width=\"4\" d=\"M12 3l-8.5 5.5\"/><path d=\"M12 3l-8.5 5.5M12 11.5v9\"/></g><circle cx=\"12\" cy=\"11.5\" r=\"3.5\"/><circle cx=\"12\" cy=\"11.5\" r=\"1.5\" fill=\"#fff\"/></mask><rect width=\"24\" height=\"24\" fill=\"currentColor\" mask=\"url(#lineMdIconify2Static0)\"/>"
+		},
+		"iconify2-static-twotone": {
+			"body": "<mask id=\"lineMdIconify2StaticTwotone0\"><g fill=\"none\" stroke=\"#999\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\"><path stroke=\"#555\" stroke-width=\"1.5\" d=\"M3.25 22.25h17.5\"/><path stroke=\"#555\" d=\"M7 3v3\"/><path d=\"M5 8v11h14v-11\"/><path stroke=\"#000\" stroke-width=\"4\" d=\"M12 16v4.5M12 3l8.5 5.5\"/><path d=\"M12 3l8.5 5.5\"/><path stroke=\"#000\" stroke-width=\"4\" d=\"M12 3l-8.5 5.5\"/><path d=\"M12 3l-8.5 5.5\"/><path stroke=\"#fff\" d=\"M12 11.5v9\"/></g><circle cx=\"12\" cy=\"11.5\" r=\"3.5\"/><circle cx=\"12\" cy=\"11.5\" r=\"1.5\" fill=\"#fff\"/></mask><rect width=\"24\" height=\"24\" fill=\"currentColor\" mask=\"url(#lineMdIconify2StaticTwotone0)\"/>"
 		},
 		"image": {
 			"body": "<g fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\"><path stroke-dasharray=\"72\" stroke-dashoffset=\"72\" d=\"M3 14v-9h18v14h-18v-5\"><animate fill=\"freeze\" attributeName=\"stroke-dashoffset\" dur=\"0.6s\" values=\"72;0\"/></path><path stroke-dasharray=\"24\" stroke-dashoffset=\"24\" stroke-width=\"1\" d=\"M3 16l4 -3l3 2l6 -5l5 4\"><animate fill=\"freeze\" attributeName=\"stroke-dashoffset\" begin=\"0.6s\" dur=\"0.4s\" values=\"24;0\"/></path></g><circle cx=\"7.5\" cy=\"9.5\" r=\"1.5\" fill=\"currentColor\" fill-opacity=\"0\"><animate fill=\"freeze\" attributeName=\"fill-opacity\" begin=\"1s\" dur=\"0.2s\" values=\"0;1\"/></circle>"
@@ -4332,6 +4338,8 @@
 			"heart-twotone-half",
 			"heart-twotone-half-filled",
 			"iconify1",
+			"iconify2-static",
+			"iconify2-static-twotone",
 			"instagram",
 			"linkedin",
 			"mastodon",

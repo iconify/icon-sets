@@ -104,12 +104,12 @@
 * File: [json/mingcute.json](json/mingcute.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Remix Icon
-* Number of icons: 3020
+* Number of icons: 3058
 * Author: Remix Design
 * URL: https://github.com/Remix-Design/RemixIcon
 * License: Apache 2.0
 * License URL: https://github.com/Remix-Design/RemixIcon/blob/master/License
-* Version: 4.5.0
+* Version: 4.6.0
 * Palette: Colorless
 * Icon set prefix: `ri`
 * File: [json/ri.json](json/ri.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
@@ -166,12 +166,12 @@
 * File: [json/lucide-lab.json](json/lucide-lab.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Unicons
-* Number of icons: 1206
+* Number of icons: 1215
 * Author: Iconscout
 * URL: https://github.com/Iconscout/unicons
 * License: Apache 2.0
 * License URL: https://github.com/Iconscout/unicons/blob/master/LICENSE
-* Version: 4.0.8
+* Version: 4.2.0
 * Palette: Colorless
 * Icon set prefix: `uil`
 * File: [json/uil.json](json/uil.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
@@ -390,34 +390,34 @@
 * File: [json/humbleicons.json](json/humbleicons.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Unicons Monochrome
-* Number of icons: 296
+* Number of icons: 298
 * Author: Iconscout
 * URL: https://github.com/Iconscout/unicons
 * License: Apache 2.0
 * License URL: https://github.com/Iconscout/unicons/blob/master/LICENSE
-* Version: 4.0.8
+* Version: 4.2.0
 * Palette: Colorless
 * Icon set prefix: `uim`
 * File: [json/uim.json](json/uim.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Unicons Thin Line
-* Number of icons: 214
+* Number of icons: 216
 * Author: Iconscout
 * URL: https://github.com/Iconscout/unicons
 * License: Apache 2.0
 * License URL: https://github.com/Iconscout/unicons/blob/master/LICENSE
-* Version: 4.0.8
+* Version: 4.2.0
 * Palette: Colorless
 * Icon set prefix: `uit`
 * File: [json/uit.json](json/uit.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Unicons Solid
-* Number of icons: 189
+* Number of icons: 190
 * Author: Iconscout
 * URL: https://github.com/Iconscout/unicons
 * License: Apache 2.0
 * License URL: https://github.com/Iconscout/unicons/blob/master/LICENSE
-* Version: 4.0.8
+* Version: 4.2.0
 * Palette: Colorless
 * Icon set prefix: `uis`
 * File: [json/uis.json](json/uis.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
@@ -948,7 +948,7 @@
 * URL: https://github.com/FortAwesome/Font-Awesome
 * License: CC BY 4.0
 * License URL: https://creativecommons.org/licenses/by/4.0/
-* Version: 6.7.1
+* Version: 6.7.2
 * Palette: Colorless
 * Icon set prefix: `fa6-solid`
 * File: [json/fa6-solid.json](json/fa6-solid.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
@@ -959,7 +959,7 @@
 * URL: https://github.com/FortAwesome/Font-Awesome
 * License: CC BY 4.0
 * License URL: https://creativecommons.org/licenses/by/4.0/
-* Version: 6.7.1
+* Version: 6.7.2
 * Palette: Colorless
 * Icon set prefix: `fa6-regular`
 * File: [json/fa6-regular.json](json/fa6-regular.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
@@ -1155,7 +1155,7 @@
 * URL: https://github.com/FortAwesome/Font-Awesome
 * License: CC BY 4.0
 * License URL: https://creativecommons.org/licenses/by/4.0/
-* Version: 6.7.1
+* Version: 6.7.2
 * Palette: Colorless
 * Icon set prefix: `fa6-brands`
 * File: [json/fa6-brands.json](json/fa6-brands.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))

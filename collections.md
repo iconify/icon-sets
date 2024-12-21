@@ -85,7 +85,7 @@
 * File: [json/tabler.json](json/tabler.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Huge Icons
-* Number of icons: 3929
+* Number of icons: 4151
 * Author: Hugeicons
 * URL: https://icon-sets.iconify.design/icon-sets/hugeicons/
 * License: MIT

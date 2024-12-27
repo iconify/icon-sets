@@ -389,6 +389,17 @@
 * Icon set prefix: `humbleicons`
 * File: [json/humbleicons.json](json/humbleicons.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
+## UIcons Regular
+* Number of icons: 3926
+* Author: Freepik Company
+* URL: https://github.com/freepik-company/flaticon-uicons
+* License: Flaticon License
+* License URL: https://github.com/freepik-company/flaticon-uicons/blob/main/LICENSE
+* Version: 3.3.1
+* Palette: Colorless
+* Icon set prefix: `fi-rr`
+* File: [json/uicons.json](json/uicons.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
+
 ## Unicons Monochrome
 * Number of icons: 298
 * Author: Iconscout

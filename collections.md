@@ -135,7 +135,7 @@
 * File: [json/iconamoon.json](json/iconamoon.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Iconoir
-* Number of icons: 1628
+* Number of icons: 1671
 * Author: Luca Burgio
 * URL: https://github.com/iconoir-icons/iconoir
 * License: MIT
@@ -599,6 +599,16 @@
 * Icon set prefix: `ion`
 * File: [json/ion.json](json/ion.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
+## Famicons
+* Number of icons: 1342
+* Author: Family
+* URL: https://github.com/familyjs/famicons
+* License: MIT
+* License URL: https://github.com/familyjs/famicons/blob/main/LICENSE
+* Palette: Colorless
+* Icon set prefix: `famicons`
+* File: [json/famicons.json](json/famicons.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
+
 ## Ant Design Icons
 * Number of icons: 830
 * Author: HeskeyBaozi
@@ -855,6 +865,16 @@
 * Icon set prefix: `maki`
 * File: [json/maki.json](json/maki.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
+## CodeX Icons
+* Number of icons: 78
+* Author: CodeX
+* URL: https://github.com/codex-team/icons
+* License: MIT
+* License URL: https://github.com/codex-team/icons/blob/master/LICENSE
+* Palette: Colorless
+* Icon set prefix: `codex`
+* File: [json/codex.json](json/codex.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
+
 ## Evil Icons
 * Number of icons: 70
 * Author: Alexander Madyankin and Roman Shamin
@@ -931,6 +951,16 @@
 * Palette: Colorless
 * Icon set prefix: `pajamas`
 * File: [json/pajamas.json](json/pajamas.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
+
+## Garden SVG Icons
+* Number of icons: 987
+* Author: Zendesk
+* URL: https://github.com/zendeskgarden/svg-icons
+* License: Apache 2.0
+* License URL: https://github.com/zendeskgarden/svg-icons/blob/main/LICENSE.md
+* Palette: Colorless
+* Icon set prefix: `garden`
+* File: [json/garden.json](json/garden.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Streamline
 * Number of icons: 2000
@@ -1183,7 +1213,7 @@
 * File: [json/nonicons.json](json/nonicons.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Arcticons
-* Number of icons: 11680
+* Number of icons: 11884
 * Author: Donnnno
 * URL: https://github.com/Arcticons-Team/Arcticons
 * License: CC BY-SA 4.0
@@ -1521,7 +1551,7 @@
 * File: [json/meteocons.json](json/meteocons.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Health Icons
-* Number of icons: 1546
+* Number of icons: 1774
 * Author: Resolve to Save Lives
 * URL: https://github.com/resolvetosavelives/healthicons
 * License: MIT

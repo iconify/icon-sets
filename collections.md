@@ -74,12 +74,12 @@
 * File: [json/solar.json](json/solar.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Tabler Icons
-* Number of icons: 5790
+* Number of icons: 5826
 * Author: Paweł Kuna
 * URL: https://github.com/tabler/tabler-icons
 * License: MIT
 * License URL: https://github.com/tabler/tabler-icons/blob/master/LICENSE
-* Version: 3.26.0
+* Version: 3.28.0
 * Palette: Colorless
 * Icon set prefix: `tabler`
 * File: [json/tabler.json](json/tabler.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
@@ -177,7 +177,7 @@
 * File: [json/uil.json](json/uil.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## TDesign Icons
-* Number of icons: 2114
+* Number of icons: 2116
 * Author: TDesign
 * URL: https://github.com/Tencent/tdesign-icons
 * License: MIT
@@ -293,12 +293,12 @@
 * File: [json/ci.json](json/ci.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## ProIcons
-* Number of icons: 474
+* Number of icons: 473
 * Author: ProCode
 * URL: https://github.com/ProCode-Software/proicons
 * License: MIT
 * License URL: https://github.com/ProCode-Software/proicons/blob/main/LICENSE
-* Version: 4.11.2
+* Version: 4.11.4
 * Palette: Colorless
 * Icon set prefix: `proicons`
 * File: [json/proicons.json](json/proicons.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
@@ -1067,7 +1067,7 @@
 * File: [json/marketeq.json](json/marketeq.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## VSCode Icons
-* Number of icons: 1326
+* Number of icons: 1327
 * Author: Roberto Huertas
 * URL: https://github.com/vscode-icons/vscode-icons
 * License: MIT
@@ -1148,12 +1148,12 @@
 * File: [json/unjs.json](json/unjs.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Simple Icons
-* Number of icons: 3247
+* Number of icons: 3249
 * Author: Simple Icons Collaborators
 * URL: https://github.com/simple-icons/simple-icons
 * License: CC0 1.0
 * License URL: https://github.com/simple-icons/simple-icons/blob/develop/LICENSE.md
-* Version: 14.0.1
+* Version: 14.1.0
 * Palette: Colorless
 * Icon set prefix: `simple-icons`
 * File: [json/simple-icons.json](json/simple-icons.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))

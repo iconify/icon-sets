@@ -53,12 +53,12 @@
 * File: [json/mdi-light.json](json/mdi-light.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Material Line Icons
-* Number of icons: 1087
+* Number of icons: 1089
 * Author: Vjacheslav Trushkin
 * URL: https://github.com/cyberalien/line-md
 * License: MIT
 * License URL: https://github.com/cyberalien/line-md/blob/master/license.txt
-* Version: 2.0.4
+* Version: 2.0.5
 * Palette: Colorless
 * Icon set prefix: `line-md`
 * File: [json/line-md.json](json/line-md.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
@@ -79,7 +79,7 @@
 * URL: https://github.com/tabler/tabler-icons
 * License: MIT
 * License URL: https://github.com/tabler/tabler-icons/blob/master/LICENSE
-* Version: 3.28.0
+* Version: 3.28.1
 * Palette: Colorless
 * Icon set prefix: `tabler`
 * File: [json/tabler.json](json/tabler.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
@@ -995,7 +995,7 @@
 * File: [json/fa6-regular.json](json/fa6-regular.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## OOUI
-* Number of icons: 358
+* Number of icons: 360
 * Author: OOUI Team
 * URL: https://github.com/wikimedia/oojs-ui
 * License: MIT
@@ -1067,7 +1067,7 @@
 * File: [json/marketeq.json](json/marketeq.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## VSCode Icons
-* Number of icons: 1327
+* Number of icons: 1331
 * Author: Roberto Huertas
 * URL: https://github.com/vscode-icons/vscode-icons
 * License: MIT

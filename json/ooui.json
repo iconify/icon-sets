@@ -2,7 +2,7 @@
 	"prefix": "ooui",
 	"info": {
 		"name": "OOUI",
-		"total": 358,
+		"total": 360,
 		"version": "0.51.4",
 		"author": {
 			"name": "OOUI Team",
@@ -28,7 +28,7 @@
 		],
 		"palette": false
 	},
-	"lastModified": 1734765638,
+	"lastModified": 1736493523,
 	"icons": {
 		"add": {
 			"body": "<path fill=\"currentColor\" d=\"M11 9V4H9v5H4v2h5v5h2v-5h5V9z\"/>"
@@ -48,6 +48,9 @@
 		"appearance": {
 			"body": "<path fill=\"currentColor\" d=\"M1.2 9a4.25 4.25 0 0 1 7.9-.6a2.8 2.8 0 0 1 1.8 0a4.25 4.25 0 0 1 7.9.6a1.01 1.01 0 1 1 .1 2a4.23 4.23 0 0 1-8.4-.6a1 1 0 0 0-1 0a4.23 4.23 0 0 1-8.4.6a1.01 1.01 0 1 1 .1-2m4.05-1a2.25 2.25 0 0 0 0 4.5a2.25 2.25 0 0 0 0-4.5m9.5 0a2.25 2.25 0 0 0 0 4.5a2.25 2.25 0 0 0 0-4.5\"/>"
 		},
+		"arrow-down": {
+			"body": "<path fill=\"currentColor\" d=\"m2 10l1.42-1.41L9 14.17V2h2v12.17l5.59-5.58L18 10l-8 8z\"/>"
+		},
 		"arrow-next-ltr": {
 			"body": "<path fill=\"currentColor\" d=\"M8.6 3.4L14.2 9H2v2h12.2l-5.6 5.6L10 18l8-8l-8-8z\"/>"
 		},
@@ -59,6 +62,9 @@
 		},
 		"arrow-previous-rtl": {
 			"body": "<path fill=\"currentColor\" d=\"M2 11h12.2l-5.6 5.6L10 18l8-8l-8-8l-1.4 1.4L14.2 9H2z\"/>"
+		},
+		"arrow-up": {
+			"body": "<path fill=\"currentColor\" d=\"m2 10l1.42 1.41L9 5.83V18h2V5.83l5.59 5.58L18 10l-8-8z\"/>"
 		},
 		"article-add": {
 			"body": "<path fill=\"currentColor\" d=\"M5 1c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h10c1.1 0 2-.9 2-2V3c0-1.1-.9-2-2-2zm10 10h-4v4H9v-4H5V9h4V5h2v4h4z\"/>"
@@ -493,10 +499,10 @@
 			"body": "<path fill=\"currentColor\" d=\"M4.83 15h2.91a4.9 4.9 0 0 1-1.55-2H5a3 3 0 1 1 0-6h3a3 3 0 0 1 2.82 4h2.1a5 5 0 0 0 .08-.83v-.34A4.83 4.83 0 0 0 8.17 5H4.83A4.83 4.83 0 0 0 0 9.83v.34A4.83 4.83 0 0 0 4.83 15\"/><path fill=\"currentColor\" d=\"M15.17 5h-2.91a4.9 4.9 0 0 1 1.55 2H15a3 3 0 1 1 0 6h-3a3 3 0 0 1-2.82-4h-2.1a5 5 0 0 0-.08.83v.34A4.83 4.83 0 0 0 11.83 15h3.34A4.83 4.83 0 0 0 20 10.17v-.34A4.83 4.83 0 0 0 15.17 5\"/>"
 		},
 		"link-external-ltr": {
-			"body": "<path fill=\"currentColor\" d=\"M17 17H3V3h5V1H3a2 2 0 0 0-2 2v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2v-5h-2z\"/><path fill=\"currentColor\" d=\"m11 1l3.29 3.29l-5.73 5.73l1.42 1.42l5.73-5.73L19 9V1z\"/>"
+			"body": "<path fill=\"currentColor\" d=\"M19 1h-8l3.286 3.286L6 12l1.371 1.472l8.332-7.77l.007.008L19 9zM2 5h4v2H3v10h10v-4.004h2V18a1 1 0 0 1-1 1H2a1 1 0 0 1-1-1V6a1 1 0 0 1 1-1\"/>"
 		},
 		"link-external-rtl": {
-			"body": "<path fill=\"currentColor\" d=\"M3 12H1v5c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2V3c0-1.1-.9-2-2-2h-5v2h5v14H3z\"/><path fill=\"currentColor\" d=\"m1 9l3.3-3.3l5.7 5.7l1.4-1.4l-5.7-5.7L9 1H1z\"/>"
+			"body": "<path fill=\"currentColor\" d=\"M1 1h8L5.714 4.286L14 12l-1.371 1.472l-8.332-7.77l-.007.008L1 9zm17 4h-4v2h3v10H7v-4.004H5V18a1 1 0 0 0 1 1h12a1 1 0 0 0 1-1V6a1 1 0 0 0-1-1\"/>"
 		},
 		"link-secure": {
 			"body": "<path fill=\"currentColor\" d=\"M16.07 8H15V5s0-5-5-5s-5 5-5 5v3H3.93A1.93 1.93 0 0 0 2 9.93v8.15A1.93 1.93 0 0 0 3.93 20h12.14A1.93 1.93 0 0 0 18 18.07V9.93A1.93 1.93 0 0 0 16.07 8M7 5.5C7 4 7 2 10 2s3 2 3 3.5V8H7zM10 16a2 2 0 1 1 2-2a2 2 0 0 1-2 2\"/>"

@@ -146,7 +146,7 @@
 * File: [json/iconoir.json](json/iconoir.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Lucide
-* Number of icons: 1544
+* Number of icons: 1546
 * Author: Lucide Contributors
 * URL: https://github.com/lucide-icons/lucide
 * License: ISC
@@ -241,7 +241,7 @@
 * File: [json/gg.json](json/gg.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Flowbite Icons
-* Number of icons: 585
+* Number of icons: 654
 * Author: Themesberg
 * URL: https://github.com/themesberg/flowbite-icons
 * License: MIT
@@ -1148,12 +1148,12 @@
 * File: [json/unjs.json](json/unjs.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Simple Icons
-* Number of icons: 3249
+* Number of icons: 3253
 * Author: Simple Icons Collaborators
 * URL: https://github.com/simple-icons/simple-icons
 * License: CC0 1.0
 * License URL: https://github.com/simple-icons/simple-icons/blob/develop/LICENSE.md
-* Version: 14.1.0
+* Version: 14.2.0
 * Palette: Colorless
 * Icon set prefix: `simple-icons`
 * File: [json/simple-icons.json](json/simple-icons.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
@@ -1253,23 +1253,23 @@
 * File: [json/entypo-social.json](json/entypo-social.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Web3 Icons
-* Number of icons: 1753
+* Number of icons: 1773
 * Author: 0xa3k5
 * URL: https://github.com/0xa3k5/web3icons
 * License: MIT
 * License URL: https://github.com/0xa3k5/web3icons/blob/main/LICENCE
-* Version: 3.14.0
+* Version: 3.15.0
 * Palette: Colorless
 * Icon set prefix: `token`
 * File: [json/token.json](json/token.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Web3 Icons Branded
-* Number of icons: 1943
+* Number of icons: 1962
 * Author: 0xa3k5
 * URL: https://github.com/0xa3k5/web3icons
 * License: MIT
 * License URL: https://github.com/0xa3k5/web3icons/blob/main/LICENCE
-* Version: 3.14.0
+* Version: 3.15.0
 * Palette: Colorful
 * Icon set prefix: `token-branded`
 * File: [json/token-branded.json](json/token-branded.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
@@ -1465,7 +1465,7 @@
 * File: [json/cif.json](json/cif.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Font-GIS
-* Number of icons: 365
+* Number of icons: 367
 * Author: Jean-Marc Viglino
 * URL: https://github.com/viglino/font-gis
 * License: CC BY 4.0

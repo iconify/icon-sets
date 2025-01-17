@@ -146,7 +146,7 @@
 * File: [json/iconoir.json](json/iconoir.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Lucide
-* Number of icons: 1546
+* Number of icons: 1548
 * Author: Lucide Contributors
 * URL: https://github.com/lucide-icons/lucide
 * License: ISC
@@ -1421,7 +1421,7 @@
 * File: [json/streamline-emojis.json](json/streamline-emojis.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Circle Flags
-* Number of icons: 526
+* Number of icons: 434
 * Author: HatScripts
 * URL: https://github.com/HatScripts/circle-flags
 * License: MIT
@@ -1432,12 +1432,12 @@
 * File: [json/circle-flags.json](json/circle-flags.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Flag Icons
-* Number of icons: 540
+* Number of icons: 542
 * Author: Panayiotis Lipiridis
 * URL: https://github.com/lipis/flag-icons
 * License: MIT
 * License URL: https://github.com/lipis/flag-icons/blob/main/LICENSE
-* Version: 7.3.1
+* Version: 7.3.2
 * Palette: Colorful
 * Icon set prefix: `flag`
 * File: [json/flag.json](json/flag.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))

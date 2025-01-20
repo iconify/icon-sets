@@ -293,7 +293,7 @@
 * File: [json/ci.json](json/ci.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## ProIcons
-* Number of icons: 473
+* Number of icons: 490
 * Author: ProCode
 * URL: https://github.com/ProCode-Software/proicons
 * License: MIT
@@ -738,12 +738,12 @@
 * File: [json/formkit.json](json/formkit.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Fluent UI System Icons
-* Number of icons: 17169
+* Number of icons: 17219
 * Author: Microsoft Corporation
 * URL: https://github.com/microsoft/fluentui-system-icons
 * License: MIT
 * License URL: https://github.com/microsoft/fluentui-system-icons/blob/main/LICENSE
-* Version: 1.1.271
+* Version: 1.1.273
 * Palette: Colorless
 * Icon set prefix: `fluent`
 * File: [json/fluent.json](json/fluent.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
@@ -1037,12 +1037,12 @@
 * File: [json/qlementine-icons.json](json/qlementine-icons.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Fluent UI System Color Icons
-* Number of icons: 370
+* Number of icons: 384
 * Author: Microsoft Corporation
 * URL: https://github.com/microsoft/fluentui-system-icons
 * License: MIT
 * License URL: https://github.com/microsoft/fluentui-system-icons/blob/main/LICENSE
-* Version: 1.1.271
+* Version: 1.1.273
 * Palette: Colorful
 * Icon set prefix: `fluent-color`
 * File: [json/fluent-color.json](json/fluent-color.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
@@ -1148,12 +1148,12 @@
 * File: [json/unjs.json](json/unjs.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Simple Icons
-* Number of icons: 3253
+* Number of icons: 3258
 * Author: Simple Icons Collaborators
 * URL: https://github.com/simple-icons/simple-icons
 * License: CC0 1.0
 * License URL: https://github.com/simple-icons/simple-icons/blob/develop/LICENSE.md
-* Version: 14.2.0
+* Version: 14.3.0
 * Palette: Colorless
 * Icon set prefix: `simple-icons`
 * File: [json/simple-icons.json](json/simple-icons.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
@@ -1213,7 +1213,7 @@
 * File: [json/nonicons.json](json/nonicons.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Arcticons
-* Number of icons: 12053
+* Number of icons: 12052
 * Author: Donnnno
 * URL: https://github.com/Arcticons-Team/Arcticons
 * License: CC BY-SA 4.0

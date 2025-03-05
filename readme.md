@@ -12,7 +12,7 @@ All icons have been processed with [Iconify Tools](https://iconify.design/docs/l
 
 Icon parsing process includes:
 
-- Very strict validation and clean up. Icons do not contain scripts, even listeners, fonts, raster images, external resources and unknown elements.
+- Very strict validation and clean up. Icons do not contain scripts, event listeners, fonts, raster images, external resources and unknown elements.
 - Colors for monotone icons have been replaced with `currentColor`, making it easy to change icon color by changing text color.
 - Icon content has been optimised to reduce its size.
 

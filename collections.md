@@ -1320,7 +1320,7 @@
 * Number of icons: 3562
 * Author: Google Inc
 * URL: https://github.com/googlefonts/noto-emoji
-* License: Apache 2.0
+* License: Open Font License
 * License URL: https://github.com/googlefonts/noto-emoji/blob/main/LICENSE
 * Palette: Colorful
 * Icon set prefix: `noto`

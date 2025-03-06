@@ -74,12 +74,12 @@
 * File: [json/solar.json](json/solar.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Tabler Icons
-* Number of icons: 5862
+* Number of icons: 5880
 * Author: Paweł Kuna
 * URL: https://github.com/tabler/tabler-icons
 * License: MIT
 * License URL: https://github.com/tabler/tabler-icons/blob/master/LICENSE
-* Version: 3.30.0
+* Version: 3.31.0
 * Palette: Colorless
 * Icon set prefix: `tabler`
 * File: [json/tabler.json](json/tabler.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
@@ -743,7 +743,7 @@
 * URL: https://github.com/microsoft/fluentui-system-icons
 * License: MIT
 * License URL: https://github.com/microsoft/fluentui-system-icons/blob/main/LICENSE
-* Version: 1.1.273
+* Version: 1.1.278
 * Palette: Colorless
 * Icon set prefix: `fluent`
 * File: [json/fluent.json](json/fluent.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
@@ -796,7 +796,7 @@
 * URL: https://github.com/primer/octicons/
 * License: MIT
 * License URL: https://github.com/primer/octicons/blob/main/LICENSE
-* Version: 19.15.0
+* Version: 19.15.1
 * Palette: Colorless
 * Icon set prefix: `octicon`
 * File: [json/octicon.json](json/octicon.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
@@ -1027,7 +1027,7 @@
 * File: [json/nrk.json](json/nrk.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Qlementine Icons
-* Number of icons: 611
+* Number of icons: 616
 * Author: Olivier Cléro
 * URL: https://github.com/oclero/qlementine-icons
 * License: MIT
@@ -1042,7 +1042,7 @@
 * URL: https://github.com/microsoft/fluentui-system-icons
 * License: MIT
 * License URL: https://github.com/microsoft/fluentui-system-icons/blob/main/LICENSE
-* Version: 1.1.273
+* Version: 1.1.278
 * Palette: Colorful
 * Icon set prefix: `fluent-color`
 * File: [json/fluent-color.json](json/fluent-color.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
@@ -1087,6 +1087,16 @@
 * Palette: Colorless
 * Icon set prefix: `codicon`
 * File: [json/codicon.json](json/codicon.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
+
+## Material Icon Theme
+* Number of icons: 1020
+* Author: Material Extensions
+* URL: https://github.com/material-extensions/vscode-material-icon-theme
+* License: MIT
+* License URL: https://github.com/material-extensions/vscode-material-icon-theme/blob/main/LICENSE
+* Palette: Colorful
+* Icon set prefix: `material-icon-theme`
+* File: [json/material-icon-theme.json](json/material-icon-theme.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## File Icons
 * Number of icons: 930
@@ -1213,7 +1223,7 @@
 * File: [json/nonicons.json](json/nonicons.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Arcticons
-* Number of icons: 12308
+* Number of icons: 12307
 * Author: Donnnno
 * URL: https://github.com/Arcticons-Team/Arcticons
 * License: CC BY-SA 4.0
@@ -1321,7 +1331,7 @@
 * Author: Google Inc
 * URL: https://github.com/googlefonts/noto-emoji
 * License: Apache 2.0
-* License URL: https://github.com/googlefonts/noto-emoji/blob/main/LICENSE
+* License URL: https://github.com/googlefonts/noto-emoji/blob/main/svg/LICENSE
 * Palette: Colorful
 * Icon set prefix: `noto`
 * File: [json/noto.json](json/noto.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
@@ -1361,7 +1371,7 @@
 * Author: Google Inc
 * URL: https://github.com/googlefonts/noto-emoji
 * License: Apache 2.0
-* License URL: https://github.com/googlefonts/noto-emoji/blob/main/LICENSE
+* License URL: https://github.com/googlefonts/noto-emoji/blob/main/svg/LICENSE
 * Palette: Colorful
 * Icon set prefix: `noto-v1`
 * File: [json/noto-v1.json](json/noto-v1.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))

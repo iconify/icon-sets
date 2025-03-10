@@ -85,7 +85,7 @@
 * File: [json/tabler.json](json/tabler.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Huge Icons
-* Number of icons: 4151
+* Number of icons: 4386
 * Author: Hugeicons
 * URL: https://icon-sets.iconify.design/icon-sets/hugeicons/
 * License: MIT
@@ -781,7 +781,7 @@
 * File: [json/clarity.json](json/clarity.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Siemens Industrial Experience Icons
-* Number of icons: 815
+* Number of icons: 1255
 * Author: Siemens AG
 * URL: https://github.com/siemens/ix-icons
 * License: MIT
@@ -1109,7 +1109,7 @@
 * File: [json/file-icons.json](json/file-icons.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Devicon
-* Number of icons: 882
+* Number of icons: 903
 * Author: konpa
 * URL: https://github.com/devicons/devicon/tree/master
 * License: MIT
@@ -1119,7 +1119,7 @@
 * File: [json/devicon.json](json/devicon.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Devicon Plain
-* Number of icons: 648
+* Number of icons: 663
 * Author: konpa
 * URL: https://github.com/devicons/devicon/tree/master
 * License: MIT
@@ -1158,12 +1158,12 @@
 * File: [json/unjs.json](json/unjs.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Simple Icons
-* Number of icons: 3273
+* Number of icons: 3276
 * Author: Simple Icons Collaborators
 * URL: https://github.com/simple-icons/simple-icons
 * License: CC0 1.0
 * License URL: https://github.com/simple-icons/simple-icons/blob/develop/LICENSE.md
-* Version: 14.9.0
+* Version: 14.10.0
 * Palette: Colorless
 * Icon set prefix: `simple-icons`
 * File: [json/simple-icons.json](json/simple-icons.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))

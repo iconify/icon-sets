@@ -308,7 +308,7 @@
 * URL: https://github.com/ProCode-Software/proicons
 * License: MIT
 * License URL: https://github.com/ProCode-Software/proicons/blob/main/LICENSE
-* Version: 4.12.1
+* Version: 4.12.2
 * Palette: Colorless
 * Icon set prefix: `proicons`
 * File: [json/proicons.json](json/proicons.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
@@ -957,7 +957,7 @@
 * URL: https://gitlab.com/gitlab-org/gitlab-svgs/-/tree/main
 * License: MIT
 * License URL: https://gitlab.com/gitlab-org/gitlab-svgs/-/blob/main/LICENSE
-* Version: 3.123.0
+* Version: 3.125.0
 * Palette: Colorless
 * Icon set prefix: `pajamas`
 * File: [json/pajamas.json](json/pajamas.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
@@ -1119,7 +1119,7 @@
 * File: [json/file-icons.json](json/file-icons.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Devicon
-* Number of icons: 912
+* Number of icons: 913
 * Author: konpa
 * URL: https://github.com/devicons/devicon/tree/master
 * License: MIT
@@ -1129,7 +1129,7 @@
 * File: [json/devicon.json](json/devicon.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Devicon Plain
-* Number of icons: 668
+* Number of icons: 669
 * Author: konpa
 * URL: https://github.com/devicons/devicon/tree/master
 * License: MIT

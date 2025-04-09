@@ -2,8 +2,8 @@
 	"prefix": "line-md",
 	"info": {
 		"name": "Material Line Icons",
-		"total": 1089,
-		"version": "2.0.5",
+		"total": 1090,
+		"version": "2.0.6",
 		"author": {
 			"name": "Vjacheslav Trushkin",
 			"url": "https://github.com/cyberalien/line-md"
@@ -31,7 +31,7 @@
 		],
 		"palette": false
 	},
-	"lastModified": 1736493333,
+	"lastModified": 1744199283,
 	"icons": {
 		"account": {
 			"body": "<g fill=\"none\" stroke=\"currentColor\" stroke-dasharray=\"28\" stroke-dashoffset=\"28\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\"><path d=\"M4 21v-1c0 -3.31 2.69 -6 6 -6h4c3.31 0 6 2.69 6 6v1\"><animate fill=\"freeze\" attributeName=\"stroke-dashoffset\" dur=\"0.4s\" values=\"28;0\"/></path><path d=\"M12 11c-2.21 0 -4 -1.79 -4 -4c0 -2.21 1.79 -4 4 -4c2.21 0 4 1.79 4 4c0 2.21 -1.79 4 -4 4Z\"><animate fill=\"freeze\" attributeName=\"stroke-dashoffset\" begin=\"0.4s\" dur=\"0.4s\" values=\"28;0\"/></path></g>"
@@ -3095,6 +3095,9 @@
 		"tiktok": {
 			"body": "<mask id=\"lineMdTiktok0\"><g fill=\"none\" stroke=\"#fff\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\"><path fill=\"#fff\" stroke=\"none\" d=\"M16.6 5.82c-0.68 -0.78 -1.06 -1.78 -1.06 -2.82h-3.09v12.4c-0.02 0.67 -0.31 1.31 -0.79 1.77c-0.48 0.47 -1.13 0.73 -1.8 0.73c-1.42 0 -2.6 -1.16 -2.6 -2.6c0 -1.72 1.66 -3.01 3.37 -2.48v-3.16c-3.45 -0.46 -6.47 2.22 -6.47 5.64c0 3.33 2.76 5.7 5.69 5.7c3.14 0 5.69 -2.55 5.69 -5.7v-6.29c1.25 0.9 2.76 1.38 4.3 1.38v-3.09c0 0 -1.88 0.09 -3.24 -1.48Z\"/><path stroke=\"#000\" stroke-dasharray=\"36\" stroke-dashoffset=\"72\" stroke-width=\"4\" d=\"M11 11h-1c-2.21 0 -4.5 1.79 -4.5 4c0 2.21 1.5 4.5 4.5 4.5c2.21 0 4 -2.29 4 -4.5v-12.5\"><animate fill=\"freeze\" attributeName=\"stroke-dashoffset\" dur=\"0.6s\" values=\"72;36\"/></path><path stroke=\"#000\" stroke-dasharray=\"10\" stroke-dashoffset=\"20\" stroke-width=\"4\" d=\"M18 2.5v8\"><animate fill=\"freeze\" attributeName=\"stroke-dashoffset\" begin=\"0.5s\" dur=\"0.1s\" values=\"20;10\"/></path></g></mask><rect width=\"24\" height=\"24\" fill=\"currentColor\" mask=\"url(#lineMdTiktok0)\"/>"
 		},
+		"trash": {
+			"body": "<g fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\"><path stroke-dasharray=\"24\" stroke-dashoffset=\"24\" d=\"M12 20h5c0.5 0 1 -0.5 1 -1v-14M12 20h-5c-0.5 0 -1 -0.5 -1 -1v-14\"><animate fill=\"freeze\" attributeName=\"stroke-dashoffset\" dur=\"0.4s\" values=\"24;0\"/></path><path stroke-dasharray=\"20\" stroke-dashoffset=\"20\" d=\"M4 5h16\"><animate fill=\"freeze\" attributeName=\"stroke-dashoffset\" begin=\"0.4s\" dur=\"0.2s\" values=\"20;0\"/></path><path stroke-dasharray=\"8\" stroke-dashoffset=\"8\" d=\"M10 4h4M10 9v7M14 9v7\"><animate fill=\"freeze\" attributeName=\"stroke-dashoffset\" begin=\"0.6s\" dur=\"0.2s\" values=\"8;0\"/></path></g>"
+		},
 		"turn-left": {
 			"body": "<g fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\"><path stroke-dasharray=\"24\" stroke-dashoffset=\"24\" d=\"M16 19v-8c0 -0.55 -0.45 -1 -1 -1h-11\"><animate fill=\"freeze\" attributeName=\"stroke-dashoffset\" dur=\"0.4s\" values=\"24;0\"/></path><path stroke-dasharray=\"6\" stroke-dashoffset=\"6\" d=\"M4 10l3 -3M4 10l3 3\"><animate fill=\"freeze\" attributeName=\"stroke-dashoffset\" begin=\"0.4s\" dur=\"0.2s\" values=\"6;0\"/></path></g>"
 		},
@@ -4158,6 +4161,7 @@
 			"switch-to-switch-off-transition",
 			"switch-twotone",
 			"switch-twotone-to-switch-off-twotone-transition",
+			"trash",
 			"watch",
 			"watch-loop",
 			"watch-off",

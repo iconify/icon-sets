@@ -2,7 +2,7 @@
 
 
 ## Material Symbols
-* Number of icons: 14115
+* Number of icons: 14129
 * Author: Google
 * URL: https://github.com/google/material-design-icons
 * License: Apache 2.0
@@ -12,7 +12,7 @@
 * File: [json/material-symbols.json](json/material-symbols.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Material Symbols Light
-* Number of icons: 14183
+* Number of icons: 14197
 * Author: Google
 * URL: https://github.com/google/material-design-icons
 * License: Apache 2.0
@@ -599,7 +599,7 @@
 * File: [json/carbon.json](json/carbon.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## IonIcons
-* Number of icons: 1356
+* Number of icons: 1357
 * Author: Ben Sperry
 * URL: https://github.com/ionic-team/ionicons
 * License: MIT
@@ -1037,7 +1037,7 @@
 * File: [json/nrk.json](json/nrk.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Qlementine Icons
-* Number of icons: 649
+* Number of icons: 684
 * Author: Olivier Cléro
 * URL: https://github.com/oclero/qlementine-icons
 * License: MIT

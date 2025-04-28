@@ -1099,7 +1099,7 @@
 * File: [json/codicon.json](json/codicon.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Material Icon Theme
-* Number of icons: 1034
+* Number of icons: 1037
 * Author: Material Extensions
 * URL: https://github.com/material-extensions/vscode-material-icon-theme
 * License: MIT
@@ -1518,7 +1518,7 @@
 * File: [json/geo.json](json/geo.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Game Icons
-* Number of icons: 4102
+* Number of icons: 4111
 * Author: GameIcons
 * URL: https://github.com/game-icons/icons
 * License: CC BY 3.0

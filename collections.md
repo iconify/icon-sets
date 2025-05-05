@@ -146,7 +146,7 @@
 * File: [json/iconoir.json](json/iconoir.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Lucide
-* Number of icons: 1586
+* Number of icons: 1591
 * Author: Lucide Contributors
 * URL: https://github.com/lucide-icons/lucide
 * License: ISC
@@ -303,7 +303,7 @@
 * File: [json/ci.json](json/ci.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## ProIcons
-* Number of icons: 504
+* Number of icons: 518
 * Author: ProCode
 * URL: https://github.com/ProCode-Software/proicons
 * License: MIT
@@ -604,7 +604,7 @@
 * URL: https://github.com/ionic-team/ionicons
 * License: MIT
 * License URL: https://github.com/ionic-team/ionicons/blob/main/LICENSE
-* Version: 7.4.0
+* Version: 8.0.0
 * Palette: Colorless
 * Icon set prefix: `ion`
 * File: [json/ion.json](json/ion.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
@@ -706,12 +706,12 @@
 * File: [json/bytesize.json](json/bytesize.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Bootstrap Icons
-* Number of icons: 2050
+* Number of icons: 2051
 * Author: The Bootstrap Authors
 * URL: https://github.com/twbs/icons
 * License: MIT
 * License URL: https://github.com/twbs/icons/blob/main/LICENSE.md
-* Version: 1.11.3
+* Version: 1.12.1
 * Palette: Colorless
 * Icon set prefix: `bi`
 * File: [json/bi.json](json/bi.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
@@ -1528,7 +1528,7 @@
 * File: [json/geo.json](json/geo.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Game Icons
-* Number of icons: 4111
+* Number of icons: 4123
 * Author: GameIcons
 * URL: https://github.com/game-icons/icons
 * License: CC BY 3.0

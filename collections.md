@@ -53,12 +53,12 @@
 * File: [json/mdi-light.json](json/mdi-light.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Material Line Icons
-* Number of icons: 1090
+* Number of icons: 1091
 * Author: Vjacheslav Trushkin
 * URL: https://github.com/cyberalien/line-md
 * License: MIT
 * License URL: https://github.com/cyberalien/line-md/blob/master/license.txt
-* Version: 2.0.7
+* Version: 2.0.8
 * Palette: Colorless
 * Icon set prefix: `line-md`
 * File: [json/line-md.json](json/line-md.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
@@ -604,7 +604,7 @@
 * URL: https://github.com/ionic-team/ionicons
 * License: MIT
 * License URL: https://github.com/ionic-team/ionicons/blob/main/LICENSE
-* Version: 8.0.0
+* Version: 8.0.8
 * Palette: Colorless
 * Icon set prefix: `ion`
 * File: [json/ion.json](json/ion.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))

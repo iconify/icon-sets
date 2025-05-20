@@ -455,12 +455,12 @@
 * File: [json/mi.json](json/mi.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Cuida Icons
-* Number of icons: 179
+* Number of icons: 180
 * Author: Sysvale
 * URL: https://github.com/Sysvale/cuida-icons
 * License: Apache 2.0
 * License URL: https://github.com/Sysvale/cuida-icons/blob/main/LICENSE
-* Version: 1.16.0
+* Version: 1.17.0
 * Palette: Colorless
 * Icon set prefix: `cuida`
 * File: [json/cuida.json](json/cuida.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
@@ -1129,7 +1129,7 @@
 * File: [json/file-icons.json](json/file-icons.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Devicon
-* Number of icons: 916
+* Number of icons: 922
 * Author: konpa
 * URL: https://github.com/devicons/devicon/tree/master
 * License: MIT
@@ -1139,7 +1139,7 @@
 * File: [json/devicon.json](json/devicon.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Devicon Plain
-* Number of icons: 671
+* Number of icons: 674
 * Author: konpa
 * URL: https://github.com/devicons/devicon/tree/master
 * License: MIT
@@ -1178,12 +1178,12 @@
 * File: [json/unjs.json](json/unjs.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Simple Icons
-* Number of icons: 3284
+* Number of icons: 3295
 * Author: Simple Icons Collaborators
 * URL: https://github.com/simple-icons/simple-icons
 * License: CC0 1.0
 * License URL: https://github.com/simple-icons/simple-icons/blob/develop/LICENSE.md
-* Version: 14.13.0
+* Version: 14.14.0
 * Palette: Colorless
 * Icon set prefix: `simple-icons`
 * File: [json/simple-icons.json](json/simple-icons.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))

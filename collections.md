@@ -2,7 +2,7 @@
 
 
 ## Material Symbols
-* Number of icons: 14376
+* Number of icons: 14175
 * Author: Google
 * URL: https://github.com/google/material-design-icons
 * License: Apache 2.0
@@ -12,7 +12,7 @@
 * File: [json/material-symbols.json](json/material-symbols.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Material Symbols Light
-* Number of icons: 14444
+* Number of icons: 14243
 * Author: Google
 * URL: https://github.com/google/material-design-icons
 * License: Apache 2.0
@@ -115,7 +115,7 @@
 * File: [json/ri.json](json/ri.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Myna UI Icons
-* Number of icons: 2382
+* Number of icons: 2434
 * Author: Praveen Juge
 * URL: https://github.com/praveenjuge/mynaui-icons
 * License: MIT
@@ -146,7 +146,7 @@
 * File: [json/iconoir.json](json/iconoir.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Lucide
-* Number of icons: 1595
+* Number of icons: 1597
 * Author: Lucide Contributors
 * URL: https://github.com/lucide-icons/lucide
 * License: ISC
@@ -578,6 +578,16 @@
 * Icon set prefix: `jam`
 * File: [json/jam.json](json/jam.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
+## Cyber free icons
+* Number of icons: 500
+* Author: Streamline
+* URL: https://github.com/webalys-hq/streamline-vectors
+* License: CC BY 4.0
+* License URL: https://creativecommons.org/licenses/by/4.0/
+* Palette: Colorless
+* Icon set prefix: `streamline-cyber`
+* File: [json/streamline-cyber.json](json/streamline-cyber.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
+
 ## Guidance
 * Number of icons: 360
 * Author: Streamline
@@ -715,6 +725,16 @@
 * Palette: Colorless
 * Icon set prefix: `bi`
 * File: [json/bi.json](json/bi.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
+
+## Streamline Block
+* Number of icons: 300
+* Author: Streamline
+* URL: https://github.com/webalys-hq/streamline-vectors
+* License: CC BY 4.0
+* License URL: https://creativecommons.org/licenses/by/4.0/
+* Palette: Colorless
+* Icon set prefix: `streamline-block`
+* File: [json/streamline-block.json](json/streamline-block.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Rivet Icons
 * Number of icons: 210
@@ -973,7 +993,7 @@
 * File: [json/garden.json](json/garden.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Streamline
-* Number of icons: 2000
+* Number of icons: 3000
 * Author: Streamline
 * URL: https://github.com/webalys-hq/streamline-vectors
 * License: CC BY 4.0
@@ -981,6 +1001,16 @@
 * Palette: Colorless
 * Icon set prefix: `streamline`
 * File: [json/streamline.json](json/streamline.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
+
+## Flex free icons
+* Number of icons: 1500
+* Author: Streamline
+* URL: https://github.com/webalys-hq/streamline-vectors
+* License: CC BY 4.0
+* License URL: https://creativecommons.org/licenses/by/4.0/
+* Palette: Colorless
+* Icon set prefix: `streamline-flex`
+* File: [json/streamline-flex.json](json/streamline-flex.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Font Awesome Solid
 * Number of icons: 1402
@@ -1178,12 +1208,12 @@
 * File: [json/unjs.json](json/unjs.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Simple Icons
-* Number of icons: 3295
+* Number of icons: 3307
 * Author: Simple Icons Collaborators
 * URL: https://github.com/simple-icons/simple-icons
 * License: CC0 1.0
 * License URL: https://github.com/simple-icons/simple-icons/blob/develop/LICENSE.md
-* Version: 14.14.0
+* Version: 14.15.0
 * Palette: Colorless
 * Icon set prefix: `simple-icons`
 * File: [json/simple-icons.json](json/simple-icons.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))

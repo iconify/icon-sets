@@ -505,6 +505,36 @@
 * Icon set prefix: `lets-icons`
 * File: [json/lets-icons.json](json/lets-icons.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
+## Ultimate free icons
+* Number of icons: 1999
+* Author: Streamline
+* URL: https://github.com/webalys-hq/streamline-vectors
+* License: CC BY 4.0
+* License URL: https://creativecommons.org/licenses/by/4.0/
+* Palette: Colorless
+* Icon set prefix: `streamline-ultimate`
+* File: [json/streamline-ultimate.json](json/streamline-ultimate.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
+
+## Plump free icons
+* Number of icons: 1499
+* Author: Streamline
+* URL: https://github.com/webalys-hq/streamline-vectors
+* License: CC BY 4.0
+* License URL: https://creativecommons.org/licenses/by/4.0/
+* Palette: Colorless
+* Icon set prefix: `streamline-plump`
+* File: [json/streamline-plump.json](json/streamline-plump.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
+
+## Sharp free icons
+* Number of icons: 1500
+* Author: Streamline
+* URL: https://github.com/webalys-hq/streamline-vectors
+* License: CC BY 4.0
+* License URL: https://creativecommons.org/licenses/by/4.0/
+* Palette: Colorless
+* Icon set prefix: `streamline-sharp`
+* File: [json/streamline-sharp.json](json/streamline-sharp.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
+
 ## Mage Icons
 * Number of icons: 1042
 * Author: MageIcons
@@ -726,6 +756,16 @@
 * Icon set prefix: `bi`
 * File: [json/bi.json](json/bi.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
+## Pixel free icons
+* Number of icons: 662
+* Author: Streamline
+* URL: https://github.com/webalys-hq/streamline-vectors
+* License: CC BY 4.0
+* License URL: https://creativecommons.org/licenses/by/4.0/
+* Palette: Colorless
+* Icon set prefix: `streamline-pixel`
+* File: [json/streamline-pixel.json](json/streamline-pixel.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
+
 ## Streamline Block
 * Number of icons: 300
 * Author: Streamline
@@ -809,6 +849,16 @@
 * Palette: Colorless
 * Icon set prefix: `clarity`
 * File: [json/clarity.json](json/clarity.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
+
+## Freehand free icons
+* Number of icons: 1000
+* Author: Streamline
+* URL: https://github.com/webalys-hq/streamline-vectors
+* License: CC BY 4.0
+* License URL: https://creativecommons.org/licenses/by/4.0/
+* Palette: Colorless
+* Icon set prefix: `streamline-freehand`
+* File: [json/streamline-freehand.json](json/streamline-freehand.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Siemens Industrial Experience Icons
 * Number of icons: 1315
@@ -1076,6 +1126,16 @@
 * Icon set prefix: `nrk`
 * File: [json/nrk.json](json/nrk.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
+## Dinkie Icons
+* Number of icons: 1198
+* Author: atelierAnchor
+* URL: https://github.com/atelier-anchor/dinkie-icons
+* License: MIT
+* License URL: https://github.com/atelier-anchor/dinkie-icons/blob/main/LICENSE
+* Palette: Colorless
+* Icon set prefix: `dinkie-icons`
+* File: [json/dinkie-icons.json](json/dinkie-icons.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
+
 ## Qlementine Icons
 * Number of icons: 684
 * Author: Olivier Cléro
@@ -1085,6 +1145,56 @@
 * Palette: Colorless
 * Icon set prefix: `qlementine-icons`
 * File: [json/qlementine-icons.json](json/qlementine-icons.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
+
+## Ultimate color icons
+* Number of icons: 998
+* Author: Streamline
+* URL: https://github.com/webalys-hq/streamline-vectors
+* License: CC BY 4.0
+* License URL: https://creativecommons.org/licenses/by/4.0/
+* Palette: Colorful
+* Icon set prefix: `streamline-ultimate-color`
+* File: [json/streamline-ultimate-color.json](json/streamline-ultimate-color.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
+
+## Plump color icons
+* Number of icons: 1000
+* Author: Streamline
+* URL: https://github.com/webalys-hq/streamline-vectors
+* License: CC BY 4.0
+* License URL: https://creativecommons.org/licenses/by/4.0/
+* Palette: Colorful
+* Icon set prefix: `streamline-plump-color`
+* File: [json/streamline-plump-color.json](json/streamline-plump-color.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
+
+## Freehand color icons
+* Number of icons: 1000
+* Author: Streamline
+* URL: https://github.com/webalys-hq/streamline-vectors
+* License: CC BY 4.0
+* License URL: https://creativecommons.org/licenses/by/4.0/
+* Palette: Colorful
+* Icon set prefix: `streamline-freehand-color`
+* File: [json/streamline-freehand-color.json](json/streamline-freehand-color.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
+
+## Kameleon color icons
+* Number of icons: 400
+* Author: Streamline
+* URL: https://github.com/webalys-hq/streamline-vectors
+* License: CC BY 4.0
+* License URL: https://creativecommons.org/licenses/by/4.0/
+* Palette: Colorful
+* Icon set prefix: `streamline-kameleon-color`
+* File: [json/streamline-kameleon-color.json](json/streamline-kameleon-color.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
+
+## Stickies color icons
+* Number of icons: 200
+* Author: Streamline
+* URL: https://github.com/webalys-hq/streamline-vectors
+* License: CC BY 4.0
+* License URL: https://creativecommons.org/licenses/by/4.0/
+* Palette: Colorful
+* Icon set prefix: `streamline-stickies-color`
+* File: [json/streamline-stickies-color.json](json/streamline-stickies-color.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Fluent UI System Color Icons
 * Number of icons: 867
@@ -1096,6 +1206,46 @@
 * Palette: Colorful
 * Icon set prefix: `fluent-color`
 * File: [json/fluent-color.json](json/fluent-color.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
+
+## Streamline color
+* Number of icons: 2000
+* Author: Streamline
+* URL: https://github.com/webalys-hq/streamline-vectors
+* License: CC BY 4.0
+* License URL: https://creativecommons.org/licenses/by/4.0/
+* Palette: Colorful
+* Icon set prefix: `streamline-color`
+* File: [json/streamline-color.json](json/streamline-color.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
+
+## Flex color icons
+* Number of icons: 1000
+* Author: Streamline
+* URL: https://github.com/webalys-hq/streamline-vectors
+* License: CC BY 4.0
+* License URL: https://creativecommons.org/licenses/by/4.0/
+* Palette: Colorful
+* Icon set prefix: `streamline-flex-color`
+* File: [json/streamline-flex-color.json](json/streamline-flex-color.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
+
+## Sharp color icons
+* Number of icons: 1000
+* Author: Streamline
+* URL: https://github.com/webalys-hq/streamline-vectors
+* License: CC BY 4.0
+* License URL: https://creativecommons.org/licenses/by/4.0/
+* Palette: Colorful
+* Icon set prefix: `streamline-sharp-color`
+* File: [json/streamline-sharp-color.json](json/streamline-sharp-color.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
+
+## Cyber color icons
+* Number of icons: 500
+* Author: Streamline
+* URL: https://github.com/webalys-hq/streamline-vectors
+* License: CC BY 4.0
+* License URL: https://creativecommons.org/licenses/by/4.0/
+* Palette: Colorful
+* Icon set prefix: `streamline-cyber-color`
+* File: [json/streamline-cyber-color.json](json/streamline-cyber-color.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## IconPark
 * Number of icons: 2658
@@ -1159,7 +1309,7 @@
 * File: [json/file-icons.json](json/file-icons.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Devicon
-* Number of icons: 927
+* Number of icons: 931
 * Author: konpa
 * URL: https://github.com/devicons/devicon/tree/master
 * License: MIT
@@ -1169,7 +1319,7 @@
 * File: [json/devicon.json](json/devicon.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Devicon Plain
-* Number of icons: 678
+* Number of icons: 680
 * Author: konpa
 * URL: https://github.com/devicons/devicon/tree/master
 * License: MIT
@@ -1227,6 +1377,16 @@
 * Palette: Colorful
 * Icon set prefix: `logos`
 * File: [json/logos.json](json/logos.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
+
+## Logos free icons
+* Number of icons: 1362
+* Author: Streamline
+* URL: https://github.com/webalys-hq/streamline-vectors
+* License: CC BY 4.0
+* License URL: https://creativecommons.org/licenses/by/4.0/
+* Palette: Colorless
+* Icon set prefix: `streamline-logos`
+* File: [json/streamline-logos.json](json/streamline-logos.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## CoreUI Brands
 * Number of icons: 830

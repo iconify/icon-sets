@@ -2,7 +2,7 @@
 
 
 ## Material Symbols
-* Number of icons: 14413
+* Number of icons: 14487
 * Author: Google
 * URL: https://github.com/google/material-design-icons
 * License: Apache 2.0
@@ -12,7 +12,7 @@
 * File: [json/material-symbols.json](json/material-symbols.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Material Symbols Light
-* Number of icons: 14481
+* Number of icons: 14555
 * Author: Google
 * URL: https://github.com/google/material-design-icons
 * License: Apache 2.0
@@ -629,11 +629,11 @@
 * File: [json/guidance.json](json/guidance.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Carbon
-* Number of icons: 2336
+* Number of icons: 2365
 * Author: IBM
 * URL: https://github.com/carbon-design-system/carbon/tree/main/packages/icons
 * License: Apache 2.0
-* Version: 11.62.0
+* Version: 11.63.0
 * Palette: Colorless
 * Icon set prefix: `carbon`
 * File: [json/carbon.json](json/carbon.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
@@ -871,7 +871,7 @@
 * File: [json/ix.json](json/ix.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Octicons
-* Number of icons: 651
+* Number of icons: 657
 * Author: GitHub
 * URL: https://github.com/primer/octicons/
 * License: MIT
@@ -1027,7 +1027,7 @@
 * URL: https://gitlab.com/gitlab-org/gitlab-svgs/-/tree/main
 * License: MIT
 * License URL: https://gitlab.com/gitlab-org/gitlab-svgs/-/blob/main/LICENSE
-* Version: 3.140.0
+* Version: 3.141.0
 * Palette: Colorless
 * Icon set prefix: `pajamas`
 * File: [json/pajamas.json](json/pajamas.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
@@ -1283,7 +1283,7 @@
 * URL: https://github.com/microsoft/vscode-codicons
 * License: CC BY 4.0
 * License URL: https://github.com/microsoft/vscode-codicons/blob/main/LICENSE
-* Version: 0.0.37
+* Version: 0.0.38
 * Palette: Colorless
 * Icon set prefix: `codicon`
 * File: [json/codicon.json](json/codicon.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
@@ -1309,7 +1309,7 @@
 * File: [json/file-icons.json](json/file-icons.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Devicon
-* Number of icons: 938
+* Number of icons: 937
 * Author: konpa
 * URL: https://github.com/devicons/devicon/tree/master
 * License: MIT
@@ -1358,12 +1358,12 @@
 * File: [json/unjs.json](json/unjs.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Simple Icons
-* Number of icons: 3334
+* Number of icons: 3336
 * Author: Simple Icons Collaborators
 * URL: https://github.com/simple-icons/simple-icons
 * License: CC0 1.0
 * License URL: https://github.com/simple-icons/simple-icons/blob/develop/LICENSE.md
-* Version: 15.6.0
+* Version: 15.7.0
 * Palette: Colorless
 * Icon set prefix: `simple-icons`
 * File: [json/simple-icons.json](json/simple-icons.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
@@ -1433,7 +1433,7 @@
 * File: [json/nonicons.json](json/nonicons.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Arcticons
-* Number of icons: 12946
+* Number of icons: 13243
 * Author: Donnnno
 * URL: https://github.com/Arcticons-Team/Arcticons
 * License: CC BY-SA 4.0

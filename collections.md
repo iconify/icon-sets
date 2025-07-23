@@ -1063,26 +1063,26 @@
 * File: [json/streamline-flex.json](json/streamline-flex.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Font Awesome Solid
-* Number of icons: 1402
+* Number of icons: 1983
 * Author: Dave Gandy
 * URL: https://github.com/FortAwesome/Font-Awesome
 * License: CC BY 4.0
 * License URL: https://creativecommons.org/licenses/by/4.0/
-* Version: 6.7.2
+* Version: 7.0.0
 * Palette: Colorless
-* Icon set prefix: `fa6-solid`
-* File: [json/fa6-solid.json](json/fa6-solid.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
+* Icon set prefix: `fa7-solid`
+* File: [json/fa7-solid.json](json/fa7-solid.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Font Awesome Regular
-* Number of icons: 163
+* Number of icons: 272
 * Author: Dave Gandy
 * URL: https://github.com/FortAwesome/Font-Awesome
 * License: CC BY 4.0
 * License URL: https://creativecommons.org/licenses/by/4.0/
-* Version: 6.7.2
+* Version: 7.0.0
 * Palette: Colorless
-* Icon set prefix: `fa6-regular`
-* File: [json/fa6-regular.json](json/fa6-regular.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
+* Icon set prefix: `fa7-regular`
+* File: [json/fa7-regular.json](json/fa7-regular.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Pico-icon
 * Number of icons: 824
@@ -1400,15 +1400,15 @@
 * File: [json/cib.json](json/cib.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Font Awesome Brands
-* Number of icons: 495
+* Number of icons: 548
 * Author: Dave Gandy
 * URL: https://github.com/FortAwesome/Font-Awesome
 * License: CC BY 4.0
 * License URL: https://creativecommons.org/licenses/by/4.0/
-* Version: 6.7.2
+* Version: 7.0.0
 * Palette: Colorless
-* Icon set prefix: `fa6-brands`
-* File: [json/fa6-brands.json](json/fa6-brands.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
+* Icon set prefix: `fa7-brands`
+* File: [json/fa7-brands.json](json/fa7-brands.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## BoxIcons Logo
 * Number of icons: 155
@@ -1926,6 +1926,39 @@
 * Palette: Colorless
 * Icon set prefix: `heroicons-solid`
 * File: [json/heroicons-solid.json](json/heroicons-solid.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
+
+## Font Awesome 6 Solid
+* Number of icons: 1402
+* Author: Dave Gandy
+* URL: https://github.com/FortAwesome/Font-Awesome
+* License: CC BY 4.0
+* License URL: https://creativecommons.org/licenses/by/4.0/
+* Version: 6.7.2
+* Palette: Colorless
+* Icon set prefix: `fa6-solid`
+* File: [json/fa6-solid.json](json/fa6-solid.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
+
+## Font Awesome 6 Regular
+* Number of icons: 163
+* Author: Dave Gandy
+* URL: https://github.com/FortAwesome/Font-Awesome
+* License: CC BY 4.0
+* License URL: https://creativecommons.org/licenses/by/4.0/
+* Version: 6.7.2
+* Palette: Colorless
+* Icon set prefix: `fa6-regular`
+* File: [json/fa6-regular.json](json/fa6-regular.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
+
+## Font Awesome 6 Brands
+* Number of icons: 495
+* Author: Dave Gandy
+* URL: https://github.com/FortAwesome/Font-Awesome
+* License: CC BY 4.0
+* License URL: https://creativecommons.org/licenses/by/4.0/
+* Version: 6.7.2
+* Palette: Colorless
+* Icon set prefix: `fa6-brands`
+* File: [json/fa6-brands.json](json/fa6-brands.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Font Awesome 5 Solid
 * Number of icons: 1001

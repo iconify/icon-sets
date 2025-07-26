@@ -2,7 +2,7 @@
 	"name": "@iconify/json",
 	"description": "Hundreds of open source icon sets in IconifyJSON format",
 	"license": "MIT",
-	"version": "2.2.362",
+	"version": "2.2.363",
 	"type": "module",
 	"homepage": "https://iconify.design/icon-sets/",
 	"bugs": "https://github.com/iconify/icon-sets/issues",
@@ -20,12 +20,12 @@
 		"./dist/index": {
 			"types": "./dist/index.d.ts",
 			"require": "./dist/index.cjs",
-			"import": "./dist/index.mjs"			
+			"import": "./dist/index.mjs"
 		},
 		".": {
 			"types": "./dist/index.d.ts",
 			"require": "./dist/index.cjs",
-			"import": "./dist/index.mjs"			
+			"import": "./dist/index.mjs"
 		}
 	},
 	"files": [

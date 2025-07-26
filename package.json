@@ -13,19 +13,19 @@
 	"exports": {
 		"./*": "./*",
 		"./dist": {
+			"types": "./dist/index.d.ts",
 			"require": "./dist/index.cjs",
-			"import": "./dist/index.mjs",
-			"types": "./dist/index.d.ts"
+			"import": "./dist/index.mjs"
 		},
 		"./dist/index": {
+			"types": "./dist/index.d.ts",
 			"require": "./dist/index.cjs",
-			"import": "./dist/index.mjs",
-			"types": "./dist/index.d.ts"
+			"import": "./dist/index.mjs"			
 		},
 		".": {
+			"types": "./dist/index.d.ts",
 			"require": "./dist/index.cjs",
-			"import": "./dist/index.mjs",
-			"types": "./dist/index.d.ts"
+			"import": "./dist/index.mjs"			
 		}
 	},
 	"files": [
@@ -53,12 +53,13 @@
 		"pathe": "^1.1.2"
 	},
 	"devDependencies": {
-		"@types/jest": "^29.5.12",
-		"@types/node": "^20.16.2",
-		"@typescript-eslint/eslint-plugin": "^8.3.0",
+		"@types/jest": "^30.0.0",
+		"@types/node": "^24.1.0",
+		"@typescript-eslint/eslint-plugin": "^8.38.0",
 		"cross-env": "^7.0.3",
-		"eslint": "^8.57.0",
+		"eslint": "^9.32.0",
+		"rimraf": "^6.0.1",
 		"unbuild": "^2.0.0",
-		"vitest": "^2.0.5"
+		"vitest": "^3.2.4"
 	}
 }

@@ -2129,3 +2129,12 @@
 * Palette: Colorless
 * Icon set prefix: `grommet-icons`
 * File: [json/grommet-icons.json](json/grommet-icons.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
+## Affiliate Catalog Icons
+* Number of icons: 174
+* Author: Ilya Drbn
+* URL: https://github.com/ilyadrbn/aff-catalog-iconify
+* License: MIT
+* Version: 1.0.0
+* Palette: Colorless
+* Icon set prefix: `aff-catalog-icons`
+* File: [json/aff-catalog-icons.json](json/aff-catalog-icons.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))

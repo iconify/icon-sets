@@ -308,7 +308,7 @@
 * URL: https://github.com/ProCode-Software/proicons
 * License: MIT
 * License URL: https://github.com/ProCode-Software/proicons/blob/main/LICENSE
-* Version: 4.12.2
+* Version: 4.13.0
 * Palette: Colorless
 * Icon set prefix: `proicons`
 * File: [json/proicons.json](json/proicons.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
@@ -1278,12 +1278,12 @@
 * File: [json/marketeq.json](json/marketeq.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## VSCode Icons
-* Number of icons: 1388
+* Number of icons: 1393
 * Author: Roberto Huertas
 * URL: https://github.com/vscode-icons/vscode-icons
 * License: MIT
 * License URL: https://github.com/vscode-icons/vscode-icons/blob/master/LICENSE
-* Version: 12.13.0
+* Version: 12.14.0
 * Palette: Colorful
 * Icon set prefix: `vscode-icons`
 * File: [json/vscode-icons.json](json/vscode-icons.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
@@ -1320,7 +1320,7 @@
 * File: [json/file-icons.json](json/file-icons.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Devicon
-* Number of icons: 944
+* Number of icons: 946
 * Author: konpa
 * URL: https://github.com/devicons/devicon/tree/master
 * License: MIT
@@ -1340,7 +1340,7 @@
 * File: [json/devicon-plain.json](json/devicon-plain.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Catppuccin Icons
-* Number of icons: 560
+* Number of icons: 640
 * Author: Catppuccin
 * URL: https://github.com/catppuccin/vscode-icons
 * License: MIT
@@ -1369,12 +1369,12 @@
 * File: [json/unjs.json](json/unjs.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Simple Icons
-* Number of icons: 3338
+* Number of icons: 3341
 * Author: Simple Icons Collaborators
 * URL: https://github.com/simple-icons/simple-icons
 * License: CC0 1.0
 * License URL: https://github.com/simple-icons/simple-icons/blob/develop/LICENSE.md
-* Version: 15.8.0
+* Version: 15.9.0
 * Palette: Colorless
 * Icon set prefix: `simple-icons`
 * File: [json/simple-icons.json](json/simple-icons.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))

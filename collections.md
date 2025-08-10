@@ -2,7 +2,7 @@
 
 
 ## Material Symbols
-* Number of icons: 14487
+* Number of icons: 14771
 * Author: Google
 * URL: https://github.com/google/material-design-icons
 * License: Apache 2.0
@@ -12,7 +12,7 @@
 * File: [json/material-symbols.json](json/material-symbols.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Material Symbols Light
-* Number of icons: 14555
+* Number of icons: 14841
 * Author: Google
 * URL: https://github.com/google/material-design-icons
 * License: Apache 2.0
@@ -146,7 +146,7 @@
 * File: [json/iconoir.json](json/iconoir.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Lucide
-* Number of icons: 1626
+* Number of icons: 1630
 * Author: Lucide Contributors
 * URL: https://github.com/lucide-icons/lucide
 * License: ISC
@@ -1300,7 +1300,7 @@
 * File: [json/codicon.json](json/codicon.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Material Icon Theme
-* Number of icons: 1069
+* Number of icons: 1072
 * Author: Material Extensions
 * URL: https://github.com/material-extensions/vscode-material-icon-theme
 * License: MIT
@@ -1320,7 +1320,7 @@
 * File: [json/file-icons.json](json/file-icons.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Devicon
-* Number of icons: 946
+* Number of icons: 948
 * Author: konpa
 * URL: https://github.com/devicons/devicon/tree/master
 * License: MIT
@@ -1330,7 +1330,7 @@
 * File: [json/devicon.json](json/devicon.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Devicon Plain
-* Number of icons: 692
+* Number of icons: 694
 * Author: konpa
 * URL: https://github.com/devicons/devicon/tree/master
 * License: MIT
@@ -1369,12 +1369,12 @@
 * File: [json/unjs.json](json/unjs.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Simple Icons
-* Number of icons: 3341
+* Number of icons: 3343
 * Author: Simple Icons Collaborators
 * URL: https://github.com/simple-icons/simple-icons
 * License: CC0 1.0
 * License URL: https://github.com/simple-icons/simple-icons/blob/develop/LICENSE.md
-* Version: 15.9.0
+* Version: 15.10.0
 * Palette: Colorless
 * Icon set prefix: `simple-icons`
 * File: [json/simple-icons.json](json/simple-icons.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
@@ -1484,23 +1484,23 @@
 * File: [json/entypo-social.json](json/entypo-social.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Web3 Icons
-* Number of icons: 1732
+* Number of icons: 1733
 * Author: 0xa3k5
 * URL: https://github.com/0xa3k5/web3icons
 * License: MIT
 * License URL: https://github.com/0xa3k5/web3icons/blob/main/LICENCE
-* Version: 4.0.18
+* Version: 4.0.20
 * Palette: Colorless
 * Icon set prefix: `token`
 * File: [json/token.json](json/token.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Web3 Icons Branded
-* Number of icons: 1984
+* Number of icons: 1985
 * Author: 0xa3k5
 * URL: https://github.com/0xa3k5/web3icons
 * License: MIT
 * License URL: https://github.com/0xa3k5/web3icons/blob/main/LICENCE
-* Version: 4.0.18
+* Version: 4.0.20
 * Palette: Colorful
 * Icon set prefix: `token-branded`
 * File: [json/token-branded.json](json/token-branded.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))

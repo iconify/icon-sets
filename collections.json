@@ -77,7 +77,6 @@
 		],
 		"height": 24,
 		"category": "Material",
-		"tags": [],
 		"palette": false
 	},
 	"mdi": {
@@ -1015,7 +1014,6 @@
 		],
 		"height": 24,
 		"category": "UI 24px",
-		"tags": [],
 		"palette": false
 	},
 	"bitcoin-icons": {
@@ -1881,7 +1879,6 @@
 		"height": 32,
 		"displayHeight": 16,
 		"category": "UI 16px / 32px",
-		"tags": [],
 		"palette": false
 	},
 	"ep": {
@@ -3446,7 +3443,6 @@
 		],
 		"height": 16,
 		"category": "Programming",
-		"tags": [],
 		"palette": false
 	},
 	"devicon": {
@@ -3667,7 +3663,6 @@
 		"height": 32,
 		"displayHeight": 16,
 		"category": "Logos",
-		"tags": [],
 		"palette": false
 	},
 	"fa7-brands": {
@@ -3827,7 +3822,6 @@
 			"win8"
 		],
 		"category": "Logos",
-		"tags": [],
 		"palette": false
 	},
 	"entypo-social": {
@@ -3852,7 +3846,6 @@
 		],
 		"height": 20,
 		"category": "Logos",
-		"tags": [],
 		"palette": false
 	},
 	"token": {
@@ -3929,7 +3922,6 @@
 		"height": 32,
 		"displayHeight": 16,
 		"category": "Logos",
-		"tags": [],
 		"palette": false
 	},
 	"cryptocurrency-color": {
@@ -3956,7 +3948,6 @@
 		"height": 32,
 		"displayHeight": 16,
 		"category": "Logos",
-		"tags": [],
 		"palette": true
 	},
 	"openmoji": {
@@ -4042,36 +4033,6 @@
 		"tags": [
 			"Precise Shapes",
 			"Has Padding"
-		],
-		"palette": true
-	},
-	"fluent-emoji": {
-		"name": "Fluent Emoji",
-		"total": 3126,
-		"author": {
-			"name": "Microsoft Corporation",
-			"url": "https://github.com/microsoft/fluentui-emoji"
-		},
-		"license": {
-			"title": "MIT",
-			"spdx": "MIT",
-			"url": "https://github.com/microsoft/fluentui-emoji/blob/main/LICENSE"
-		},
-		"samples": [
-			"avocado",
-			"ticket",
-			"straight-ruler",
-			"diamond-suit",
-			"egg",
-			"yin-yang"
-		],
-		"height": 32,
-		"displayHeight": 16,
-		"category": "Emoji",
-		"tags": [
-			"Precise Shapes",
-			"Has Padding",
-			"Uses Stroke"
 		],
 		"palette": true
 	},
@@ -4245,7 +4206,6 @@
 		"height": 32,
 		"displayHeight": 16,
 		"category": "Emoji",
-		"tags": [],
 		"palette": true
 	},
 	"fxemoji": {
@@ -4272,7 +4232,6 @@
 		"height": 32,
 		"displayHeight": 16,
 		"category": "Emoji",
-		"tags": [],
 		"palette": true
 	},
 	"streamline-emojis": {
@@ -4399,7 +4358,6 @@
 			"de"
 		],
 		"category": "Flags / Maps",
-		"tags": [],
 		"palette": true
 	},
 	"gis": {
@@ -5144,7 +5102,6 @@
 		"height": 32,
 		"displayHeight": 16,
 		"category": "Archive / Unmaintained",
-		"tags": [],
 		"palette": false
 	},
 	"fa-regular": {
@@ -5171,7 +5128,6 @@
 		"height": 32,
 		"displayHeight": 16,
 		"category": "Archive / Unmaintained",
-		"tags": [],
 		"palette": false
 	},
 	"fa-brands": {
@@ -5198,7 +5154,6 @@
 		"height": 32,
 		"displayHeight": 16,
 		"category": "Archive / Unmaintained",
-		"tags": [],
 		"palette": false
 	},
 	"fa": {
@@ -5223,7 +5178,6 @@
 			"css3"
 		],
 		"category": "Archive / Unmaintained",
-		"tags": [],
 		"palette": false
 	},
 	"fluent-mdl2": {
@@ -5465,7 +5419,6 @@
 			"delicious"
 		],
 		"category": "Archive / Unmaintained",
-		"tags": [],
 		"palette": false
 	},
 	"vaadin": {
@@ -5600,7 +5553,6 @@
 			"search",
 			"bag"
 		],
-		"tags": [],
 		"palette": false,
 		"hidden": true
 	},
@@ -5646,7 +5598,6 @@
 			"graph",
 			"imac"
 		],
-		"tags": [],
 		"palette": true,
 		"hidden": true
 	},
@@ -5708,7 +5659,6 @@
 			"users",
 			"conversation"
 		],
-		"tags": [],
 		"palette": false,
 		"hidden": true
 	},
@@ -5749,7 +5699,6 @@
 			"crown-plus"
 		],
 		"displayHeight": 20,
-		"tags": [],
 		"palette": false,
 		"hidden": true
 	},
@@ -5841,6 +5790,33 @@
 		],
 		"displayHeight": 20,
 		"palette": false,
+		"hidden": true
+	},
+	"fluent-emoji": {
+		"name": "Fluent Emoji",
+		"total": 3126,
+		"author": {
+			"name": "Microsoft Corporation",
+			"url": "https://github.com/microsoft/fluentui-emoji"
+		},
+		"license": {
+			"title": "MIT",
+			"spdx": "MIT",
+			"url": "https://github.com/microsoft/fluentui-emoji/blob/main/LICENSE"
+		},
+		"samples": [
+			"avocado",
+			"ticket",
+			"straight-ruler"
+		],
+		"height": 32,
+		"displayHeight": 16,
+		"tags": [
+			"Precise Shapes",
+			"Has Padding",
+			"Uses Stroke"
+		],
+		"palette": true,
 		"hidden": true
 	}
 }

@@ -1557,16 +1557,6 @@
 * Icon set prefix: `noto`
 * File: [json/noto.json](json/noto.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
-## Fluent Emoji
-* Number of icons: 3126
-* Author: Microsoft Corporation
-* URL: https://github.com/microsoft/fluentui-emoji
-* License: MIT
-* License URL: https://github.com/microsoft/fluentui-emoji/blob/main/LICENSE
-* Palette: Colorful
-* Icon set prefix: `fluent-emoji`
-* File: [json/fluent-emoji.json](json/fluent-emoji.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
-
 ## Fluent Emoji Flat
 * Number of icons: 3145
 * Author: Microsoft Corporation

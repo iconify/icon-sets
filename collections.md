@@ -84,15 +84,6 @@
 * Icon set prefix: `tabler`
 * File: [json/tabler.json](json/tabler.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
-## Huge Icons
-* Number of icons: 4523
-* Author: Hugeicons
-* URL: https://icon-sets.iconify.design/icon-sets/hugeicons/
-* License: MIT
-* Palette: Colorless
-* Icon set prefix: `hugeicons`
-* File: [json/hugeicons.json](json/hugeicons.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
-
 ## MingCute Icon
 * Number of icons: 3098
 * Author: MingCute Design
@@ -494,6 +485,15 @@
 * Palette: Colorless
 * Icon set prefix: `svg-spinners`
 * File: [json/svg-spinners.json](json/svg-spinners.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
+
+## Huge Icons
+* Number of icons: 4523
+* Author: Hugeicons
+* URL: https://icon-sets.iconify.design/icon-sets/hugeicons/
+* License: MIT
+* Palette: Colorless
+* Icon set prefix: `hugeicons`
+* File: [json/hugeicons.json](json/hugeicons.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Lets Icons
 * Number of icons: 1528

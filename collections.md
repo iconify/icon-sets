@@ -137,7 +137,7 @@
 * File: [json/iconoir.json](json/iconoir.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Lucide
-* Number of icons: 1630
+* Number of icons: 1631
 * Author: Lucide Contributors
 * URL: https://github.com/lucide-icons/lucide
 * License: ISC
@@ -487,7 +487,7 @@
 * File: [json/svg-spinners.json](json/svg-spinners.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Huge Icons
-* Number of icons: 4438
+* Number of icons: 4500
 * Author: Hugeicons
 * URL: https://icon-sets.iconify.design/icon-sets/hugeicons/
 * License: MIT
@@ -1300,7 +1300,7 @@
 * File: [json/codicon.json](json/codicon.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Material Icon Theme
-* Number of icons: 1079
+* Number of icons: 1080
 * Author: Material Extensions
 * URL: https://github.com/material-extensions/vscode-material-icon-theme
 * License: MIT
@@ -1454,7 +1454,7 @@
 * File: [json/arcticons.json](json/arcticons.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Custom Brand Icons
-* Number of icons: 1488
+* Number of icons: 1490
 * Author: Emanuele & rchiileea
 * URL: https://github.com/elax46/custom-brand-icons
 * License: CC BY-NC-SA 4.0
@@ -1484,23 +1484,23 @@
 * File: [json/entypo-social.json](json/entypo-social.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Web3 Icons
-* Number of icons: 1733
+* Number of icons: 1738
 * Author: 0xa3k5
 * URL: https://github.com/0xa3k5/web3icons
 * License: MIT
 * License URL: https://github.com/0xa3k5/web3icons/blob/main/LICENCE
-* Version: 4.0.20
+* Version: 4.0.21
 * Palette: Colorless
 * Icon set prefix: `token`
 * File: [json/token.json](json/token.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Web3 Icons Branded
-* Number of icons: 1985
+* Number of icons: 1990
 * Author: 0xa3k5
 * URL: https://github.com/0xa3k5/web3icons
 * License: MIT
 * License URL: https://github.com/0xa3k5/web3icons/blob/main/LICENCE
-* Version: 4.0.20
+* Version: 4.0.21
 * Palette: Colorful
 * Icon set prefix: `token-branded`
 * File: [json/token-branded.json](json/token-branded.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))

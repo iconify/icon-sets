@@ -2,7 +2,7 @@
 
 
 ## Material Symbols
-* Number of icons: 14779
+* Number of icons: 14799
 * Author: Google
 * URL: https://github.com/google/material-design-icons
 * License: Apache 2.0
@@ -12,7 +12,7 @@
 * File: [json/material-symbols.json](json/material-symbols.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Material Symbols Light
-* Number of icons: 14849
+* Number of icons: 14869
 * Author: Google
 * URL: https://github.com/google/material-design-icons
 * License: Apache 2.0
@@ -1079,7 +1079,7 @@
 * URL: https://github.com/FortAwesome/Font-Awesome
 * License: CC BY 4.0
 * License URL: https://creativecommons.org/licenses/by/4.0/
-* Version: 7.0.0
+* Version: 7.0.1
 * Palette: Colorless
 * Icon set prefix: `fa7-solid`
 * File: [json/fa7-solid.json](json/fa7-solid.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
@@ -1090,7 +1090,7 @@
 * URL: https://github.com/FortAwesome/Font-Awesome
 * License: CC BY 4.0
 * License URL: https://creativecommons.org/licenses/by/4.0/
-* Version: 7.0.0
+* Version: 7.0.1
 * Palette: Colorless
 * Icon set prefix: `fa7-regular`
 * File: [json/fa7-regular.json](json/fa7-regular.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
@@ -1111,7 +1111,7 @@
 * URL: https://github.com/wikimedia/oojs-ui
 * License: MIT
 * License URL: https://github.com/wikimedia/oojs-ui/blob/master/LICENSE-MIT
-* Version: 0.52.0
+* Version: 0.53.0
 * Palette: Colorless
 * Icon set prefix: `ooui`
 * File: [json/ooui.json](json/ooui.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
@@ -1300,7 +1300,7 @@
 * File: [json/codicon.json](json/codicon.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Material Icon Theme
-* Number of icons: 1087
+* Number of icons: 1092
 * Author: Material Extensions
 * URL: https://github.com/material-extensions/vscode-material-icon-theme
 * License: MIT
@@ -1416,7 +1416,7 @@
 * URL: https://github.com/FortAwesome/Font-Awesome
 * License: CC BY 4.0
 * License URL: https://creativecommons.org/licenses/by/4.0/
-* Version: 7.0.0
+* Version: 7.0.1
 * Palette: Colorless
 * Icon set prefix: `fa7-brands`
 * File: [json/fa7-brands.json](json/fa7-brands.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))

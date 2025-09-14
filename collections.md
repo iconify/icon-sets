@@ -2,7 +2,7 @@
 
 
 ## Material Symbols
-* Number of icons: 14799
+* Number of icons: 14811
 * Author: Google
 * URL: https://github.com/google/material-design-icons
 * License: Apache 2.0
@@ -12,7 +12,7 @@
 * File: [json/material-symbols.json](json/material-symbols.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Material Symbols Light
-* Number of icons: 14869
+* Number of icons: 14881
 * Author: Google
 * URL: https://github.com/google/material-design-icons
 * License: Apache 2.0
@@ -137,7 +137,7 @@
 * File: [json/iconoir.json](json/iconoir.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Lucide
-* Number of icons: 1635
+* Number of icons: 1636
 * Author: Lucide Contributors
 * URL: https://github.com/lucide-icons/lucide
 * License: ISC
@@ -380,12 +380,12 @@
 * File: [json/bitcoin-icons.json](json/bitcoin-icons.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Humbleicons
-* Number of icons: 257
+* Number of icons: 266
 * Author: Jiří Zralý
 * URL: https://github.com/zraly/humbleicons
 * License: MIT
 * License URL: https://github.com/zraly/humbleicons/blob/master/license
-* Version: 1.19.0
+* Version: 1.20.1
 * Palette: Colorless
 * Icon set prefix: `humbleicons`
 * File: [json/humbleicons.json](json/humbleicons.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
@@ -902,7 +902,7 @@
 * File: [json/system-uicons.json](json/system-uicons.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Radix Icons
-* Number of icons: 318
+* Number of icons: 332
 * Author: WorkOS
 * URL: https://github.com/radix-ui/icons
 * License: MIT
@@ -1300,7 +1300,7 @@
 * File: [json/codicon.json](json/codicon.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Material Icon Theme
-* Number of icons: 1102
+* Number of icons: 1103
 * Author: Material Extensions
 * URL: https://github.com/material-extensions/vscode-material-icon-theme
 * License: MIT
@@ -1340,7 +1340,7 @@
 * File: [json/devicon-plain.json](json/devicon-plain.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Catppuccin Icons
-* Number of icons: 655
+* Number of icons: 656
 * Author: Catppuccin
 * URL: https://github.com/catppuccin/vscode-icons
 * License: MIT
@@ -1369,12 +1369,12 @@
 * File: [json/unjs.json](json/unjs.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Simple Icons
-* Number of icons: 3355
+* Number of icons: 3356
 * Author: Simple Icons Collaborators
 * URL: https://github.com/simple-icons/simple-icons
 * License: CC0 1.0
 * License URL: https://github.com/simple-icons/simple-icons/blob/develop/LICENSE.md
-* Version: 15.14.0
+* Version: 15.15.0
 * Palette: Colorless
 * Icon set prefix: `simple-icons`
 * File: [json/simple-icons.json](json/simple-icons.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
@@ -1548,7 +1548,7 @@
 * File: [json/twemoji.json](json/twemoji.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Noto Emoji
-* Number of icons: 3562
+* Number of icons: 3710
 * Author: Google Inc
 * URL: https://github.com/googlefonts/noto-emoji
 * License: Apache 2.0

@@ -2,8 +2,8 @@
 	"prefix": "humbleicons",
 	"info": {
 		"name": "Humbleicons",
-		"total": 257,
-		"version": "1.19.0",
+		"total": 266,
+		"version": "1.20.1",
 		"author": {
 			"name": "Jiří Zralý",
 			"url": "https://github.com/zraly/humbleicons"
@@ -30,7 +30,7 @@
 		],
 		"palette": false
 	},
-	"lastModified": 1754108846,
+	"lastModified": 1757879400,
 	"icons": {
 		"activity": {
 			"body": "<path fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" d=\"M3 12h4l3-9l4 18l3-9h4\"/>"
@@ -188,6 +188,12 @@
 		"box": {
 			"body": "<path fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" d=\"m12 21l7.794-4.5v-9M12 21l-7.794-4.5v-9M12 21v-9m7.794-4.5L12 3L4.206 7.5m15.588 0L12 12M4.206 7.5L12 12\"/>"
 		},
+		"brand-android": {
+			"body": "<path fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" d=\"M8 8.5h8m-8 0v8h2m-2-8s0-1.815 1.223-3M16 8.5v8h-2m2-8s0-1.815-1.223-3m3.723 4V14m-13-4.5V14m8.5 5.5v-3m0 0h-4m0 3v-3m4.777-11c-.592-.574-1.472-1-2.777-1s-2.185.426-2.777 1m5.554 0L16 4M9.223 5.5L8 4\"/>"
+		},
+		"brand-apple": {
+			"body": "<path fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" d=\"M9.5 7.501c1 0 1.5.499 2.5.499s1.5-.499 2.5-.499s2.502.511 3.348 2.298C16 11.5 15 13 17.5 15.5a14.6 14.6 0 0 1-1 2C15 20 13.655 19 12.155 19S9 20.001 7.5 17.5c-5-7.5 0-10 2-9.999M12.155 5.5c.5-1 1.5-2 2.5-2.5c-.5 1-1.5 2-2.5 2.5\"/>"
+		},
 		"brand-facebook": {
 			"body": "<path fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" d=\"M12 21a9 9 0 1 0 0-18a9 9 0 0 0 0 18m0 0V10a2 2 0 0 1 2-2h1m-.5 4.5h-5\"/>"
 		},
@@ -199,6 +205,9 @@
 		},
 		"brand-instagram": {
 			"body": "<path fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" d=\"M8 4h8a4 4 0 0 1 4 4v8a4 4 0 0 1-4 4H8a4 4 0 0 1-4-4V8a4 4 0 0 1 4-4m7.5 8a3.5 3.5 0 1 1-7 0a3.5 3.5 0 0 1 7 0\"/>"
+		},
+		"brand-php": {
+			"body": "<path fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" d=\"m10 16l-6-4l6-4m5-.052c1.5-2.543 5-1.426 5 .957s-2.917 2.617-2.917 5M17 16.5h.01\"/>"
 		},
 		"brand-twitter": {
 			"body": "<path fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" d=\"m20.5 4.5l-2 1.5M21 7h-2M3.5 18c11.5 4.5 17-7 15-11s-7-1.5-5.5 3c-3.5 0-7-1-9-3.5c-1 3.5.5 8 4 9.5c-1.065 1.352-1.795 1.703-4.5 2\"/>"
@@ -374,6 +383,9 @@
 		"currency-pound-circle": {
 			"body": "<path fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" d=\"m15 8.5l-.11-.164A3 3 0 0 0 12.395 7H12a3 3 0 0 0-3 3v3.757a3 3 0 0 1-.879 2.122L8 16h7m-7.5-4H12m9 0a9 9 0 1 1-18 0a9 9 0 0 1 18 0\"/>"
 		},
+		"cursor": {
+			"body": "<path fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" d=\"M19.008 11.691L6.63 3.25l1.12 14.941l3.58-3.799l3.5 6.063l2.598-1.5l-3.5-6.063l5.08-1.2Z\"/>"
+		},
 		"dashboard": {
 			"body": "<path fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" d=\"M4 5a1 1 0 0 1 1-1h4a1 1 0 0 1 1 1v5a1 1 0 0 1-1 1H5a1 1 0 0 1-1-1zm10 0a1 1 0 0 1 1-1h4a1 1 0 0 1 1 1v2a1 1 0 0 1-1 1h-4a1 1 0 0 1-1-1zM4 16a1 1 0 0 1 1-1h4a1 1 0 0 1 1 1v3a1 1 0 0 1-1 1H5a1 1 0 0 1-1-1zm10-3a1 1 0 0 1 1-1h4a1 1 0 0 1 1 1v6a1 1 0 0 1-1 1h-4a1 1 0 0 1-1-1z\"/>"
 		},
@@ -513,6 +525,9 @@
 		"info-circle": {
 			"body": "<path fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" d=\"M11 11h1v5.5m0 0h1.5m-1.5 0h-1.5M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9.5-4v-.5h.5V8z\"/>"
 		},
+		"injection": {
+			"body": "<path fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" d=\"m4 20l4-4m0 0l2 2l2.5-2.5M8 16l-2-2l2.5-2.5l2-2L14 6m4 4l-2-2m2 2l1 1m-1-1l-2.5 2.5M14 6l2 2m-2-2l-1-1m3 3l3.5-3.5m0 0L21 6m-1.5-1.5L18 3m-5.5 12.5L11 14m1.5 1.5l3-3m0 0L14 11\"/>"
+		},
 		"italic": {
 			"body": "<path fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" d=\"m10 20l4-16m2 0h-4m0 16H8\"/>"
 		},
@@ -541,7 +556,7 @@
 			"body": "<path fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" d=\"M21 7v10a1 1 0 0 1-1 1H4a1 1 0 0 1-1-1V7m18 0a1 1 0 0 0-1-1H4a1 1 0 0 0-1 1m18 0l-7.72 6.433a2 2 0 0 1-2.56 0L3 7\"/>"
 		},
 		"mail-multi": {
-			"body": "<path fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" d=\"M4 4.667v6.666c0 .368.274.667.611.667H6M4 4.667C4 4.298 4.274 4 4.611 4h9.778c.337 0 .611.298.611.667m-11 0l4.718 4.288a1.145 1.145 0 0 0 1.564 0L15 4.667m0 0v4.288m5 3.712v6.666c0 .369-.274.667-.611.667H9.61c-.336 0-.61-.299-.61-.667v-6.666m11 0c0-.368-.274-.667-.611-.667H9.61c-.337 0-.611.299-.611.667m11 0l-4.718 4.288a1.145 1.145 0 0 1-1.564 0L9 12.667\"/>"
+			"body": "<path fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" d=\"M3 3.75v7.5c0 .414.298.75.667.75H6M3 3.75c0-.414.298-.75.667-.75h10.666c.368 0 .667.336.667.75m-12 0l5.146 4.825a1.22 1.22 0 0 0 1.708 0L15 3.75m0 0V9m6 3.75v7.5c0 .414-.299.75-.667.75H9.667C9.298 21 9 20.664 9 20.25v-7.5m12 0c0-.414-.299-.75-.667-.75H9.667c-.369 0-.667.336-.667.75m12 0l-5.146 4.825a1.22 1.22 0 0 1-1.708 0L9 12.75\"/>"
 		},
 		"mail-open": {
 			"body": "<path fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" d=\"M21 8v10a1 1 0 0 1-1 1H4a1 1 0 0 1-1-1V8m18 0l-5 5m5-5l-7.957-4.863a2 2 0 0 0-2.086 0L3 8m0 0l5 5m-4 5l5.414-5.414A2 2 0 0 1 10.828 12h2.344a2 2 0 0 1 1.414.586L20 18\"/>"
@@ -636,6 +651,9 @@
 		"prompt": {
 			"body": "<path fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" d=\"m7.5 10l2.5 2.5L7.5 15m4.5 0h4M6 5h12a2 2 0 0 1 2 2v10a2 2 0 0 1-2 2H6a2 2 0 0 1-2-2V7a2 2 0 0 1 2-2\"/>"
 		},
+		"pulse": {
+			"body": "<path fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" d=\"M3 12h2l1.5-4l2 8l1.5-4h2l2.5-8L17 20l2-8h2\"/>"
+		},
 		"radio": {
 			"body": "<path fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" d=\"M5.636 18.364a9 9 0 0 1 0-12.728m12.728 0a9 9 0 0 1 0 12.728M8.111 15.889a5.5 5.5 0 0 1 0-7.778m7.778 0a5.5 5.5 0 0 1 0 7.778M14 12a2 2 0 1 1-4 0a2 2 0 0 1 4 0\"/>"
 		},
@@ -671,6 +689,15 @@
 		},
 		"share-alt": {
 			"body": "<path fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" d=\"M14.437 7.912a2.5 2.5 0 1 0 4.127-2.824a2.5 2.5 0 0 0-4.127 2.824m0 0l-4.96 3.394m0 0a3 3 0 1 0 .236 2.979m-.237-2.98c.33.483.524 1.066.524 1.695c0 .46-.103.895-.288 1.285m0 0l4.528 2.145m0 0a2.5 2.5 0 1 0 4.52 2.141a2.5 2.5 0 0 0-4.52-2.142Z\"/>"
+		},
+		"shield": {
+			"body": "<path fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" d=\"M19 6c-5 0-7-2-7-2s-2 2-7 2v7.225a6 6 0 0 0 2.755 5.046L12 21l4.245-2.729A6 6 0 0 0 19 13.226z\"/>"
+		},
+		"shield-check": {
+			"body": "<path fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" d=\"m9 13l2.5 2l3.5-5m-3-6s2 2 7 2v7.226a6 6 0 0 1-2.755 5.045L12 21l-4.245-2.729A6 6 0 0 1 5 13.225V6c5 0 7-2 7-2\"/>"
+		},
+		"shield-off": {
+			"body": "<path fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" d=\"m4 4l16 16M5 6v7.225a6 6 0 0 0 2.755 5.046L12 21l5.288-3.4M10 5.157C11.39 4.61 12 4 12 4s2 2 7 2v8.5\"/>"
 		},
 		"ship": {
 			"body": "<path fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" d=\"m3 17l.756.378a3 3 0 0 0 2.523.074l1.04-.446a3 3 0 0 1 2.363 0l1.04.446a3 3 0 0 0 2.523-.074l.413-.207a3 3 0 0 1 2.684 0l.547.273a3 3 0 0 0 2.29.163L21 17M5 14.5L4 10h4m10 4.5l2.5-4.5h-8.245H13.5m0 0l-.721-3H8v3m5.5 0H8m3 3h.1M10 4.5l-.2-.2a2 2 0 0 0-1.899-.525l-.336.084a2 2 0 0 1-1.118-.043L5.5 3.5\"/>"

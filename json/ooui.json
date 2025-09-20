@@ -2,7 +2,7 @@
 	"prefix": "ooui",
 	"info": {
 		"name": "OOUI",
-		"total": 366,
+		"total": 370,
 		"version": "0.53.0",
 		"author": {
 			"name": "OOUI Team",
@@ -28,7 +28,7 @@
 		],
 		"palette": false
 	},
-	"lastModified": 1755841743,
+	"lastModified": 1758346646,
 	"icons": {
 		"add": {
 			"body": "<path fill=\"currentColor\" d=\"M11 9V4H9v5H4v2h5v5h2v-5h5V9z\"/>"
@@ -636,6 +636,12 @@
 		"menu": {
 			"body": "<path fill=\"currentColor\" d=\"M1 3v2h18V3zm0 8h18V9H1zm0 6h18v-2H1z\"/>"
 		},
+		"merge-ltr": {
+			"body": "<path fill=\"currentColor\" d=\"M1 4.4L2.4 3l4.85 4.83A3.98 3.98 0 0 0 10.07 9h5.1L13.6 7.4L15 6l4 4l-4 4l-1.4-1.4l1.58-1.6h-5.1a3.95 3.95 0 0 0-2.83 1.18L2.4 17L1 15.6L6.6 10z\"/>"
+		},
+		"merge-rtl": {
+			"body": "<path fill=\"currentColor\" d=\"M19 15.6L17.6 17l-4.85-4.83A3.98 3.98 0 0 0 9.93 11h-5.1l1.57 1.6L5 14l-4-4l4-4l1.4 1.4L4.82 9h5.1a3.95 3.95 0 0 0 2.83-1.18L17.6 3L19 4.4L13.4 10Z\"/>"
+		},
 		"message": {
 			"body": "<path fill=\"currentColor\" d=\"M0 8v8a2 2 0 0 0 2 2h16a2 2 0 0 0 2-2V8l-10 4z\"/><path fill=\"currentColor\" d=\"M2 2a2 2 0 0 0-2 2v2l10 4l10-4V4a2 2 0 0 0-2-2z\"/>"
 		},
@@ -1019,6 +1025,12 @@
 		},
 		"up-triangle": {
 			"body": "<path fill=\"currentColor\" d=\"m10 5l8 10H2z\"/>"
+		},
+		"update-ltr": {
+			"body": "<path fill=\"currentColor\" d=\"m6.4 17l-1.26-1.25l2.32-2.25H1v-1.75h6.46L5.14 9.5L6.4 8.25l4.5 4.38zm7.2-5.25L9.1 7.37L13.6 3l1.26 1.25l-2.32 2.25H19v1.75h-6.46l2.32 2.25z\"/>"
+		},
+		"update-rtl": {
+			"body": "<path fill=\"currentColor\" d=\"m13.6 17l1.26-1.25l-2.32-2.25H19v-1.75h-6.46l2.32-2.25l-1.26-1.25l-4.5 4.38Zm-7.2-5.25l4.5-4.38L6.4 3L5.14 4.25L7.46 6.5H1v1.75h6.46L5.14 10.5Z\"/>"
 		},
 		"upload": {
 			"body": "<path fill=\"currentColor\" d=\"M17 12v5H3v-5H1v5a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2v-5z\"/><path fill=\"currentColor\" d=\"M10 1L5 7h4v8h2V7h4z\"/>"

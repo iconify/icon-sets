@@ -178,7 +178,7 @@
 * File: [json/tdesign.json](json/tdesign.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Sargam Icons
-* Number of icons: 984
+* Number of icons: 1020
 * Author: Abhimanyu Rana
 * URL: https://github.com/planetabhi/sargam-icons
 * License: MIT
@@ -808,12 +808,12 @@
 * File: [json/formkit.json](json/formkit.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Fluent UI System Icons
-* Number of icons: 18455
+* Number of icons: 18519
 * Author: Microsoft Corporation
 * URL: https://github.com/microsoft/fluentui-system-icons
 * License: MIT
 * License URL: https://github.com/microsoft/fluentui-system-icons/blob/main/LICENSE
-* Version: 1.1.310
+* Version: 1.1.311
 * Palette: Colorless
 * Icon set prefix: `fluent`
 * File: [json/fluent.json](json/fluent.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
@@ -1213,7 +1213,7 @@
 * URL: https://github.com/microsoft/fluentui-system-icons
 * License: MIT
 * License URL: https://github.com/microsoft/fluentui-system-icons/blob/main/LICENSE
-* Version: 1.1.310
+* Version: 1.1.311
 * Palette: Colorful
 * Icon set prefix: `fluent-color`
 * File: [json/fluent-color.json](json/fluent-color.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
@@ -1320,7 +1320,7 @@
 * File: [json/file-icons.json](json/file-icons.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Devicon
-* Number of icons: 955
+* Number of icons: 957
 * Author: konpa
 * URL: https://github.com/devicons/devicon/tree/master
 * License: MIT
@@ -1330,7 +1330,7 @@
 * File: [json/devicon.json](json/devicon.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Devicon Plain
-* Number of icons: 698
+* Number of icons: 700
 * Author: konpa
 * URL: https://github.com/devicons/devicon/tree/master
 * License: MIT

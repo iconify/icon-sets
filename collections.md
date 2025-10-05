@@ -178,7 +178,7 @@
 * File: [json/tdesign.json](json/tdesign.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Sargam Icons
-* Number of icons: 1107
+* Number of icons: 1188
 * Author: Abhimanyu Rana
 * URL: https://github.com/planetabhi/sargam-icons
 * License: MIT
@@ -1300,7 +1300,7 @@
 * File: [json/codicon.json](json/codicon.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Material Icon Theme
-* Number of icons: 1103
+* Number of icons: 1104
 * Author: Material Extensions
 * URL: https://github.com/material-extensions/vscode-material-icon-theme
 * License: MIT
@@ -1374,7 +1374,7 @@
 * URL: https://github.com/simple-icons/simple-icons
 * License: CC0 1.0
 * License URL: https://github.com/simple-icons/simple-icons/blob/develop/LICENSE.md
-* Version: 15.16.0
+* Version: 15.16.1
 * Palette: Colorless
 * Icon set prefix: `simple-icons`
 * File: [json/simple-icons.json](json/simple-icons.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))

@@ -137,7 +137,7 @@
 * File: [json/iconoir.json](json/iconoir.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Lucide
-* Number of icons: 1636
+* Number of icons: 1637
 * Author: Lucide Contributors
 * URL: https://github.com/lucide-icons/lucide
 * License: ISC
@@ -178,7 +178,7 @@
 * File: [json/tdesign.json](json/tdesign.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Sargam Icons
-* Number of icons: 1188
+* Number of icons: 1200
 * Author: Abhimanyu Rana
 * URL: https://github.com/planetabhi/sargam-icons
 * License: MIT
@@ -702,6 +702,16 @@
 * Icon set prefix: `cil`
 * File: [json/cil.json](json/cil.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
+## Röntgen
+* Number of icons: 514
+* Author: Sergey Vartanov
+* URL: https://github.com/enzet/Roentgen
+* License: CC BY 4.0
+* License URL: https://creativecommons.org/licenses/by/4.0/
+* Palette: Colorless
+* Icon set prefix: `roentgen`
+* File: [json/roentgen.json](json/roentgen.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
+
 ## Element Plus
 * Number of icons: 293
 * Author: Element Plus
@@ -871,12 +881,12 @@
 * File: [json/ix.json](json/ix.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Octicons
-* Number of icons: 665
+* Number of icons: 668
 * Author: GitHub
 * URL: https://github.com/primer/octicons/
 * License: MIT
 * License URL: https://github.com/primer/octicons/blob/main/LICENSE
-* Version: 19.18.0
+* Version: 19.18.1
 * Palette: Colorless
 * Icon set prefix: `octicon`
 * File: [json/octicon.json](json/octicon.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
@@ -933,17 +943,6 @@
 * Palette: Colorless
 * Icon set prefix: `uiw`
 * File: [json/uiw.json](json/uiw.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
-
-## Maki
-* Number of icons: 215
-* Author: Mapbox
-* URL: https://github.com/mapbox/maki
-* License: CC0
-* License URL: https://creativecommons.org/publicdomain/zero/1.0/
-* Version: 8.2.0
-* Palette: Colorless
-* Icon set prefix: `maki`
-* File: [json/maki.json](json/maki.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## CodeX Icons
 * Number of icons: 78
@@ -1038,7 +1037,7 @@
 * URL: https://gitlab.com/gitlab-org/gitlab-svgs/-/tree/main
 * License: MIT
 * License URL: https://gitlab.com/gitlab-org/gitlab-svgs/-/blob/main/LICENSE
-* Version: 3.147.0
+* Version: 3.148.0
 * Palette: Colorless
 * Icon set prefix: `pajamas`
 * File: [json/pajamas.json](json/pajamas.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
@@ -1115,6 +1114,28 @@
 * Palette: Colorless
 * Icon set prefix: `ooui`
 * File: [json/ooui.json](json/ooui.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
+
+## Maki
+* Number of icons: 215
+* Author: Mapbox
+* URL: https://github.com/mapbox/maki
+* License: CC0
+* License URL: https://creativecommons.org/publicdomain/zero/1.0/
+* Version: 8.2.0
+* Palette: Colorless
+* Icon set prefix: `maki`
+* File: [json/maki.json](json/maki.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
+
+## Temaki
+* Number of icons: 539
+* Author: Bryan Housel
+* URL: https://github.com/rapideditor/temaki
+* License: CC0
+* License URL: https://creativecommons.org/publicdomain/zero/1.0/
+* Version: 5.10.0
+* Palette: Colorless
+* Icon set prefix: `temaki`
+* File: [json/temaki.json](json/temaki.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## OpenSearch UI
 * Number of icons: 437
@@ -1278,7 +1299,7 @@
 * File: [json/marketeq.json](json/marketeq.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## VSCode Icons
-* Number of icons: 1396
+* Number of icons: 1397
 * Author: Roberto Huertas
 * URL: https://github.com/vscode-icons/vscode-icons
 * License: MIT
@@ -1489,7 +1510,7 @@
 * URL: https://github.com/0xa3k5/web3icons
 * License: MIT
 * License URL: https://github.com/0xa3k5/web3icons/blob/main/LICENCE
-* Version: 4.0.24
+* Version: 4.0.25
 * Palette: Colorless
 * Icon set prefix: `token`
 * File: [json/token.json](json/token.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
@@ -1500,7 +1521,7 @@
 * URL: https://github.com/0xa3k5/web3icons
 * License: MIT
 * License URL: https://github.com/0xa3k5/web3icons/blob/main/LICENCE
-* Version: 4.0.24
+* Version: 4.0.25
 * Palette: Colorful
 * Icon set prefix: `token-branded`
 * File: [json/token-branded.json](json/token-branded.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))

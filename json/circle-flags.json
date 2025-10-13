@@ -2,7 +2,7 @@
 	"prefix": "circle-flags",
 	"info": {
 		"name": "Circle Flags",
-		"total": 632,
+		"total": 633,
 		"version": "1.0.0",
 		"author": {
 			"name": "HatScripts",
@@ -26,7 +26,7 @@
 		"category": "Flags / Maps",
 		"palette": true
 	},
-	"lastModified": 1754898751,
+	"lastModified": 1760334108,
 	"icons": {
 		"aa": {
 			"body": "<mask id=\"circleFlagsAa0\"><circle cx=\"256\" cy=\"256\" r=\"256\" fill=\"#fff\"/></mask><g mask=\"url(#circleFlagsAa0)\"><path fill=\"#eee\" d=\"m0 160l256-32l256 32v192l-256 32L0 352Z\"/><path fill=\"#0052b4\" d=\"M0 0h512v160H0Z\"/><path fill=\"#496e2d\" d=\"M0 352h512v160H0Z\"/><path fill=\"#d80027\" d=\"M0 0v512l256-256z\"/><path fill=\"#ff9811\" d=\"m345 229l-12 11l40 40l-40 40l11 11l40-40l40 40l11-11l-40-40l40-40l-11-11l-40 40z\"/><path fill=\"#d80027\" d=\"m384 181l21 62l-54-38h66l-53 39z\"/></g>",
@@ -2094,7 +2094,10 @@
 			"hidden": true
 		},
 		"tz": {
-			"body": "<mask id=\"SVGuywqVbel\"><circle cx=\"256\" cy=\"256\" r=\"256\" fill=\"#fff\"/></mask><g mask=\"url(#SVGuywqVbel)\"><path fill=\"#eee\" d=\"M0 0h512v512H0z\"/><path fill=\"#ffda44\" d=\"M399 0L167 167L0 399v45l68 68h45l232-167l167-232V68L444 0Z\"/><path fill=\"#333\" d=\"M444 0L0 444v68h68L512 68V0Z\"/><path fill=\"#338af3\" d=\"m113 512l399-399v399z\"/><path fill=\"#6da544\" d=\"M0 399V0h399Z\"/></g>"
+			"body": "<mask id=\"SVGuywqVbel\"><circle cx=\"256\" cy=\"256\" r=\"256\" fill=\"#fff\"/></mask><g mask=\"url(#SVGuywqVbel)\"><path fill=\"#ffda44\" d=\"M399 0L0 399v45l68 68h45l399-399V68L444 0z\"/><path fill=\"#333\" d=\"M444 0L0 444v68h68L512 68V0z\"/><path fill=\"#338af3\" d=\"m113 512l399-399v399z\"/><path fill=\"#6da544\" d=\"M0 399V0h399z\"/></g>"
+		},
+		"tz-zanzibar": {
+			"body": "<mask id=\"SVGuywqVbel\"><circle cx=\"256\" cy=\"256\" r=\"256\" fill=\"#fff\"/></mask><g mask=\"url(#SVGuywqVbel)\"><path fill=\"#338af3\" d=\"M512 0v170H0V0z\"/><path fill=\"#ffda44\" d=\"M200 0L0 132v38h56L256 38V0z\"/><path fill=\"#333\" d=\"M512 170v172H0V170zM222 0L0 148v22h34L256 22V0z\"/><path fill=\"#6da544\" d=\"M512 342v170H0V342zM0 132V0h200z\"/></g>"
 		},
 		"ua": {
 			"body": "<mask id=\"SVGuywqVbel\"><circle cx=\"256\" cy=\"256\" r=\"256\" fill=\"#fff\"/></mask><g mask=\"url(#SVGuywqVbel)\"><path fill=\"#ffda44\" d=\"m0 256l258-39.4L512 256v256H0z\"/><path fill=\"#338af3\" d=\"M0 0h512v256H0z\"/></g>"

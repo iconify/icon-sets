@@ -137,7 +137,7 @@
 * File: [json/iconoir.json](json/iconoir.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Lucide
-* Number of icons: 1637
+* Number of icons: 1638
 * Author: Lucide Contributors
 * URL: https://github.com/lucide-icons/lucide
 * License: ISC
@@ -1127,7 +1127,7 @@
 * File: [json/maki.json](json/maki.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Temaki
-* Number of icons: 539
+* Number of icons: 541
 * Author: Bryan Housel
 * URL: https://github.com/rapideditor/temaki
 * License: CC0
@@ -1663,7 +1663,7 @@
 * File: [json/streamline-emojis.json](json/streamline-emojis.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Circle Flags
-* Number of icons: 633
+* Number of icons: 634
 * Author: HatScripts
 * URL: https://github.com/HatScripts/circle-flags
 * License: MIT

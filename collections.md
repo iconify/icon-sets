@@ -633,7 +633,7 @@
 * Author: IBM
 * URL: https://github.com/carbon-design-system/carbon/tree/main/packages/icons
 * License: Apache 2.0
-* Version: 11.69.0
+* Version: 11.70.0
 * Palette: Colorless
 * Icon set prefix: `carbon`
 * File: [json/carbon.json](json/carbon.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
@@ -1132,7 +1132,7 @@
 * URL: https://github.com/rapideditor/temaki
 * License: CC0
 * License URL: https://creativecommons.org/publicdomain/zero/1.0/
-* Version: 5.10.0
+* Version: 5.11.0
 * Palette: Colorless
 * Icon set prefix: `temaki`
 * File: [json/temaki.json](json/temaki.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
@@ -1299,7 +1299,7 @@
 * File: [json/marketeq.json](json/marketeq.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## VSCode Icons
-* Number of icons: 1404
+* Number of icons: 1414
 * Author: Roberto Huertas
 * URL: https://github.com/vscode-icons/vscode-icons
 * License: MIT
@@ -1321,7 +1321,7 @@
 * File: [json/codicon.json](json/codicon.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Material Icon Theme
-* Number of icons: 1118
+* Number of icons: 1119
 * Author: Material Extensions
 * URL: https://github.com/material-extensions/vscode-material-icon-theme
 * License: MIT

@@ -137,7 +137,7 @@
 * File: [json/iconoir.json](json/iconoir.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Lucide
-* Number of icons: 1638
+* Number of icons: 1640
 * Author: Lucide Contributors
 * URL: https://github.com/lucide-icons/lucide
 * License: ISC
@@ -178,7 +178,7 @@
 * File: [json/tdesign.json](json/tdesign.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Sargam Icons
-* Number of icons: 1227
+* Number of icons: 1248
 * Author: Abhimanyu Rana
 * URL: https://github.com/planetabhi/sargam-icons
 * License: MIT
@@ -818,7 +818,7 @@
 * File: [json/formkit.json](json/formkit.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Fluent UI System Icons
-* Number of icons: 18584
+* Number of icons: 18648
 * Author: Microsoft Corporation
 * URL: https://github.com/microsoft/fluentui-system-icons
 * License: MIT
@@ -1321,7 +1321,7 @@
 * File: [json/codicon.json](json/codicon.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Material Icon Theme
-* Number of icons: 1119
+* Number of icons: 1121
 * Author: Material Extensions
 * URL: https://github.com/material-extensions/vscode-material-icon-theme
 * License: MIT

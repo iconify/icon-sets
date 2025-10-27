@@ -2,7 +2,7 @@
 
 
 ## Material Symbols
-* Number of icons: 14932
+* Number of icons: 14930
 * Author: Google
 * URL: https://github.com/google/material-design-icons
 * License: Apache 2.0
@@ -12,7 +12,7 @@
 * File: [json/material-symbols.json](json/material-symbols.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Material Symbols Light
-* Number of icons: 15002
+* Number of icons: 15000
 * Author: Google
 * URL: https://github.com/google/material-design-icons
 * License: Apache 2.0
@@ -380,12 +380,12 @@
 * File: [json/bitcoin-icons.json](json/bitcoin-icons.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Humbleicons
-* Number of icons: 268
+* Number of icons: 269
 * Author: Jiří Zralý
 * URL: https://github.com/zraly/humbleicons
 * License: MIT
 * License URL: https://github.com/zraly/humbleicons/blob/master/license
-* Version: 1.21.0
+* Version: 1.22.0
 * Palette: Colorless
 * Icon set prefix: `humbleicons`
 * File: [json/humbleicons.json](json/humbleicons.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
@@ -1390,12 +1390,12 @@
 * File: [json/unjs.json](json/unjs.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Simple Icons
-* Number of icons: 3365
+* Number of icons: 3369
 * Author: Simple Icons Collaborators
 * URL: https://github.com/simple-icons/simple-icons
 * License: CC0 1.0
 * License URL: https://github.com/simple-icons/simple-icons/blob/develop/LICENSE.md
-* Version: 15.17.0
+* Version: 15.18.0
 * Palette: Colorless
 * Icon set prefix: `simple-icons`
 * File: [json/simple-icons.json](json/simple-icons.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
@@ -2131,12 +2131,12 @@
 * File: [json/vaadin.json](json/vaadin.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Grommet Icons
-* Number of icons: 634
+* Number of icons: 636
 * Author: Grommet
 * URL: https://github.com/grommet/grommet-icons
 * License: Apache 2.0
 * License URL: https://www.apache.org/licenses/LICENSE-2.0
-* Version: 4.12.1
+* Version: 4.14.0
 * Palette: Colorless
 * Icon set prefix: `grommet-icons`
 * File: [json/grommet-icons.json](json/grommet-icons.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))

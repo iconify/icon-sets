@@ -385,7 +385,7 @@
 * URL: https://github.com/zraly/humbleicons
 * License: MIT
 * License URL: https://github.com/zraly/humbleicons/blob/master/license
-* Version: 1.25.0
+* Version: 1.25.1
 * Palette: Colorless
 * Icon set prefix: `humbleicons`
 * File: [json/humbleicons.json](json/humbleicons.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
@@ -881,12 +881,12 @@
 * File: [json/ix.json](json/ix.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Octicons
-* Number of icons: 670
+* Number of icons: 672
 * Author: GitHub
 * URL: https://github.com/primer/octicons/
 * License: MIT
 * License URL: https://github.com/primer/octicons/blob/main/LICENSE
-* Version: 19.19.0
+* Version: 19.20.0
 * Palette: Colorless
 * Icon set prefix: `octicon`
 * File: [json/octicon.json](json/octicon.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
@@ -1505,23 +1505,23 @@
 * File: [json/entypo-social.json](json/entypo-social.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Web3 Icons
-* Number of icons: 1748
+* Number of icons: 1750
 * Author: 0xa3k5
 * URL: https://github.com/0xa3k5/web3icons
 * License: MIT
 * License URL: https://github.com/0xa3k5/web3icons/blob/main/LICENCE
-* Version: 4.0.28
+* Version: 4.0.30
 * Palette: Colorless
 * Icon set prefix: `token`
 * File: [json/token.json](json/token.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Web3 Icons Branded
-* Number of icons: 2002
+* Number of icons: 2004
 * Author: 0xa3k5
 * URL: https://github.com/0xa3k5/web3icons
 * License: MIT
 * License URL: https://github.com/0xa3k5/web3icons/blob/main/LICENCE
-* Version: 4.0.28
+* Version: 4.0.30
 * Palette: Colorful
 * Icon set prefix: `token-branded`
 * File: [json/token-branded.json](json/token-branded.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))

@@ -2,7 +2,7 @@
 
 
 ## Material Symbols
-* Number of icons: 15009
+* Number of icons: 15037
 * Author: Google
 * URL: https://github.com/google/material-design-icons
 * License: Apache 2.0
@@ -12,7 +12,7 @@
 * File: [json/material-symbols.json](json/material-symbols.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Material Symbols Light
-* Number of icons: 15082
+* Number of icons: 15110
 * Author: Google
 * URL: https://github.com/google/material-design-icons
 * License: Apache 2.0
@@ -881,7 +881,7 @@
 * File: [json/ix.json](json/ix.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Octicons
-* Number of icons: 702
+* Number of icons: 720
 * Author: GitHub
 * URL: https://github.com/primer/octicons/
 * License: MIT
@@ -1310,18 +1310,18 @@
 * File: [json/vscode-icons.json](json/vscode-icons.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Codicons
-* Number of icons: 497
+* Number of icons: 522
 * Author: Microsoft Corporation
 * URL: https://github.com/microsoft/vscode-codicons
 * License: CC BY 4.0
 * License URL: https://github.com/microsoft/vscode-codicons/blob/main/LICENSE
-* Version: 0.0.41
+* Version: 0.0.42
 * Palette: Colorless
 * Icon set prefix: `codicon`
 * File: [json/codicon.json](json/codicon.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Material Icon Theme
-* Number of icons: 1124
+* Number of icons: 1126
 * Author: Material Extensions
 * URL: https://github.com/material-extensions/vscode-material-icon-theme
 * License: MIT
@@ -1341,7 +1341,7 @@
 * File: [json/file-icons.json](json/file-icons.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Devicon
-* Number of icons: 980
+* Number of icons: 986
 * Author: konpa
 * URL: https://github.com/devicons/devicon/tree/master
 * License: MIT
@@ -1351,7 +1351,7 @@
 * File: [json/devicon.json](json/devicon.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Devicon Plain
-* Number of icons: 716
+* Number of icons: 721
 * Author: konpa
 * URL: https://github.com/devicons/devicon/tree/master
 * License: MIT

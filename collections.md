@@ -137,7 +137,7 @@
 * File: [json/iconoir.json](json/iconoir.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Lucide
-* Number of icons: 1650
+* Number of icons: 1652
 * Author: Lucide Contributors
 * URL: https://github.com/lucide-icons/lucide
 * License: ISC
@@ -1321,7 +1321,7 @@
 * File: [json/codicon.json](json/codicon.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Material Icon Theme
-* Number of icons: 1129
+* Number of icons: 1131
 * Author: Material Extensions
 * URL: https://github.com/material-extensions/vscode-material-icon-theme
 * License: MIT
@@ -1341,7 +1341,7 @@
 * File: [json/file-icons.json](json/file-icons.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Devicon
-* Number of icons: 995
+* Number of icons: 996
 * Author: konpa
 * URL: https://github.com/devicons/devicon/tree/master
 * License: MIT
@@ -1351,7 +1351,7 @@
 * File: [json/devicon.json](json/devicon.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Devicon Plain
-* Number of icons: 726
+* Number of icons: 728
 * Author: konpa
 * URL: https://github.com/devicons/devicon/tree/master
 * License: MIT
@@ -1505,23 +1505,23 @@
 * File: [json/entypo-social.json](json/entypo-social.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Web3 Icons
-* Number of icons: 1757
+* Number of icons: 1758
 * Author: 0xa3k5
 * URL: https://github.com/0xa3k5/web3icons
 * License: MIT
 * License URL: https://github.com/0xa3k5/web3icons/blob/main/LICENCE
-* Version: 4.0.34
+* Version: 4.0.37
 * Palette: Colorless
 * Icon set prefix: `token`
 * File: [json/token.json](json/token.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Web3 Icons Branded
-* Number of icons: 2012
+* Number of icons: 2013
 * Author: 0xa3k5
 * URL: https://github.com/0xa3k5/web3icons
 * License: MIT
 * License URL: https://github.com/0xa3k5/web3icons/blob/main/LICENCE
-* Version: 4.0.34
+* Version: 4.0.37
 * Palette: Colorful
 * Icon set prefix: `token-branded`
 * File: [json/token-branded.json](json/token-branded.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))

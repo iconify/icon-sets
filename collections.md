@@ -178,7 +178,7 @@
 * File: [json/tdesign.json](json/tdesign.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Sargam Icons
-* Number of icons: 1269
+* Number of icons: 1299
 * Author: Abhimanyu Rana
 * URL: https://github.com/planetabhi/sargam-icons
 * License: MIT
@@ -1341,7 +1341,7 @@
 * File: [json/file-icons.json](json/file-icons.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Devicon
-* Number of icons: 1019
+* Number of icons: 1020
 * Author: konpa
 * URL: https://github.com/devicons/devicon/tree/master
 * License: MIT
@@ -1351,7 +1351,7 @@
 * File: [json/devicon.json](json/devicon.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Devicon Plain
-* Number of icons: 743
+* Number of icons: 744
 * Author: konpa
 * URL: https://github.com/devicons/devicon/tree/master
 * License: MIT
@@ -1390,12 +1390,12 @@
 * File: [json/unjs.json](json/unjs.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Simple Icons
-* Number of icons: 3358
+* Number of icons: 3364
 * Author: Simple Icons Collaborators
 * URL: https://github.com/simple-icons/simple-icons
 * License: CC0 1.0
 * License URL: https://github.com/simple-icons/simple-icons/blob/develop/LICENSE.md
-* Version: 16.2.0
+* Version: 16.3.0
 * Palette: Colorless
 * Icon set prefix: `simple-icons`
 * File: [json/simple-icons.json](json/simple-icons.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
@@ -1465,7 +1465,7 @@
 * File: [json/nonicons.json](json/nonicons.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Arcticons
-* Number of icons: 14007
+* Number of icons: 14006
 * Author: Donnnno
 * URL: https://github.com/Arcticons-Team/Arcticons
 * License: CC BY-SA 4.0
@@ -1505,23 +1505,23 @@
 * File: [json/entypo-social.json](json/entypo-social.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Web3 Icons
-* Number of icons: 1763
+* Number of icons: 1764
 * Author: 0xa3k5
 * URL: https://github.com/0xa3k5/web3icons
 * License: MIT
 * License URL: https://github.com/0xa3k5/web3icons/blob/main/LICENCE
-* Version: 4.0.41
+* Version: 4.0.42
 * Palette: Colorless
 * Icon set prefix: `token`
 * File: [json/token.json](json/token.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Web3 Icons Branded
-* Number of icons: 2018
+* Number of icons: 2019
 * Author: 0xa3k5
 * URL: https://github.com/0xa3k5/web3icons
 * License: MIT
 * License URL: https://github.com/0xa3k5/web3icons/blob/main/LICENCE
-* Version: 4.0.41
+* Version: 4.0.42
 * Palette: Colorful
 * Icon set prefix: `token-branded`
 * File: [json/token-branded.json](json/token-branded.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))

@@ -22,9 +22,9 @@ export type IconifyMetaDataCollection = {
 };
 
 const _dirname =
-  typeof __dirname !== 'undefined'
-    ? __dirname
-    : dirname(fileURLToPath(import.meta.url));
+  typeof import.meta !== "undefined" && import.meta.url
+    ? dirname(fileURLToPath(import.meta.url))
+    : __dirname;
 
 /**
  * Directory of this package

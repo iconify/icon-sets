@@ -95,12 +95,12 @@
 * File: [json/mingcute.json](json/mingcute.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Remix Icon
-* Number of icons: 3188
+* Number of icons: 3227
 * Author: Remix Design
 * URL: https://github.com/Remix-Design/RemixIcon
 * License: Apache 2.0
 * License URL: https://github.com/Remix-Design/RemixIcon/blob/master/License
-* Version: 4.8.0
+* Version: 4.9.0
 * Palette: Colorless
 * Icon set prefix: `ri`
 * File: [json/ri.json](json/ri.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
@@ -643,7 +643,7 @@
 * Author: IBM
 * URL: https://github.com/carbon-design-system/carbon/tree/main/packages/icons
 * License: Apache 2.0
-* Version: 11.73.0
+* Version: 11.74.0
 * Palette: Colorless
 * Icon set prefix: `carbon`
 * File: [json/carbon.json](json/carbon.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
@@ -691,12 +691,12 @@
 * File: [json/lsicon.json](json/lsicon.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Gravity UI Icons
-* Number of icons: 744
+* Number of icons: 781
 * Author: YANDEX LLC
 * URL: https://github.com/gravity-ui/icons/
 * License: MIT
 * License URL: https://github.com/gravity-ui/icons/blob/main/LICENSE
-* Version: 2.16.0
+* Version: 2.17.0
 * Palette: Colorless
 * Icon set prefix: `gravity-ui`
 * File: [json/gravity-ui.json](json/gravity-ui.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
@@ -1515,23 +1515,23 @@
 * File: [json/entypo-social.json](json/entypo-social.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Web3 Icons
-* Number of icons: 1769
+* Number of icons: 1772
 * Author: 0xa3k5
 * URL: https://github.com/0xa3k5/web3icons
 * License: MIT
 * License URL: https://github.com/0xa3k5/web3icons/blob/main/LICENCE
-* Version: 4.0.48
+* Version: 4.0.49
 * Palette: Colorless
 * Icon set prefix: `token`
 * File: [json/token.json](json/token.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Web3 Icons Branded
-* Number of icons: 2024
+* Number of icons: 2027
 * Author: 0xa3k5
 * URL: https://github.com/0xa3k5/web3icons
 * License: MIT
 * License URL: https://github.com/0xa3k5/web3icons/blob/main/LICENCE
-* Version: 4.0.48
+* Version: 4.0.49
 * Palette: Colorful
 * Icon set prefix: `token-branded`
 * File: [json/token-branded.json](json/token-branded.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))

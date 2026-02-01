@@ -95,12 +95,12 @@
 * File: [json/mingcute.json](json/mingcute.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Remix Icon
-* Number of icons: 3227
+* Number of icons: 3229
 * Author: Remix Design
 * URL: https://github.com/Remix-Design/RemixIcon
 * License: Apache 2.0
 * License URL: https://github.com/Remix-Design/RemixIcon/blob/master/License
-* Version: 4.9.0
+* Version: 4.9.1
 * Palette: Colorless
 * Icon set prefix: `ri`
 * File: [json/ri.json](json/ri.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
@@ -828,7 +828,7 @@
 * File: [json/formkit.json](json/formkit.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Fluent UI System Icons
-* Number of icons: 18959
+* Number of icons: 19012
 * Author: Microsoft Corporation
 * URL: https://github.com/microsoft/fluentui-system-icons
 * License: MIT
@@ -848,6 +848,26 @@
 * Palette: Colorless
 * Icon set prefix: `ph`
 * File: [json/ph.json](json/ph.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
+
+## Glyphs
+* Number of icons: 3452
+* Author: Goran Spasojevic
+* URL: https://github.com/gorango/glyphs
+* License: MIT
+* License URL: https://github.com/gorango/glyphs/blob/main/license
+* Palette: Colorless
+* Icon set prefix: `glyphs`
+* File: [json/glyphs.json](json/glyphs.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
+
+## Glyphs Poly
+* Number of icons: 863
+* Author: Goran Spasojevic
+* URL: https://github.com/gorango/glyphs
+* License: MIT
+* License URL: https://github.com/gorango/glyphs/blob/main/license
+* Palette: Colorful
+* Icon set prefix: `glyphs-poly`
+* File: [json/glyphs-poly.json](json/glyphs-poly.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Teenyicons
 * Number of icons: 1200
@@ -1320,7 +1340,7 @@
 * File: [json/vscode-icons.json](json/vscode-icons.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Codicons
-* Number of icons: 536
+* Number of icons: 538
 * Author: Microsoft Corporation
 * URL: https://github.com/microsoft/vscode-codicons
 * License: CC BY 4.0
@@ -1400,12 +1420,12 @@
 * File: [json/unjs.json](json/unjs.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Simple Icons
-* Number of icons: 3384
+* Number of icons: 3389
 * Author: Simple Icons Collaborators
 * URL: https://github.com/simple-icons/simple-icons
 * License: CC0 1.0
 * License URL: https://github.com/simple-icons/simple-icons/blob/develop/LICENSE.md
-* Version: 16.6.1
+* Version: 16.7.0
 * Palette: Colorless
 * Icon set prefix: `simple-icons`
 * File: [json/simple-icons.json](json/simple-icons.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
@@ -1520,7 +1540,7 @@
 * URL: https://github.com/0xa3k5/web3icons
 * License: MIT
 * License URL: https://github.com/0xa3k5/web3icons/blob/main/LICENCE
-* Version: 4.0.49
+* Version: 4.0.50
 * Palette: Colorless
 * Icon set prefix: `token`
 * File: [json/token.json](json/token.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
@@ -1531,7 +1551,7 @@
 * URL: https://github.com/0xa3k5/web3icons
 * License: MIT
 * License URL: https://github.com/0xa3k5/web3icons/blob/main/LICENCE
-* Version: 4.0.49
+* Version: 4.0.50
 * Palette: Colorful
 * Icon set prefix: `token-branded`
 * File: [json/token-branded.json](json/token-branded.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))

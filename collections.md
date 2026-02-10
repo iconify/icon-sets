@@ -2,7 +2,7 @@
 
 
 ## Material Symbols
-* Number of icons: 15111
+* Number of icons: 15118
 * Author: Google
 * URL: https://github.com/google/material-design-icons
 * License: Apache 2.0
@@ -12,7 +12,7 @@
 * File: [json/material-symbols.json](json/material-symbols.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Material Symbols Light
-* Number of icons: 15184
+* Number of icons: 15191
 * Author: Google
 * URL: https://github.com/google/material-design-icons
 * License: Apache 2.0
@@ -95,12 +95,12 @@
 * File: [json/mingcute.json](json/mingcute.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Remix Icon
-* Number of icons: 3229
+* Number of icons: 3188
 * Author: Remix Design
-* URL: https://github.com/Remix-Design/RemixIcon
+* URL: https://github.com/cyberalien/RemixIcon
 * License: Apache 2.0
-* License URL: https://github.com/Remix-Design/RemixIcon/blob/master/License
-* Version: 4.9.1
+* License URL: https://github.com/cyberalien/RemixIcon/blob/master/License
+* Version: 4.8.0
 * Palette: Colorless
 * Icon set prefix: `ri`
 * File: [json/ri.json](json/ri.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
@@ -713,7 +713,7 @@
 * File: [json/cil.json](json/cil.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Röntgen
-* Number of icons: 522
+* Number of icons: 523
 * Author: Sergey Vartanov
 * URL: https://github.com/enzet/Roentgen
 * License: CC BY 4.0
@@ -1329,7 +1329,7 @@
 * File: [json/marketeq.json](json/marketeq.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## VSCode Icons
-* Number of icons: 1467
+* Number of icons: 1468
 * Author: Roberto Huertas
 * URL: https://github.com/vscode-icons/vscode-icons
 * License: MIT

@@ -2,7 +2,7 @@
 
 
 ## Material Symbols
-* Number of icons: 15118
+* Number of icons: 15128
 * Author: Google
 * URL: https://github.com/google/material-design-icons
 * License: Apache 2.0
@@ -12,7 +12,7 @@
 * File: [json/material-symbols.json](json/material-symbols.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Material Symbols Light
-* Number of icons: 15191
+* Number of icons: 15201
 * Author: Google
 * URL: https://github.com/google/material-design-icons
 * License: Apache 2.0
@@ -84,6 +84,17 @@
 * Icon set prefix: `tabler`
 * File: [json/tabler.json](json/tabler.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
+## Boxicons
+* Number of icons: 3768
+* Author: Boxicons
+* URL: https://github.com/box-icons/boxicons-core
+* License: MIT
+* License URL: https://github.com/box-icons/boxicons-core/blob/main/LICENSE
+* Version: 1.0.5
+* Palette: Colorless
+* Icon set prefix: `boxicons`
+* File: [json/boxicons.json](json/boxicons.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
+
 ## MingCute Icon
 * Number of icons: 3324
 * Author: MingCute Design
@@ -137,7 +148,7 @@
 * File: [json/iconoir.json](json/iconoir.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Lucide
-* Number of icons: 1674
+* Number of icons: 1686
 * Author: Lucide Contributors
 * URL: https://github.com/lucide-icons/lucide
 * License: ISC
@@ -186,28 +197,6 @@
 * Palette: Colorless
 * Icon set prefix: `si`
 * File: [json/si.json](json/si.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
-
-## BoxIcons
-* Number of icons: 814
-* Author: Atisa
-* URL: https://github.com/atisawd/boxicons
-* License: CC BY 4.0
-* License URL: https://creativecommons.org/licenses/by/4.0/
-* Version: 2.1.4
-* Palette: Colorless
-* Icon set prefix: `bx`
-* File: [json/bx.json](json/bx.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
-
-## BoxIcons Solid
-* Number of icons: 665
-* Author: Atisa
-* URL: https://github.com/atisawd/boxicons
-* License: CC BY 4.0
-* License URL: https://creativecommons.org/licenses/by/4.0/
-* Version: 2.1.4
-* Palette: Colorless
-* Icon set prefix: `bxs`
-* File: [json/bxs.json](json/bxs.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Majesticons
 * Number of icons: 760
@@ -833,7 +822,7 @@
 * URL: https://github.com/microsoft/fluentui-system-icons
 * License: MIT
 * License URL: https://github.com/microsoft/fluentui-system-icons/blob/main/LICENSE
-* Version: 1.1.318
+* Version: 1.1.319
 * Palette: Colorless
 * Icon set prefix: `fluent`
 * File: [json/fluent.json](json/fluent.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
@@ -1264,7 +1253,7 @@
 * URL: https://github.com/microsoft/fluentui-system-icons
 * License: MIT
 * License URL: https://github.com/microsoft/fluentui-system-icons/blob/main/LICENSE
-* Version: 1.1.318
+* Version: 1.1.319
 * Palette: Colorful
 * Icon set prefix: `fluent-color`
 * File: [json/fluent-color.json](json/fluent-color.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
@@ -1371,7 +1360,7 @@
 * File: [json/file-icons.json](json/file-icons.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Devicon
-* Number of icons: 1024
+* Number of icons: 1030
 * Author: konpa
 * URL: https://github.com/devicons/devicon/tree/master
 * License: MIT
@@ -1381,7 +1370,7 @@
 * File: [json/devicon.json](json/devicon.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Devicon Plain
-* Number of icons: 747
+* Number of icons: 751
 * Author: konpa
 * URL: https://github.com/devicons/devicon/tree/master
 * License: MIT
@@ -1472,13 +1461,13 @@
 * Icon set prefix: `fa7-brands`
 * File: [json/fa7-brands.json](json/fa7-brands.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
-## BoxIcons Logo
-* Number of icons: 155
-* Author: Atisa
-* URL: https://github.com/atisawd/boxicons
-* License: CC BY 4.0
-* License URL: https://creativecommons.org/licenses/by/4.0/
-* Version: 2.1.4
+## Boxicons Brands
+* Number of icons: 295
+* Author: Boxicons
+* URL: https://github.com/box-icons/boxicons-core
+* License: MIT
+* License URL: https://github.com/box-icons/boxicons-core/blob/main/LICENSE
+* Version: 1.0.5
 * Palette: Colorless
 * Icon set prefix: `bxl`
 * File: [json/bxl.json](json/bxl.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
@@ -1978,6 +1967,28 @@
 * Palette: Colorless
 * Icon set prefix: `heroicons-solid`
 * File: [json/heroicons-solid.json](json/heroicons-solid.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
+
+## BoxIcons v2
+* Number of icons: 814
+* Author: Boxicons
+* URL: https://github.com/box-icons/boxicons
+* License: MIT
+* License URL: https://github.com/box-icons/boxicons/blob/main/LICENSE
+* Version: 2.1.4
+* Palette: Colorless
+* Icon set prefix: `bx`
+* File: [json/bx.json](json/bx.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
+
+## BoxIcons v2 Solid
+* Number of icons: 665
+* Author: Boxicons
+* URL: https://github.com/box-icons/boxicons
+* License: MIT
+* License URL: https://github.com/box-icons/boxicons/blob/main/LICENSE
+* Version: 2.1.4
+* Palette: Colorless
+* Icon set prefix: `bxs`
+* File: [json/bxs.json](json/bxs.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Font Awesome 6 Solid
 * Number of icons: 1402

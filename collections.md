@@ -2,7 +2,7 @@
 
 
 ## Material Symbols
-* Number of icons: 15159
+* Number of icons: 15195
 * Author: Google
 * URL: https://github.com/google/material-design-icons
 * License: Apache 2.0
@@ -12,7 +12,7 @@
 * File: [json/material-symbols.json](json/material-symbols.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Material Symbols Light
-* Number of icons: 15232
+* Number of icons: 15268
 * Author: Google
 * URL: https://github.com/google/material-design-icons
 * License: Apache 2.0
@@ -58,7 +58,7 @@
 * URL: https://github.com/cyberalien/line-md
 * License: MIT
 * License URL: https://github.com/cyberalien/line-md/blob/main/license.txt
-* Version: 3.0.4
+* Version: 3.0.5
 * Palette: Colorless
 * Icon set prefix: `line-md`
 * File: [json/line-md.json](json/line-md.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
@@ -74,7 +74,7 @@
 * File: [json/solar.json](json/solar.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Tabler Icons
-* Number of icons: 6038
+* Number of icons: 6055
 * Author: Paweł Kuna
 * URL: https://github.com/tabler/tabler-icons
 * License: MIT
@@ -1124,7 +1124,7 @@
 * File: [json/picon.json](json/picon.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## OOUI
-* Number of icons: 370
+* Number of icons: 371
 * Author: OOUI Team
 * URL: https://github.com/wikimedia/oojs-ui
 * License: MIT
@@ -1494,7 +1494,7 @@
 * File: [json/arcticons.json](json/arcticons.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Custom Brand Icons
-* Number of icons: 1511
+* Number of icons: 1514
 * Author: Emanuele & rchiileea
 * URL: https://github.com/elax46/custom-brand-icons
 * License: CC BY-NC-SA 4.0

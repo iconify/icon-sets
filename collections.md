@@ -74,12 +74,12 @@
 * File: [json/solar.json](json/solar.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Tabler Icons
-* Number of icons: 6055
+* Number of icons: 6056
 * Author: Paweł Kuna
 * URL: https://github.com/tabler/tabler-icons
 * License: MIT
 * License URL: https://github.com/tabler/tabler-icons/blob/master/LICENSE
-* Version: 3.38.0
+* Version: 3.39.0
 * Palette: Colorless
 * Icon set prefix: `tabler`
 * File: [json/tabler.json](json/tabler.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
@@ -148,7 +148,7 @@
 * File: [json/iconoir.json](json/iconoir.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Lucide
-* Number of icons: 1702
+* Number of icons: 1703
 * Author: Lucide Contributors
 * URL: https://github.com/lucide-icons/lucide
 * License: ISC
@@ -685,7 +685,7 @@
 * URL: https://github.com/gravity-ui/icons/
 * License: MIT
 * License URL: https://github.com/gravity-ui/icons/blob/main/LICENSE
-* Version: 2.17.0
+* Version: 2.18.0
 * Palette: Colorless
 * Icon set prefix: `gravity-ui`
 * File: [json/gravity-ui.json](json/gravity-ui.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
@@ -1062,7 +1062,7 @@
 * File: [json/pajamas.json](json/pajamas.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Garden SVG Icons
-* Number of icons: 912
+* Number of icons: 916
 * Author: Zendesk
 * URL: https://github.com/zendeskgarden/svg-icons
 * License: Apache 2.0

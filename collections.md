@@ -702,7 +702,7 @@
 * File: [json/cil.json](json/cil.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Röntgen
-* Number of icons: 538
+* Number of icons: 540
 * Author: Sergey Vartanov
 * URL: https://github.com/enzet/Roentgen
 * License: CC BY 4.0
@@ -1062,7 +1062,7 @@
 * File: [json/pajamas.json](json/pajamas.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Garden SVG Icons
-* Number of icons: 916
+* Number of icons: 928
 * Author: Zendesk
 * URL: https://github.com/zendeskgarden/svg-icons
 * License: Apache 2.0
@@ -1146,12 +1146,12 @@
 * File: [json/maki.json](json/maki.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Temaki
-* Number of icons: 544
+* Number of icons: 557
 * Author: Bryan Housel
 * URL: https://github.com/rapideditor/temaki
 * License: CC0
 * License URL: https://creativecommons.org/publicdomain/zero/1.0/
-* Version: 5.12.0
+* Version: 5.13.0
 * Palette: Colorless
 * Icon set prefix: `temaki`
 * File: [json/temaki.json](json/temaki.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))

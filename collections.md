@@ -2,7 +2,7 @@
 
 
 ## Material Symbols
-* Number of icons: 15222
+* Number of icons: 15207
 * Author: Google
 * URL: https://github.com/google/material-design-icons
 * License: Apache 2.0
@@ -12,7 +12,7 @@
 * File: [json/material-symbols.json](json/material-symbols.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Material Symbols Light
-* Number of icons: 15295
+* Number of icons: 15280
 * Author: Google
 * URL: https://github.com/google/material-design-icons
 * License: Apache 2.0
@@ -74,12 +74,12 @@
 * File: [json/solar.json](json/solar.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Tabler Icons
-* Number of icons: 6080
+* Number of icons: 6092
 * Author: Paweł Kuna
 * URL: https://github.com/tabler/tabler-icons
 * License: MIT
 * License URL: https://github.com/tabler/tabler-icons/blob/master/LICENSE
-* Version: 3.40.0
+* Version: 3.41.0
 * Palette: Colorless
 * Icon set prefix: `tabler`
 * File: [json/tabler.json](json/tabler.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
@@ -817,12 +817,12 @@
 * File: [json/formkit.json](json/formkit.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Fluent UI System Icons
-* Number of icons: 19158
+* Number of icons: 19207
 * Author: Microsoft Corporation
 * URL: https://github.com/microsoft/fluentui-system-icons
 * License: MIT
 * License URL: https://github.com/microsoft/fluentui-system-icons/blob/main/LICENSE
-* Version: 1.1.322
+* Version: 1.1.323
 * Palette: Colorless
 * Icon set prefix: `fluent`
 * File: [json/fluent.json](json/fluent.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
@@ -1253,7 +1253,7 @@
 * URL: https://github.com/microsoft/fluentui-system-icons
 * License: MIT
 * License URL: https://github.com/microsoft/fluentui-system-icons/blob/main/LICENSE
-* Version: 1.1.322
+* Version: 1.1.323
 * Palette: Colorful
 * Icon set prefix: `fluent-color`
 * File: [json/fluent-color.json](json/fluent-color.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
@@ -1399,6 +1399,16 @@
 * Icon set prefix: `skill-icons`
 * File: [json/skill-icons.json](json/skill-icons.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
+## Google Cloud Icons
+* Number of icons: 214
+* Author: Google Cloud
+* URL: https://cloud.google.com
+* License: Apache 2.0
+* License URL: https://www.apache.org/licenses/LICENSE-2.0
+* Palette: Colorful
+* Icon set prefix: `gcp`
+* File: [json/gcp.json](json/gcp.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
+
 ## UnJS Logos
 * Number of icons: 63
 * Author: UnJS
@@ -1420,7 +1430,7 @@
 * File: [json/simple-icons.json](json/simple-icons.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## SVG Logos
-* Number of icons: 1837
+* Number of icons: 1861
 * Author: Gil Barbara
 * URL: https://github.com/gilbarbara/logos
 * License: CC0

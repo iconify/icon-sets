@@ -2,7 +2,7 @@
 
 
 ## Material Symbols
-* Number of icons: 15207
+* Number of icons: 15260
 * Author: Google
 * URL: https://github.com/google/material-design-icons
 * License: Apache 2.0
@@ -12,7 +12,7 @@
 * File: [json/material-symbols.json](json/material-symbols.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Material Symbols Light
-* Number of icons: 15280
+* Number of icons: 15333
 * Author: Google
 * URL: https://github.com/google/material-design-icons
 * License: Apache 2.0
@@ -179,7 +179,7 @@
 * File: [json/uil.json](json/uil.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## TDesign Icons
-* Number of icons: 2349
+* Number of icons: 2350
 * Author: TDesign
 * URL: https://github.com/Tencent/tdesign-icons
 * License: MIT
@@ -476,7 +476,7 @@
 * File: [json/svg-spinners.json](json/svg-spinners.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Huge Icons
-* Number of icons: 4653
+* Number of icons: 5042
 * Author: Hugeicons
 * URL: https://icon-sets.iconify.design/icon-sets/hugeicons/
 * License: MIT
@@ -702,7 +702,7 @@
 * File: [json/cil.json](json/cil.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Röntgen
-* Number of icons: 543
+* Number of icons: 548
 * Author: Sergey Vartanov
 * URL: https://github.com/enzet/Roentgen
 * License: CC BY 4.0

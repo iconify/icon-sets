@@ -2,7 +2,7 @@
 
 
 ## Material Symbols
-* Number of icons: 15325
+* Number of icons: 15341
 * Author: Google
 * URL: https://github.com/google/material-design-icons
 * License: Apache 2.0
@@ -12,7 +12,7 @@
 * File: [json/material-symbols.json](json/material-symbols.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Material Symbols Light
-* Number of icons: 15403
+* Number of icons: 15419
 * Author: Google
 * URL: https://github.com/google/material-design-icons
 * License: Apache 2.0
@@ -148,7 +148,7 @@
 * File: [json/iconoir.json](json/iconoir.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Lucide
-* Number of icons: 1695
+* Number of icons: 1696
 * Author: Lucide Contributors
 * URL: https://github.com/lucide-icons/lucide
 * License: ISC
@@ -358,12 +358,12 @@
 * File: [json/eos-icons.json](json/eos-icons.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Bitcoin Icons
-* Number of icons: 250
+* Number of icons: 330
 * Author: Bitcoin Design Community
 * URL: https://github.com/BitcoinDesign/Bitcoin-Icons
 * License: MIT
 * License URL: https://github.com/BitcoinDesign/Bitcoin-Icons/blob/main/LICENSE-MIT
-* Version: 0.1.10
+* Version: 0.1.11
 * Palette: Colorless
 * Icon set prefix: `bitcoin-icons`
 * File: [json/bitcoin-icons.json](json/bitcoin-icons.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
@@ -632,7 +632,7 @@
 * Author: IBM
 * URL: https://github.com/carbon-design-system/carbon/tree/main/packages/icons
 * License: Apache 2.0
-* Version: 11.78.0
+* Version: 11.79.0
 * Palette: Colorless
 * Icon set prefix: `carbon`
 * File: [json/carbon.json](json/carbon.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
@@ -1768,7 +1768,7 @@
 * File: [json/geo.json](json/geo.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Game Icons
-* Number of icons: 4123
+* Number of icons: 4133
 * Author: GameIcons
 * URL: https://github.com/game-icons/icons
 * License: CC BY 3.0

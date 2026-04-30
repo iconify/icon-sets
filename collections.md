@@ -148,7 +148,7 @@
 * File: [json/iconoir.json](json/iconoir.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Lucide
-* Number of icons: 1700
+* Number of icons: 1703
 * Author: Lucide Contributors
 * URL: https://github.com/lucide-icons/lucide
 * License: ISC
@@ -1318,7 +1318,7 @@
 * File: [json/marketeq.json](json/marketeq.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## VSCode Icons
-* Number of icons: 1482
+* Number of icons: 1486
 * Author: Roberto Huertas
 * URL: https://github.com/vscode-icons/vscode-icons
 * License: MIT
@@ -1340,7 +1340,7 @@
 * File: [json/codicon.json](json/codicon.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Material Icon Theme
-* Number of icons: 1163
+* Number of icons: 1165
 * Author: Material Extensions
 * URL: https://github.com/material-extensions/vscode-material-icon-theme
 * License: MIT

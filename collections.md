@@ -701,16 +701,6 @@
 * Icon set prefix: `cil`
 * File: [json/cil.json](json/cil.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
-## Röntgen
-* Number of icons: 553
-* Author: Sergey Vartanov
-* URL: https://github.com/enzet/Roentgen
-* License: CC BY 4.0
-* License URL: https://creativecommons.org/licenses/by/4.0/
-* Palette: Colorless
-* Icon set prefix: `roentgen`
-* File: [json/roentgen.json](json/roentgen.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
-
 ## Element Plus
 * Number of icons: 293
 * Author: Element Plus
@@ -1134,28 +1124,6 @@
 * Icon set prefix: `ooui`
 * File: [json/ooui.json](json/ooui.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
-## Maki
-* Number of icons: 215
-* Author: Mapbox
-* URL: https://github.com/mapbox/maki
-* License: CC0
-* License URL: https://creativecommons.org/publicdomain/zero/1.0/
-* Version: 8.2.0
-* Palette: Colorless
-* Icon set prefix: `maki`
-* File: [json/maki.json](json/maki.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
-
-## Temaki
-* Number of icons: 557
-* Author: Bryan Housel
-* URL: https://github.com/rapideditor/temaki
-* License: CC0
-* License URL: https://creativecommons.org/publicdomain/zero/1.0/
-* Version: 5.13.0
-* Palette: Colorless
-* Icon set prefix: `temaki`
-* File: [json/temaki.json](json/temaki.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
-
 ## OpenSearch UI
 * Number of icons: 437
 * Author: OpenSearch Contributors
@@ -1318,7 +1286,7 @@
 * File: [json/marketeq.json](json/marketeq.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## VSCode Icons
-* Number of icons: 1489
+* Number of icons: 1492
 * Author: Roberto Huertas
 * URL: https://github.com/vscode-icons/vscode-icons
 * License: MIT
@@ -1418,12 +1386,12 @@
 * File: [json/unjs.json](json/unjs.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Simple Icons
-* Number of icons: 3432
+* Number of icons: 3433
 * Author: Simple Icons Collaborators
 * URL: https://github.com/simple-icons/simple-icons
 * License: CC0 1.0
 * License URL: https://github.com/simple-icons/simple-icons/blob/develop/LICENSE.md
-* Version: 16.19.0
+* Version: 16.20.0
 * Palette: Colorless
 * Icon set prefix: `simple-icons`
 * File: [json/simple-icons.json](json/simple-icons.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
@@ -1733,6 +1701,38 @@
 * Palette: Colorful
 * Icon set prefix: `cif`
 * File: [json/cif.json](json/cif.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
+
+## Röntgen
+* Number of icons: 558
+* Author: Sergey Vartanov
+* URL: https://github.com/enzet/Roentgen
+* License: CC BY 4.0
+* License URL: https://creativecommons.org/licenses/by/4.0/
+* Palette: Colorless
+* Icon set prefix: `roentgen`
+* File: [json/roentgen.json](json/roentgen.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
+
+## Maki
+* Number of icons: 215
+* Author: Mapbox
+* URL: https://github.com/mapbox/maki
+* License: CC0
+* License URL: https://creativecommons.org/publicdomain/zero/1.0/
+* Version: 8.2.0
+* Palette: Colorless
+* Icon set prefix: `maki`
+* File: [json/maki.json](json/maki.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
+
+## Temaki
+* Number of icons: 557
+* Author: Bryan Housel
+* URL: https://github.com/rapideditor/temaki
+* License: CC0
+* License URL: https://creativecommons.org/publicdomain/zero/1.0/
+* Version: 5.13.0
+* Palette: Colorless
+* Icon set prefix: `temaki`
+* File: [json/temaki.json](json/temaki.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Font-GIS
 * Number of icons: 367

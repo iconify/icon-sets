@@ -1702,6 +1702,16 @@
 * Icon set prefix: `cif`
 * File: [json/cif.json](json/cif.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
+## Pinhead Map Icons
+* Number of icons: 1971
+* Author: Quincy Morgan
+* URL: https://github.com/waysidemapping/pinhead
+* License: CC0
+* License URL: https://creativecommons.org/publicdomain/zero/1.0/
+* Palette: Colorless
+* Icon set prefix: `pinhead`
+* File: [json/pinhead.json](json/pinhead.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
+
 ## Röntgen
 * Number of icons: 558
 * Author: Sergey Vartanov

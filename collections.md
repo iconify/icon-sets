@@ -241,12 +241,12 @@
 * File: [json/basil.json](json/basil.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Pixelarticons
-* Number of icons: 800
+* Number of icons: 813
 * Author: Gerrit Halfmann
 * URL: https://github.com/halfmage/pixelarticons
 * License: MIT
 * License URL: https://github.com/halfmage/pixelarticons/blob/master/LICENSE
-* Version: 2.1.0
+* Version: 2.1.1
 * Palette: Colorless
 * Icon set prefix: `pixelarticons`
 * File: [json/pixelarticons.json](json/pixelarticons.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
@@ -628,11 +628,11 @@
 * File: [json/guidance.json](json/guidance.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Carbon
-* Number of icons: 2526
+* Number of icons: 2527
 * Author: IBM
 * URL: https://github.com/carbon-design-system/carbon/tree/main/packages/icons
 * License: Apache 2.0
-* Version: 11.80.0
+* Version: 11.81.0
 * Palette: Colorless
 * Icon set prefix: `carbon`
 * File: [json/carbon.json](json/carbon.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
@@ -812,7 +812,7 @@
 * URL: https://github.com/microsoft/fluentui-system-icons
 * License: MIT
 * License URL: https://github.com/microsoft/fluentui-system-icons/blob/main/LICENSE
-* Version: 1.1.326
+* Version: 1.1.327
 * Palette: Colorless
 * Icon set prefix: `fluent`
 * File: [json/fluent.json](json/fluent.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
@@ -890,12 +890,12 @@
 * File: [json/ix.json](json/ix.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Octicons
-* Number of icons: 731
+* Number of icons: 733
 * Author: GitHub
 * URL: https://github.com/primer/octicons/
 * License: MIT
 * License URL: https://github.com/primer/octicons/blob/main/LICENSE
-* Version: 19.25.0
+* Version: 19.26.0
 * Palette: Colorless
 * Icon set prefix: `octicon`
 * File: [json/octicon.json](json/octicon.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
@@ -1221,7 +1221,7 @@
 * URL: https://github.com/microsoft/fluentui-system-icons
 * License: MIT
 * License URL: https://github.com/microsoft/fluentui-system-icons/blob/main/LICENSE
-* Version: 1.1.326
+* Version: 1.1.327
 * Palette: Colorful
 * Icon set prefix: `fluent-color`
 * File: [json/fluent-color.json](json/fluent-color.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
@@ -1297,7 +1297,7 @@
 * File: [json/vscode-icons.json](json/vscode-icons.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Codicons
-* Number of icons: 566
+* Number of icons: 567
 * Author: Microsoft Corporation
 * URL: https://github.com/microsoft/vscode-codicons
 * License: CC BY 4.0
@@ -1471,7 +1471,7 @@
 * File: [json/arcticons.json](json/arcticons.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Custom Brand Icons
-* Number of icons: 1581
+* Number of icons: 1582
 * Author: Emanuele & rchiileea
 * URL: https://github.com/elax46/custom-brand-icons
 * License: CC BY-NC-SA 4.0
@@ -1713,7 +1713,7 @@
 * File: [json/pinhead.json](json/pinhead.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Röntgen
-* Number of icons: 558
+* Number of icons: 562
 * Author: Sergey Vartanov
 * URL: https://github.com/enzet/Roentgen
 * License: CC BY 4.0

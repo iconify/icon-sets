@@ -2,7 +2,7 @@
 
 
 ## Material Symbols
-* Number of icons: 15388
+* Number of icons: 15399
 * Author: Google
 * URL: https://github.com/google/material-design-icons
 * License: Apache 2.0
@@ -12,7 +12,7 @@
 * File: [json/material-symbols.json](json/material-symbols.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Material Symbols Light
-* Number of icons: 15466
+* Number of icons: 15473
 * Author: Google
 * URL: https://github.com/google/material-design-icons
 * License: Apache 2.0
@@ -807,12 +807,12 @@
 * File: [json/formkit.json](json/formkit.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Fluent UI System Icons
-* Number of icons: 19392
+* Number of icons: 19448
 * Author: Microsoft Corporation
 * URL: https://github.com/microsoft/fluentui-system-icons
 * License: MIT
 * License URL: https://github.com/microsoft/fluentui-system-icons/blob/main/LICENSE
-* Version: 1.1.327
+* Version: 1.1.328
 * Palette: Colorless
 * Icon set prefix: `fluent`
 * File: [json/fluent.json](json/fluent.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
@@ -895,7 +895,7 @@
 * URL: https://github.com/primer/octicons/
 * License: MIT
 * License URL: https://github.com/primer/octicons/blob/main/LICENSE
-* Version: 19.26.0
+* Version: 19.27.0
 * Palette: Colorless
 * Icon set prefix: `octicon`
 * File: [json/octicon.json](json/octicon.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
@@ -1221,7 +1221,7 @@
 * URL: https://github.com/microsoft/fluentui-system-icons
 * License: MIT
 * License URL: https://github.com/microsoft/fluentui-system-icons/blob/main/LICENSE
-* Version: 1.1.327
+* Version: 1.1.328
 * Palette: Colorful
 * Icon set prefix: `fluent-color`
 * File: [json/fluent-color.json](json/fluent-color.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
@@ -1297,7 +1297,7 @@
 * File: [json/vscode-icons.json](json/vscode-icons.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Codicons
-* Number of icons: 567
+* Number of icons: 595
 * Author: Microsoft Corporation
 * URL: https://github.com/microsoft/vscode-codicons
 * License: CC BY 4.0
@@ -1703,7 +1703,7 @@
 * File: [json/cif.json](json/cif.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Pinhead Map Icons
-* Number of icons: 1971
+* Number of icons: 1996
 * Author: Quincy Morgan
 * URL: https://github.com/waysidemapping/pinhead
 * License: CC0
@@ -1861,6 +1861,16 @@
 * Palette: Colorless
 * Icon set prefix: `covid`
 * File: [json/covid.json](json/covid.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
+
+## Ginetex Care Symbols
+* Number of icons: 50
+* Author: YESSIR Organization
+* URL: https://github.com/yessir-web-tech/ginetex-icons
+* License: MIT
+* License URL: https://github.com/yessir-web-tech/ginetex-icons/blob/main/LICENSE
+* Palette: Colorless
+* Icon set prefix: `ginetex`
+* File: [json/ginetex.json](json/ginetex.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Line Awesome
 * Number of icons: 1544

@@ -2,8 +2,8 @@
 	"prefix": "carbon",
 	"info": {
 		"name": "Carbon",
-		"total": 2527,
-		"version": "11.81.0",
+		"total": 2529,
+		"version": "11.82.0",
 		"author": {
 			"name": "IBM",
 			"url": "https://github.com/carbon-design-system/carbon/tree/main/packages/icons"
@@ -29,7 +29,7 @@
 		],
 		"palette": false
 	},
-	"lastModified": 1779346286,
+	"lastModified": 1780552530,
 	"icons": {
 		"3d-cursor": {
 			"body": "<path d=\"M13 4H4v9.01h2V6h7V4z\" fill=\"currentColor\"/><path d=\"M29.49 13.12l-9-5a1 1 0 0 0-1 0l-9 5A1 1 0 0 0 10 14v10a1 1 0 0 0 .52.87l9 5A1 1 0 0 0 20 30a1.05 1.05 0 0 0 .49-.13l9-5A1 1 0 0 0 30 24V14a1 1 0 0 0-.51-.88zM19 27.3l-7-3.89v-7.72l7 3.89zm1-9.45L13.06 14L20 10.14L26.94 14zm8 5.56l-7 3.89v-7.72l7-3.89z\" fill=\"currentColor\"/>",
@@ -1800,6 +1800,9 @@
 		},
 		"cough": {
 			"body": "<path fill=\"currentColor\" d=\"M26 30h-2v-3h-4a5.006 5.006 0 0 1-5-5v-1.28l-2.316-.771a1 1 0 0 1-.541-1.463L15 13.723V11a9.01 9.01 0 0 1 9-9h5v2h-5a7.01 7.01 0 0 0-7 7v3a1 1 0 0 1-.143.514L14.5 18.446l1.817.605A1 1 0 0 1 17 20v2a3.003 3.003 0 0 0 3 3h5a1 1 0 0 1 1 1Z\"/><circle cx=\"9\" cy=\"23\" r=\"1\" fill=\"currentColor\"/><circle cx=\"6\" cy=\"20\" r=\"1\" fill=\"currentColor\"/><circle cx=\"6\" cy=\"26\" r=\"1\" fill=\"currentColor\"/><circle cx=\"3\" cy=\"17\" r=\"1\" fill=\"currentColor\"/><circle cx=\"3\" cy=\"29\" r=\"1\" fill=\"currentColor\"/><circle cx=\"3\" cy=\"23\" r=\"1\" fill=\"currentColor\"/><path fill=\"currentColor\" d=\"M19 12h4v2h-4z\"/>"
+		},
+		"coupling-facility": {
+			"body": "<path fill=\"currentColor\" d=\"M29 30H3a1 1 0 0 1-.894-1.447l13-26c.338-.678 1.45-.678 1.789 0l13 26A.998.998 0 0 1 29 30M4.618 28h22.764L16 5.236z\"/>"
 		},
 		"coupling-facility-encryption": {
 			"body": "<path fill=\"currentColor\" d=\"M29 21.3V20c0-2.2-1.8-4-4-4s-4 1.8-4 4v1.3c-.6.3-1 1-1 1.7v5c0 1.1.9 2 2 2h6c1.1 0 2-.9 2-2v-5c0-.7-.4-1.4-1-1.7M25 18c1.1 0 2 .9 2 2v1h-4v-1c0-1.1.9-2 2-2m3 10h-6v-5h6zm-10 2H3c-.3 0-.7-.2-.9-.5s-.2-.7 0-1l13-25.9c.3-.7 1.4-.7 1.8 0l5.5 11l-1.8.9L16 5.2L4.6 28H18z\"/>"
@@ -8181,6 +8184,9 @@
 		"zos": {
 			"body": "<path fill=\"currentColor\" d=\"M30 22h-5v-2h5v-3h-3c-1.103 0-2-.897-2-2v-3c0-1.103.897-2 2-2h5v2h-5v3h3c1.103 0 2 .897 2 2v3c0 1.103-.897 2-2 2m-9 0h-3c-1.103 0-2-.897-2-2v-8c0-1.103.897-2 2-2h3c1.103 0 2 .897 2 2v8c0 1.103-.897 2-2 2m-3-10v8h3v-8zm-6.054-2l-4 12h2.108l4-12zM6 22H0v-2.303L3.798 14H0v-2h6v2.303L2.202 20H6z\"/>"
 		},
+		"zos-partition": {
+			"body": "<path fill=\"currentColor\" d=\"M26 28H6c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2h20c1.1 0 2 .9 2 2v20c0 1.1-.9 2-2 2M7.4 26H26V7.4zM6 6v18.6L24.6 6z\"/>"
+		},
 		"zos-sysplex": {
 			"body": "<path fill=\"currentColor\" d=\"M20 14h8c1.103 0 2-.897 2-2V4c0-1.102-.897-2-2-2h-8c-1.103 0-2 .898-2 2v1H9c-1.103 0-2 .898-2 2v3H4c-1.103 0-2 .898-2 2v8c0 1.103.897 2 2 2h3v3c0 1.103.897 2 2 2h9v1c0 1.103.897 2 2 2h8c1.103 0 2-.897 2-2v-8c0-1.102-.897-2-2-2h-8c-1.103 0-2 .898-2 2v5H9v-3h3c1.103 0 2-.897 2-2v-8c0-1.102-.897-2-2-2H9V7h9v5c0 1.103.897 2 2 2m1.414 14L28 21.414V28zm5.172-8L20 26.586V20zm-16.034-8L4 18.552V12zM5.38 20L12 13.38l.001 6.62zm16.034-8L28 5.414V12zm5.172-8L20 10.586V4z\"/>"
 		}
@@ -9504,6 +9510,7 @@
 			"copy-link",
 			"cost",
 			"cost-total",
+			"coupling-facility",
 			"coupling-facility-encryption",
 			"course",
 			"covariate",
@@ -10177,6 +10184,7 @@
 			"zip",
 			"zip-reference",
 			"zos",
+			"zos-partition",
 			"zos-sysplex"
 		],
 		"Person": [

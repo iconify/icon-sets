@@ -2,7 +2,7 @@
 	"prefix": "lucide",
 	"info": {
 		"name": "Lucide",
-		"total": 1735,
+		"total": 1743,
 		"author": {
 			"name": "Lucide Contributors",
 			"url": "https://github.com/lucide-icons/lucide"
@@ -29,7 +29,7 @@
 		],
 		"palette": false
 	},
-	"lastModified": 1781584929,
+	"lastModified": 1781845775,
 	"icons": {
 		"a-arrow-down": {
 			"body": "<path fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" d=\"m14 12l4 4l4-4m-4 4V7M2 16l4.039-9.69a.5.5 0 0 1 .923 0L11 16m-7.696-3h6.392\"/>"
@@ -637,6 +637,9 @@
 		},
 		"bone": {
 			"body": "<path fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" d=\"M17 10c.7-.7 1.69 0 2.5 0a2.5 2.5 0 1 0 0-5a.5.5 0 0 1-.5-.5a2.5 2.5 0 1 0-5 0c0 .81.7 1.8 0 2.5l-7 7c-.7.7-1.69 0-2.5 0a2.5 2.5 0 0 0 0 5c.28 0 .5.22.5.5a2.5 2.5 0 1 0 5 0c0-.81-.7-1.8 0-2.5Z\"/>"
+		},
+		"bone-fracture": {
+			"body": "<path fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" d=\"M14 4.5a1 1 0 0 1 5 0a.5.5 0 0 0 .5.5a1 1 0 0 1 0 5c-.81 0-1.8-.7-2.5 0l-1.958 1.957a.15.15 0 0 1-.252-.072l-.493-2.07a.15.15 0 0 0-.111-.112l-2.072-.494a.15.15 0 0 1-.072-.252L14 7c.7-.7 0-1.69 0-2.5M16 20l-1-2m5-2l-2-1M4 8l2 1m2-5l1 2m.698 8.19a.15.15 0 0 0 .112.112l2.074.489a.15.15 0 0 1 .072.252L10 17c-.7.7 0 1.69 0 2.5a1 1 0 0 1-5 0a.495.495 0 0 0-.5-.5a1 1 0 0 1 0-5c.81 0 1.8.7 2.5 0l1.956-1.957a.15.15 0 0 1 .252.072z\"/>"
 		},
 		"book": {
 			"body": "<path fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" d=\"M4 19.5v-15A2.5 2.5 0 0 1 6.5 2H19a1 1 0 0 1 1 1v18a1 1 0 0 1-1 1H6.5a1 1 0 0 1 0-5H20\"/>"
@@ -1636,11 +1639,29 @@
 		"database": {
 			"body": "<g fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\"><ellipse cx=\"12\" cy=\"5\" rx=\"9\" ry=\"3\"/><path d=\"M3 5v14a9 3 0 0 0 18 0V5\"/><path d=\"M3 12a9 3 0 0 0 18 0\"/></g>"
 		},
+		"database-arrow-down": {
+			"body": "<g fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\"><path d=\"m16 19l3 3l3-3m-3-3v6m2-9.464V5M3 12a9 3 0 0 0 12.182 2.806\"/><path d=\"M3 5v14a9 3 0 0 0 10.318 2.968\"/><ellipse cx=\"12\" cy=\"5\" rx=\"9\" ry=\"3\"/></g>"
+		},
+		"database-arrow-up": {
+			"body": "<g fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\"><path d=\"M19 22v-6m2-3.464V5m1 14l-3-3l-3 3M3 12a9 3 0 0 0 11.457 2.886\"/><path d=\"M3 5v14a9 3 0 0 0 10.318 2.968\"/><ellipse cx=\"12\" cy=\"5\" rx=\"9\" ry=\"3\"/></g>"
+		},
 		"database-backup": {
 			"body": "<g fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\"><ellipse cx=\"12\" cy=\"5\" rx=\"9\" ry=\"3\"/><path d=\"M3 12a9 3 0 0 0 5 2.69M21 9.3V5\"/><path d=\"M3 5v14a9 3 0 0 0 6.47 2.88M12 12v4h4\"/><path d=\"M13 20a5 5 0 0 0 9-3a4.5 4.5 0 0 0-4.5-4.5c-1.33 0-2.54.54-3.41 1.41L12 16\"/></g>"
 		},
+		"database-check": {
+			"body": "<g fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\"><path d=\"m16 19l2 2l4-4m-1-3.873V5M3 12a9 3 0 0 0 18 0\"/><path d=\"M3 5v14a9 3 0 0 0 10.318 2.968\"/><ellipse cx=\"12\" cy=\"5\" rx=\"9\" ry=\"3\"/></g>"
+		},
+		"database-minus": {
+			"body": "<g fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\"><path d=\"M21 15V5m1 14h-6M3 12a9 3 0 0 0 18 0\"/><path d=\"M3 5v14a9 3 0 0 0 10.318 2.968\"/><ellipse cx=\"12\" cy=\"5\" rx=\"9\" ry=\"3\"/></g>"
+		},
+		"database-plus": {
+			"body": "<g fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\"><path d=\"M19 16v6m2-9.464V5m1 14h-6M3 12a9 3 0 0 0 12.182 2.806\"/><path d=\"M3 5v14a9 3 0 0 0 10.318 2.968\"/><ellipse cx=\"12\" cy=\"5\" rx=\"9\" ry=\"3\"/></g>"
+		},
 		"database-search": {
 			"body": "<g fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\"><path d=\"M21 11.693V5m1 17l-1.875-1.875M3 12a9 3 0 0 0 8.697 2.998\"/><path d=\"M3 5v14a9 3 0 0 0 9.28 2.999\"/><circle cx=\"18\" cy=\"18\" r=\"3\"/><ellipse cx=\"12\" cy=\"5\" rx=\"9\" ry=\"3\"/></g>"
+		},
+		"database-x": {
+			"body": "<g fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\"><path d=\"m17 17l5 5m-2.677-8.256A9 3 0 0 0 21 12m0 1.127V5m1 12l-5 5M3 12a9 3 0 0 0 10.563 2.954\"/><path d=\"M3 5v14a9 3 0 0 0 10 2.981\"/><ellipse cx=\"12\" cy=\"5\" rx=\"9\" ry=\"3\"/></g>"
 		},
 		"database-zap": {
 			"body": "<g fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\"><ellipse cx=\"12\" cy=\"5\" rx=\"9\" ry=\"3\"/><path d=\"M3 5v14a9 3 0 0 0 12 2.84M21 5v3m0 4l-3 5h4l-3 5\"/><path d=\"M3 12a9 3 0 0 0 11.59 2.87\"/></g>"
@@ -3650,6 +3671,9 @@
 		},
 		"pencil-ruler": {
 			"body": "<path fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" d=\"M13 7L8.7 2.7a2.41 2.41 0 0 0-3.4 0L2.7 5.3a2.41 2.41 0 0 0 0 3.4L7 13m1-7l2-2m8 12l2-2m-3-3l4.3 4.3c.94.94.94 2.46 0 3.4l-2.6 2.6c-.94.94-2.46.94-3.4 0L11 17M21.174 6.812a1 1 0 0 0-3.986-3.987L3.842 16.174a2 2 0 0 0-.5.83l-1.321 4.352a.5.5 0 0 0 .623.622l4.353-1.32a2 2 0 0 0 .83-.497zM15 5l4 4\"/>"
+		},
+		"pencil-sparkles": {
+			"body": "<path fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" d=\"M10 3H8m7.007 2.008l3.987 3.986M20 15v4m1.174-12.187a2.82 2.82 0 0 0-3.986-3.987L3.842 16.175a2 2 0 0 0-.5.83l-1.321 4.352a.5.5 0 0 0 .623.622l4.353-1.32a2 2 0 0 0 .83-.497zM22 17h-4M4 5v4m2-2H2m7-5v2\"/>"
 		},
 		"pentagon": {
 			"body": "<path fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" d=\"M10.83 2.38a2 2 0 0 1 2.34 0l8 5.74a2 2 0 0 1 .73 2.25l-3.04 9.26a2 2 0 0 1-1.9 1.37H7.04a2 2 0 0 1-1.9-1.37L2.1 10.37a2 2 0 0 1 .73-2.25z\"/>"

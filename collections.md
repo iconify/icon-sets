@@ -2,7 +2,7 @@
 
 
 ## Material Symbols
-* Number of icons: 15439
+* Number of icons: 15450
 * Author: Google
 * URL: https://github.com/google/material-design-icons
 * License: Apache 2.0
@@ -12,7 +12,7 @@
 * File: [json/material-symbols.json](json/material-symbols.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Material Symbols Light
-* Number of icons: 15513
+* Number of icons: 15524
 * Author: Google
 * URL: https://github.com/google/material-design-icons
 * License: Apache 2.0
@@ -555,7 +555,7 @@
 * File: [json/lineicons.json](json/lineicons.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## WordPress Icons
-* Number of icons: 330
+* Number of icons: 336
 * Author: The WordPress Contributors
 * URL: https://github.com/WordPress/gutenberg/tree/HEAD/packages/icons
 * License: GPL
@@ -702,7 +702,7 @@
 * File: [json/cil.json](json/cil.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## @icons
-* Number of icons: 400
+* Number of icons: 512
 * Author: Valentin Fossati
 * URL: https://github.com/Voxybuns/at-icons
 * License: MIT
@@ -1296,7 +1296,7 @@
 * File: [json/marketeq.json](json/marketeq.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## VSCode Icons
-* Number of icons: 1516
+* Number of icons: 1523
 * Author: Roberto Huertas
 * URL: https://github.com/vscode-icons/vscode-icons
 * License: MIT
@@ -1307,7 +1307,7 @@
 * File: [json/vscode-icons.json](json/vscode-icons.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Codicons
-* Number of icons: 609
+* Number of icons: 610
 * Author: Microsoft Corporation
 * URL: https://github.com/microsoft/vscode-codicons
 * License: CC BY 4.0
@@ -1481,7 +1481,7 @@
 * File: [json/arcticons.json](json/arcticons.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Custom Brand Icons
-* Number of icons: 1610
+* Number of icons: 1617
 * Author: Emanuele & rchiileea
 * URL: https://github.com/elax46/custom-brand-icons
 * License: CC BY-NC-SA 4.0

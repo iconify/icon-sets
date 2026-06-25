@@ -2,7 +2,7 @@
 
 
 ## Material Symbols
-* Number of icons: 15450
+* Number of icons: 15455
 * Author: Google
 * URL: https://github.com/google/material-design-icons
 * License: Apache 2.0
@@ -12,7 +12,7 @@
 * File: [json/material-symbols.json](json/material-symbols.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Material Symbols Light
-* Number of icons: 15524
+* Number of icons: 15529
 * Author: Google
 * URL: https://github.com/google/material-design-icons
 * License: Apache 2.0
@@ -1296,7 +1296,7 @@
 * File: [json/marketeq.json](json/marketeq.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## VSCode Icons
-* Number of icons: 1523
+* Number of icons: 1539
 * Author: Roberto Huertas
 * URL: https://github.com/vscode-icons/vscode-icons
 * License: MIT
@@ -1479,6 +1479,16 @@
 * Palette: Colorless
 * Icon set prefix: `arcticons`
 * File: [json/arcticons.json](json/arcticons.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
+
+## selfh.st/icons
+* Number of icons: 6906
+* Author: selfh.st
+* URL: https://github.com/selfhst/icons
+* License: CC BY 4.0
+* License URL: https://github.com/selfhst/icons/blob/main/LICENSE
+* Palette: Colorful
+* Icon set prefix: `selfhst`
+* File: [json/selfhst.json](json/selfhst.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Custom Brand Icons
 * Number of icons: 1617
@@ -1786,6 +1796,16 @@
 * Palette: Colorless
 * Icon set prefix: `geo`
 * File: [json/geo.json](json/geo.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
+
+## OSM Icons
+* Number of icons: 169
+* Author: GMGeo
+* URL: https://github.com/gmgeo/osmic
+* License: CC0 1.0
+* License URL: https://creativecommons.org/publicdomain/zero/1.0/
+* Palette: Colorless
+* Icon set prefix: `osmic`
+* File: [json/osmic.json](json/osmic.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Game Icons
 * Number of icons: 4133

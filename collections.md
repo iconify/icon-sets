@@ -148,7 +148,7 @@
 * File: [json/iconoir.json](json/iconoir.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Lucide
-* Number of icons: 1744
+* Number of icons: 1745
 * Author: Lucide Contributors
 * URL: https://github.com/lucide-icons/lucide
 * License: ISC
@@ -241,12 +241,12 @@
 * File: [json/basil.json](json/basil.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Pixelarticons
-* Number of icons: 813
+* Number of icons: 877
 * Author: Gerrit Halfmann
 * URL: https://github.com/halfmage/pixelarticons
 * License: MIT
 * License URL: https://github.com/halfmage/pixelarticons/blob/master/LICENSE
-* Version: 2.1.2
+* Version: 2.2.0
 * Palette: Colorless
 * Icon set prefix: `pixelarticons`
 * File: [json/pixelarticons.json](json/pixelarticons.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
@@ -555,7 +555,7 @@
 * File: [json/lineicons.json](json/lineicons.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## WordPress Icons
-* Number of icons: 336
+* Number of icons: 337
 * Author: The WordPress Contributors
 * URL: https://github.com/WordPress/gutenberg/tree/HEAD/packages/icons
 * License: GPL
@@ -628,11 +628,11 @@
 * File: [json/guidance.json](json/guidance.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Carbon
-* Number of icons: 2529
+* Number of icons: 2571
 * Author: IBM
 * URL: https://github.com/carbon-design-system/carbon/tree/main/packages/icons
 * License: Apache 2.0
-* Version: 11.82.0
+* Version: 11.83.0
 * Palette: Colorless
 * Icon set prefix: `carbon`
 * File: [json/carbon.json](json/carbon.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
@@ -1481,7 +1481,7 @@
 * File: [json/arcticons.json](json/arcticons.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## selfh.st/icons
-* Number of icons: 6926
+* Number of icons: 6939
 * Author: selfh.st
 * URL: https://github.com/selfhst/icons
 * License: CC BY 4.0
@@ -1491,7 +1491,7 @@
 * File: [json/selfhst.json](json/selfhst.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Custom Brand Icons
-* Number of icons: 1632
+* Number of icons: 1647
 * Author: Emanuele & rchiileea
 * URL: https://github.com/elax46/custom-brand-icons
 * License: CC BY-NC-SA 4.0
@@ -1723,7 +1723,7 @@
 * File: [json/cif.json](json/cif.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Pinhead Map Icons
-* Number of icons: 2109
+* Number of icons: 2281
 * Author: Quincy Morgan
 * URL: https://github.com/waysidemapping/pinhead
 * License: CC0

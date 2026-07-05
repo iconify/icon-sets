@@ -1124,7 +1124,7 @@
 * File: [json/picon.json](json/picon.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## OOUI
-* Number of icons: 417
+* Number of icons: 419
 * Author: OOUI Team
 * URL: https://github.com/wikimedia/oojs-ui
 * License: MIT
@@ -1296,7 +1296,7 @@
 * File: [json/marketeq.json](json/marketeq.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## VSCode Icons
-* Number of icons: 1550
+* Number of icons: 1551
 * Author: Roberto Huertas
 * URL: https://github.com/vscode-icons/vscode-icons
 * License: MIT
@@ -1396,12 +1396,12 @@
 * File: [json/unjs.json](json/unjs.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Simple Icons
-* Number of icons: 3446
+* Number of icons: 3447
 * Author: Simple Icons Collaborators
 * URL: https://github.com/simple-icons/simple-icons
 * License: CC0 1.0
 * License URL: https://github.com/simple-icons/simple-icons/blob/develop/LICENSE.md
-* Version: 16.24.1
+* Version: 16.25.0
 * Palette: Colorless
 * Icon set prefix: `simple-icons`
 * File: [json/simple-icons.json](json/simple-icons.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
@@ -1723,7 +1723,7 @@
 * File: [json/cif.json](json/cif.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Pinhead Map Icons
-* Number of icons: 2281
+* Number of icons: 2318
 * Author: Quincy Morgan
 * URL: https://github.com/waysidemapping/pinhead
 * License: CC0

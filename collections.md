@@ -2,7 +2,7 @@
 
 
 ## Material Symbols
-* Number of icons: 15463
+* Number of icons: 15457
 * Author: Google
 * URL: https://github.com/google/material-design-icons
 * License: Apache 2.0
@@ -12,7 +12,7 @@
 * File: [json/material-symbols.json](json/material-symbols.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Material Symbols Light
-* Number of icons: 15537
+* Number of icons: 15531
 * Author: Google
 * URL: https://github.com/google/material-design-icons
 * License: Apache 2.0
@@ -305,7 +305,7 @@
 * File: [json/typcn.json](json/typcn.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Meteor Icons
-* Number of icons: 321
+* Number of icons: 385
 * Author: zkreations
 * URL: https://github.com/zkreations/icons
 * License: MIT
@@ -659,7 +659,7 @@
 * File: [json/famicons.json](json/famicons.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Ant Design Icons
-* Number of icons: 846
+* Number of icons: 848
 * Author: HeskeyBaozi
 * URL: https://github.com/ant-design/ant-design-icons
 * License: MIT
@@ -702,7 +702,7 @@
 * File: [json/cil.json](json/cil.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## @icons
-* Number of icons: 512
+* Number of icons: 557
 * Author: Valentin Fossati
 * URL: https://github.com/Voxybuns/at-icons
 * License: MIT
@@ -1296,7 +1296,7 @@
 * File: [json/marketeq.json](json/marketeq.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## VSCode Icons
-* Number of icons: 1551
+* Number of icons: 1559
 * Author: Roberto Huertas
 * URL: https://github.com/vscode-icons/vscode-icons
 * License: MIT

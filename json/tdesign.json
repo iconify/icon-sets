@@ -2,7 +2,7 @@
 	"prefix": "tdesign",
 	"info": {
 		"name": "TDesign Icons",
-		"total": 2350,
+		"total": 2352,
 		"author": {
 			"name": "TDesign",
 			"url": "https://github.com/Tencent/tdesign-icons"
@@ -27,7 +27,7 @@
 		],
 		"palette": false
 	},
-	"lastModified": 1775278001,
+	"lastModified": 1783920578,
 	"icons": {
 		"ability-open": {
 			"body": "<g fill=\"none\"><path d=\"M5 19c0-.4-.156-.762-.41-1.031l6.89-12.061a1.5 1.5 0 0 0 1.038 0l6.892 12.06c-.255.27-.41.633-.41 1.032z\"/><path stroke=\"currentColor\" stroke-linecap=\"square\" stroke-width=\"2\" d=\"M5 19a1.5 1.5 0 1 1-.41-1.031M5 19c0-.4-.156-.762-.41-1.031M5 19h14m0 0a1.5 1.5 0 1 0 .41-1.031M19 19c0-.4.156-.762.41-1.031m-14.82 0l6.89-12.061m0 0a1.5 1.5 0 0 0 1.038 0m-1.038 0a1.5 1.5 0 1 1 1.038 0m0 0l6.892 12.06\"/></g>"
@@ -1240,7 +1240,7 @@
 			"body": "<path fill=\"currentColor\" d=\"M4 20V2H2v20h20v-2h-2v-3.5h-6V20h-2v-3.5H6V20z\"/><path fill=\"currentColor\" d=\"M6 14.5h6V9H6zm8 0h6V5h-6z\"/>"
 		},
 		"chat": {
-			"body": "<g fill=\"none\"><path d=\"M2.5 3h19v14h-15l-4 3.5z\"/><path stroke=\"currentColor\" stroke-linecap=\"square\" stroke-width=\"2\" d=\"M2.5 3h19v14h-15l-4 3.5z\"/></g>"
+			"body": "<g fill=\"none\"><path d=\"M2.5 4h19v15h-15l-4 3z\"/><path stroke=\"currentColor\" stroke-linecap=\"square\" stroke-width=\"2\" d=\"M2.5 4h19v15h-15l-4 3z\"/></g>"
 		},
 		"chat-add": {
 			"body": "<path fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"square\" stroke-width=\"2\" d=\"M21.5 11v6h-15l-4 3.5V3H13m7-2v3m0 0v3m0-3h-3m3 0h3\"/>"
@@ -5833,6 +5833,12 @@
 		"star": {
 			"body": "<g fill=\"none\"><path d=\"m12 3.676l2.187 6.29l6.658.136l-5.307 4.024l1.928 6.374L12 16.696L6.534 20.5l1.928-6.374l-5.307-4.024l6.659-.136z\"/><path stroke=\"currentColor\" stroke-linecap=\"square\" stroke-width=\"2\" d=\"m12 3.676l2.187 6.29l6.658.136l-5.307 4.024l1.928 6.374L12 16.696L6.534 20.5l1.928-6.374l-5.307-4.024l6.659-.136z\"/></g>"
 		},
+		"star-1": {
+			"body": "<g fill=\"none\"><path d=\"m12 3l3.23 5.523l6.27 1.352l-4.275 4.766l.646 6.359L12 18.423L6.129 21l.646-6.359L2.5 9.875l6.27-1.352z\"/><path stroke=\"currentColor\" stroke-linecap=\"square\" stroke-width=\"2\" d=\"m12 3l3.23 5.523l6.27 1.352l-4.275 4.766l.646 6.359L12 18.423L6.129 21l.646-6.359L2.5 9.875l6.27-1.352z\"/></g>"
+		},
+		"star-1-filled": {
+			"body": "<path fill=\"currentColor\" d=\"M15.87 7.638L12 1.018l-3.871 6.62L.605 9.26l5.13 5.719l-.775 7.625l7.04-3.09l7.04 3.09l-.776-7.626l5.13-5.718z\"/>"
+		},
 		"star-filled": {
 			"body": "<path fill=\"currentColor\" d=\"m12.001.63l2.903 8.35l8.839.181l-7.045 5.341l2.56 8.462L12 17.914l-7.256 5.05l2.56-8.462L.26 9.161l8.839-.18z\"/>"
 		},
@@ -6331,7 +6337,7 @@
 			"body": "<path fill=\"currentColor\" d=\"m10.555 1.764l1.715.572a3.7 3.7 0 0 1 2.53 3.51V8.3h3.869a3 3 0 0 1 2.965 3.456l-1.185 7.7A3 3 0 0 1 17.484 22H3V10.1h3.85z\"/>"
 		},
 		"thumb-up-2": {
-			"body": "<g fill=\"none\"><path d=\"M7.5 11.1L11.1 3l.854.285A2.7 2.7 0 0 1 13.8 5.846V9.3h4.869a2 2 0 0 1 1.976 2.304l-1.184 7.7A2 2 0 0 1 17.484 21H7.5zm0 0V21H3v-9.9z\"/><path stroke=\"currentColor\" stroke-linecap=\"square\" stroke-width=\"2\" d=\"M7.5 11.1V21m0-9.9L11.1 3l.854.285A2.7 2.7 0 0 1 13.8 5.846V9.3h4.869a2 2 0 0 1 1.976 2.304l-1.184 7.7A2 2 0 0 1 17.484 21H7.5m0-9.9H3V21h4.5\"/></g>"
+			"body": "<g fill=\"none\"><path d=\"m7.5 11.1l3.6-8.6l.928.285c1.198.367 2.006 1.399 2.006 2.561V9.3h5.292c1.332 0 2.35 1.093 2.148 2.304l-1.287 7.7C20.024 20.28 19.11 21 18.038 21H7.5zm0 0V21H3v-9.9z\"/><path stroke=\"currentColor\" stroke-linecap=\"square\" stroke-width=\"2\" d=\"M7.5 11.1V21m0-9.9l3.6-8.6l.928.285c1.198.367 2.006 1.399 2.006 2.561V9.3h5.292c1.332 0 2.35 1.093 2.148 2.304l-1.287 7.7C20.024 20.28 19.11 21 18.038 21H7.5m0-9.9H3V21h4.5\"/></g>"
 		},
 		"thumb-up-2-filled": {
 			"body": "<path fill=\"currentColor\" d=\"m12.27 2.336l-1.715-.572L6.85 10.1V22h10.634a3 3 0 0 0 2.965-2.544l1.185-7.7A3 3 0 0 0 18.668 8.3H14.8V5.846a3.7 3.7 0 0 0-2.53-3.51M2 10.1V22h2.85V10.1z\"/>"

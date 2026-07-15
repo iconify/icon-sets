@@ -117,7 +117,7 @@
 * File: [json/ri.json](json/ri.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Myna UI Icons
-* Number of icons: 2580
+* Number of icons: 2616
 * Author: Praveen Juge
 * URL: https://github.com/praveenjuge/mynaui-icons
 * License: MIT
@@ -555,7 +555,7 @@
 * File: [json/lineicons.json](json/lineicons.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## WordPress Icons
-* Number of icons: 337
+* Number of icons: 339
 * Author: The WordPress Contributors
 * URL: https://github.com/WordPress/gutenberg/tree/HEAD/packages/icons
 * License: GPL
@@ -822,7 +822,7 @@
 * URL: https://github.com/microsoft/fluentui-system-icons
 * License: MIT
 * License URL: https://github.com/microsoft/fluentui-system-icons/blob/main/LICENSE
-* Version: 1.1.332
+* Version: 1.1.333
 * Palette: Colorless
 * Icon set prefix: `fluent`
 * File: [json/fluent.json](json/fluent.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
@@ -890,7 +890,7 @@
 * File: [json/streamline-freehand.json](json/streamline-freehand.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Siemens Industrial Experience Icons
-* Number of icons: 1415
+* Number of icons: 1479
 * Author: Siemens AG
 * URL: https://github.com/siemens/ix-icons
 * License: MIT
@@ -1231,7 +1231,7 @@
 * URL: https://github.com/microsoft/fluentui-system-icons
 * License: MIT
 * License URL: https://github.com/microsoft/fluentui-system-icons/blob/main/LICENSE
-* Version: 1.1.332
+* Version: 1.1.333
 * Palette: Colorful
 * Icon set prefix: `fluent-color`
 * File: [json/fluent-color.json](json/fluent-color.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
@@ -1481,7 +1481,7 @@
 * File: [json/arcticons.json](json/arcticons.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## selfh.st/icons
-* Number of icons: 6969
+* Number of icons: 6984
 * Author: selfh.st
 * URL: https://github.com/selfhst/icons
 * License: CC BY 4.0
@@ -1521,23 +1521,23 @@
 * File: [json/entypo-social.json](json/entypo-social.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Web3 Icons
-* Number of icons: 1772
+* Number of icons: 1776
 * Author: 0xa3k5
 * URL: https://github.com/0xa3k5/web3icons
 * License: MIT
 * License URL: https://github.com/0xa3k5/web3icons/blob/main/LICENCE
-* Version: 4.0.51
+* Version: 4.0.53
 * Palette: Colorless
 * Icon set prefix: `token`
 * File: [json/token.json](json/token.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Web3 Icons Branded
-* Number of icons: 4057
+* Number of icons: 4065
 * Author: 0xa3k5
 * URL: https://github.com/0xa3k5/web3icons
 * License: MIT
 * License URL: https://github.com/0xa3k5/web3icons/blob/main/LICENCE
-* Version: 4.0.51
+* Version: 4.0.53
 * Palette: Colorful
 * Icon set prefix: `token-branded`
 * File: [json/token-branded.json](json/token-branded.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
@@ -1723,7 +1723,7 @@
 * File: [json/cif.json](json/cif.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Pinhead Map Icons
-* Number of icons: 2341
+* Number of icons: 2348
 * Author: Quincy Morgan
 * URL: https://github.com/waysidemapping/pinhead
 * License: CC0

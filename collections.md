@@ -74,12 +74,12 @@
 * File: [json/solar.json](json/solar.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Tabler Icons
-* Number of icons: 6146
+* Number of icons: 6166
 * Author: Paweł Kuna
 * URL: https://github.com/tabler/tabler-icons
 * License: MIT
 * License URL: https://github.com/tabler/tabler-icons/blob/master/LICENSE
-* Version: 3.44.0
+* Version: 3.45.0
 * Palette: Colorless
 * Icon set prefix: `tabler`
 * File: [json/tabler.json](json/tabler.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
@@ -117,7 +117,7 @@
 * File: [json/ri.json](json/ri.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Myna UI Icons
-* Number of icons: 2616
+* Number of icons: 2620
 * Author: Praveen Juge
 * URL: https://github.com/praveenjuge/mynaui-icons
 * License: MIT
@@ -148,7 +148,7 @@
 * File: [json/iconoir.json](json/iconoir.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Lucide
-* Number of icons: 1747
+* Number of icons: 1748
 * Author: Lucide Contributors
 * URL: https://github.com/lucide-icons/lucide
 * License: ISC
@@ -632,7 +632,7 @@
 * Author: IBM
 * URL: https://github.com/carbon-design-system/carbon/tree/main/packages/icons
 * License: Apache 2.0
-* Version: 11.83.0
+* Version: 11.84.0
 * Palette: Colorless
 * Icon set prefix: `carbon`
 * File: [json/carbon.json](json/carbon.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
@@ -1097,7 +1097,7 @@
 * URL: https://github.com/FortAwesome/Font-Awesome
 * License: CC BY 4.0
 * License URL: https://creativecommons.org/licenses/by/4.0/
-* Version: 7.3.0
+* Version: 7.3.1
 * Palette: Colorless
 * Icon set prefix: `fa7-solid`
 * File: [json/fa7-solid.json](json/fa7-solid.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
@@ -1108,7 +1108,7 @@
 * URL: https://github.com/FortAwesome/Font-Awesome
 * License: CC BY 4.0
 * License URL: https://creativecommons.org/licenses/by/4.0/
-* Version: 7.3.0
+* Version: 7.3.1
 * Palette: Colorless
 * Icon set prefix: `fa7-regular`
 * File: [json/fa7-regular.json](json/fa7-regular.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
@@ -1438,12 +1438,12 @@
 * File: [json/cib.json](json/cib.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Font Awesome Brands
-* Number of icons: 602
+* Number of icons: 608
 * Author: Dave Gandy
 * URL: https://github.com/FortAwesome/Font-Awesome
 * License: CC BY 4.0
 * License URL: https://creativecommons.org/licenses/by/4.0/
-* Version: 7.3.0
+* Version: 7.3.1
 * Palette: Colorless
 * Icon set prefix: `fa7-brands`
 * File: [json/fa7-brands.json](json/fa7-brands.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
@@ -1481,7 +1481,7 @@
 * File: [json/arcticons.json](json/arcticons.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## selfh.st/icons
-* Number of icons: 6984
+* Number of icons: 6990
 * Author: selfh.st
 * URL: https://github.com/selfhst/icons
 * License: CC BY 4.0
@@ -1491,7 +1491,7 @@
 * File: [json/selfhst.json](json/selfhst.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Custom Brand Icons
-* Number of icons: 1647
+* Number of icons: 1659
 * Author: Emanuele & rchiileea
 * URL: https://github.com/elax46/custom-brand-icons
 * License: CC BY-NC-SA 4.0
@@ -1723,7 +1723,7 @@
 * File: [json/cif.json](json/cif.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Pinhead Map Icons
-* Number of icons: 2348
+* Number of icons: 2414
 * Author: Quincy Morgan
 * URL: https://github.com/waysidemapping/pinhead
 * License: CC0

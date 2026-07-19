@@ -126,6 +126,17 @@
 * Icon set prefix: `mynaui`
 * File: [json/mynaui.json](json/mynaui.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
+## Griddy Icons
+* Number of icons: 2010
+* Author: Zuzana Benova
+* URL: https://github.com/griddy-icons/griddy-icons
+* License: MIT
+* License URL: https://github.com/griddy-icons/griddy-icons/blob/main/LICENSE
+* Version: 0.2.0
+* Palette: Colorless
+* Icon set prefix: `griddy-icons`
+* File: [json/griddy-icons.json](json/griddy-icons.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
+
 ## IconaMoon
 * Number of icons: 1781
 * Author: Dariush Habibpour
@@ -179,7 +190,7 @@
 * File: [json/uil.json](json/uil.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## TDesign Icons
-* Number of icons: 2352
+* Number of icons: 2354
 * Author: TDesign
 * URL: https://github.com/Tencent/tdesign-icons
 * License: MIT
@@ -305,7 +316,7 @@
 * File: [json/typcn.json](json/typcn.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Meteor Icons
-* Number of icons: 385
+* Number of icons: 386
 * Author: zkreations
 * URL: https://github.com/zkreations/icons
 * License: MIT
@@ -1396,12 +1407,12 @@
 * File: [json/unjs.json](json/unjs.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Simple Icons
-* Number of icons: 3449
+* Number of icons: 3450
 * Author: Simple Icons Collaborators
 * URL: https://github.com/simple-icons/simple-icons
 * License: CC0 1.0
 * License URL: https://github.com/simple-icons/simple-icons/blob/develop/LICENSE.md
-* Version: 16.26.0
+* Version: 16.27.0
 * Palette: Colorless
 * Icon set prefix: `simple-icons`
 * File: [json/simple-icons.json](json/simple-icons.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))

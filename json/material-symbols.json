@@ -2,7 +2,7 @@
 	"prefix": "material-symbols",
 	"info": {
 		"name": "Material Symbols",
-		"total": 15579,
+		"total": 15585,
 		"author": {
 			"name": "Google",
 			"url": "https://github.com/google/material-design-icons"
@@ -27,7 +27,7 @@
 		],
 		"palette": false
 	},
-	"lastModified": 1784868833,
+	"lastModified": 1785497247,
 	"icons": {
 		"123": {
 			"body": "<path fill=\"currentColor\" d=\"M5.5 15v-4.5H4V9h3v6zM9 15v-2.5q0-.425.288-.712T10 11.5h2v-1H9V9h3.5q.425 0 .713.288T13.5 10v1.5q0 .425-.288.713t-.712.287h-2v1h3V15zm6 0v-1.5h3v-1h-2v-1h2v-1h-3V9h3.5q.425 0 .713.288T19.5 10v4q0 .425-.288.713T18.5 15z\"/>"
@@ -21834,6 +21834,24 @@
 		},
 		"high-quality": {
 			"body": "<path fill=\"currentColor\" d=\"M14.75 16.5h1.5V15H17q.425 0 .713-.288T18 14v-4q0-.425-.288-.712T17 9h-3q-.425 0-.712.288T13 10v4q0 .425.288.713T14 15h.75zM6 15h1.5v-2h2v2H11V9H9.5v2.5h-2V9H6zm8.5-1.5v-3h2v3zM4 20q-.825 0-1.412-.587T2 18V6q0-.825.588-1.412T4 4h16q.825 0 1.413.588T22 6v12q0 .825-.587 1.413T20 20z\"/>"
+		},
+		"high-quality-off": {
+			"body": "<path fill=\"currentColor\" d=\"M18 15.15V10q0-.425-.288-.712T17 9h-3q-.425 0-.712.35t-.288.8l1.5 1.5V10.5h2v3.15zM6 15h1.5v-2h2v2H11v-4L9.5 9.5v2h-2V9H6zm15.75 3.9L6.85 4H20q.825 0 1.413.588T22 6v11.9q0 .275-.05.525t-.2.475M4 20q-.825 0-1.412-.587T2 18V6q0-.825.588-1.412T4 4l11 11h-2.8L1.4 4.2l1.4-1.4l18.4 18.4l-1.4 1.4l-2.65-2.6z\"/>"
+		},
+		"high-quality-off-outline": {
+			"body": "<path fill=\"currentColor\" d=\"m18 15.15l-1.5-1.5V10.5h-2v1.15l-1.5-1.5v-.225q0-.4.288-.663T14 9h3q.425 0 .713.288T18 10zM6 15V9h1.5v2.5h2v-2L11 11v4H9.5v-2h-2v2zm-2 5q-.825 0-1.412-.587T2 18V6q0-.825.588-1.412T4 4l2 2H4v12h11.15L1.4 4.2l1.4-1.4l18.4 18.4l-1.4 1.4l-2.65-2.6zm17.75-1.1L20 17.15V6H8.85l-2-2H20q.825 0 1.413.588T22 6v11.9q0 .275-.05.525t-.2.475M9.575 12.425\"/>"
+		},
+		"high-quality-off-outline-rounded": {
+			"body": "<path fill=\"currentColor\" d=\"M22 6v10.75q0 .5-.312.75t-.688.25q-.425 0-.712-.3T20 16.725V6H9.275q-.5 0-.75-.312T8.275 5q0-.425.288-.712T9.275 4H20q.825 0 1.413.588T22 6M7.5 13v1.25q0 .325-.213.538T6.75 15t-.537-.213T6 14.25v-4.5q0-.325.213-.537T6.75 9t.538.213t.212.537v1.75h2v-2L11 11v3.25q0 .325-.213.538T10.25 15t-.537-.213t-.213-.537V13zM4 20q-.825 0-1.412-.587T2 18V6q0-.825.588-1.412T4 4l2 2H4v12h11.15L1.6 4.4q-.275-.275-.288-.687T1.6 3q.275-.275.7-.275T3 3l17.5 17.5q.275.275.288.688t-.288.712q-.275.275-.687.288t-.713-.263L17.15 20zm14-10v3.35q0 .5-.462.688t-.813-.163q-.125-.125-.175-.25t-.05-.275V10.5h-2v.4q0 .325-.213.538t-.537.212t-.537-.213T13 10.9v-.975q0-.4.288-.663T14 9h3q.425 0 .713.288T18 10\"/>"
+		},
+		"high-quality-off-outline-sharp": {
+			"body": "<path fill=\"currentColor\" d=\"m18 15.15l-1.5-1.5V10.5h-2v1.15l-1.5-1.5V9h5zM6 15V9h1.5v2.5h2v-2L11 11v4H9.5v-2h-2v2zm13.8 7.6L17.15 20H2V4h2l2 2H4v12h11.15L1.4 4.2l1.4-1.4l18.4 18.4zm2.2-3.45l-2-2V6H8.85l-2-2H22zM9.575 12.425\"/>"
+		},
+		"high-quality-off-rounded": {
+			"body": "<path fill=\"currentColor\" d=\"M7.5 13h2v1.25q0 .325.213.538t.537.212t.538-.213t.212-.537V11L9.5 9.5v2h-2V9.75q0-.325-.213-.537T6.75 9t-.537.213T6 9.75v4.5q0 .325.213.538T6.75 15t.538-.213t.212-.537zM18 15.15V10q0-.425-.288-.712T17 9h-3q-.425 0-.712.35t-.288.8l1.5 1.5V10.5h2v3.15zM22 6v10.725q0 .675-.612.938T20.3 17.45L8.55 5.7q-.475-.475-.213-1.088T9.276 4H20q.825 0 1.413.588T22 6M4 20q-.825 0-1.412-.587T2 18V6q0-.825.588-1.412T4 4l11 11h-2.8L1.6 4.4q-.275-.275-.275-.7T1.6 3t.7-.275T3 3l17.5 17.5q.275.275.288.688t-.288.712q-.275.275-.687.288t-.713-.263L17.15 20z\"/>"
+		},
+		"high-quality-off-sharp": {
+			"body": "<path fill=\"currentColor\" d=\"M18 15.15V9h-5v1.15l1.5 1.5V10.5h2v3.15zM6 15h1.5v-2h2v2H11v-4L9.5 9.5v2h-2V9H6zm16 4.15L6.85 4H22zM2 20V4h2l11 11h-2.8L1.4 4.2l1.4-1.4l18.4 18.4l-1.4 1.4l-2.65-2.6z\"/>"
 		},
 		"high-quality-outline": {
 			"body": "<path fill=\"currentColor\" d=\"M14.75 16.5h1.5V15H17q.425 0 .713-.288T18 14v-4q0-.425-.288-.712T17 9h-3q-.425 0-.712.288T13 10v4q0 .425.288.713T14 15h.75zM6 15h1.5v-2h2v2H11V9H9.5v2.5h-2V9H6zm8.5-1.5v-3h2v3zM4 20q-.825 0-1.412-.587T2 18V6q0-.825.588-1.412T4 4h16q.825 0 1.413.588T22 6v12q0 .825-.587 1.413T20 20zm0-2h16V6H4zm0 0V6z\"/>"
@@ -76806,6 +76824,12 @@
 			"hearing-disabled-rounded",
 			"hearing-rounded",
 			"high-quality",
+			"high-quality-off",
+			"high-quality-off-outline",
+			"high-quality-off-outline-rounded",
+			"high-quality-off-outline-sharp",
+			"high-quality-off-rounded",
+			"high-quality-off-sharp",
 			"high-quality-outline",
 			"high-quality-outline-rounded",
 			"high-quality-outline-sharp",

@@ -316,7 +316,7 @@
 * File: [json/typcn.json](json/typcn.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Meteor Icons
-* Number of icons: 386
+* Number of icons: 394
 * Author: zkreations
 * URL: https://github.com/zkreations/icons
 * License: MIT
@@ -911,12 +911,12 @@
 * File: [json/ix.json](json/ix.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Octicons
-* Number of icons: 741
+* Number of icons: 743
 * Author: GitHub
 * URL: https://github.com/primer/octicons/
 * License: MIT
 * License URL: https://github.com/primer/octicons/blob/main/LICENSE
-* Version: 19.32.0
+* Version: 19.33.0
 * Palette: Colorless
 * Icon set prefix: `octicon`
 * File: [json/octicon.json](json/octicon.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
@@ -1307,7 +1307,7 @@
 * File: [json/marketeq.json](json/marketeq.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## VSCode Icons
-* Number of icons: 1565
+* Number of icons: 1566
 * Author: Roberto Huertas
 * URL: https://github.com/vscode-icons/vscode-icons
 * License: MIT
@@ -1318,7 +1318,7 @@
 * File: [json/vscode-icons.json](json/vscode-icons.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Codicons
-* Number of icons: 642
+* Number of icons: 643
 * Author: Microsoft Corporation
 * URL: https://github.com/microsoft/vscode-codicons
 * License: CC BY 4.0
@@ -1492,7 +1492,7 @@
 * File: [json/arcticons.json](json/arcticons.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## selfh.st/icons
-* Number of icons: 7043
+* Number of icons: 7075
 * Author: selfh.st
 * URL: https://github.com/selfhst/icons
 * License: CC BY 4.0
@@ -1502,7 +1502,7 @@
 * File: [json/selfhst.json](json/selfhst.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Custom Brand Icons
-* Number of icons: 1683
+* Number of icons: 1698
 * Author: Emanuele & rchiileea
 * URL: https://github.com/elax46/custom-brand-icons
 * License: CC BY-NC-SA 4.0
@@ -1734,7 +1734,7 @@
 * File: [json/cif.json](json/cif.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Pinhead Map Icons
-* Number of icons: 2466
+* Number of icons: 2467
 * Author: Quincy Morgan
 * URL: https://github.com/waysidemapping/pinhead
 * License: CC0

@@ -159,7 +159,7 @@
 * File: [json/iconoir.json](json/iconoir.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Lucide
-* Number of icons: 1756
+* Number of icons: 1766
 * Author: Lucide Contributors
 * URL: https://github.com/lucide-icons/lucide
 * License: ISC
@@ -566,7 +566,7 @@
 * File: [json/lineicons.json](json/lineicons.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## WordPress Icons
-* Number of icons: 340
+* Number of icons: 341
 * Author: The WordPress Contributors
 * URL: https://github.com/WordPress/gutenberg/tree/HEAD/packages/icons
 * License: GPL
@@ -916,7 +916,6 @@
 * URL: https://github.com/primer/octicons/
 * License: MIT
 * License URL: https://github.com/primer/octicons/blob/main/LICENSE
-* Version: 19.33.0
 * Palette: Colorless
 * Icon set prefix: `octicon`
 * File: [json/octicon.json](json/octicon.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
@@ -1307,7 +1306,7 @@
 * File: [json/marketeq.json](json/marketeq.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## VSCode Icons
-* Number of icons: 1566
+* Number of icons: 1568
 * Author: Roberto Huertas
 * URL: https://github.com/vscode-icons/vscode-icons
 * License: MIT
@@ -1318,7 +1317,7 @@
 * File: [json/vscode-icons.json](json/vscode-icons.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Codicons
-* Number of icons: 643
+* Number of icons: 644
 * Author: Microsoft Corporation
 * URL: https://github.com/microsoft/vscode-codicons
 * License: CC BY 4.0
@@ -1396,6 +1395,16 @@
 * Palette: Colorful
 * Icon set prefix: `gcp`
 * File: [json/gcp.json](json/gcp.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
+
+## Kubernetes Icons
+* Number of icons: 38
+* Author: The Kubernetes Authors
+* URL: https://kubernetes.io
+* License: Apache 2.0
+* License URL: https://www.apache.org/licenses/LICENSE-2.0
+* Palette: Colorful
+* Icon set prefix: `k8s`
+* File: [json/k8s.json](json/k8s.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## UnJS Logos
 * Number of icons: 63
@@ -1491,8 +1500,28 @@
 * Icon set prefix: `arcticons`
 * File: [json/arcticons.json](json/arcticons.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
+## theSVG
+* Number of icons: 3747
+* Author: thesvg.org
+* URL: https://github.com/glincker/thesvg
+* License: MIT
+* License URL: https://github.com/glincker/thesvg/blob/main/LICENSE
+* Palette: Colorless
+* Icon set prefix: `thesvg`
+* File: [json/thesvg.json](json/thesvg.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
+
+## theSVG Color
+* Number of icons: 4833
+* Author: thesvg.org
+* URL: https://github.com/glincker/thesvg
+* License: MIT
+* License URL: https://github.com/glincker/thesvg/blob/main/LICENSE
+* Palette: Colorful
+* Icon set prefix: `thesvg-color`
+* File: [json/thesvg-color.json](json/thesvg-color.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
+
 ## selfh.st/icons
-* Number of icons: 7075
+* Number of icons: 7076
 * Author: selfh.st
 * URL: https://github.com/selfhst/icons
 * License: CC BY 4.0
@@ -1502,7 +1531,7 @@
 * File: [json/selfhst.json](json/selfhst.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Custom Brand Icons
-* Number of icons: 1698
+* Number of icons: 1700
 * Author: Emanuele & rchiileea
 * URL: https://github.com/elax46/custom-brand-icons
 * License: CC BY-NC-SA 4.0
@@ -1576,7 +1605,7 @@
 * File: [json/cryptocurrency-color.json](json/cryptocurrency-color.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## OpenMoji
-* Number of icons: 4545
+* Number of icons: 4544
 * Author: OpenMoji
 * URL: https://github.com/hfg-gmuend/openmoji
 * License: CC BY-SA 4.0

@@ -241,6 +241,17 @@
 * Icon set prefix: `flowbite`
 * File: [json/flowbite.json](json/flowbite.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
+## Vadivam
+* Number of icons: 508
+* Author: Praveen Juge
+* URL: https://github.com/praveenjuge/vadivam
+* License: MIT
+* License URL: https://github.com/praveenjuge/vadivam/blob/main/LICENSE
+* Version: 0.0.42
+* Palette: Colorless
+* Icon set prefix: `vadivam`
+* File: [json/vadivam.json](json/vadivam.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
+
 ## Basil
 * Number of icons: 493
 * Author: Craftwork
@@ -485,6 +496,17 @@
 * Palette: Colorless
 * Icon set prefix: `svg-spinners`
 * File: [json/svg-spinners.json](json/svg-spinners.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
+
+## Reicon
+* Number of icons: 5348
+* Author: REICON
+* URL: https://github.com/dqev/reicon
+* License: MIT
+* License URL: https://github.com/dqev/reicon/blob/main/LICENSE
+* Version: 1.2.0
+* Palette: Colorless
+* Icon set prefix: `reicon`
+* File: [json/reicon.json](json/reicon.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Huge Icons
 * Number of icons: 5065
@@ -828,12 +850,12 @@
 * File: [json/formkit.json](json/formkit.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Fluent UI System Icons
-* Number of icons: 19699
+* Number of icons: 19719
 * Author: Microsoft Corporation
 * URL: https://github.com/microsoft/fluentui-system-icons
 * License: MIT
 * License URL: https://github.com/microsoft/fluentui-system-icons/blob/main/LICENSE
-* Version: 1.1.334
+* Version: 1.1.335
 * Palette: Colorless
 * Icon set prefix: `fluent`
 * File: [json/fluent.json](json/fluent.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
@@ -1241,7 +1263,7 @@
 * URL: https://github.com/microsoft/fluentui-system-icons
 * License: MIT
 * License URL: https://github.com/microsoft/fluentui-system-icons/blob/main/LICENSE
-* Version: 1.1.334
+* Version: 1.1.335
 * Palette: Colorful
 * Icon set prefix: `fluent-color`
 * File: [json/fluent-color.json](json/fluent-color.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
@@ -1763,7 +1785,7 @@
 * File: [json/cif.json](json/cif.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Pinhead Map Icons
-* Number of icons: 2467
+* Number of icons: 2473
 * Author: Quincy Morgan
 * URL: https://github.com/waysidemapping/pinhead
 * License: CC0

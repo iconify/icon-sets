@@ -159,7 +159,7 @@
 * File: [json/iconoir.json](json/iconoir.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Lucide
-* Number of icons: 1766
+* Number of icons: 1768
 * Author: Lucide Contributors
 * URL: https://github.com/lucide-icons/lucide
 * License: ISC
@@ -247,7 +247,7 @@
 * URL: https://github.com/praveenjuge/vadivam
 * License: MIT
 * License URL: https://github.com/praveenjuge/vadivam/blob/main/LICENSE
-* Version: 0.0.42
+* Version: 0.0.43
 * Palette: Colorless
 * Icon set prefix: `vadivam`
 * File: [json/vadivam.json](json/vadivam.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
@@ -327,7 +327,7 @@
 * File: [json/typcn.json](json/typcn.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Meteor Icons
-* Number of icons: 394
+* Number of icons: 400
 * Author: zkreations
 * URL: https://github.com/zkreations/icons
 * License: MIT
@@ -503,7 +503,7 @@
 * URL: https://github.com/dqev/reicon
 * License: MIT
 * License URL: https://github.com/dqev/reicon/blob/main/LICENSE
-* Version: 1.2.0
+* Version: 1.3.0
 * Palette: Colorless
 * Icon set prefix: `reicon`
 * File: [json/reicon.json](json/reicon.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
@@ -1543,7 +1543,7 @@
 * File: [json/thesvg-color.json](json/thesvg-color.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## selfh.st/icons
-* Number of icons: 7076
+* Number of icons: 7085
 * Author: selfh.st
 * URL: https://github.com/selfhst/icons
 * License: CC BY 4.0
@@ -1553,7 +1553,7 @@
 * File: [json/selfhst.json](json/selfhst.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Custom Brand Icons
-* Number of icons: 1700
+* Number of icons: 1706
 * Author: Emanuele & rchiileea
 * URL: https://github.com/elax46/custom-brand-icons
 * License: CC BY-NC-SA 4.0
@@ -1785,7 +1785,7 @@
 * File: [json/cif.json](json/cif.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Pinhead Map Icons
-* Number of icons: 2473
+* Number of icons: 2487
 * Author: Quincy Morgan
 * URL: https://github.com/waysidemapping/pinhead
 * License: CC0

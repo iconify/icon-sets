@@ -105,6 +105,16 @@
 * Icon set prefix: `mingcute`
 * File: [json/mingcute.json](json/mingcute.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
+## Keyline Icons
+* Number of icons: 2994
+* Author: Keyline Icons
+* URL: https://github.com/keyline-icons/keyline-icons
+* License: MIT
+* License URL: https://github.com/keyline-icons/keyline-icons/blob/main/LICENSE
+* Palette: Colorless
+* Icon set prefix: `keyline-icons`
+* File: [json/keyline-icons.json](json/keyline-icons.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
+
 ## Remix Icon
 * Number of icons: 3188
 * Author: Remix Design
@@ -177,16 +187,6 @@
 * Palette: Colorless
 * Icon set prefix: `lucide-lab`
 * File: [json/lucide-lab.json](json/lucide-lab.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
-
-## Keyline Icons
-* Number of icons: 1497
-* Author: Keyline Icons
-* URL: https://github.com/keyline-icons/keyline-icons
-* License: MIT
-* License URL: https://github.com/keyline-icons/keyline-icons/blob/main/LICENSE
-* Palette: Colorless
-* Icon set prefix: `keyline-icons`
-* File: [json/keyline-icons.json](json/keyline-icons.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Unicons
 * Number of icons: 1215

@@ -2,7 +2,7 @@
 	"prefix": "lucide",
 	"info": {
 		"name": "Lucide",
-		"total": 1786,
+		"total": 1791,
 		"author": {
 			"name": "Lucide Contributors",
 			"url": "https://github.com/lucide-icons/lucide"
@@ -29,7 +29,7 @@
 		],
 		"palette": false
 	},
-	"lastModified": 1787982846,
+	"lastModified": 1788178201,
 	"icons": {
 		"a-arrow-down": {
 			"body": "<path fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" d=\"m14 12l4 4l4-4m-4 4V7M2 16l4.039-9.69a.5.5 0 0 1 .923 0L11 16m-7.696-3h6.392\"/>"
@@ -1628,6 +1628,18 @@
 		},
 		"credit-card": {
 			"body": "<g fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\"><rect width=\"20\" height=\"14\" x=\"2\" y=\"5\" rx=\"2\"/><path d=\"M2 10h20\"/></g>"
+		},
+		"credit-card-check": {
+			"body": "<path fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" d=\"M12.5 19H4a2 2 0 0 1-2-2V7a2 2 0 0 1 2-2h16a2 2 0 0 1 2 2v4m-6 6l2 2l4-4M2 10h20\"/>"
+		},
+		"credit-card-minus": {
+			"body": "<path fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" d=\"M16 17h6m0-7H2m20 3V7a2 2 0 0 0-2-2H4a2 2 0 0 0-2 2v10a2 2 0 0 0 2 2h8.536\"/>"
+		},
+		"credit-card-plus": {
+			"body": "<path fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" d=\"M16 17h6m-3-3v6m3-10H2m20 1.354V7a2 2 0 0 0-2-2H4a2 2 0 0 0-2 2v10a2 2 0 0 0 2 2h8.536\"/>"
+		},
+		"credit-card-x": {
+			"body": "<path fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" d=\"M12.5 19H4a2 2 0 0 1-2-2V7a2 2 0 0 1 2-2h16a2 2 0 0 1 2 2v3.5m-5.5 4l5 5M2 10h20m-.5 4.5l-5 5\"/>"
 		},
 		"croissant": {
 			"body": "<g fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\"><path d=\"M10.2 18H4.774a1.5 1.5 0 0 1-1.352-.97a11 11 0 0 1 .132-6.487M18 10.2V4.774a1.5 1.5 0 0 0-.97-1.352a11 11 0 0 0-6.486.132\"/><path d=\"M18 5a4 3 0 0 1 4 3a2 2 0 0 1-2 2a10 10 0 0 0-5.139 1.42M5 18a3 4 0 0 0 3 4a2 2 0 0 0 2-2a10 10 0 0 1 1.42-5.14\"/><path d=\"M8.709 2.554a10 10 0 0 0-6.155 6.155a1.5 1.5 0 0 0 .676 1.626l9.807 5.42a2 2 0 0 0 2.718-2.718l-5.42-9.807a1.5 1.5 0 0 0-1.626-.676\"/></g>"
@@ -5417,8 +5429,11 @@
 		"vault": {
 			"body": "<g fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\"><rect width=\"18\" height=\"18\" x=\"3\" y=\"3\" rx=\"2\"/><circle cx=\"7.5\" cy=\"7.5\" r=\".5\" fill=\"currentColor\"/><path d=\"m7.9 7.9l2.7 2.7\"/><circle cx=\"16.5\" cy=\"7.5\" r=\".5\" fill=\"currentColor\"/><path d=\"m13.4 10.6l2.7-2.7\"/><circle cx=\"7.5\" cy=\"16.5\" r=\".5\" fill=\"currentColor\"/><path d=\"m7.9 16.1l2.7-2.7\"/><circle cx=\"16.5\" cy=\"16.5\" r=\".5\" fill=\"currentColor\"/><path d=\"m13.4 13.4l2.7 2.7\"/><circle cx=\"12\" cy=\"12\" r=\"2\"/></g>"
 		},
+		"vector-polygon": {
+			"body": "<g fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\"><path d=\"m12.828 4.813l5.344 2.375m-2.403 10.965l3.461-8.306M5.687 14.074l7.625 4.852M9.772 5.579L5.228 11.42\"/><circle cx=\"11\" cy=\"4\" r=\"2\"/><circle cx=\"15\" cy=\"20\" r=\"2\"/><circle cx=\"20\" cy=\"8\" r=\"2\"/><circle cx=\"4\" cy=\"13\" r=\"2\"/></g>"
+		},
 		"vector-square": {
-			"body": "<g fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\"><path d=\"M19.5 7a24 24 0 0 1 0 10M4.5 7a24 24 0 0 0 0 10M7 19.5a24 24 0 0 0 10 0M7 4.5a24 24 0 0 1 10 0\"/><rect width=\"5\" height=\"5\" x=\"17\" y=\"17\" rx=\"1\"/><rect width=\"5\" height=\"5\" x=\"17\" y=\"2\" rx=\"1\"/><rect width=\"5\" height=\"5\" x=\"2\" y=\"17\" rx=\"1\"/><rect width=\"5\" height=\"5\" x=\"2\" y=\"2\" rx=\"1\"/></g>"
+			"body": "<g fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\"><path d=\"M17.055 4.533a24 24 0 0 0-10.11 0m12.522 12.522a24 24 0 0 0 0-10.11m-14.934 0a24 24 0 0 0 0 10.11m2.412 2.412a24 24 0 0 0 10.11 0\"/><circle cx=\"19\" cy=\"19\" r=\"2\"/><circle cx=\"19\" cy=\"5\" r=\"2\"/><circle cx=\"5\" cy=\"19\" r=\"2\"/><circle cx=\"5\" cy=\"5\" r=\"2\"/></g>"
 		},
 		"vegan": {
 			"body": "<g fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\"><path d=\"M16 8q6 0 6-6q-6 0-6 6\"/><path d=\"M17.41 3.59a10 10 0 1 0 3 3\"/><path d=\"M2 2a26.6 26.6 0 0 1 10 20c.9-6.82 1.5-9.5 4-14\"/></g>"

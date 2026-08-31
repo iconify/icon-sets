@@ -159,7 +159,7 @@
 * File: [json/iconoir.json](json/iconoir.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Lucide
-* Number of icons: 1786
+* Number of icons: 1791
 * Author: Lucide Contributors
 * URL: https://github.com/lucide-icons/lucide
 * License: ISC
@@ -257,7 +257,7 @@
 * URL: https://github.com/praveenjuge/vadivam
 * License: MIT
 * License URL: https://github.com/praveenjuge/vadivam/blob/main/LICENSE
-* Version: 0.0.43
+* Version: 0.0.44
 * Palette: Colorless
 * Icon set prefix: `vadivam`
 * File: [json/vadivam.json](json/vadivam.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
@@ -707,7 +707,7 @@
 * URL: https://github.com/ant-design/ant-design-icons
 * License: MIT
 * License URL: https://github.com/ant-design/ant-design-icons/blob/master/LICENSE
-* Version: 4.5.0
+* Version: 4.6.0
 * Palette: Colorless
 * Icon set prefix: `ant-design`
 * File: [json/ant-design.json](json/ant-design.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
@@ -1795,7 +1795,7 @@
 * File: [json/cif.json](json/cif.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Pinhead Map Icons
-* Number of icons: 2579
+* Number of icons: 2614
 * Author: Quincy Morgan
 * URL: https://github.com/waysidemapping/pinhead
 * License: CC0

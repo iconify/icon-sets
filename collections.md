@@ -116,7 +116,7 @@
 * File: [json/mingcute.json](json/mingcute.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Keyline Icons
-* Number of icons: 3538
+* Number of icons: 4094
 * Author: Keyline Icons
 * URL: https://github.com/keyline-icons/keyline-icons
 * License: MIT
@@ -179,7 +179,7 @@
 * File: [json/iconoir.json](json/iconoir.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Lucide
-* Number of icons: 1829
+* Number of icons: 1837
 * Author: Lucide Contributors
 * URL: https://github.com/lucide-icons/lucide
 * License: ISC
@@ -870,12 +870,12 @@
 * File: [json/formkit.json](json/formkit.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Fluent UI System Icons
-* Number of icons: 19757
+* Number of icons: 19850
 * Author: Microsoft Corporation
 * URL: https://github.com/microsoft/fluentui-system-icons
 * License: MIT
 * License URL: https://github.com/microsoft/fluentui-system-icons/blob/main/LICENSE
-* Version: 1.1.340
+* Version: 1.1.341
 * Palette: Colorless
 * Icon set prefix: `fluent`
 * File: [json/fluent.json](json/fluent.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
@@ -953,7 +953,7 @@
 * File: [json/ix.json](json/ix.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Octicons
-* Number of icons: 750
+* Number of icons: 761
 * Author: GitHub
 * URL: https://github.com/primer/octicons/
 * License: MIT
@@ -1283,7 +1283,7 @@
 * URL: https://github.com/microsoft/fluentui-system-icons
 * License: MIT
 * License URL: https://github.com/microsoft/fluentui-system-icons/blob/main/LICENSE
-* Version: 1.1.340
+* Version: 1.1.341
 * Palette: Colorful
 * Icon set prefix: `fluent-color`
 * File: [json/fluent-color.json](json/fluent-color.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
@@ -1390,7 +1390,7 @@
 * File: [json/file-icons.json](json/file-icons.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Devicon
-* Number of icons: 1036
+* Number of icons: 1037
 * Author: konpa
 * URL: https://github.com/devicons/devicon/tree/master
 * License: MIT
@@ -1458,12 +1458,12 @@
 * File: [json/unjs.json](json/unjs.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Simple Icons
-* Number of icons: 3459
+* Number of icons: 3460
 * Author: Simple Icons Collaborators
 * URL: https://github.com/simple-icons/simple-icons
 * License: CC0 1.0
 * License URL: https://github.com/simple-icons/simple-icons/blob/develop/LICENSE.md
-* Version: 16.30.0
+* Version: 16.31.0
 * Palette: Colorless
 * Icon set prefix: `simple-icons`
 * File: [json/simple-icons.json](json/simple-icons.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
@@ -1543,7 +1543,7 @@
 * File: [json/arcticons.json](json/arcticons.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## theSVG
-* Number of icons: 3752
+* Number of icons: 3753
 * Author: thesvg.org
 * URL: https://github.com/glincker/thesvg
 * License: MIT
@@ -1553,7 +1553,7 @@
 * File: [json/thesvg.json](json/thesvg.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## theSVG Color
-* Number of icons: 4875
+* Number of icons: 4884
 * Author: thesvg.org
 * URL: https://github.com/glincker/thesvg
 * License: MIT
@@ -1761,7 +1761,7 @@
 * File: [json/streamline-emojis.json](json/streamline-emojis.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Circle Flags
-* Number of icons: 634
+* Number of icons: 439
 * Author: HatScripts
 * URL: https://github.com/HatScripts/circle-flags
 * License: MIT

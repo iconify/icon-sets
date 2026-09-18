@@ -116,7 +116,7 @@
 * File: [json/mingcute.json](json/mingcute.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Keyline Icons
-* Number of icons: 4394
+* Number of icons: 8000
 * Author: Keyline Icons
 * URL: https://github.com/keyline-icons/keyline-icons
 * License: MIT
@@ -179,7 +179,7 @@
 * File: [json/iconoir.json](json/iconoir.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Lucide
-* Number of icons: 1847
+* Number of icons: 1853
 * Author: Lucide Contributors
 * URL: https://github.com/lucide-icons/lucide
 * License: ISC
@@ -1348,7 +1348,7 @@
 * File: [json/marketeq.json](json/marketeq.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## VSCode Icons
-* Number of icons: 1589
+* Number of icons: 1595
 * Author: Roberto Huertas
 * URL: https://github.com/vscode-icons/vscode-icons
 * License: MIT
@@ -1390,7 +1390,7 @@
 * File: [json/file-icons.json](json/file-icons.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Devicon
-* Number of icons: 1050
+* Number of icons: 1052
 * Author: konpa
 * URL: https://github.com/devicons/devicon/tree/master
 * License: MIT
@@ -1400,7 +1400,7 @@
 * File: [json/devicon.json](json/devicon.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Devicon Plain
-* Number of icons: 767
+* Number of icons: 769
 * Author: konpa
 * URL: https://github.com/devicons/devicon/tree/master
 * License: MIT
@@ -1553,7 +1553,7 @@
 * File: [json/thesvg.json](json/thesvg.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## theSVG Color
-* Number of icons: 4885
+* Number of icons: 4891
 * Author: thesvg.org
 * URL: https://github.com/glincker/thesvg
 * License: MIT
@@ -1667,7 +1667,7 @@
 * File: [json/twemoji.json](json/twemoji.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Noto Emoji
-* Number of icons: 3710
+* Number of icons: 3729
 * Author: Google Inc
 * URL: https://github.com/googlefonts/noto-emoji
 * License: Apache 2.0
@@ -1805,7 +1805,7 @@
 * File: [json/cif.json](json/cif.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Pinhead Map Icons
-* Number of icons: 2709
+* Number of icons: 2719
 * Author: Quincy Morgan
 * URL: https://github.com/waysidemapping/pinhead
 * License: CC0

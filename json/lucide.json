@@ -2,7 +2,7 @@
 	"prefix": "lucide",
 	"info": {
 		"name": "Lucide",
-		"total": 1847,
+		"total": 1853,
 		"author": {
 			"name": "Lucide Contributors",
 			"url": "https://github.com/lucide-icons/lucide"
@@ -29,7 +29,7 @@
 		],
 		"palette": false
 	},
-	"lastModified": 1789562952,
+	"lastModified": 1789727758,
 	"icons": {
 		"a-arrow-down": {
 			"body": "<path fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" d=\"m14 12l4 4l4-4m-4 4V7M2 16l4.039-9.69a.5.5 0 0 1 .923 0L11 16m-7.696-3h6.392\"/>"
@@ -816,6 +816,9 @@
 		"briefcase-medical": {
 			"body": "<g fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\"><path d=\"M12 11v4m2-2h-4m6-7V4a2 2 0 0 0-2-2h-4a2 2 0 0 0-2 2v2m10 0v14M6 6v14\"/><rect width=\"20\" height=\"14\" x=\"2\" y=\"6\" rx=\"2\"/></g>"
 		},
+		"briefcase-plus": {
+			"body": "<g fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\"><path d=\"M13.354 20H4a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h16a2 2 0 0 1 2 2v3.354\"/><path d=\"M16 11.354V4a2 2 0 0 0-2-2h-4a2 2 0 0 0-2 2v16m8-3h6m-3-3v6\"/></g>"
+		},
 		"bring-to-front": {
 			"body": "<g fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\"><rect width=\"8\" height=\"8\" x=\"8\" y=\"8\" rx=\"2\"/><path d=\"M4 10a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h4a2 2 0 0 1 2 2m4 16a2 2 0 0 0 2 2h4a2 2 0 0 0 2-2v-4a2 2 0 0 0-2-2\"/></g>"
 		},
@@ -998,7 +1001,7 @@
 			"body": "<g fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\"><path d=\"M18 19V9a4 4 0 0 0-4-4H6a4 4 0 0 0-4 4v8a2 2 0 0 0 2 2h2\"/><path d=\"M2 9h3a1 1 0 0 1 1 1v2a1 1 0 0 1-1 1H2m20 4v1a1 1 0 0 1-1 1H10v-9a1 1 0 0 1 1-1h2a1 1 0 0 1 1 1v9\"/><circle cx=\"8\" cy=\"19\" r=\"2\"/></g>"
 		},
 		"card-sim": {
-			"body": "<g fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\"><path d=\"M12 14v4m2.172-16a2 2 0 0 1 1.414.586l3.828 3.828A2 2 0 0 1 20 7.828V20a2 2 0 0 1-2 2H6a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2zM8 14h8\"/><rect width=\"8\" height=\"8\" x=\"8\" y=\"10\" rx=\"1\"/></g>"
+			"body": "<g fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\"><path d=\"M12 14v4m2.172-16a2 2 0 0 1 1.414.586l3.828 3.828A2 2 0 0 1 20 7.828V20a2 2 0 0 1-2 2H6a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2zM8 14h8\"/><rect width=\"8\" height=\"8\" x=\"8\" y=\"10\" rx=\"2\"/></g>"
 		},
 		"carrot": {
 			"body": "<g fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\"><path d=\"M15 16a1 1 0 0 0-7-7q-4 4-5.987 12.385a.5.5 0 0 0 .602.602Q11 20 15 16l-3-3\"/><path d=\"M15 9q4 4 7 0q-3-4-7 0q4-4 0-7q-4 3 0 7m-7 6l-2.58-2.58\"/></g>"
@@ -3088,8 +3091,17 @@
 			"body": "<g fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\"><path d=\"M3 3v18h18\"/><path d=\"m19 9l-5 5l-4-4l-3 3\"/></g>",
 			"hidden": true
 		},
+		"line-dot-bottom-vertical": {
+			"body": "<g fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\"><path d=\"M12 3v12\"/><circle cx=\"12\" cy=\"18\" r=\"3\"/></g>"
+		},
+		"line-dot-left-horizontal": {
+			"body": "<g fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\"><path d=\"M9 12h12\"/><circle cx=\"6\" cy=\"12\" r=\"3\"/></g>"
+		},
 		"line-dot-right-horizontal": {
 			"body": "<g fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\"><path d=\"M3 12h12\"/><circle cx=\"18\" cy=\"12\" r=\"3\"/></g>"
+		},
+		"line-dot-top-vertical": {
+			"body": "<g fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\"><path d=\"M12 9v12\"/><circle cx=\"12\" cy=\"6\" r=\"3\"/></g>"
 		},
 		"line-squiggle": {
 			"body": "<path fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" d=\"M7 3.5c5-2 7 2.5 3 4C1.5 10 2 15 5 16c5 2 9-10 14-7s.5 13.5-4 12c-5-2.5.5-11 6-2\"/>"
@@ -4850,6 +4862,9 @@
 		"square-dashed-mouse-pointer": {
 			"body": "<path fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" d=\"M12.034 12.681a.498.498 0 0 1 .647-.647l9 3.5a.5.5 0 0 1-.033.943l-3.444 1.068a1 1 0 0 0-.66.66l-1.067 3.443a.5.5 0 0 1-.943.033zM5 3a2 2 0 0 0-2 2m16-2a2 2 0 0 1 2 2M5 21a2 2 0 0 1-2-2M9 3h1M9 21h2m3-18h1M3 9v1m18-1v2M3 14v1\"/>"
 		},
+		"square-dashed-plus": {
+			"body": "<path fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" d=\"M5 3a2 2 0 0 0-2 2m16-2a2 2 0 0 1 2 2m0 14a2 2 0 0 1-2 2M5 21a2 2 0 0 1-2-2M9 3h1M9 21h1m4-18h1m-1 18h1M3 9v1m18-1v1M3 14v1m18-1v1M8 12h8m-4-4v8\"/>"
+		},
 		"square-dashed-text": {
 			"body": "<path fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" d=\"M14 21h1M14 3h1m4 0a2 2 0 0 1 2 2m0 9v1m0 4a2 2 0 0 1-2 2m2-12v1M3 14v1m0-6v1m2 11a2 2 0 0 1-2-2M5 3a2 2 0 0 0-2 2m4 7h10M7 16h6M7 8h8M9 21h1M9 3h1\"/>"
 		},
@@ -4945,6 +4960,9 @@
 		},
 		"square-slash": {
 			"body": "<g fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\"><rect width=\"18\" height=\"18\" x=\"3\" y=\"3\" rx=\"2\"/><path d=\"m9 15l6-6\"/></g>"
+		},
+		"square-sparkles": {
+			"body": "<g fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\"><path d=\"M11 15H7m8.41-12.51a.6.6 0 0 1 1.18 0l.63 3.334a1.2 1.2 0 0 0 .956.955l3.334.631a.6.6 0 0 1 0 1.18l-3.334.63a1.2 1.2 0 0 0-.955.956l-.631 3.334a.6.6 0 0 1-1.18 0l-.63-3.334a1.2 1.2 0 0 0-.956-.955L10.49 8.59a.6.6 0 0 1 0-1.18l3.334-.63a1.2 1.2 0 0 0 .955-.956z\"/><path d=\"M21 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h6M9 13v4\"/></g>"
 		},
 		"square-split-horizontal": {
 			"body": "<path fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" d=\"M12 2v20m4-19h3a2 2 0 0 1 2 2v14a2 2 0 0 1-2 2h-3m-8 0H5a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h3\"/>"

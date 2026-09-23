@@ -2,7 +2,7 @@
 	"prefix": "wordpress",
 	"info": {
 		"name": "WordPress Icons",
-		"total": 341,
+		"total": 344,
 		"author": {
 			"name": "The WordPress Contributors",
 			"url": "https://github.com/WordPress/gutenberg/tree/HEAD/packages/icons"
@@ -27,7 +27,7 @@
 		],
 		"palette": false
 	},
-	"lastModified": 1789563421,
+	"lastModified": 1790168652,
 	"icons": {
 		"accordion": {
 			"body": "<path fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" d=\"M4.755 10.5L7 8L4.755 5.5m0 13L7 16l-2.245-2.5M10 8h10m-10 8h10\" vector-effect=\"non-scaling-stroke\"/>"
@@ -129,7 +129,7 @@
 			"body": "<g fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path fill=\"currentColor\" d=\"M6.25 11.25h-1.5v1.5h1.5zm13 0h-1.5v1.5h1.5z\" stroke=\"none\"/><path d=\"M10.755 14.5L13 12l-2.245-2.5M4.75 11.25h1.5v1.5h-1.5zm13 0h1.5v1.5h-1.5z\" vector-effect=\"non-scaling-stroke\"/></g>"
 		},
 		"brush": {
-			"body": "<g fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M5 19.25h7m-2-3.75c1.2-.8 1.379-2.46 1-3s-.643-.725-1.098-.902c-.454-.178-2.097-.4-2.59 1.719C6.82 15.435 6 16.5 6 16.5s2.5 0 4-1Z\" vector-effect=\"non-scaling-stroke\"/><path d=\"M18.5 5L11 12.5c-.379-.54-.643-.725-1.098-.902L17.5 4z\" vector-effect=\"non-scaling-stroke\"/></g>"
+			"body": "<path fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" d=\"m17 15.25l.586-.586a2 2 0 0 0 0-2.828l-.879-.879a1 1 0 0 1 0-1.414L20 6.25a1.414 1.414 0 1 0-2-2l-3.293 3.293a1 1 0 0 1-1.414 0l-.879-.879a2 2 0 0 0-2.828 0L9 7.25m8 8l-2.879 2.879a3 3 0 0 1-4.242 0L8 16.25m9-1l-8-8m0 0l-5 5l2 2m0 0l2-2m-2 2l2 2m0 0l2-2\" vector-effect=\"non-scaling-stroke\"/>"
 		},
 		"bug": {
 			"body": "<path fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" d=\"M16.25 10.5v3m0-3H19m-2.75 0c0-1.3-.585-2.465-1.505-3.245M16.25 13.5a4.25 4.25 0 0 1-8.5 0v-3m0 0H5m2.75 0c0-1.3.584-2.465 1.505-3.245M16.25 13.5H19m-11.25 0H5M17 5l-2.255 2.255m0 0A4.23 4.23 0 0 0 12 6.25a4.23 4.23 0 0 0-2.745 1.005M7 5l2.255 2.255\" vector-effect=\"non-scaling-stroke\"/>"
@@ -234,7 +234,7 @@
 			"body": "<path fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" d=\"M14.75 5.75H19c.69 0 1.25.56 1.25 1.25v10c0 .69-.56 1.25-1.25 1.25h-4.25m0-12.5v12.5m0-12.5h-5.5m5.5 12.5h-5.5m0 0H5c-.69 0-1.25-.56-1.25-1.25V7c0-.69.56-1.25 1.25-1.25h4.25m0 12.5V5.75\" vector-effect=\"non-scaling-stroke\"/>"
 		},
 		"comment": {
-			"body": "<path fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" d=\"M18 4.75H6c-.69 0-1.25.56-1.25 1.25v12.66a.5.5 0 0 0 .878.327L8 16.25h10c.69 0 1.25-.56 1.25-1.25V6c0-.69-.56-1.25-1.25-1.25Z\" vector-effect=\"non-scaling-stroke\"/>"
+			"body": "<path fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" d=\"M18 5.5H6c-.69 0-1.25.56-1.25 1.25v11.66a.5.5 0 0 0 .878.327L8 16h10c.69 0 1.25-.56 1.25-1.25v-8c0-.69-.56-1.25-1.25-1.25Z\" vector-effect=\"non-scaling-stroke\"/>"
 		},
 		"comment-author-avatar": {
 			"body": "<g fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M8 18.048V16a2 2 0 0 1 2-2h4a2 2 0 0 1 2 2v2.048\" vector-effect=\"non-scaling-stroke\"/><path stroke-linejoin=\"round\" d=\"M12 4.75a7.25 7.25 0 1 0 0 14.5a7.25 7.25 0 0 0 0-14.5Z\" vector-effect=\"non-scaling-stroke\"/><path d=\"M13.75 10a1.75 1.75 0 1 1-3.5 0a1.75 1.75 0 0 1 3.5 0Z\" vector-effect=\"non-scaling-stroke\"/></g>"
@@ -407,6 +407,9 @@
 		"fullscreen": {
 			"body": "<path fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" d=\"M4.75 10V4.75H10m-5.25 0L10 10m4 9.25h5.25V14m0 5.25L14 14\" vector-effect=\"non-scaling-stroke\"/>"
 		},
+		"fullscreen-exit": {
+			"body": "<path fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" d=\"M10 4.75V10H4.75M10 10L4.75 4.75M19.25 14H14v5.25M14 14l5.25 5.25\" vector-effect=\"non-scaling-stroke\"/>"
+		},
 		"funnel": {
 			"body": "<path fill=\"none\" stroke=\"currentColor\" stroke-linejoin=\"round\" stroke-width=\"1.5\" d=\"M10 17.5h4M8 12h8M6 6.5h12\" vector-effect=\"non-scaling-stroke\"/>"
 		},
@@ -509,6 +512,9 @@
 		"justify-space-between-vertical": {
 			"body": "<g fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M4 12h16\" vector-effect=\"non-scaling-stroke\"/><path fill=\"currentColor\" d=\"M17 20H7v-4h10zm0-12H7V4h10z\" stroke=\"none\"/></g>"
 		},
+		"justify-space-evenly": {
+			"body": "<g fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path fill=\"currentColor\" d=\"M3 9h6v6H3zm12 0h6v6h-6z\" stroke=\"none\"/><path d=\"M12 4v16\" vector-effect=\"non-scaling-stroke\"/></g>"
+		},
 		"justify-stretch": {
 			"body": "<g fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M4.75 4v16m14.5 0V4\" vector-effect=\"non-scaling-stroke\"/><path fill=\"currentColor\" d=\"M7 10h10v4H7z\" stroke=\"none\"/></g>"
 		},
@@ -588,7 +594,7 @@
 			"body": "<path fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" d=\"M3 14h2l1.892 2.364a.1.1 0 0 0 .17-.026l3.19-8.2a1 1 0 0 1 .932-.638H19M17 11l-2.5 2.5M12 16l2.5-2.5m0 0L17 16m-2.5-2.5L12 11\" vector-effect=\"non-scaling-stroke\"/>"
 		},
 		"media": {
-			"body": "<g fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path fill=\"currentColor\" d=\"M11 9L7 6.5v5z\" stroke=\"none\"/><path d=\"m19.25 14.251l-3.18-3.18a.1.1 0 0 0-.14 0l-3.872 3.87a.1.1 0 0 1-.126.013l-3.274-2.215a.1.1 0 0 0-.115.002L4.75 15.48m14.5-1.23V6c0-.69-.56-1.25-1.25-1.25H6c-.69 0-1.25.56-1.25 1.25v9.48m14.5-1.229V18c0 .69-.56 1.25-1.25 1.25H6c-.69 0-1.25-.56-1.25-1.25v-2.52\" vector-effect=\"non-scaling-stroke\"/></g>"
+			"body": "<g fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M14 12.375v-5.86a.624.624 0 0 0-.506-.613l-1.67-.324a1 1 0 0 1-.632-.413L10.4 4.02a.63.63 0 0 0-.514-.269h-1.77c-.205 0-.397.1-.514.27l-.793 1.145a1 1 0 0 1-.632.413l-1.67.324A.625.625 0 0 0 4 6.515v5.86c0 .345.28.625.625.625h8.75c.345 0 .625-.28.625-.625Z\" vector-effect=\"non-scaling-stroke\"/><circle cx=\"9\" cy=\"9\" r=\"1\" fill=\"currentColor\" vector-effect=\"non-scaling-stroke\"/><path d=\"M20 17.25V9\" vector-effect=\"non-scaling-stroke\"/><path fill=\"currentColor\" d=\"M17 10h3V9h-3zm-5.25 8.5c.69 0 1.25-.56 1.25-1.25V16h-1.25a1.25 1.25 0 1 0 0 2.5Zm7 0c.69 0 1.25-.56 1.25-1.25V16h-1.25a1.25 1.25 0 1 0 0 2.5Z\" vector-effect=\"non-scaling-stroke\"/></g>"
 		},
 		"media-and-text": {
 			"body": "<g fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M14 8h7m-7 4h7m-7 4h7\" vector-effect=\"non-scaling-stroke\"/><path fill=\"currentColor\" d=\"M3 6h8v12H3z\" stroke=\"none\"/></g>"
@@ -681,7 +687,7 @@
 			"body": "<g fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path fill=\"currentColor\" d=\"M16.25 13.5v-3l2 1.5z\" vector-effect=\"non-scaling-stroke\"/><path fill=\"currentColor\" d=\"M11.25 16.5a2.75 2.75 0 1 1-5.5 0a2.75 2.75 0 0 1 5.5 0\" stroke=\"none\"/><path d=\"M8.5 19.25a2.75 2.75 0 1 0 0-5.5a2.75 2.75 0 0 0 0 5.5Zm0 0c2.987 0 3.25-2.75 3.25-4.112V8c0-3.09 2.65-2.997 4.25-2.998\" vector-effect=\"non-scaling-stroke\"/></g>"
 		},
 		"plugins": {
-			"body": "<path fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" d=\"M9.75 8.75h-2a.5.5 0 0 0-.5.5v3.5l3 4v2a.5.5 0 0 0 .5.5h2.5a.5.5 0 0 0 .5-.5v-2l3-4v-3.5a.5.5 0 0 0-.5-.5h-2m-4.5 0V4m0 4.75h4.5m0 0V4\" vector-effect=\"non-scaling-stroke\"/>"
+			"body": "<path fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" d=\"M15.4 11.571L12.217 8.39l-1.944-1.944L7.677 9.04a2 2 0 0 0-.586 1.414v3a1 1 0 0 1-.293.707l-1.652 1.652a.5.5 0 0 0 0 .707l2.122 2.121a.5.5 0 0 0 .707 0l1.652-1.651a1 1 0 0 1 .707-.293h3a2 2 0 0 0 1.414-.586l2.596-2.596zM12.217 8.39l3.89-3.889m-.707 7.071l3.889-3.889\" vector-effect=\"non-scaling-stroke\"/>"
 		},
 		"plus": {
 			"body": "<path fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" d=\"M12 18V6m6 6H6\" vector-effect=\"non-scaling-stroke\"/>"
@@ -769,6 +775,9 @@
 		},
 		"quote": {
 			"body": "<g fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M10 11.25v-4.5H4.75v4.5zm0 0V16c0 1.5-.5 3-4 3m13-7.75v-4.5h-5.25v4.5zm0 0V16c0 1.5-.5 3-4 3\" vector-effect=\"non-scaling-stroke\"/><path fill=\"currentColor\" d=\"M10 6.75v4.5H4.75v-4.5zm9 0v4.5h-5.25v-4.5z\" stroke=\"none\"/></g>"
+		},
+		"reaction": {
+			"body": "<g fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path stroke-linejoin=\"round\" d=\"M4.75 12a7.25 7.25 0 1 1 14.5 0a7.25 7.25 0 0 1-14.5 0Z\" vector-effect=\"non-scaling-stroke\"/><path stroke-linejoin=\"round\" d=\"M9 12.5a3 3 0 1 0 6 0\" vector-effect=\"non-scaling-stroke\"/><circle cx=\"9.5\" cy=\"10\" r=\".5\" fill=\"currentColor\" vector-effect=\"non-scaling-stroke\"/><circle cx=\"14.5\" cy=\"10\" r=\".5\" fill=\"currentColor\" vector-effect=\"non-scaling-stroke\"/></g>"
 		},
 		"receipt": {
 			"body": "<path fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" d=\"M8 10h8m-8 4h8m3.25-9.25V19l-2.75-1.25l-2.5 1.5l-2-1.5l-2 1.5l-2.5-1.5L4.75 19V4.75L7.5 6L10 4.5L12 6l2-1.5L16.5 6z\" vector-effect=\"non-scaling-stroke\"/>"

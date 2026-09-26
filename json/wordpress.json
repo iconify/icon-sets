@@ -2,7 +2,7 @@
 	"prefix": "wordpress",
 	"info": {
 		"name": "WordPress Icons",
-		"total": 344,
+		"total": 345,
 		"author": {
 			"name": "The WordPress Contributors",
 			"url": "https://github.com/WordPress/gutenberg/tree/HEAD/packages/icons"
@@ -27,7 +27,7 @@
 		],
 		"palette": false
 	},
-	"lastModified": 1790168652,
+	"lastModified": 1790422674,
 	"icons": {
 		"accordion": {
 			"body": "<path fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" d=\"M4.755 10.5L7 8L4.755 5.5m0 13L7 16l-2.245-2.5M10 8h10m-10 8h10\" vector-effect=\"non-scaling-stroke\"/>"
@@ -351,7 +351,7 @@
 			"body": "<g fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M9.75 4.75H18c.69 0 1.25.56 1.25 1.25v8.25m-9.5-9.5H6c-.69 0-1.25.56-1.25 1.25v8.25m5-9.5v9.5m9.5 0V18c0 .69-.56 1.25-1.25 1.25H6c-.69 0-1.25-.56-1.25-1.25v-3.75m14.5 0h-9.5m0 0h-5\" vector-effect=\"non-scaling-stroke\"/><path fill=\"currentColor\" d=\"M19.25 15.5V18c0 .69-.56 1.25-1.25 1.25H6c-.69 0-1.25-.56-1.25-1.25v-2.5c0-.69.56-1.25 1.25-1.25h12c.69 0 1.25.56 1.25 1.25Z\" vector-effect=\"non-scaling-stroke\"/></g>"
 		},
 		"format-bold": {
-			"body": "<path fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" d=\"M13 11.5H7.75m5.25 0l.741.106A3.213 3.213 0 0 1 13.287 18H7.75v-6.5m5.25 0l.291-.058A2.747 2.747 0 0 0 12.752 6H7.75v5.5\" vector-effect=\"non-scaling-stroke\"/>"
+			"body": "<g fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M7.75 11.5V18h5.5a3.25 3.25 0 0 0 0-6.5H13m-5.25 0V6h4.994A2.756 2.756 0 0 1 15.5 8.756c0 1.416-1.091 2.603-2.5 2.744m-5.25 0H13\" vector-effect=\"non-scaling-stroke\"/><path d=\"M8.25 11.75v5.75h4.614a2.875 2.875 0 0 0 0-5.75zm0 0v-.5m0 0V6.5h4.375a2.375 2.375 0 1 1 0 4.75z\" vector-effect=\"non-scaling-stroke\"/></g>"
 		},
 		"format-capitalize": {
 			"body": "<path fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" d=\"M11.453 17.5v-.277l-1.016-3.047L8.128 7.25h-.554l-2.308 6.926l-1.016 3.047v.277m6.187-3.324H5.266M14.25 6v11.5m0-4.206c0-2.059 1.177-2.882 2.618-2.882c1.592 0 2.882 1.235 2.882 3.294S18.46 17 16.868 17c-1.177 0-2.618-1.235-2.618-2.882\" vector-effect=\"non-scaling-stroke\"/>"
@@ -506,14 +506,17 @@
 		"justify-right": {
 			"body": "<g fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path fill=\"currentColor\" d=\"M4 9h11v6H4z\" stroke=\"none\"/><path d=\"M19.25 20V4\" vector-effect=\"non-scaling-stroke\"/></g>"
 		},
+		"justify-space-around": {
+			"body": "<g fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path fill=\"currentColor\" d=\"M6.5 8h3v8h-3zm8 0h3v8h-3z\" stroke=\"none\"/><path d=\"M4.25 4v16m15.5-16v16\" vector-effect=\"non-scaling-stroke\"/></g>"
+		},
 		"justify-space-between": {
-			"body": "<g fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path fill=\"currentColor\" d=\"M9 9h6v6H9z\" stroke=\"none\"/><path d=\"M19.25 4v16m-14.5 0V4\" vector-effect=\"non-scaling-stroke\"/></g>"
+			"body": "<g fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path fill=\"currentColor\" d=\"M5 8h3v8H5zm11 0h3v8h-3z\" stroke=\"none\"/><path d=\"M4.25 4v16m15.5-16v16\" vector-effect=\"non-scaling-stroke\"/></g>"
 		},
 		"justify-space-between-vertical": {
 			"body": "<g fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M4 12h16\" vector-effect=\"non-scaling-stroke\"/><path fill=\"currentColor\" d=\"M17 20H7v-4h10zm0-12H7V4h10z\" stroke=\"none\"/></g>"
 		},
 		"justify-space-evenly": {
-			"body": "<g fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path fill=\"currentColor\" d=\"M3 9h6v6H3zm12 0h6v6h-6z\" stroke=\"none\"/><path d=\"M12 4v16\" vector-effect=\"non-scaling-stroke\"/></g>"
+			"body": "<g fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path fill=\"currentColor\" d=\"M7.75 8h3v8h-3zm5.5 0h3v8h-3z\" stroke=\"none\"/><path d=\"M4.25 4v16m15.5-16v16\" vector-effect=\"non-scaling-stroke\"/></g>"
 		},
 		"justify-stretch": {
 			"body": "<g fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M4.75 4v16m14.5 0V4\" vector-effect=\"non-scaling-stroke\"/><path fill=\"currentColor\" d=\"M7 10h10v4H7z\" stroke=\"none\"/></g>"

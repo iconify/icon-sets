@@ -116,7 +116,7 @@
 * File: [json/mingcute.json](json/mingcute.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Keyline Icons
-* Number of icons: 9736
+* Number of icons: 9864
 * Author: Keyline Icons
 * URL: https://github.com/keyline-icons/keyline-icons
 * License: MIT
@@ -179,7 +179,7 @@
 * File: [json/iconoir.json](json/iconoir.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Lucide
-* Number of icons: 1856
+* Number of icons: 1857
 * Author: Lucide Contributors
 * URL: https://github.com/lucide-icons/lucide
 * License: ISC
@@ -943,7 +943,7 @@
 * File: [json/streamline-freehand.json](json/streamline-freehand.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Siemens Industrial Experience Icons
-* Number of icons: 1479
+* Number of icons: 1486
 * Author: Siemens AG
 * URL: https://github.com/siemens/ix-icons
 * License: MIT
@@ -1573,7 +1573,7 @@
 * File: [json/selfhst.json](json/selfhst.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Custom Brand Icons
-* Number of icons: 1737
+* Number of icons: 1743
 * Author: Emanuele & rchiileea
 * URL: https://github.com/elax46/custom-brand-icons
 * License: CC BY-NC-SA 4.0

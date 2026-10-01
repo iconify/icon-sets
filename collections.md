@@ -1064,7 +1064,7 @@
 * URL: https://github.com/CyCraft/pepicons
 * License: CC BY 4.0
 * License URL: https://github.com/CyCraft/pepicons/blob/dev/LICENSE
-* Version: 3.1.3
+* Version: 3.1.6
 * Palette: Colorless
 * Icon set prefix: `pepicons-pop`
 * File: [json/pepicons-pop.json](json/pepicons-pop.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
@@ -1075,7 +1075,7 @@
 * URL: https://github.com/CyCraft/pepicons
 * License: CC BY 4.0
 * License URL: https://github.com/CyCraft/pepicons/blob/dev/LICENSE
-* Version: 3.1.3
+* Version: 3.1.6
 * Palette: Colorless
 * Icon set prefix: `pepicons-print`
 * File: [json/pepicons-print.json](json/pepicons-print.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
@@ -1086,7 +1086,7 @@
 * URL: https://github.com/CyCraft/pepicons
 * License: CC BY 4.0
 * License URL: https://github.com/CyCraft/pepicons/blob/dev/LICENSE
-* Version: 3.1.3
+* Version: 3.1.6
 * Palette: Colorless
 * Icon set prefix: `pepicons-pencil`
 * File: [json/pepicons-pencil.json](json/pepicons-pencil.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
@@ -1603,23 +1603,23 @@
 * File: [json/entypo-social.json](json/entypo-social.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Web3 Icons
-* Number of icons: 1786
+* Number of icons: 1788
 * Author: 0xa3k5
 * URL: https://github.com/0xa3k5/web3icons
 * License: MIT
 * License URL: https://github.com/0xa3k5/web3icons/blob/main/LICENCE
-* Version: 4.0.56
+* Version: 4.0.57
 * Palette: Colorless
 * Icon set prefix: `token`
 * File: [json/token.json](json/token.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Web3 Icons Branded
-* Number of icons: 4081
+* Number of icons: 4085
 * Author: 0xa3k5
 * URL: https://github.com/0xa3k5/web3icons
 * License: MIT
 * License URL: https://github.com/0xa3k5/web3icons/blob/main/LICENCE
-* Version: 4.0.56
+* Version: 4.0.57
 * Palette: Colorful
 * Icon set prefix: `token-branded`
 * File: [json/token-branded.json](json/token-branded.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
@@ -1761,7 +1761,7 @@
 * File: [json/streamline-emojis.json](json/streamline-emojis.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Circle Flags
-* Number of icons: 439
+* Number of icons: 444
 * Author: HatScripts
 * URL: https://github.com/HatScripts/circle-flags
 * License: MIT

@@ -2,7 +2,7 @@
 
 
 ## Material Symbols
-* Number of icons: 15717
+* Number of icons: 15728
 * Author: Google
 * URL: https://github.com/google/material-design-icons
 * License: Apache 2.0
@@ -12,7 +12,7 @@
 * File: [json/material-symbols.json](json/material-symbols.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Material Symbols Light
-* Number of icons: 15782
+* Number of icons: 15793
 * Author: Google
 * URL: https://github.com/google/material-design-icons
 * License: Apache 2.0
@@ -179,7 +179,7 @@
 * File: [json/iconoir.json](json/iconoir.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Lucide
-* Number of icons: 1869
+* Number of icons: 1870
 * Author: Lucide Contributors
 * URL: https://github.com/lucide-icons/lucide
 * License: ISC
@@ -823,7 +823,7 @@
 * URL: https://github.com/twbs/icons
 * License: MIT
 * License URL: https://github.com/twbs/icons/blob/main/LICENSE.md
-* Version: 1.13.1
+* Version: 1.13.2
 * Palette: Colorless
 * Icon set prefix: `bi`
 * File: [json/bi.json](json/bi.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
@@ -900,6 +900,16 @@
 * Palette: Colorless
 * Icon set prefix: `ph`
 * File: [json/ph.json](json/ph.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
+
+## Energy Icons
+* Number of icons: 5116
+* Author: Sam Passmore
+* URL: https://github.com/Sam-r-passmore/energy-icons
+* License: MIT
+* License URL: https://github.com/Sam-r-passmore/energy-icons/blob/main/LICENSE
+* Palette: Colorless
+* Icon set prefix: `energy-icons`
+* File: [json/energy-icons.json](json/energy-icons.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Glyphs
 * Number of icons: 3452
@@ -1358,7 +1368,7 @@
 * File: [json/marketeq.json](json/marketeq.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## VSCode Icons
-* Number of icons: 1673
+* Number of icons: 1674
 * Author: Roberto Huertas
 * URL: https://github.com/vscode-icons/vscode-icons
 * License: MIT
@@ -1400,7 +1410,7 @@
 * File: [json/file-icons.json](json/file-icons.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Devicon
-* Number of icons: 1059
+* Number of icons: 1060
 * Author: konpa
 * URL: https://github.com/devicons/devicon/tree/master
 * License: MIT

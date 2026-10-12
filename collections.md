@@ -94,6 +94,15 @@
 * Icon set prefix: `iconmind`
 * File: [json/iconmind.json](json/iconmind.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
+## IconOven
+* Number of icons: 18236
+* Author: Appic Marketing
+* URL: https://www.npmjs.com/package/@iconoven/svg
+* License: MIT
+* Palette: Colorless
+* Icon set prefix: `iconoven`
+* File: [json/iconoven.json](json/iconoven.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
+
 ## Boxicons
 * Number of icons: 3768
 * Author: Boxicons
@@ -116,7 +125,7 @@
 * File: [json/mingcute.json](json/mingcute.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Keyline Icons
-* Number of icons: 10928
+* Number of icons: 11480
 * Author: Keyline Icons
 * URL: https://github.com/keyline-icons/keyline-icons
 * License: MIT
@@ -145,6 +154,16 @@
 * Palette: Colorless
 * Icon set prefix: `mynaui`
 * File: [json/mynaui.json](json/mynaui.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
+
+## andrsrxn/icons
+* Number of icons: 2066
+* Author: Andrés Raxón
+* URL: https://github.com/andrsrxn/icons
+* License: MIT
+* License URL: https://github.com/andrsrxn/icons/blob/main/LICENSE
+* Palette: Colorless
+* Icon set prefix: `andrsrxn`
+* File: [json/andrsrxn.json](json/andrsrxn.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Griddy Icons
 * Number of icons: 2010
@@ -179,7 +198,7 @@
 * File: [json/iconoir.json](json/iconoir.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Lucide
-* Number of icons: 1870
+* Number of icons: 1877
 * Author: Lucide Contributors
 * URL: https://github.com/lucide-icons/lucide
 * License: ISC
@@ -187,6 +206,16 @@
 * Palette: Colorless
 * Icon set prefix: `lucide`
 * File: [json/lucide.json](json/lucide.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
+
+## Lucide Extended
+* Number of icons: 2654
+* Author: Applifted
+* URL: https://github.com/applifted/lucide-extended
+* License: ISC
+* License URL: https://github.com/applifted/lucide-extended/blob/main/LICENSE
+* Palette: Colorless
+* Icon set prefix: `lucide-extended`
+* File: [json/lucide-extended.json](json/lucide-extended.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Lucide Lab
 * Number of icons: 373
@@ -880,12 +909,12 @@
 * File: [json/formkit.json](json/formkit.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Fluent UI System Icons
-* Number of icons: 19876
+* Number of icons: 19900
 * Author: Microsoft Corporation
 * URL: https://github.com/microsoft/fluentui-system-icons
 * License: MIT
 * License URL: https://github.com/microsoft/fluentui-system-icons/blob/main/LICENSE
-* Version: 1.1.343
+* Version: 1.1.344
 * Palette: Colorless
 * Icon set prefix: `fluent`
 * File: [json/fluent.json](json/fluent.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
@@ -902,7 +931,7 @@
 * File: [json/ph.json](json/ph.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Energy Icons
-* Number of icons: 5116
+* Number of icons: 5844
 * Author: Sam Passmore
 * URL: https://github.com/Sam-r-passmore/energy-icons
 * License: MIT
@@ -1078,6 +1107,16 @@
 * Icon set prefix: `sidekickicons`
 * File: [json/sidekickicons.json](json/sidekickicons.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
+## Garden SVG Icons
+* Number of icons: 1491
+* Author: Zendesk
+* URL: https://github.com/zendeskgarden/svg-icons
+* License: Apache 2.0
+* License URL: https://github.com/zendeskgarden/svg-icons/blob/main/LICENSE.md
+* Palette: Colorless
+* Icon set prefix: `garden`
+* File: [json/garden.json](json/garden.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
+
 ## Pepicons Pop!
 * Number of icons: 1275
 * Author: CyCraft
@@ -1132,16 +1171,6 @@
 * Palette: Colorless
 * Icon set prefix: `pajamas`
 * File: [json/pajamas.json](json/pajamas.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
-
-## Garden SVG Icons
-* Number of icons: 932
-* Author: Zendesk
-* URL: https://github.com/zendeskgarden/svg-icons
-* License: Apache 2.0
-* License URL: https://github.com/zendeskgarden/svg-icons/blob/main/LICENSE.md
-* Palette: Colorless
-* Icon set prefix: `garden`
-* File: [json/garden.json](json/garden.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Streamline
 * Number of icons: 3000
@@ -1303,7 +1332,7 @@
 * URL: https://github.com/microsoft/fluentui-system-icons
 * License: MIT
 * License URL: https://github.com/microsoft/fluentui-system-icons/blob/main/LICENSE
-* Version: 1.1.343
+* Version: 1.1.344
 * Palette: Colorful
 * Icon set prefix: `fluent-color`
 * File: [json/fluent-color.json](json/fluent-color.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
@@ -1368,7 +1397,7 @@
 * File: [json/marketeq.json](json/marketeq.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## VSCode Icons
-* Number of icons: 1674
+* Number of icons: 1675
 * Author: Roberto Huertas
 * URL: https://github.com/vscode-icons/vscode-icons
 * License: MIT
@@ -1390,7 +1419,7 @@
 * File: [json/codicon.json](json/codicon.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Material Icon Theme
-* Number of icons: 905
+* Number of icons: 906
 * Author: Material Extensions
 * URL: https://github.com/material-extensions/vscode-material-icon-theme
 * License: MIT
@@ -1410,7 +1439,7 @@
 * File: [json/file-icons.json](json/file-icons.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Devicon
-* Number of icons: 1060
+* Number of icons: 1063
 * Author: konpa
 * URL: https://github.com/devicons/devicon/tree/master
 * License: MIT
@@ -1478,18 +1507,18 @@
 * File: [json/unjs.json](json/unjs.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Simple Icons
-* Number of icons: 3464
+* Number of icons: 3466
 * Author: Simple Icons Collaborators
 * URL: https://github.com/simple-icons/simple-icons
 * License: CC0 1.0
 * License URL: https://github.com/simple-icons/simple-icons/blob/develop/LICENSE.md
-* Version: 16.34.0
+* Version: 16.35.0
 * Palette: Colorless
 * Icon set prefix: `simple-icons`
 * File: [json/simple-icons.json](json/simple-icons.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## SVG Logos
-* Number of icons: 1960
+* Number of icons: 1988
 * Author: Gil Barbara
 * URL: https://github.com/gilbarbara/logos
 * License: CC0
@@ -1563,7 +1592,7 @@
 * File: [json/arcticons.json](json/arcticons.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## theSVG
-* Number of icons: 3758
+* Number of icons: 3759
 * Author: thesvg.org
 * URL: https://github.com/glincker/thesvg
 * License: MIT
@@ -1573,7 +1602,7 @@
 * File: [json/thesvg.json](json/thesvg.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## theSVG Color
-* Number of icons: 4904
+* Number of icons: 4910
 * Author: thesvg.org
 * URL: https://github.com/glincker/thesvg
 * License: MIT
@@ -1593,7 +1622,7 @@
 * File: [json/selfhst.json](json/selfhst.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Custom Brand Icons
-* Number of icons: 1750
+* Number of icons: 1757
 * Author: Emanuele & rchiileea
 * URL: https://github.com/elax46/custom-brand-icons
 * License: CC BY-NC-SA 4.0

@@ -97,7 +97,7 @@
 ## IconOven
 * Number of icons: 18236
 * Author: Appic Marketing
-* URL: https://www.npmjs.com/package/@iconoven/svg
+* URL: https://iconoven.com/icons
 * License: MIT
 * Palette: Colorless
 * Icon set prefix: `iconoven`
@@ -198,7 +198,7 @@
 * File: [json/iconoir.json](json/iconoir.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Lucide
-* Number of icons: 1877
+* Number of icons: 1890
 * Author: Lucide Contributors
 * URL: https://github.com/lucide-icons/lucide
 * License: ISC
@@ -647,7 +647,7 @@
 * File: [json/wordpress.json](json/wordpress.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Matita
-* Number of icons: 173
+* Number of icons: 200
 * Author: matita.dev
 * URL: https://github.com/matita-dev/icons
 * License: MIT
@@ -777,7 +777,7 @@
 * URL: https://github.com/gravity-ui/icons/
 * License: MIT
 * License URL: https://github.com/gravity-ui/icons/blob/main/LICENSE
-* Version: 2.22.0
+* Version: 2.22.1
 * Palette: Colorless
 * Icon set prefix: `gravity-ui`
 * File: [json/gravity-ui.json](json/gravity-ui.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
@@ -1002,7 +1002,7 @@
 * File: [json/ix.json](json/ix.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Octicons
-* Number of icons: 770
+* Number of icons: 774
 * Author: GitHub
 * URL: https://github.com/primer/octicons/
 * License: MIT
@@ -1397,7 +1397,7 @@
 * File: [json/marketeq.json](json/marketeq.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## VSCode Icons
-* Number of icons: 1675
+* Number of icons: 1693
 * Author: Roberto Huertas
 * URL: https://github.com/vscode-icons/vscode-icons
 * License: MIT
@@ -1592,7 +1592,7 @@
 * File: [json/arcticons.json](json/arcticons.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## theSVG
-* Number of icons: 3759
+* Number of icons: 3760
 * Author: thesvg.org
 * URL: https://github.com/glincker/thesvg
 * License: MIT
@@ -1602,7 +1602,7 @@
 * File: [json/thesvg.json](json/thesvg.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## theSVG Color
-* Number of icons: 4910
+* Number of icons: 4913
 * Author: thesvg.org
 * URL: https://github.com/glincker/thesvg
 * License: MIT
@@ -1612,7 +1612,7 @@
 * File: [json/thesvg-color.json](json/thesvg-color.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## selfh.st/icons
-* Number of icons: 7238
+* Number of icons: 7269
 * Author: selfh.st
 * URL: https://github.com/selfhst/icons
 * License: CC BY 4.0

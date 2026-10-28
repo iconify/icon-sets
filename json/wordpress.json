@@ -2,7 +2,7 @@
 	"prefix": "wordpress",
 	"info": {
 		"name": "WordPress Icons",
-		"total": 346,
+		"total": 344,
 		"author": {
 			"name": "The WordPress Contributors",
 			"url": "https://github.com/WordPress/gutenberg/tree/HEAD/packages/icons"
@@ -27,7 +27,7 @@
 		],
 		"palette": false
 	},
-	"lastModified": 1792776661,
+	"lastModified": 1793169257,
 	"icons": {
 		"accordion": {
 			"body": "<path fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" d=\"M4.755 10.5L7 8L4.755 5.5m0 13L7 16l-2.245-2.5M10 8h10m-10 8h10\"/>"
@@ -590,13 +590,11 @@
 			"body": "<path fill=\"none\" stroke=\"currentColor\" stroke-linejoin=\"round\" stroke-width=\"1.5\" d=\"M10 17.5h11M6.5 12h11M3 6.5h11\"/>"
 		},
 		"lock": {
-			"body": "<g fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M9.25 11.1h-1.5a.5.5 0 0 0-.5.5v6a.5.5 0 0 0 .5.5h8.5a.5.5 0 0 0 .5-.5v-6a.5.5 0 0 0-.5-.5h-1.5m-5.5 0V7.85a2.75 2.75 0 1 1 5.5 0v3.25m-5.5 0h5.5\"/><path fill=\"currentColor\" d=\"M16.25 18.1h-8.5a.5.5 0 0 1-.5-.5v-6a.5.5 0 0 1 .5-.5h8.5a.5.5 0 0 1 .5.5v6a.5.5 0 0 1-.5.5\" stroke=\"none\"/></g>"
-		},
-		"lock-outline": {
 			"body": "<path fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" d=\"M9.25 10.75h-1.5a.5.5 0 0 0-.5.5v6a.5.5 0 0 0 .5.5h8.5a.5.5 0 0 0 .5-.5v-6a.5.5 0 0 0-.5-.5h-1.5m-5.5 0V7.5a2.75 2.75 0 1 1 5.5 0v3.25m-5.5 0h5.5\"/>"
 		},
 		"lock-small": {
-			"body": "<path fill=\"currentColor\" fill-rule=\"evenodd\" d=\"M15 11h-.2V9c0-1.5-1.2-2.8-2.8-2.8S9.2 7.5 9.2 9v2H9c-.6 0-1 .4-1 1v4c0 .6.4 1 1 1h6c.6 0 1-.4 1-1v-4c0-.6-.4-1-1-1m-1.8 0h-2.5V9c0-.7.6-1.2 1.2-1.2s1.2.6 1.2 1.2v2z\" clip-rule=\"evenodd\"/>"
+			"body": "<path fill=\"currentColor\" fill-rule=\"evenodd\" d=\"M15 11h-.2V9c0-1.5-1.2-2.8-2.8-2.8S9.2 7.5 9.2 9v2H9c-.6 0-1 .4-1 1v4c0 .6.4 1 1 1h6c.6 0 1-.4 1-1v-4c0-.6-.4-1-1-1m-1.8 0h-2.5V9c0-.7.6-1.2 1.2-1.2s1.2.6 1.2 1.2v2z\" clip-rule=\"evenodd\"/>",
+			"hidden": true
 		},
 		"login": {
 			"body": "<path fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" d=\"M7.75 6.5V6c0-.69.56-1.25 1.25-1.25h9c.69 0 1.25.56 1.25 1.25v12c0 .69-.56 1.25-1.25 1.25H9c-.69 0-1.25-.56-1.25-1.25v-.5M5 12h9.5m-3 3l3-3l-3-3\"/>"
@@ -1085,6 +1083,9 @@
 		}
 	},
 	"aliases": {
+		"lock-outline": {
+			"parent": "lock"
+		},
 		"resize-corner-n-e": {
 			"parent": "resize-corner-ne"
 		},

@@ -188,7 +188,7 @@
 * File: [json/iconoir.json](json/iconoir.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Lucide
-* Number of icons: 1924
+* Number of icons: 1999
 * Author: Lucide Contributors
 * URL: https://github.com/lucide-icons/lucide
 * License: ISC
@@ -286,7 +286,7 @@
 * URL: https://github.com/praveenjuge/vadivam
 * License: MIT
 * License URL: https://github.com/praveenjuge/vadivam/blob/main/LICENSE
-* Version: 0.0.69
+* Version: 0.0.71
 * Palette: Colorless
 * Icon set prefix: `vadivam`
 * File: [json/vadivam.json](json/vadivam.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
@@ -555,6 +555,16 @@
 * Palette: Colorless
 * Icon set prefix: `iconmind`
 * File: [json/iconmind.json](json/iconmind.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
+
+## with icons
+* Number of icons: 6000
+* Author: Evergrow
+* URL: https://github.com/withevergrow/withicons
+* License: MIT
+* License URL: https://github.com/withevergrow/withicons/blob/main/LICENSE
+* Palette: Colorless
+* Icon set prefix: `withicons`
+* File: [json/withicons.json](json/withicons.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Reicon
 * Number of icons: 6590
@@ -1079,7 +1089,7 @@
 * Author: CodeX
 * URL: https://github.com/davidabou/icons
 * License: MIT
-* License URL: https://github.com/codex-team/icons/blob/master/LICENSE
+* License URL: https://github.com/davidabou/icons/blob/master/LICENSE
 * Palette: Colorless
 * Icon set prefix: `codex`
 * File: [json/codex.json](json/codex.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
@@ -1336,6 +1346,106 @@
 * Icon set prefix: `streamline-stickies-color`
 * File: [json/streamline-stickies-color.json](json/streamline-stickies-color.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
+## with icons Suite
+* Number of icons: 1000
+* Author: Evergrow
+* URL: https://github.com/withevergrow/withicons
+* License: MIT
+* License URL: https://github.com/withevergrow/withicons/blob/main/LICENSE
+* Palette: Colorful
+* Icon set prefix: `withicons-suite`
+* File: [json/withicons-suite.json](json/withicons-suite.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
+
+## with icons Skeuo
+* Number of icons: 1000
+* Author: Evergrow
+* URL: https://github.com/withevergrow/withicons
+* License: MIT
+* License URL: https://github.com/withevergrow/withicons/blob/main/LICENSE
+* Palette: Colorful
+* Icon set prefix: `withicons-skeuo`
+* File: [json/withicons-skeuo.json](json/withicons-skeuo.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
+
+## with icons Sticker
+* Number of icons: 1000
+* Author: Evergrow
+* URL: https://github.com/withevergrow/withicons
+* License: MIT
+* License URL: https://github.com/withevergrow/withicons/blob/main/LICENSE
+* Palette: Colorful
+* Icon set prefix: `withicons-sticker`
+* File: [json/withicons-sticker.json](json/withicons-sticker.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
+
+## with icons Pastel
+* Number of icons: 1000
+* Author: Evergrow
+* URL: https://github.com/withevergrow/withicons
+* License: MIT
+* License URL: https://github.com/withevergrow/withicons/blob/main/LICENSE
+* Palette: Colorful
+* Icon set prefix: `withicons-pastel`
+* File: [json/withicons-pastel.json](json/withicons-pastel.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
+
+## with icons Plush
+* Number of icons: 1000
+* Author: Evergrow
+* URL: https://github.com/withevergrow/withicons
+* License: MIT
+* License URL: https://github.com/withevergrow/withicons/blob/main/LICENSE
+* Palette: Colorful
+* Icon set prefix: `withicons-plush`
+* File: [json/withicons-plush.json](json/withicons-plush.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
+
+## with icons Anime
+* Number of icons: 1000
+* Author: Evergrow
+* URL: https://github.com/withevergrow/withicons
+* License: MIT
+* License URL: https://github.com/withevergrow/withicons/blob/main/LICENSE
+* Palette: Colorful
+* Icon set prefix: `withicons-anime`
+* File: [json/withicons-anime.json](json/withicons-anime.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
+
+## with icons Gothic
+* Number of icons: 1000
+* Author: Evergrow
+* URL: https://github.com/withevergrow/withicons
+* License: MIT
+* License URL: https://github.com/withevergrow/withicons/blob/main/LICENSE
+* Palette: Colorful
+* Icon set prefix: `withicons-gothic`
+* File: [json/withicons-gothic.json](json/withicons-gothic.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
+
+## with icons Bauhaus
+* Number of icons: 1000
+* Author: Evergrow
+* URL: https://github.com/withevergrow/withicons
+* License: MIT
+* License URL: https://github.com/withevergrow/withicons/blob/main/LICENSE
+* Palette: Colorful
+* Icon set prefix: `withicons-bauhaus`
+* File: [json/withicons-bauhaus.json](json/withicons-bauhaus.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
+
+## with icons Halloween
+* Number of icons: 1000
+* Author: Evergrow
+* URL: https://github.com/withevergrow/withicons
+* License: MIT
+* License URL: https://github.com/withevergrow/withicons/blob/main/LICENSE
+* Palette: Colorful
+* Icon set prefix: `withicons-halloween`
+* File: [json/withicons-halloween.json](json/withicons-halloween.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
+
+## with icons Christmas
+* Number of icons: 1000
+* Author: Evergrow
+* URL: https://github.com/withevergrow/withicons
+* License: MIT
+* License URL: https://github.com/withevergrow/withicons/blob/main/LICENSE
+* Palette: Colorful
+* Icon set prefix: `withicons-christmas`
+* File: [json/withicons-christmas.json](json/withicons-christmas.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
+
 ## Fluent UI System Color Icons
 * Number of icons: 890
 * Author: Microsoft Corporation
@@ -1449,7 +1559,7 @@
 * File: [json/file-icons.json](json/file-icons.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Devicon
-* Number of icons: 1068
+* Number of icons: 1079
 * Author: konpa
 * URL: https://github.com/devicons/devicon/tree/master
 * License: MIT
@@ -1459,7 +1569,7 @@
 * File: [json/devicon.json](json/devicon.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Devicon Plain
-* Number of icons: 775
+* Number of icons: 784
 * Author: konpa
 * URL: https://github.com/devicons/devicon/tree/master
 * License: MIT

@@ -94,7 +94,7 @@
 * File: [json/iconoven.json](json/iconoven.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## coolicons
-* Number of icons: 6100
+* Number of icons: 18870
 * Author: Kryston Schwarze
 * URL: https://github.com/krystonschwarze/coolicons
 * License: MIT
@@ -115,7 +115,7 @@
 * File: [json/boxicons.json](json/boxicons.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## MingCute Icon
-* Number of icons: 3320
+* Number of icons: 4526
 * Author: MingCute Design
 * URL: https://github.com/Richard9394/MingCute
 * License: Apache 2.0
@@ -296,7 +296,7 @@
 * URL: https://github.com/praveenjuge/vadivam
 * License: MIT
 * License URL: https://github.com/praveenjuge/vadivam/blob/main/LICENSE
-* Version: 0.0.77
+* Version: 0.0.78
 * Palette: Colorless
 * Icon set prefix: `vadivam`
 * File: [json/vadivam.json](json/vadivam.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
@@ -676,7 +676,7 @@
 * File: [json/struq.json](json/struq.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Matita
-* Number of icons: 260
+* Number of icons: 302
 * Author: matita.dev
 * URL: https://github.com/matita-dev/icons
 * License: MIT
@@ -1126,12 +1126,12 @@
 * File: [json/heroicons.json](json/heroicons.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## SidekickIcons
-* Number of icons: 312
+* Number of icons: 396
 * Author: Andri Soone
 * URL: https://github.com/ndri/sidekickicons
 * License: MIT
 * License URL: https://github.com/ndri/sidekickicons/blob/master/LICENSE
-* Version: 0.18.0
+* Version: 0.19.0
 * Palette: Colorless
 * Icon set prefix: `sidekickicons`
 * File: [json/sidekickicons.json](json/sidekickicons.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
@@ -1648,7 +1648,7 @@
 * File: [json/file-icons.json](json/file-icons.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Devicon
-* Number of icons: 1079
+* Number of icons: 1087
 * Author: konpa
 * URL: https://github.com/devicons/devicon/tree/master
 * License: MIT
@@ -1658,7 +1658,7 @@
 * File: [json/devicon.json](json/devicon.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Devicon Plain
-* Number of icons: 786
+* Number of icons: 788
 * Author: konpa
 * URL: https://github.com/devicons/devicon/tree/master
 * License: MIT
@@ -1791,7 +1791,7 @@
 * File: [json/nonicons.json](json/nonicons.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## theSVG
-* Number of icons: 3798
+* Number of icons: 3804
 * Author: thesvg.org
 * URL: https://github.com/glincker/thesvg
 * License: MIT
@@ -1801,7 +1801,7 @@
 * File: [json/thesvg.json](json/thesvg.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## theSVG Color
-* Number of icons: 5166
+* Number of icons: 5168
 * Author: thesvg.org
 * URL: https://github.com/glincker/thesvg
 * License: MIT
@@ -2009,7 +2009,7 @@
 * File: [json/streamline-emojis.json](json/streamline-emojis.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Pinhead Map Icons
-* Number of icons: 2809
+* Number of icons: 2821
 * Author: Quincy Morgan
 * URL: https://github.com/waysidemapping/pinhead
 * License: CC0

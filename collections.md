@@ -125,7 +125,7 @@
 * File: [json/mingcute.json](json/mingcute.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Keyline Icons
-* Number of icons: 13232
+* Number of icons: 13536
 * Author: Keyline Icons
 * URL: https://github.com/keyline-icons/keyline-icons
 * License: MIT
@@ -198,7 +198,7 @@
 * File: [json/iconoir.json](json/iconoir.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Lucide
-* Number of icons: 2015
+* Number of icons: 2020
 * Author: Lucide Contributors
 * URL: https://github.com/lucide-icons/lucide
 * License: ISC
@@ -806,7 +806,7 @@
 * URL: https://github.com/gravity-ui/icons/
 * License: MIT
 * License URL: https://github.com/gravity-ui/icons/blob/main/LICENSE
-* Version: 2.23.0
+* Version: 2.23.1
 * Palette: Colorless
 * Icon set prefix: `gravity-ui`
 * File: [json/gravity-ui.json](json/gravity-ui.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
@@ -1126,12 +1126,12 @@
 * File: [json/heroicons.json](json/heroicons.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## SidekickIcons
-* Number of icons: 396
+* Number of icons: 432
 * Author: Andri Soone
 * URL: https://github.com/ndri/sidekickicons
 * License: MIT
 * License URL: https://github.com/ndri/sidekickicons/blob/master/LICENSE
-* Version: 0.19.0
+* Version: 0.20.0
 * Palette: Colorless
 * Icon set prefix: `sidekickicons`
 * File: [json/sidekickicons.json](json/sidekickicons.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
@@ -1606,7 +1606,7 @@
 * File: [json/marketeq.json](json/marketeq.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## VSCode Icons
-* Number of icons: 1717
+* Number of icons: 1719
 * Author: Roberto Huertas
 * URL: https://github.com/vscode-icons/vscode-icons
 * License: MIT
@@ -1628,7 +1628,7 @@
 * File: [json/codicon.json](json/codicon.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Material Icon Theme
-* Number of icons: 909
+* Number of icons: 910
 * Author: Material Extensions
 * URL: https://github.com/material-extensions/vscode-material-icon-theme
 * License: MIT
@@ -1648,7 +1648,7 @@
 * File: [json/file-icons.json](json/file-icons.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Devicon
-* Number of icons: 1087
+* Number of icons: 1104
 * Author: konpa
 * URL: https://github.com/devicons/devicon/tree/master
 * License: MIT
@@ -1658,7 +1658,7 @@
 * File: [json/devicon.json](json/devicon.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Devicon Plain
-* Number of icons: 788
+* Number of icons: 802
 * Author: konpa
 * URL: https://github.com/devicons/devicon/tree/master
 * License: MIT
@@ -1727,7 +1727,7 @@
 * File: [json/simple-icons.json](json/simple-icons.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## SVG Logos
-* Number of icons: 2043
+* Number of icons: 2064
 * Author: Gil Barbara
 * URL: https://github.com/gilbarbara/logos
 * License: CC0
@@ -1801,7 +1801,7 @@
 * File: [json/thesvg.json](json/thesvg.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## theSVG Color
-* Number of icons: 5168
+* Number of icons: 5200
 * Author: thesvg.org
 * URL: https://github.com/glincker/thesvg
 * License: MIT
@@ -1811,7 +1811,7 @@
 * File: [json/thesvg-color.json](json/thesvg-color.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## selfh.st/icons
-* Number of icons: 7292
+* Number of icons: 7311
 * Author: selfh.st
 * URL: https://github.com/selfhst/icons
 * License: CC BY 4.0
@@ -1895,7 +1895,7 @@
 * File: [json/cryptocurrency-color.json](json/cryptocurrency-color.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## OpenMoji
-* Number of icons: 4544
+* Number of icons: 4545
 * Author: OpenMoji
 * URL: https://github.com/hfg-gmuend/openmoji
 * License: CC BY-SA 4.0
@@ -2373,6 +2373,16 @@
 * Palette: Colorless
 * Icon set prefix: `eva`
 * File: [json/eva.json](json/eva.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
+
+## coolicons v4
+* Number of icons: 442
+* Author: Kryston Schwarze
+* URL: https://github.com/krystonschwarze/coolicons
+* License: CC BY 4.0
+* License URL: https://creativecommons.org/licenses/by/4.0/
+* Palette: Colorless
+* Icon set prefix: `ci`
+* File: [json/ci.json](json/ci.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Dashicons
 * Number of icons: 342

@@ -64,7 +64,7 @@
 * File: [json/line-md.json](json/line-md.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Solar
-* Number of icons: 9102
+* Number of icons: 9456
 * Author: 480 Design
 * URL: https://www.figma.com/community/file/1166831539721848736
 * License: CC BY 4.0
@@ -79,7 +79,7 @@
 * URL: https://github.com/tabler/tabler-icons
 * License: MIT
 * License URL: https://github.com/tabler/tabler-icons/blob/master/LICENSE
-* Version: 3.51.0
+* Version: 3.52.0
 * Palette: Colorless
 * Icon set prefix: `tabler`
 * File: [json/tabler.json](json/tabler.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
@@ -198,7 +198,7 @@
 * File: [json/iconoir.json](json/iconoir.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Lucide
-* Number of icons: 2052
+* Number of icons: 2055
 * Author: Lucide Contributors
 * URL: https://github.com/lucide-icons/lucide
 * License: ISC
@@ -296,7 +296,7 @@
 * URL: https://github.com/praveenjuge/vadivam
 * License: MIT
 * License URL: https://github.com/praveenjuge/vadivam/blob/main/LICENSE
-* Version: 0.0.81
+* Version: 0.0.82
 * Palette: Colorless
 * Icon set prefix: `vadivam`
 * File: [json/vadivam.json](json/vadivam.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
@@ -556,6 +556,36 @@
 * Icon set prefix: `iconmind`
 * File: [json/iconmind.json](json/iconmind.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
+## UIX Icons Regular
+* Number of icons: 23322
+* Author: MD Rakib Shekh
+* URL: https://github.com/mdrakibshekh/uix-icons
+* License: MIT
+* License URL: https://github.com/mdrakibshekh/uix-icons/blob/main/LICENSE
+* Palette: Colorless
+* Icon set prefix: `uix`
+* File: [json/uix.json](json/uix.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
+
+## UIX Icons Sharp
+* Number of icons: 23322
+* Author: MD Rakib Shekh
+* URL: https://github.com/mdrakibshekh/uix-icons
+* License: MIT
+* License URL: https://github.com/mdrakibshekh/uix-icons/blob/main/LICENSE
+* Palette: Colorless
+* Icon set prefix: `uix-sharp`
+* File: [json/uix-sharp.json](json/uix-sharp.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
+
+## UIX Icons Solid
+* Number of icons: 23322
+* Author: MD Rakib Shekh
+* URL: https://github.com/mdrakibshekh/uix-icons
+* License: MIT
+* License URL: https://github.com/mdrakibshekh/uix-icons/blob/main/LICENSE
+* Palette: Colorless
+* Icon set prefix: `uix-solid`
+* File: [json/uix-solid.json](json/uix-solid.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
+
 ## with icons
 * Number of icons: 7000
 * Author: Evergrow
@@ -578,7 +608,7 @@
 * File: [json/reicon.json](json/reicon.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Huge Icons
-* Number of icons: 6065
+* Number of icons: 6114
 * Author: Hugeicons
 * URL: https://icon-sets.iconify.design/icon-sets/hugeicons/
 * License: MIT
@@ -667,7 +697,7 @@
 * File: [json/wordpress.json](json/wordpress.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Struq Icons
-* Number of icons: 300
+* Number of icons: 347
 * Author: Struq
 * URL: https://struq.nl/iconen
 * License: MIT
@@ -938,12 +968,12 @@
 * File: [json/formkit.json](json/formkit.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Fluent UI System Icons
-* Number of icons: 19945
+* Number of icons: 20015
 * Author: Microsoft Corporation
 * URL: https://github.com/microsoft/fluentui-system-icons
 * License: MIT
 * License URL: https://github.com/microsoft/fluentui-system-icons/blob/main/LICENSE
-* Version: 1.1.345
+* Version: 1.1.346
 * Palette: Colorless
 * Icon set prefix: `fluent`
 * File: [json/fluent.json](json/fluent.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
@@ -1094,7 +1124,7 @@
 * File: [json/uiw.json](json/uiw.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## CodeX Icons
-* Number of icons: 156
+* Number of icons: 203
 * Author: CodeX
 * URL: https://github.com/davidabou/icons
 * License: MIT
@@ -1541,7 +1571,7 @@
 * URL: https://github.com/microsoft/fluentui-system-icons
 * License: MIT
 * License URL: https://github.com/microsoft/fluentui-system-icons/blob/main/LICENSE
-* Version: 1.1.345
+* Version: 1.1.346
 * Palette: Colorful
 * Icon set prefix: `fluent-color`
 * File: [json/fluent-color.json](json/fluent-color.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
@@ -1606,7 +1636,7 @@
 * File: [json/marketeq.json](json/marketeq.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## VSCode Icons
-* Number of icons: 1720
+* Number of icons: 1723
 * Author: Roberto Huertas
 * URL: https://github.com/vscode-icons/vscode-icons
 * License: MIT
@@ -1648,7 +1678,7 @@
 * File: [json/file-icons.json](json/file-icons.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Devicon
-* Number of icons: 1147
+* Number of icons: 1154
 * Author: konpa
 * URL: https://github.com/devicons/devicon/tree/master
 * License: MIT
@@ -1658,7 +1688,7 @@
 * File: [json/devicon.json](json/devicon.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Devicon Plain
-* Number of icons: 826
+* Number of icons: 831
 * Author: konpa
 * URL: https://github.com/devicons/devicon/tree/master
 * License: MIT
@@ -1801,7 +1831,7 @@
 * File: [json/thesvg.json](json/thesvg.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## theSVG Color
-* Number of icons: 5209
+* Number of icons: 5215
 * Author: thesvg.org
 * URL: https://github.com/glincker/thesvg
 * License: MIT
@@ -1811,7 +1841,7 @@
 * File: [json/thesvg-color.json](json/thesvg-color.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## selfh.st/icons
-* Number of icons: 7339
+* Number of icons: 7344
 * Author: selfh.st
 * URL: https://github.com/selfhst/icons
 * License: CC BY 4.0
@@ -1821,7 +1851,7 @@
 * File: [json/selfhst.json](json/selfhst.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Custom Brand Icons
-* Number of icons: 1795
+* Number of icons: 1806
 * Author: Emanuele & rchiileea
 * URL: https://github.com/elax46/custom-brand-icons
 * License: CC BY-NC-SA 4.0
@@ -2009,7 +2039,7 @@
 * File: [json/streamline-emojis.json](json/streamline-emojis.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Pinhead Map Icons
-* Number of icons: 2845
+* Number of icons: 2846
 * Author: Quincy Morgan
 * URL: https://github.com/waysidemapping/pinhead
 * License: CC0
@@ -2290,8 +2320,18 @@
 * Icon set prefix: `ginetex`
 * File: [json/ginetex.json](json/ginetex.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
+## EVicons
+* Number of icons: 84
+* Author: Landolsi Digital
+* URL: https://github.com/evicons/evicons
+* License: MIT
+* License URL: https://github.com/evicons/evicons/blob/main/LICENSE
+* Palette: Colorless
+* Icon set prefix: `evicons`
+* File: [json/evicons.json](json/evicons.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
+
 ## Arcticons
-* Number of icons: 15474
+* Number of icons: 15459
 * Author: Donnnno
 * URL: https://github.com/Arcticons-Team/Arcticons
 * License: CC BY-SA 4.0

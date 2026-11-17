@@ -2,7 +2,7 @@
 	"prefix": "material-symbols-light",
 	"info": {
 		"name": "Material Symbols Light",
-		"total": 15875,
+		"total": 15871,
 		"author": {
 			"name": "Google",
 			"url": "https://github.com/google/material-design-icons"
@@ -4290,18 +4290,6 @@
 		},
 		"backspace-sharp": {
 			"body": "<path fill=\"currentColor\" d=\"m11.054 15.308l2.6-2.6l2.6 2.6l.707-.708l-2.6-2.6l2.6-2.6l-.707-.708l-2.6 2.6l-2.6-2.6l-.708.708l2.6 2.6l-2.6 2.6zM8.366 19L3 12l5.366-7H21v14z\"/>"
-		},
-		"backup": {
-			"body": "<path fill=\"currentColor\" d=\"M11.5 19h-5q-1.871 0-3.185-1.306Q2 16.39 2 14.517q0-1.719 1.175-3.051t2.921-1.431q.337-2.185 2.01-3.61T12 5q2.502 0 4.251 1.749T18 11v1h.616q1.436.046 2.41 1.055T22 15.5q0 1.471-1.014 2.486Q19.97 19 18.5 19h-6v-7.42l2.1 2.09l.708-.69L12 9.674l-3.308 3.308l.708.688l2.1-2.088z\"/>"
-		},
-		"backup-outline": {
-			"body": "<path fill=\"currentColor\" d=\"M6.5 19q-1.871 0-3.185-1.301Q2 16.397 2 14.516q0-1.776 1.223-3.08t2.873-1.402q.337-2.185 2.01-3.61T12 5q2.507 0 4.254 1.747Q18 8.493 18 11v1h.616q1.436.046 2.41 1.055T22 15.5q0 1.471-.995 2.486Q20.01 19 18.539 19h-5.424q-.69 0-1.152-.462t-.463-1.154v-5.803l-2.1 2.088l-.708-.688L12 9.673l3.308 3.308l-.708.688l-2.1-2.088v5.804q0 .23.192.423t.424.192H18.5q1.05 0 1.775-.725T21 15.5t-.725-1.775T18.5 13H17v-2q0-2.075-1.463-3.538T12 6T8.463 7.463T7 11h-.538q-1.393 0-2.427 1.025T3 14.5t1.025 2.475T6.5 18H9v1zm5.5-6.5\"/>"
-		},
-		"backup-outline-rounded": {
-			"body": "<path fill=\"currentColor\" d=\"m11.5 11.58l-1.766 1.76q-.135.14-.338.14t-.35-.145q-.16-.14-.15-.354t.15-.354l2.389-2.388q.242-.243.565-.243t.566.243l2.388 2.388q.14.14.153.349t-.153.36q-.14.139-.351.132q-.21-.006-.357-.147l-1.746-1.74v5.804q0 .23.192.423t.423.192H18.5q1.05 0 1.775-.725T21 15.5t-.725-1.775T18.5 13H17v-2q0-2.075-1.463-3.538T12 6T8.463 7.463T7 11h-.538q-1.393 0-2.427 1.025T3 14.5t1.025 2.475T6.5 18h2q.213 0 .356.144t.144.357t-.144.356T8.5 19h-2q-1.871 0-3.185-1.301Q2 16.397 2 14.516q0-1.776 1.223-3.08t2.873-1.402q.337-2.185 2.01-3.61T12 5q2.507 0 4.254 1.747Q18 8.493 18 11v1h.616q1.436.046 2.41 1.055T22 15.5q0 1.471-.995 2.486Q20.01 19 18.539 19h-5.424q-.69 0-1.152-.462t-.463-1.154zm.5.92\"/>"
-		},
-		"backup-rounded": {
-			"body": "<path fill=\"currentColor\" d=\"M6.5 19q-1.871 0-3.185-1.306Q2 16.39 2 14.517q0-1.719 1.175-3.051t2.921-1.431q.337-2.185 2.01-3.61T12 5q2.502 0 4.251 1.749T18 11v1h.616q1.436.046 2.41 1.055T22 15.5q0 1.471-1.014 2.486Q19.97 19 18.5 19h-6v-7.42l1.766 1.76q.14.14.34.14t.348-.145q.16-.14.15-.354t-.15-.354l-2.389-2.388q-.242-.243-.565-.243t-.565.243l-2.389 2.388q-.14.14-.153.351t.153.357q.14.14.351.133q.21-.006.357-.147l1.746-1.74V19z\"/>"
 		},
 		"backup-table": {
 			"body": "<path fill=\"currentColor\" d=\"M8.116 16H13v-5.5H7.5v4.885q0 .23.192.423t.423.192M7.5 9.5h12V4.616q0-.231-.192-.424T18.884 4H8.116q-.231 0-.424.192t-.192.423zM14 16h4.885q.23 0 .423-.192t.192-.423V10.5H14zm-5.884 1q-.691 0-1.153-.462T6.5 15.385V4.615q0-.69.463-1.153T8.116 3h10.769q.69 0 1.153.462t.462 1.153v10.77q0 .69-.462 1.152T18.884 17zm-3 3q-.691 0-1.153-.462T3.5 18.385V6.615h1v11.77q0 .23.192.423t.423.192h11.77v1z\"/>"
@@ -51342,11 +51330,23 @@
 		"backlight-low-sharp": {
 			"parent": "backlight-low"
 		},
+		"backup": {
+			"parent": "cloud-upload"
+		},
+		"backup-outline": {
+			"parent": "cloud-upload-outline"
+		},
+		"backup-outline-rounded": {
+			"parent": "cloud-upload-outline-rounded"
+		},
 		"backup-outline-sharp": {
-			"parent": "backup-outline"
+			"parent": "cloud-upload-outline"
+		},
+		"backup-rounded": {
+			"parent": "cloud-upload-rounded"
 		},
 		"backup-sharp": {
-			"parent": "backup"
+			"parent": "cloud-upload"
 		},
 		"backup-table-outline": {
 			"parent": "backup-table"
@@ -72956,10 +72956,6 @@
 			"background-replace-outline",
 			"background-replace-outline-rounded",
 			"background-replace-rounded",
-			"backup",
-			"backup-outline",
-			"backup-outline-rounded",
-			"backup-rounded",
 			"backup-table",
 			"backup-table-rounded",
 			"backup-table-sharp",

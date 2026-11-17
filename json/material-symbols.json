@@ -2,7 +2,7 @@
 	"prefix": "material-symbols",
 	"info": {
 		"name": "Material Symbols",
-		"total": 15810,
+		"total": 15806,
 		"author": {
 			"name": "Google",
 			"url": "https://github.com/google/material-design-icons"
@@ -4688,18 +4688,6 @@
 		},
 		"backspace-sharp": {
 			"body": "<path fill=\"currentColor\" d=\"m11.4 16l2.6-2.6l2.6 2.6l1.4-1.4l-2.6-2.6L18 9.4L16.6 8L14 10.6L11.4 8L10 9.4l2.6 2.6l-2.6 2.6zM8 20l-6-8l6-8h14v16z\"/>"
-		},
-		"backup": {
-			"body": "<path fill=\"currentColor\" d=\"M11 20H6.5q-2.275 0-3.887-1.575T1 14.575q0-1.95 1.175-3.475T5.25 9.15q.625-2.3 2.5-3.725T12 4q2.925 0 4.963 2.038T19 11q1.725.2 2.863 1.488T23 15.5q0 1.875-1.312 3.188T18.5 20H13v-7.15l1.6 1.55L16 13l-4-4l-4 4l1.4 1.4l1.6-1.55z\"/>"
-		},
-		"backup-outline": {
-			"body": "<path fill=\"currentColor\" d=\"M6.5 20q-2.275 0-3.887-1.575T1 14.575q0-1.95 1.175-3.475T5.25 9.15q.625-2.3 2.5-3.725T12 4q2.925 0 4.963 2.038T19 11q1.725.2 2.863 1.488T23 15.5q0 1.875-1.312 3.188T18.5 20H13q-.825 0-1.412-.587T11 18v-5.15L9.4 14.4L8 13l4-4l4 4l-1.4 1.4l-1.6-1.55V18h5.5q1.05 0 1.775-.725T21 15.5t-.725-1.775T18.5 13H17v-2q0-2.075-1.463-3.538T12 6T8.463 7.463T7 11h-.5q-1.45 0-2.475 1.025T3 14.5t1.025 2.475T6.5 18H9v2zm5.5-7\"/>"
-		},
-		"backup-outline-rounded": {
-			"body": "<path fill=\"currentColor\" d=\"m11 12.85l-.9.875Q9.825 14 9.413 14t-.713-.3q-.275-.275-.275-.7t.275-.7l2.6-2.6q.3-.3.7-.3t.7.3l2.6 2.6q.275.275.287.688t-.287.712q-.275.275-.687.288t-.713-.263l-.9-.875V18h5.5q1.05 0 1.775-.725T21 15.5t-.725-1.775T18.5 13H17v-2q0-2.075-1.463-3.538T12 6T8.463 7.463T7 11h-.5q-1.45 0-2.475 1.025T3 14.5t1.025 2.475T6.5 18H8q.425 0 .713.288T9 19t-.288.713T8 20H6.5q-2.275 0-3.887-1.575T1 14.575q0-1.95 1.175-3.475T5.25 9.15q.625-2.3 2.5-3.725T12 4q2.925 0 4.963 2.038T19 11q1.725.2 2.863 1.488T23 15.5q0 1.875-1.312 3.188T18.5 20H13q-.825 0-1.412-.587T11 18zm1 .15\"/>"
-		},
-		"backup-rounded": {
-			"body": "<path fill=\"currentColor\" d=\"M6.5 20q-2.275 0-3.887-1.575T1 14.575q0-1.95 1.175-3.475T5.25 9.15q.625-2.3 2.5-3.725T12 4q2.925 0 4.963 2.038T19 11q1.725.2 2.863 1.488T23 15.5q0 1.875-1.312 3.188T18.5 20H13v-7.15l.9.875q.275.275.688.275t.712-.3q.275-.275.275-.7t-.275-.7l-2.6-2.6q-.3-.3-.7-.3t-.7.3l-2.6 2.6q-.275.275-.287.688t.287.712q.275.275.688.288t.712-.263l.9-.875V20z\"/>"
 		},
 		"backup-table": {
 			"body": "<path fill=\"currentColor\" d=\"M8 16h5v-5H8zm0-7h12V4H8zm7 7h5v-5h-5zm-7 2q-.825 0-1.412-.587T6 16V4q0-.825.588-1.412T8 2h12q.825 0 1.413.588T22 4v12q0 .825-.587 1.413T20 18zm-4 4q-.825 0-1.412-.587T2 20V6h2v14h14v2z\"/>"
@@ -52888,11 +52876,23 @@
 		"backlight-low-sharp": {
 			"parent": "backlight-low"
 		},
+		"backup": {
+			"parent": "cloud-upload"
+		},
+		"backup-outline": {
+			"parent": "cloud-upload-outline"
+		},
+		"backup-outline-rounded": {
+			"parent": "cloud-upload-outline-rounded"
+		},
 		"backup-outline-sharp": {
-			"parent": "backup-outline"
+			"parent": "cloud-upload-outline"
+		},
+		"backup-rounded": {
+			"parent": "cloud-upload-rounded"
 		},
 		"backup-sharp": {
-			"parent": "backup"
+			"parent": "cloud-upload"
 		},
 		"backup-table-outline": {
 			"parent": "backup-table"
@@ -74979,10 +74979,6 @@
 			"background-replace-outline",
 			"background-replace-outline-rounded",
 			"background-replace-rounded",
-			"backup",
-			"backup-outline",
-			"backup-outline-rounded",
-			"backup-rounded",
 			"backup-table",
 			"backup-table-rounded",
 			"backup-table-sharp",

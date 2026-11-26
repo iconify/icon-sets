@@ -79,7 +79,7 @@
 * URL: https://github.com/tabler/tabler-icons
 * License: MIT
 * License URL: https://github.com/tabler/tabler-icons/blob/master/LICENSE
-* Version: 3.52.0
+* Version: 3.53.0
 * Palette: Colorless
 * Icon set prefix: `tabler`
 * File: [json/tabler.json](json/tabler.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
@@ -125,7 +125,7 @@
 * File: [json/mingcute.json](json/mingcute.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Keyline Icons
-* Number of icons: 15520
+* Number of icons: 17352
 * Author: Keyline Icons
 * URL: https://github.com/keyline-icons/keyline-icons
 * License: MIT
@@ -198,7 +198,7 @@
 * File: [json/iconoir.json](json/iconoir.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Lucide
-* Number of icons: 2104
+* Number of icons: 2123
 * Author: Lucide Contributors
 * URL: https://github.com/lucide-icons/lucide
 * License: ISC
@@ -1678,7 +1678,7 @@
 * File: [json/file-icons.json](json/file-icons.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Devicon
-* Number of icons: 1162
+* Number of icons: 1171
 * Author: konpa
 * URL: https://github.com/devicons/devicon/tree/master
 * License: MIT
@@ -1688,7 +1688,7 @@
 * File: [json/devicon.json](json/devicon.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Devicon Plain
-* Number of icons: 837
+* Number of icons: 843
 * Author: konpa
 * URL: https://github.com/devicons/devicon/tree/master
 * License: MIT
@@ -1821,7 +1821,7 @@
 * File: [json/nonicons.json](json/nonicons.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## theSVG
-* Number of icons: 3809
+* Number of icons: 3810
 * Author: thesvg.org
 * URL: https://github.com/glincker/thesvg
 * License: MIT
@@ -1831,7 +1831,7 @@
 * File: [json/thesvg.json](json/thesvg.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## theSVG Color
-* Number of icons: 5226
+* Number of icons: 5239
 * Author: thesvg.org
 * URL: https://github.com/glincker/thesvg
 * License: MIT
@@ -1851,7 +1851,7 @@
 * File: [json/selfhst.json](json/selfhst.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Custom Brand Icons
-* Number of icons: 1816
+* Number of icons: 1817
 * Author: Emanuele & rchiileea
 * URL: https://github.com/elax46/custom-brand-icons
 * License: CC BY-NC-SA 4.0
@@ -1925,7 +1925,7 @@
 * File: [json/cryptocurrency-color.json](json/cryptocurrency-color.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## OpenMoji
-* Number of icons: 4547
+* Number of icons: 4548
 * Author: OpenMoji
 * URL: https://github.com/hfg-gmuend/openmoji
 * License: CC BY-SA 4.0
@@ -1953,6 +1953,16 @@
 * Palette: Colorful
 * Icon set prefix: `noto`
 * File: [json/noto.json](json/noto.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
+
+## Xero Emoji
+* Number of icons: 3958
+* Author: Max Infeld
+* URL: https://github.com/maximusmaximus/xeroemoji
+* License: CC BY 4.0
+* License URL: https://github.com/maximusmaximus/xeroemoji/blob/main/LICENSE
+* Palette: Colorful
+* Icon set prefix: `xero-emoji`
+* File: [json/xero-emoji.json](json/xero-emoji.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Fluent Emoji Flat
 * Number of icons: 3145
@@ -2321,7 +2331,7 @@
 * File: [json/ginetex.json](json/ginetex.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## EVicons
-* Number of icons: 90
+* Number of icons: 92
 * Author: Landolsi Digital
 * URL: https://github.com/evicons/evicons
 * License: MIT

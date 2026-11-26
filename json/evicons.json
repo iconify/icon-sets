@@ -2,7 +2,7 @@
 	"prefix": "evicons",
 	"info": {
 		"name": "EVicons",
-		"total": 90,
+		"total": 92,
 		"author": {
 			"name": "Landolsi Digital",
 			"url": "https://github.com/evicons/evicons"
@@ -28,7 +28,7 @@
 		],
 		"palette": false
 	},
-	"lastModified": 1795070987,
+	"lastModified": 1795679904,
 	"icons": {
 		"accessible-charging": {
 			"body": "<g fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"1.5\"><circle cx=\"8\" cy=\"4.5\" r=\"1.75\"/><path d=\"M8 8.75V13h5l3.5 4.5H19M5.6 13.69a4.5 4.5 0 1 0 6.43 1.81\"/><path fill=\"currentColor\" d=\"M19.75 3L17.5 6.5h1.25l-.5 3L20.5 6h-1.25Z\"/></g>"
@@ -153,6 +153,9 @@
 		"marker-available": {
 			"body": "<g fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"1.5\"><path d=\"M2.5 21.5V12a9.5 9.5 0 1 1 9.5 9.5Z\"/><path d=\"m7.75 12.625l2.75 2.5l5.75-6.25\"/></g>"
 		},
+		"marker-blocked": {
+			"body": "<path fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"1.5\" d=\"M2.5 21.5V12a9.5 9.5 0 1 1 9.5 9.5ZM7.75 12h8.5\"/>"
+		},
 		"marker-charging": {
 			"body": "<g fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"1.5\"><path d=\"M2.5 21.5V12a9.5 9.5 0 1 1 9.5 9.5Z\"/><path fill=\"currentColor\" d=\"m13.25 6.25l-4 6.25h2.5l-1 5.25l4-6.25h-2.5Z\"/></g>"
 		},
@@ -170,6 +173,9 @@
 		},
 		"marker-out-of-service": {
 			"body": "<path fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"1.5\" d=\"M2.5 21.5V12a9.5 9.5 0 1 1 9.5 9.5ZM9 9l6 6m0-6l-6 6\"/>"
+		},
+		"marker-planned": {
+			"body": "<path fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"1.5\" d=\"M2.5 21.5V12a9.5 9.5 0 1 1 9.5 9.5Zm6-9.5h.01M12 12h.01m3.49 0h.01\"/>"
 		},
 		"marker-queue": {
 			"body": "<g fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"1.5\"><path d=\"M2.5 21.5V12a9.5 9.5 0 1 1 9.5 9.5Z\"/><path d=\"M9 7.5h6l-6 9h6Z\"/></g>"

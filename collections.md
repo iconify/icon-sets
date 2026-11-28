@@ -103,6 +103,16 @@
 * Icon set prefix: `coolicons`
 * File: [json/coolicons.json](json/coolicons.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
+## Iconaut
+* Number of icons: 6720
+* Author: Iconaut
+* URL: https://github.com/iconaut-design/icons
+* License: MIT
+* License URL: https://github.com/iconaut-design/icons/blob/main/LICENSE
+* Palette: Colorless
+* Icon set prefix: `iconaut`
+* File: [json/iconaut.json](json/iconaut.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
+
 ## Boxicons
 * Number of icons: 3768
 * Author: Boxicons
@@ -125,7 +135,7 @@
 * File: [json/mingcute.json](json/mingcute.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Keyline Icons
-* Number of icons: 17352
+* Number of icons: 19040
 * Author: Keyline Icons
 * URL: https://github.com/keyline-icons/keyline-icons
 * License: MIT
@@ -165,6 +175,26 @@
 * Icon set prefix: `andrsrxn`
 * File: [json/andrsrxn.json](json/andrsrxn.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
+## NoviAir Light
+* Number of icons: 2001
+* Author: Novissium
+* URL: https://github.com/Novissium/NoviAir
+* License: CC BY 4.0
+* License URL: https://creativecommons.org/licenses/by/4.0/
+* Palette: Colorless
+* Icon set prefix: `noviair-light`
+* File: [json/noviair-light.json](json/noviair-light.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
+
+## NoviAir
+* Number of icons: 2001
+* Author: Novissium
+* URL: https://github.com/Novissium/NoviAir
+* License: CC BY 4.0
+* License URL: https://creativecommons.org/licenses/by/4.0/
+* Palette: Colorless
+* Icon set prefix: `noviair`
+* File: [json/noviair.json](json/noviair.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
+
 ## Griddy Icons
 * Number of icons: 2010
 * Author: Zuzana Benova
@@ -198,7 +228,7 @@
 * File: [json/iconoir.json](json/iconoir.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Lucide
-* Number of icons: 2123
+* Number of icons: 2140
 * Author: Lucide Contributors
 * URL: https://github.com/lucide-icons/lucide
 * License: ISC
@@ -989,6 +1019,17 @@
 * Icon set prefix: `ph`
 * File: [json/ph.json](json/ph.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
+## Pullo Icons
+* Number of icons: 564
+* Author: Andrej Rus
+* URL: https://github.com/pullo-si/pullo-icons
+* License: MIT
+* License URL: https://github.com/pullo-si/pullo-icons/blob/main/LICENSE
+* Version: 0.3.0
+* Palette: Colorless
+* Icon set prefix: `pullo`
+* File: [json/pullo.json](json/pullo.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
+
 ## Energy Icons
 * Number of icons: 8252
 * Author: Sam Passmore
@@ -1647,7 +1688,7 @@
 * File: [json/vscode-icons.json](json/vscode-icons.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Codicons
-* Number of icons: 657
+* Number of icons: 661
 * Author: Microsoft Corporation
 * URL: https://github.com/microsoft/vscode-codicons
 * License: CC BY 4.0
@@ -1821,7 +1862,7 @@
 * File: [json/nonicons.json](json/nonicons.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## theSVG
-* Number of icons: 3810
+* Number of icons: 3811
 * Author: thesvg.org
 * URL: https://github.com/glincker/thesvg
 * License: MIT
@@ -1831,7 +1872,7 @@
 * File: [json/thesvg.json](json/thesvg.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## theSVG Color
-* Number of icons: 5239
+* Number of icons: 5243
 * Author: thesvg.org
 * URL: https://github.com/glincker/thesvg
 * License: MIT
@@ -1841,7 +1882,7 @@
 * File: [json/thesvg-color.json](json/thesvg-color.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## selfh.st/icons
-* Number of icons: 7485
+* Number of icons: 7492
 * Author: selfh.st
 * URL: https://github.com/selfhst/icons
 * License: CC BY 4.0
@@ -1851,7 +1892,7 @@
 * File: [json/selfhst.json](json/selfhst.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Custom Brand Icons
-* Number of icons: 1817
+* Number of icons: 1818
 * Author: Emanuele & rchiileea
 * URL: https://github.com/elax46/custom-brand-icons
 * License: CC BY-NC-SA 4.0
@@ -1925,7 +1966,7 @@
 * File: [json/cryptocurrency-color.json](json/cryptocurrency-color.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## OpenMoji
-* Number of icons: 4548
+* Number of icons: 4549
 * Author: OpenMoji
 * URL: https://github.com/hfg-gmuend/openmoji
 * License: CC BY-SA 4.0
@@ -2049,7 +2090,7 @@
 * File: [json/streamline-emojis.json](json/streamline-emojis.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Pinhead Map Icons
-* Number of icons: 2847
+* Number of icons: 2870
 * Author: Quincy Morgan
 * URL: https://github.com/waysidemapping/pinhead
 * License: CC0
@@ -2351,7 +2392,7 @@
 * File: [json/arcticons.json](json/arcticons.json) ([in IconifyJSON format](https://docs.iconify.design/types/iconify-json.html))
 
 ## Health Icons
-* Number of icons: 2128
+* Number of icons: 2126
 * Author: Resolve to Save Lives
 * URL: https://github.com/resolvetosavelives/healthicons
 * License: MIT
